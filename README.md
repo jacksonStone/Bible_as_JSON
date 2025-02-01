@@ -1,13 +1,19 @@
-This uses USFM files of the World English Bible as of 2025-02-01, Converts them to JSON (main.ts) and then can collapse them into a single array of verses (collapse.ts)
+# Bible JSON Converter
 
-I used Deno to run the scripts. To reconstruct the bible.json file, run the following commands:
+This uses USFM files of the World English Bible as of 2025-02-01, converts them to JSON (`main.ts`) and then can collapse them into a single array of verses (`collapse.ts`).
 
-```
+## Usage
+
+I used Deno to run the scripts. To reconstruct the `bible.json` file, run the following commands:
+
+```bash
 deno run --allow-read=. --allow-write=. main.ts
 deno run --allow-read=. --allow-write=. collapse.ts
 ```
 
-Now you have a bible.json file that you can use to do whatever you want.
+Now you have a `bible.json` file that you can use to do whatever you want.
+
+## Output Format
 
 The JSON file is in order and includes the deuterocanonical books. It is formatted like so:
 
@@ -27,8 +33,8 @@ The JSON file is in order and includes the deuterocanonical books. It is formatt
                     "book": "Genesis",
                     "chapter": 1,
                     "verse": 2,
-                    "text": "The earth was formless and empty. Darkness was on the surface of the deep and God’s Spirit was hovering over the surface of the waters.   \n"
-                },
+                    "text": "The earth was formless and empty. Darkness was on the surface of the deep and God's Spirit was hovering over the surface of the waters.   \n"
+                }
                 // ...
             ],
             [
@@ -37,12 +43,11 @@ The JSON file is in order and includes the deuterocanonical books. It is formatt
                     "chapter": 2,
                     "verse": 1,
                     "text": "The heavens, the earth, and all their vast array were finished.  \n"
-                },
+                }
                 // ...
-            ],
+            ]
             // ...
-        ],
-        // ...
+        ]
     },
     {
         "book": "Exodus",
@@ -52,10 +57,9 @@ The JSON file is in order and includes the deuterocanonical books. It is formatt
             ],
             [
                 // chapter 2
-            ],
+            ]
             // ...
-        ],
-        // ...
+        ]
     }
 ]
 ```
