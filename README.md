@@ -1,21 +1,10 @@
-# Bible JSON Converter
+# Bible.json
 
 This uses USFM files of the World English Bible as of 2025-02-01, converts them to JSON (`main.ts`) and then can collapse them into a single array of verses (`collapse.ts`).
 
-## Usage
+## Output Format of bible.json
 
-I used Deno to run the scripts. To reconstruct the `bible.json` file, run the following commands:
-
-```bash
-deno run --allow-read=. --allow-write=. main.ts
-deno run --allow-read=. --allow-write=. collapse.ts
-```
-
-Now you have a `bible.json` file that you can use to do whatever you want.
-
-## Output Format
-
-The JSON file is in order and includes the deuterocanonical books. It is formatted like so:
+The JSON file includes the deuterocanonical books. It is formatted like so:
 
 ```json
 [
@@ -63,3 +52,15 @@ The JSON file is in order and includes the deuterocanonical books. It is formatt
     }
 ]
 ```
+
+
+## Reconstruction
+
+I used Deno to run the scripts. To reconstruct the `bible.json` file, run the following commands:
+
+```bash
+deno run --allow-read=. --allow-write=. main.ts
+deno run --allow-read=. --allow-write=. collapse.ts
+```
+
+Now you have a `bible.json` file that you can use to do whatever you want.
