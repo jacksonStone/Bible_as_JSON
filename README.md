@@ -59,6 +59,7 @@ The JSON file includes the deuterocanonical books. It is formatted like so:
 I used Deno to run the scripts. To reconstruct the `bible.json` file, run the following commands:
 
 ```bash
+mkdir artifacts
 deno run --allow-read=. --allow-write=. main.ts
 deno run --allow-read=. --allow-write=. collapse.ts
 ```
