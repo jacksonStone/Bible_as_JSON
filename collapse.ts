@@ -30,13 +30,8 @@ function collapse() {
         });
         betterFormat.push({ book: bookName, chapters: bookChapters });
     });
-    console.log(betterFormat[0].chapters[1]);
     let outputPath = './bible.json';
     fs.writeFileSync(outputPath, JSON.stringify(betterFormat, null, 2));
-    //   const verseContents = genesis1Verses.map((verse: any) => verse.verseObjects.map((verseObject: any) => verseObject.text).join(''));
-    //   console.log(verseContents);
-    //   console.log(genesisChaptersArray.length);
-    //   console.log(genesisChaptersArray[0]);
 }
 
 

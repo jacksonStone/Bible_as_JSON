@@ -1,4 +1,6 @@
-/* eslint-disable no-use-before-define,no-negated-condition,brace-style */
+/* eslint-disable no-use-before-define,no-negated-condition,brace-style 
+Copied from https://www.npmjs.com/package/usfm-js
+*/
 /**
  * @description for converting from USFM to json format.  Main method is usfmToJSON()
  */

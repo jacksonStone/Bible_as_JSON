@@ -1,4 +1,6 @@
-/* eslint-disable quote-props */
+/* eslint-disable quote-props 
+Copied from https://www.npmjs.com/package/usfm-js
+*/
 /**
  * USFM definitions
  */
