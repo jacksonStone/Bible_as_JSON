@@ -1,0 +1,10 @@
+This uses USFM files of the World English Bible as of 2025-02-01, Converts them to JSON (main.ts) and then can collapse them into a single array of verses (collapse.ts)
+
+I used Deno to run the scripts. To reconstruct the bible.json file, run the following commands:
+
+```
+deno run --allow-read=. --allow-write=. main.ts
+deno run --allow-read=. --allow-write=. collapse.ts
+```
+
+Now you have a bible.json file that you can use to do whatever you want.
