@@ -11,12 +11,12 @@ Now you have a bible.json file that you can use to do whatever you want.
 
 The JSON file is in order and includes the deuterocanonical books. It is formatted like so:
 
-```
+```json
 [
     {
         "book": "Genesis",
         "chapters": [
-            [
+            [ // chapter 1
                 {
                     "book": "Genesis",
                     "chapter": 1,
@@ -29,7 +29,7 @@ The JSON file is in order and includes the deuterocanonical books. It is formatt
                     "verse": 2,
                     "text": "The earth was formless and empty. Darkness was on the surface of the deep and God’s Spirit was hovering over the surface of the waters.   \n"
                 },
-            ...
+                // ...
             ],
             [
                 {
@@ -38,13 +38,24 @@ The JSON file is in order and includes the deuterocanonical books. It is formatt
                     "verse": 1,
                     "text": "The heavens, the earth, and all their vast array were finished.  \n"
                 },
-                ...
+                // ...
             ],
-            ...
+            // ...
         ],
-        ...
+        // ...
     },
-    ...
+    {
+        "book": "Exodus",
+        "chapters": [
+            [
+                // chapter 1
+            ],
+            [
+                // chapter 2
+            ],
+            // ...
+        ],
+        // ...
+    }
 ]
-```
 ```
