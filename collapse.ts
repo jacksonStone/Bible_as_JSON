@@ -14,7 +14,7 @@ function verseToPlainText(verse: any) {
 }
 function chapterVersesToPlainText(bookName: string, chapter: any, index: number) {
     let chapterNumber = index + 1;
-    let verses = convertContentToArray(chapter).map((verse: any) => verseToPlainText(verse).trim());
+    let verses = convertContentToArray(chapter).map((verse: any) => verseToPlainText(verse));
     return verses.map((verse: any, index: number) => { return { book: bookName, chapter: chapterNumber, verse: index + 1, text: verse } })
 }
 function collapse() {
