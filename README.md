@@ -8,51 +8,34 @@ The JSON file includes the deuterocanonical books. It is formatted like so:
 
 ```json
 [
-    {
+  {
+    "book": "Genesis",
+    "chapters": [
+      {
+        "chapter": 1,
         "book": "Genesis",
-        "chapters": [
-            [ // chapter 1
-                {
-                    "book": "Genesis",
-                    "chapter": 1,
-                    "verse": 1,
-                    "text": "In the beginning, God created the heavens and the earth.  \n"
-                },
-                {
-                    "book": "Genesis",
-                    "chapter": 1,
-                    "verse": 2,
-                    "text": "The earth was formless and empty. Darkness was on the surface of the deep and God's Spirit was hovering over the surface of the waters.   \n"
-                }
-                // ...
-            ],
-            [
-                {
-                    "book": "Genesis",
-                    "chapter": 2,
-                    "verse": 1,
-                    "text": "The heavens, the earth, and all their vast array were finished.  \n"
-                }
-                // ...
-            ]
-            // ...
+        "verses": [
+          {
+            "book": "Genesis",
+            "chapter": 1,
+            "verse": 1,
+            "text": "In the beginning, God created the heavens and the earth.  \n"
+          },
+          {
+            "book": "Genesis",
+            "chapter": 1,
+            "verse": 2,
+            "text": "The earth was formless and empty. Darkness was on the surface of the deep and God’s Spirit was hovering over the surface of the waters.   \n"
+          },
+          // ...
         ]
-    },
-    {
-        "book": "Exodus",
-        "chapters": [
-            [
-                // chapter 1
-            ],
-            [
-                // chapter 2
-            ]
-            // ...
-        ]
-    }
+      },
+      // ...
+    ]
+  },
+  // ...
 ]
 ```
-
 
 ## Reconstruction
 

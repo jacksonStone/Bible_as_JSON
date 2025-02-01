@@ -26,7 +26,11 @@ function collapse() {
     bibleJson.forEach((book: any) => {
         let bookName = book.book;
         let bookChapters = convertContentToArray(book.content.chapters).map((chapter: any, index: number) => {
-            return chapterVersesToPlainText(bookName, chapter, index);
+            return {
+                chapter: index + 1,
+                book: bookName,
+                verses: chapterVersesToPlainText(bookName, chapter, index)
+            }
         });
         betterFormat.push({ book: bookName, chapters: bookChapters });
     });
