@@ -36,6 +36,28 @@ function collapse() {
     });
     let outputPath = './bible.json';
     fs.writeFileSync(outputPath, JSON.stringify(betterFormat, null, 2));
+
+    // Also produce a version that is just the text of the bible
+    let textPath = './bible.md';
+    let text = '';
+    betterFormat.forEach((book: any, index: number) => {
+        let bookName = book.book;
+        text += `# ${bookName}\n\n`;
+        if (!book.chapters) {
+            console.log(bookName, index);
+            return;
+        }
+        book.chapters.forEach((chapter: any, index: number) => {
+            let chapterNumber = index + 1;
+            text += `## Chapter ${chapterNumber}\n`;
+            let verses = chapter.verses;
+            verses.forEach((verse: any) => {
+                text += `${verse.verse}. ${verse.text}`;
+            });
+            text += '\n';
+        });
+    });
+    fs.writeFileSync(textPath, text);
 }
 
 
