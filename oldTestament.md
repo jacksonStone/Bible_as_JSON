@@ -1,7 +1,7 @@
 
 # Genesis
 
-## Chapter 1
+## Genesis Chapter 1
 1. In the beginning, God created the heavens and the earth.  
 2. The earth was formless and empty. Darkness was on the surface of the deep and God’s Spirit was hovering over the surface of the waters.   
 3. God said, “Let there be light,” and there was light.  
@@ -34,7 +34,7 @@
 30. To every animal of the earth, and to every bird of the sky, and to everything that creeps on the earth, in which there is life, I have given every green herb for food;” and it was so.   
 31. God saw everything that he had made, and, behold, it was very good. There was evening and there was morning, a sixth day.   
 
-## Chapter 2
+## Genesis Chapter 2
 1. The heavens, the earth, and all their vast array were finished.  
 2. On the seventh day God finished his work which he had done; and he rested on the seventh day from all his work which he had done.  
 3. God blessed the seventh day, and made it holy, because he rested in it from all his work of creation which he had done.   
@@ -61,7 +61,7 @@
 24. Therefore a man will leave his father and his mother, and will join with his wife, and they will be one flesh.  
 25. The man and his wife were both naked, and they were not ashamed.   
 
-## Chapter 3
+## Genesis Chapter 3
 1. Now the serpent was more subtle than any animal of the field which the LORD God had made. He said to the woman, “Has God really said, ‘You shall not eat of any tree of the garden’?”   
 2. The woman said to the serpent, “We may eat fruit from the trees of the garden,  
 3. but not the fruit of the tree which is in the middle of the garden. God has said, ‘You shall not eat of it. You shall not touch it, lest you die.’”   
@@ -109,7 +109,7 @@ and you shall return to dust.”
 23. Therefore the LORD God sent him out from the garden of Eden, to till the ground from which he was taken.  
 24. So he drove out the man; and he placed cherubim at the east of the garden of Eden, and a flaming sword which turned every way, to guard the way to the tree of life.   
 
-## Chapter 4
+## Genesis Chapter 4
 1. The man knew Eve his wife. She conceived, and gave birth to Cain, and said, “I have gotten a man with the LORD’s help.”  
 2. Again she gave birth, to Cain’s brother Abel. Abel was a keeper of sheep, but Cain was a tiller of the ground.  
 3. As time passed, Cain brought an offering to the LORD from the fruit of the ground.  
@@ -143,7 +143,7 @@ truly Lamech seventy-seven times.”
 25. Adam knew his wife again. She gave birth to a son, and named him Seth, saying, “for God has given me another child instead of Abel, for Cain killed him.”  
 26. A son was also born to Seth, and he named him Enosh. At that time men began to call on the LORD’s name.   
 
-## Chapter 5
+## Genesis Chapter 5
 1. This is the book of the generations of Adam. In the day that God created man, he made him in God’s likeness.  
 2. He created them male and female, and blessed them. On the day they were created, he named them Adam. 
 3. Adam lived one hundred thirty years, and became the father of a son in his own likeness, after his image, and named him Seth.  
@@ -177,7 +177,7 @@ truly Lamech seventy-seven times.”
 31. All the days of Lamech were seven hundred seventy-seven years, then he died.   
 32. Noah was five hundred years old, then Noah became the father of Shem, Ham, and Japheth.   
 
-## Chapter 6
+## Genesis Chapter 6
 1. When men began to multiply on the surface of the ground, and daughters were born to them,  
 2. God’s sons saw that men’s daughters were beautiful, and they took any that they wanted for themselves as wives.  
 3. The LORD said, “My Spirit will not strive with man forever, because he also is flesh; so his days will be one hundred twenty years.”  
@@ -201,7 +201,7 @@ truly Lamech seventy-seven times.”
 21. Take with you some of all food that is eaten, and gather it to yourself; and it will be for food for you, and for them.”  
 22. Thus Noah did. He did all that God commanded him.   
 
-## Chapter 7
+## Genesis Chapter 7
 1. The LORD said to Noah, “Come with all of your household into the ship, for I have seen your righteousness before me in this generation.  
 2. You shall take seven pairs of every clean animal with you, the male and his female. Of the animals that are not clean, take two, the male and his female.  
 3. Also of the birds of the sky, seven and seven, male and female, to keep seed alive on the surface of all the earth.  
@@ -227,7 +227,7 @@ truly Lamech seventy-seven times.”
 23. Every living thing was destroyed that was on the surface of the ground, including man, livestock, creeping things, and birds of the sky. They were destroyed from the earth. Only Noah was left, and those who were with him in the ship.  
 24. The waters flooded the earth one hundred fifty days.   
 
-## Chapter 8
+## Genesis Chapter 8
 1. God remembered Noah, all the animals, and all the livestock that were with him in the ship; and God made a wind to pass over the earth. The waters subsided.  
 2. The deep’s fountains and the sky’s windows were also stopped, and the rain from the sky was restrained.  
 3. The waters continually receded from the earth. After the end of one hundred fifty days the waters receded.  
@@ -251,7 +251,7 @@ truly Lamech seventy-seven times.”
 21. The LORD smelled the pleasant aroma. The LORD said in his heart, “I will not again curse the ground any more for man’s sake because the imagination of man’s heart is evil from his youth. I will never again strike every living thing, as I have done.  
 22. While the earth remains, seed time and harvest, and cold and heat, and summer and winter, and day and night will not cease.”   
 
-## Chapter 9
+## Genesis Chapter 9
 1. God blessed Noah and his sons, and said to them, “Be fruitful, multiply, and replenish the earth.  
 2. The fear of you and the dread of you will be on every animal of the earth, and on every bird of the sky. Everything that moves along the ground, and all the fish of the sea, are delivered into your hand.  
 3. Every moving thing that lives will be food for you. As I gave you the green herb, I have given everything to you.  
@@ -288,7 +288,7 @@ Let Canaan be his servant.”
 28. Noah lived three hundred fifty years after the flood.  
 29. All the days of Noah were nine hundred fifty years, and then he died.   
 
-## Chapter 10
+## Genesis Chapter 10
 1. Now this is the history of the generations of the sons of Noah and of Shem, Ham, and Japheth. Sons were born to them after the flood.   
 2. The sons of Japheth were: Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras.  
 3. The sons of Gomer were: Ashkenaz, Riphath, and Togarmah.  
@@ -322,7 +322,7 @@ Let Canaan be his servant.”
 31. These are the sons of Shem, by their families, according to their languages, lands, and nations.   
 32. These are the families of the sons of Noah, by their generations, according to their nations. The nations divided from these in the earth after the flood.   
 
-## Chapter 11
+## Genesis Chapter 11
 1. The whole earth was of one language and of one speech.  
 2. As they traveled east, they found a plain in the land of Shinar, and they lived there.  
 3. They said to one another, “Come, let’s make bricks, and burn them thoroughly.” They had brick for stone, and they used tar for mortar.  
@@ -356,7 +356,7 @@ Let Canaan be his servant.”
 31. Terah took Abram his son, Lot the son of Haran, his son’s son, and Sarai his daughter-in-law, his son Abram’s wife. They went from Ur of the Chaldees, to go into the land of Canaan. They came to Haran and lived there.  
 32. The days of Terah were two hundred five years. Terah died in Haran.   
 
-## Chapter 12
+## Genesis Chapter 12
 1. Now the LORD said to Abram, “Leave your country, and your relatives, and your father’s house, and go to the land that I will show you.  
 2. I will make of you a great nation. I will bless you and make your name great. You will be a blessing.  
 3. I will bless those who bless you, and I will curse him who treats you with contempt. All the families of the earth will be blessed through you.”   
@@ -379,7 +379,7 @@ He built an altar there to the LORD, who had appeared to him.
 19. Why did you say, ‘She is my sister,’ so that I took her to be my wife? Now therefore, see your wife, take her, and go your way.”   
 20. Pharaoh commanded men concerning him, and they escorted him away with his wife and all that he had.   
 
-## Chapter 13
+## Genesis Chapter 13
 1. Abram went up out of Egypt—he, his wife, all that he had, and Lot with him—into the South.  
 2. Abram was very rich in livestock, in silver, and in gold.  
 3. He went on his journeys from the South as far as Bethel, to the place where his tent had been at the beginning, between Bethel and Ai,  
@@ -399,7 +399,7 @@ He built an altar there to the LORD, who had appeared to him.
 17. Arise, walk through the land in its length and in its width; for I will give it to you.”   
 18. Abram moved his tent, and came and lived by the oaks of Mamre, which are in Hebron, and built an altar there to the LORD.   
 
-## Chapter 14
+## Genesis Chapter 14
 1. In the days of Amraphel, king of Shinar; Arioch, king of Ellasar; Chedorlaomer, king of Elam; and Tidal, king of Goiim,  
 2. they made war with Bera, king of Sodom; Birsha, king of Gomorrah; Shinab, king of Admah; Shemeber, king of Zeboiim; and the king of Bela (also called Zoar).  
 3. All these joined together in the valley of Siddim (also called the Salt Sea).  
@@ -426,7 +426,7 @@ gave him a tenth of all.
 23. that I will not take a thread nor a sandal strap nor anything that is yours, lest you should say, ‘I have made Abram rich.’  
 24. I will accept nothing from you except that which the young men have eaten, and the portion of the men who went with me: Aner, Eshcol, and Mamre. Let them take their portion.”   
 
-## Chapter 15
+## Genesis Chapter 15
 1. After these things the LORD’s word came to Abram in a vision, saying, “Don’t be afraid, Abram. I am your shield, your exceedingly great reward.”   
 2. Abram said, “Lord GOD, what will you give me, since I go childless, and he who will inherit my estate is Eliezer of Damascus?”  
 3. Abram said, “Behold, you have given no children to me: and, behold, one born in my house is my heir.”   
@@ -449,7 +449,7 @@ gave him a tenth of all.
 20. the Hittites, the Perizzites, the Rephaim,  
 21. the Amorites, the Canaanites, the Girgashites, and the Jebusites.”   
 
-## Chapter 16
+## Genesis Chapter 16
 1. Now Sarai, Abram’s wife, bore him no children. She had a servant, an Egyptian, whose name was Hagar.  
 2. Sarai said to Abram, “See now, the LORD has restrained me from bearing. Please go in to my servant. It may be that I will obtain children by her.” Abram listened to the voice of Sarai.  
 3. Sarai, Abram’s wife, took Hagar the Egyptian, her servant, after Abram had lived ten years in the land of Canaan, and gave her to Abram her husband to be his wife.  
@@ -468,7 +468,7 @@ She said, “I am fleeing from the face of my mistress Sarai.”
 15. Hagar bore a son for Abram. Abram called the name of his son, whom Hagar bore, Ishmael.  
 16. Abram was eighty-six years old when Hagar bore Ishmael to Abram.   
 
-## Chapter 17
+## Genesis Chapter 17
 1. When Abram was ninety-nine years old, the LORD appeared to Abram and said to him, “I am God Almighty. Walk before me and be blameless.  
 2. I will make my covenant between me and you, and will multiply you exceedingly.”   
 3. Abram fell on his face. God talked with him, saying,  
@@ -497,7 +497,7 @@ She said, “I am fleeing from the face of my mistress Sarai.”
 26. In the same day both Abraham and Ishmael, his son, were circumcised.  
 27. All the men of his house, those born in the house, and those bought with money from a foreigner, were circumcised with him.   
 
-## Chapter 18
+## Genesis Chapter 18
 1. The LORD appeared to him by the oaks of Mamre, as he sat in the tent door in the heat of the day.  
 2. He lifted up his eyes and looked, and saw that three men stood near him. When he saw them, he ran to meet them from the tent door, and bowed himself to the earth,  
 3. and said, “My lord, if now I have found favor in your sight, please don’t go away from your servant.  
@@ -541,7 +541,7 @@ He said, “I will not destroy it for the twenty’s sake.”
 He said, “I will not destroy it for the ten’s sake.”   
 33. The LORD went his way as soon as he had finished communing with Abraham, and Abraham returned to his place.   
 
-## Chapter 19
+## Genesis Chapter 19
 1. The two angels came to Sodom at evening. Lot sat in the gate of Sodom. Lot saw them, and rose up to meet them. He bowed himself with his face to the earth,  
 2. and he said, “See now, my lords, please come into your servant’s house, stay all night, wash your feet, and you can rise up early, and go on your way.”  
 They said, “No, but we will stay in the street all night.”   
@@ -583,7 +583,7 @@ But he seemed to his sons-in-law to be joking.
 37. The firstborn bore a son, and named him Moab. He is the father of the Moabites to this day.  
 38. The younger also bore a son, and called his name Ben Ammi. He is the father of the children of Ammon to this day.   
 
-## Chapter 20
+## Genesis Chapter 20
 1. Abraham traveled from there toward the land of the South, and lived between Kadesh and Shur. He lived as a foreigner in Gerar.  
 2. Abraham said about Sarah his wife, “She is my sister.” Abimelech king of Gerar sent, and took Sarah.  
 3. But God came to Abimelech in a dream of the night, and said to him, “Behold, you are a dead man, because of the woman whom you have taken; for she is a man’s wife.”   
@@ -603,7 +603,7 @@ But he seemed to his sons-in-law to be joking.
 17. Abraham prayed to God. So God healed Abimelech, his wife, and his female servants, and they bore children.  
 18. For the LORD had closed up tight all the wombs of the house of Abimelech, because of Sarah, Abraham’s wife.   
 
-## Chapter 21
+## Genesis Chapter 21
 1. The LORD visited Sarah as he had said, and the LORD did to Sarah as he had spoken.  
 2. Sarah conceived, and bore Abraham a son in his old age, at the set time of which God had spoken to him.  
 3. Abraham called his son who was born to him, whom Sarah bore to him, Isaac. 
@@ -640,7 +640,7 @@ The angel of God called to Hagar out of the sky, and said to her, “What troubl
 33. Abraham planted a tamarisk tree in Beersheba, and there he called on the name of the LORD, the Everlasting God.  
 34. Abraham lived as a foreigner in the land of the Philistines many days.   
 
-## Chapter 22
+## Genesis Chapter 22
 1. After these things, God tested Abraham, and said to him, “Abraham!”  
 He said, “Here I am.”   
 2. He said, “Now take your son, your only son, Isaac, whom you love, and go into the land of Moriah. Offer him there as a burnt offering on one of the mountains which I will tell you of.”   
@@ -670,7 +670,7 @@ He said, “Here I am.”
 23. Bethuel became the father of Rebekah. These eight Milcah bore to Nahor, Abraham’s brother.  
 24. His concubine, whose name was Reumah, also bore Tebah, Gaham, Tahash, and Maacah.   
 
-## Chapter 23
+## Genesis Chapter 23
 1. Sarah lived one hundred twenty-seven years. This was the length of Sarah’s life.  
 2. Sarah died in Kiriath Arba (also called Hebron), in the land of Canaan. Abraham came to mourn for Sarah, and to weep for her.  
 3. Abraham rose up from before his dead and spoke to the children of Heth, saying,  
@@ -692,7 +692,7 @@ He said, “Here I am.”
 19. After this, Abraham buried Sarah his wife in the cave of the field of Machpelah before Mamre (that is, Hebron), in the land of Canaan.  
 20. The field, and the cave that is in it, were deeded to Abraham by the children of Heth as a possession for a burial place.   
 
-## Chapter 24
+## Genesis Chapter 24
 1. Abraham was old, and well advanced in age. The LORD had blessed Abraham in all things.  
 2. Abraham said to his servant, the elder of his house, who ruled over all that he had, “Please put your hand under my thigh.  
 3. I will make you swear by the LORD, the God of heaven and the God of the earth, that you shall not take a wife for my son of the daughters of the Canaanites, among whom I live.  
@@ -765,7 +765,7 @@ She took her veil, and covered herself.
 66. The servant told Isaac all the things that he had done.  
 67. Isaac brought her into his mother Sarah’s tent, and took Rebekah, and she became his wife. He loved her. So Isaac was comforted after his mother’s death.   
 
-## Chapter 25
+## Genesis Chapter 25
 1. Abraham took another wife, and her name was Keturah.  
 2. She bore him Zimran, Jokshan, Medan, Midian, Ishbak, and Shuah.  
 3. Jokshan became the father of Sheba, and Dedan. The sons of Dedan were Asshurim, Letushim, and Leummim.  
@@ -806,7 +806,7 @@ The elder will serve the younger.”
 He swore to him. He sold his birthright to Jacob.  
 34. Jacob gave Esau bread and lentil stew. He ate and drank, rose up, and went his way. So Esau despised his birthright.   
 
-## Chapter 26
+## Genesis Chapter 26
 1. There was a famine in the land, in addition to the first famine that was in the days of Abraham. Isaac went to Abimelech king of the Philistines, to Gerar.  
 2. The LORD appeared to him, and said, “Don’t go down into Egypt. Live in the land I will tell you about.  
 3. Live in this land, and I will be with you, and will bless you. For I will give to you, and to your offspring, all these lands, and I will establish the oath which I swore to Abraham your father.  
@@ -844,7 +844,7 @@ Isaac said to him, “Because I said, ‘Lest I die because of her.’”
 34. When Esau was forty years old, he took as wife Judith, the daughter of Beeri the Hittite, and Basemath, the daughter of Elon the Hittite.  
 35. They grieved Isaac’s and Rebekah’s spirits.   
 
-## Chapter 27
+## Genesis Chapter 27
 1. When Isaac was old, and his eyes were dim, so that he could not see, he called Esau his elder son, and said to him, “My son?”  
 He said to him, “Here I am.”   
 2. He said, “See now, I am old. I don’t know the day of my death.  
@@ -911,7 +911,7 @@ that you will shake his yoke from off your neck.”
 45. until your brother’s anger turns away from you, and he forgets what you have done to him. Then I will send, and get you from there. Why should I be bereaved of you both in one day?”   
 46. Rebekah said to Isaac, “I am weary of my life because of the daughters of Heth. If Jacob takes a wife of the daughters of Heth, such as these, of the daughters of the land, what good will my life do me?”   
 
-## Chapter 28
+## Genesis Chapter 28
 1. Isaac called Jacob, blessed him, and commanded him, “You shall not take a wife of the daughters of Canaan.  
 2. Arise, go to Paddan Aram, to the house of Bethuel your mother’s father. Take a wife from there from the daughters of Laban, your mother’s brother.  
 3. May God Almighty bless you, and make you fruitful, and multiply you, that you may be a company of peoples,  
@@ -935,7 +935,7 @@ that you will shake his yoke from off your neck.”
 21. so that I come again to my father’s house in peace, and the LORD will be my God,  
 22. then this stone, which I have set up for a pillar, will be God’s house. Of all that you will give me I will surely give a tenth to you.”   
 
-## Chapter 29
+## Genesis Chapter 29
 1. Then Jacob went on his journey, and came to the land of the children of the east.  
 2. He looked, and saw a well in the field, and saw three flocks of sheep lying there by it. For out of that well they watered the flocks. The stone on the well’s mouth was large.  
 3. There all the flocks were gathered. They rolled the stone from the well’s mouth, and watered the sheep, and put the stone back on the well’s mouth in its place.  
@@ -975,7 +975,7 @@ They said, “It is well. See, Rachel, his daughter, is coming with the sheep.�
 34. She conceived again, and bore a son. She said, “Now this time my husband will be joined to me, because I have borne him three sons.” Therefore his name was called Levi.  
 35. She conceived again, and bore a son. She said, “This time I will praise the LORD.” Therefore she named him Judah. Then she stopped bearing.   
 
-## Chapter 30
+## Genesis Chapter 30
 1. When Rachel saw that she bore Jacob no children, Rachel envied her sister. She said to Jacob, “Give me children, or else I will die.”   
 2. Jacob’s anger burned against Rachel, and he said, “Am I in God’s place, who has withheld from you the fruit of the womb?”   
 3. She said, “Behold, my maid Bilhah. Go in to her, that she may bear on my knees, and I also may obtain children by her.”  
@@ -1023,7 +1023,7 @@ Jacob said, “You shall not give me anything. If you will do this thing for me,
 42. but when the flock were feeble, he didn’t put them in. So the feebler were Laban’s, and the stronger Jacob’s.  
 43. The man increased exceedingly, and had large flocks, female servants and male servants, and camels and donkeys.   
 
-## Chapter 31
+## Genesis Chapter 31
 1. Jacob heard Laban’s sons’ words, saying, “Jacob has taken away all that was our father’s. He has obtained all this wealth from that which was our father’s.”  
 2. Jacob saw the expression on Laban’s face, and, behold, it was not toward him as before.  
 3. The LORD said to Jacob, “Return to the land of your fathers, and to your relatives, and I will be with you.”   
@@ -1080,7 +1080,7 @@ Jacob said, “You shall not give me anything. If you will do this thing for me,
 54. Jacob offered a sacrifice in the mountain, and called his relatives to eat bread. They ate bread, and stayed all night in the mountain.  
 55. Early in the morning, Laban rose up, and kissed his sons and his daughters, and blessed them. Laban departed and returned to his place.   
 
-## Chapter 32
+## Genesis Chapter 32
 1. Jacob went on his way, and the angels of God met him.  
 2. When he saw them, Jacob said, “This is God’s army.” He called the name of that place Mahanaim.  
 3. Jacob sent messengers in front of him to Esau, his brother, to the land of Seir, the field of Edom.  
@@ -1117,7 +1117,7 @@ He said, “Why is it that you ask what my name is?” So he blessed him there.
 31. The sun rose on him as he passed over Peniel, and he limped because of his thigh.  
 32. Therefore the children of Israel don’t eat the sinew of the hip, which is on the hollow of the thigh, to this day, because he touched the hollow of Jacob’s thigh in the sinew of the hip.   
 
-## Chapter 33
+## Genesis Chapter 33
 1. Jacob lifted up his eyes, and looked, and, behold, Esau was coming, and with him four hundred men. He divided the children between Leah, Rachel, and the two servants.  
 2. He put the servants and their children in front, Leah and her children after, and Rachel and Joseph at the rear.  
 3. He himself passed over in front of them, and bowed himself to the ground seven times, until he came near to his brother.   
@@ -1142,7 +1142,7 @@ He said, “Why? Let me find favor in the sight of my lord.”
 19. He bought the parcel of ground where he had spread his tent, at the hand of the children of Hamor, Shechem’s father, for one hundred pieces of money.  
 20. He erected an altar there, and called it El Elohe Israel.  
 
-## Chapter 34
+## Genesis Chapter 34
 1. Dinah, the daughter of Leah, whom she bore to Jacob, went out to see the daughters of the land.  
 2. Shechem the son of Hamor the Hivite, the prince of the land, saw her. He took her, lay with her, and humbled her.  
 3. His soul joined to Dinah, the daughter of Jacob, and he loved the young lady, and spoke kindly to the young lady.  
@@ -1175,7 +1175,7 @@ He said, “Why? Let me find favor in the sight of my lord.”
 30. Jacob said to Simeon and Levi, “You have troubled me, to make me odious to the inhabitants of the land, among the Canaanites and the Perizzites. I am few in number. They will gather themselves together against me and strike me, and I will be destroyed, I and my house.”   
 31. They said, “Should he deal with our sister as with a prostitute?”   
 
-## Chapter 35
+## Genesis Chapter 35
 1. God said to Jacob, “Arise, go up to Bethel, and live there. Make there an altar to God, who appeared to you when you fled from the face of Esau your brother.”   
 2. Then Jacob said to his household, and to all who were with him, “Put away the foreign gods that are among you, purify yourselves, and change your garments.  
 3. Let’s arise, and go up to Bethel. I will make there an altar to God, who answered me in the day of my distress, and was with me on the way which I went.”   
@@ -1207,7 +1207,7 @@ Now the sons of Jacob were twelve.
 28. The days of Isaac were one hundred eighty years.  
 29. Isaac gave up the spirit and died, and was gathered to his people, old and full of days. Esau and Jacob, his sons, buried him.   
 
-## Chapter 36
+## Genesis Chapter 36
 1. Now this is the history of the generations of Esau (that is, Edom).  
 2. Esau took his wives from the daughters of Canaan: Adah the daughter of Elon, the Hittite; and Oholibamah the daughter of Anah, the daughter of Zibeon, the Hivite;  
 3. and Basemath, Ishmael’s daughter, sister of Nebaioth.  
@@ -1252,7 +1252,7 @@ Now the sons of Jacob were twelve.
 42. chief Kenaz, chief Teman, chief Mibzar,  
 43. chief Magdiel, and chief Iram. These are the chiefs of Edom, according to their habitations in the land of their possession. This is Esau, the father of the Edomites.   
 
-## Chapter 37
+## Genesis Chapter 37
 1. Jacob lived in the land of his father’s travels, in the land of Canaan.  
 2. This is the history of the generations of Jacob. Joseph, being seventeen years old, was feeding the flock with his brothers. He was a boy with the sons of Bilhah and Zilpah, his father’s wives. Joseph brought an evil report of them to their father.  
 3. Now Israel loved Joseph more than all his children, because he was the son of his old age, and he made him a tunic of many colors.  
@@ -1291,7 +1291,7 @@ Joseph went after his brothers, and found them in Dothan.
 35. All his sons and all his daughters rose up to comfort him, but he refused to be comforted. He said, “For I will go down to Sheol to my son, mourning.” His father wept for him.  
 36. The Midianites sold him into Egypt to Potiphar, an officer of Pharaoh’s, the captain of the guard.   
 
-## Chapter 38
+## Genesis Chapter 38
 1. At that time, Judah went down from his brothers, and visited a certain Adullamite, whose name was Hirah.  
 2. There, Judah saw the daughter of a certain Canaanite man named Shua. He took her, and went in to her.  
 3. She conceived, and bore a son; and he named him Er.  
@@ -1330,7 +1330,7 @@ He knew her again no more.
 29. As he drew back his hand, behold, his brother came out, and she said, “Why have you made a breach for yourself?” Therefore his name was called Perez. 
 30. Afterward his brother came out, who had the scarlet thread on his hand, and his name was called Zerah.  
 
-## Chapter 39
+## Genesis Chapter 39
 1. Joseph was brought down to Egypt. Potiphar, an officer of Pharaoh’s, the captain of the guard, an Egyptian, bought him from the hand of the Ishmaelites that had brought him down there.  
 2. The LORD was with Joseph, and he was a prosperous man. He was in the house of his master the Egyptian.  
 3. His master saw that the LORD was with him, and that the LORD made all that he did prosper in his hand.  
@@ -1357,7 +1357,7 @@ He left his garment in her hand, and ran outside.
 22. The keeper of the prison committed to Joseph’s hand all the prisoners who were in the prison. Whatever they did there, he was responsible for it.  
 23. The keeper of the prison didn’t look after anything that was under his hand, because the LORD was with him; and that which he did, the LORD made it prosper.   
 
-## Chapter 40
+## Genesis Chapter 40
 1. After these things, the butler of the king of Egypt and his baker offended their lord, the king of Egypt.  
 2. Pharaoh was angry with his two officers, the chief cup bearer and the chief baker.  
 3. He put them in custody in the house of the captain of the guard, into the prison, the place where Joseph was bound.  
@@ -1383,7 +1383,7 @@ Joseph said to them, “Don’t interpretations belong to God? Please tell it to
 22. but he hanged the chief baker, as Joseph had interpreted to them.  
 23. Yet the chief cup bearer didn’t remember Joseph, but forgot him.   
 
-## Chapter 41
+## Genesis Chapter 41
 1. At the end of two full years, Pharaoh dreamed, and behold, he stood by the river.  
 2. Behold, seven cattle came up out of the river. They were sleek and fat, and they fed in the marsh grass.  
 3. Behold, seven other cattle came up after them out of the river, ugly and thin, and stood by the other cattle on the brink of the river.  
@@ -1442,7 +1442,7 @@ Joseph said to them, “Don’t interpretations belong to God? Please tell it to
 56. The famine was over all the surface of the earth. Joseph opened all the store houses, and sold to the Egyptians. The famine was severe in the land of Egypt.  
 57. All countries came into Egypt, to Joseph, to buy grain, because the famine was severe in all the earth.   
 
-## Chapter 42
+## Genesis Chapter 42
 1. Now Jacob saw that there was grain in Egypt, and Jacob said to his sons, “Why do you look at one another?”  
 2. He said, “Behold, I have heard that there is grain in Egypt. Go down there, and buy for us from there, so that we may live, and not die.”  
 3. Joseph’s ten brothers went down to buy grain from Egypt.  
@@ -1484,7 +1484,7 @@ They did so.
 37. Reuben spoke to his father, saying, “Kill my two sons, if I don’t bring him to you. Entrust him to my care, and I will bring him to you again.”   
 38. He said, “My son shall not go down with you; for his brother is dead, and he only is left. If harm happens to him along the way in which you go, then you will bring down my gray hairs with sorrow to Sheol.”  
 
-## Chapter 43
+## Genesis Chapter 43
 1. The famine was severe in the land.  
 2. When they had eaten up the grain which they had brought out of Egypt, their father said to them, “Go again, buy us a little more food.”   
 3. Judah spoke to him, saying, “The man solemnly warned us, saying, ‘You shall not see my face, unless your brother is with you.’  
@@ -1520,7 +1520,7 @@ They did so.
 33. They sat before him, the firstborn according to his birthright, and the youngest according to his youth, and the men marveled with one another.  
 34. He sent portions to them from before him, but Benjamin’s portion was five times as much as any of theirs. They drank, and were merry with him.   
 
-## Chapter 44
+## Genesis Chapter 44
 1. He commanded the steward of his house, saying, “Fill the men’s sacks with food, as much as they can carry, and put each man’s money in his sack’s mouth.  
 2. Put my cup, the silver cup, in the sack’s mouth of the youngest, with his grain money.” He did according to the word that Joseph had spoken.  
 3. As soon as the morning was light, the men were sent away, they and their donkeys.  
@@ -1556,7 +1556,7 @@ They did so.
 33. Now therefore, please let your servant stay instead of the boy, my lord’s slave; and let the boy go up with his brothers.  
 34. For how will I go up to my father, if the boy isn’t with me?—lest I see the evil that will come on my father.”   
 
-## Chapter 45
+## Genesis Chapter 45
 1. Then Joseph couldn’t control himself before all those who stood before him, and he called out, “Cause everyone to go out from me!” No one else stood with him, while Joseph made himself known to his brothers.  
 2. He wept aloud. The Egyptians heard, and the house of Pharaoh heard.  
 3. Joseph said to his brothers, “I am Joseph! Does my father still live?”  
@@ -1588,7 +1588,7 @@ came near. He said, “I am Joseph, your brother, whom you sold into Egypt.
 27. They told him all the words of Joseph, which he had said to them. When he saw the wagons which Joseph had sent to carry him, the spirit of Jacob, their father, revived.  
 28. Israel said, “It is enough. Joseph my son is still alive. I will go and see him before I die.”   
 
-## Chapter 46
+## Genesis Chapter 46
 1. Israel traveled with all that he had, and came to Beersheba, and offered sacrifices to the God of his father, Isaac.  
 2. God spoke to Israel in the visions of the night, and said, “Jacob, Jacob!”  
 He said, “Here I am.”   
@@ -1625,7 +1625,7 @@ He said, “Here I am.”
 33. It will happen, when Pharaoh summons you, and will say, ‘What is your occupation?’  
 34. that you shall say, ‘Your servants have been keepers of livestock from our youth even until now, both we, and our fathers:’ that you may dwell in the land of Goshen; for every shepherd is an abomination to the Egyptians.”   
 
-## Chapter 47
+## Genesis Chapter 47
 1. Then Joseph went in and told Pharaoh, and said, “My father and my brothers, with their flocks, their herds, and all that they own, have come out of the land of Canaan; and behold, they are in the land of Goshen.”  
 2. From among his brothers he took five men, and presented them to Pharaoh.  
 3. Pharaoh said to his brothers, “What is your occupation?”  
@@ -1660,7 +1660,7 @@ They said to Pharaoh, “Your servants are shepherds, both we, and our fathers.�
 said, “I will do as you have said.”   
 31. Israel said, “Swear to me,” and he swore to him. Then Israel bowed himself on the bed’s head.   
 
-## Chapter 48
+## Genesis Chapter 48
 1. After these things, someone said to Joseph, “Behold, your father is sick.” He took with him his two sons, Manasseh and Ephraim.  
 2. Someone told Jacob, and said, “Behold, your son Joseph comes to you,” and Israel strengthened himself, and sat on the bed.  
 3. Jacob said to Joseph, “God Almighty appeared to me at Luz in the land of Canaan, and blessed me,  
@@ -1690,7 +1690,7 @@ Let them grow into a multitude upon the earth.”
 21. Israel said to Joseph, “Behold, I am dying, but God will be with you, and bring you again to the land of your fathers.  
 22. Moreover I have given to you one portion above your brothers, which I took out of the hand of the Amorite with my sword and with my bow.”   
 
-## Chapter 49
+## Genesis Chapter 49
 1. Jacob called to his sons, and said: “Gather yourselves together, that I may tell you that which will happen to you in the days to come.   
 2. Assemble yourselves, and hear, you sons of Jacob.  
 Listen to Israel, your father.   
@@ -1777,7 +1777,7 @@ At evening he will divide the plunder.”
 32. the field and the cave that is therein, which was purchased from the children of Heth.”  
 33. When Jacob finished charging his sons, he gathered up his feet into the bed, breathed his last breath, and was gathered to his people.   
 
-## Chapter 50
+## Genesis Chapter 50
 1. Joseph fell on his father’s face, wept on him, and kissed him.  
 2. Joseph commanded his servants, the physicians, to embalm his father; and the physicians embalmed Israel.  
 3. Forty days were used for him, for that is how many days it takes to embalm. The Egyptians wept for Israel for seventy days.   
@@ -1807,7 +1807,7 @@ At evening he will divide the plunder.”
 
 # Exodus
 
-## Chapter 1
+## Exodus Chapter 1
 1. Now these are the names of the sons of Israel, who came into Egypt (every man and his household came with Jacob):  
 2. Reuben, Simeon, Levi, and Judah,  
 3. Issachar, Zebulun, and Benjamin,  
@@ -1831,7 +1831,7 @@ At evening he will divide the plunder.”
 21. Because the midwives feared God, he gave them families.  
 22. Pharaoh commanded all his people, saying, “You shall cast every son who is born into the river, and every daughter you shall save alive.”   
 
-## Chapter 2
+## Exodus Chapter 2
 1. A man of the house of Levi went and took a daughter of Levi as his wife.  
 2. The woman conceived and bore a son. When she saw that he was a fine child, she hid him three months.  
 3. When she could no longer hide him, she took a papyrus basket for him, and coated it with tar and with pitch. She put the child in it, and laid it in the reeds by the river’s bank.  
@@ -1861,7 +1861,7 @@ Moses was afraid, and said, “Surely this thing is known.”
 24. God heard their groaning, and God remembered his covenant with Abraham, with Isaac, and with Jacob.  
 25. God saw the children of Israel, and God understood.   
 
-## Chapter 3
+## Exodus Chapter 3
 1. Now Moses was keeping the flock of Jethro, his father-in-law, the priest of Midian, and he led the flock to the back of the wilderness, and came to God’s mountain, to Horeb.  
 2. The LORD’s angel appeared to him in a flame of fire out of the middle of a bush. He looked, and behold, the bush burned with fire, and the bush was not consumed.  
 3. Moses said, “I will go now, and see this great sight, why the bush is not burned.”   
@@ -1887,7 +1887,7 @@ Moses hid his face because he was afraid to look at God.
 21. I will give this people favor in the sight of the Egyptians, and it will happen that when you go, you shall not go empty-handed.  
 22. But every woman shall ask of her neighbor, and of her who visits her house, jewels of silver, jewels of gold, and clothing. You shall put them on your sons, and on your daughters. You shall plunder the Egyptians.”   
 
-## Chapter 4
+## Exodus Chapter 4
 1. Moses answered, “But, behold, they will not believe me, nor listen to my voice; for they will say, ‘The LORD has not appeared to you.’”   
 2. The LORD said to him, “What is that in your hand?”  
 He said, “A rod.”   
@@ -1927,7 +1927,7 @@ He went, and met him on God’s mountain, and kissed him.
 30. Aaron spoke all the words which the LORD had spoken to Moses, and did the signs in the sight of the people.  
 31. The people believed, and when they heard that the LORD had visited the children of Israel, and that he had seen their affliction, then they bowed their heads and worshiped.   
 
-## Chapter 5
+## Exodus Chapter 5
 1. Afterward Moses and Aaron came, and said to Pharaoh, “This is what the LORD, the God of Israel, says, ‘Let my people go, that they may hold a feast to me in the wilderness.’”   
 2. Pharaoh said, “Who is the LORD, that I should listen to his voice to let Israel go? I don’t know the LORD, and moreover I will not let Israel go.”   
 3. They said, “The God of the Hebrews has met with us. Please let us go three days’ journey into the wilderness, and sacrifice to the LORD, our God, lest he fall on us with pestilence, or with the sword.”   
@@ -1952,7 +1952,7 @@ He went, and met him on God’s mountain, and kissed him.
 22. Moses returned to the LORD, and said, “Lord, why have you brought trouble on this people? Why is it that you have sent me?  
 23. For since I came to Pharaoh to speak in your name, he has brought trouble on this people. You have not rescued your people at all!”   
 
-## Chapter 6
+## Exodus Chapter 6
 1. The LORD said to Moses, “Now you shall see what I will do to Pharaoh, for by a strong hand he shall let them go, and by a strong hand he shall drive them out of his land.”   
 2. God spoke to Moses, and said to him, “I am the LORD.  
 3. I appeared to Abraham, to Isaac, and to Jacob, as God Almighty; but by my name the LORD I was not known to them.  
@@ -1984,7 +1984,7 @@ He went, and met him on God’s mountain, and kissed him.
 29. The LORD said to Moses, “I am the LORD. Tell Pharaoh king of Egypt all that I tell you.”   
 30. Moses said before the LORD, “Behold, I am of uncircumcised lips, and how shall Pharaoh listen to me?”   
 
-## Chapter 7
+## Exodus Chapter 7
 1. The LORD said to Moses, “Behold, I have made you as God to Pharaoh; and Aaron your brother shall be your prophet.  
 2. You shall speak all that I command you; and Aaron your brother shall speak to Pharaoh, that he let the children of Israel go out of his land.  
 3. I will harden Pharaoh’s heart, and multiply my signs and my wonders in the land of Egypt.  
@@ -2011,7 +2011,7 @@ He went, and met him on God’s mountain, and kissed him.
 24. All the Egyptians dug around the river for water to drink; for they couldn’t drink the river water.  
 25. Seven days were fulfilled, after the LORD had struck the river.   
 
-## Chapter 8
+## Exodus Chapter 8
 1. The LORD spoke to Moses, “Go in to Pharaoh, and tell him, ‘This is what the LORD says, “Let my people go, that they may serve me.  
 2. If you refuse to let them go, behold, I will plague all your borders with frogs.  
 3. The river will swarm with frogs, which will go up and come into your house, and into your bedroom, and on your bed, and into the house of your servants, and on your people, and into your ovens, and into your kneading troughs.  
@@ -2046,7 +2046,7 @@ LORD our God.
 31. The LORD did according to the word of Moses, and he removed the swarms of flies from Pharaoh, from his servants, and from his people. There remained not one.  
 32. Pharaoh hardened his heart this time also, and he didn’t let the people go.   
 
-## Chapter 9
+## Exodus Chapter 9
 1. Then the LORD said to Moses, “Go in to Pharaoh, and tell him, ‘This is what the LORD, the God of the Hebrews, says: “Let my people go, that they may serve me.  
 2. For if you refuse to let them go, and hold them still,  
 3. behold, the LORD’s hand is on your livestock which are in the field, on the horses, on the donkeys, on the camels, on the herds, and on the flocks with a very grievous pestilence.  
@@ -2083,7 +2083,7 @@ LORD our God.
 34. When Pharaoh saw that the rain and the hail and the thunders had ceased, he sinned yet more, and hardened his heart, he and his servants.  
 35. The heart of Pharaoh was hardened, and he didn’t let the children of Israel go, just as the LORD had spoken through Moses.   
 
-## Chapter 10
+## Exodus Chapter 10
 1. The LORD said to Moses, “Go in to Pharaoh, for I have hardened his heart and the heart of his servants, that I may show these my signs among them;  
 2. and that you may tell in the hearing of your son, and of your son’s son, what things I have done to Egypt, and my signs which I have done among them; that you may know that I am the LORD.”   
 3. Moses and Aaron went in to Pharaoh, and said to him, “This is what the LORD, the God of the Hebrews, says: ‘How long will you refuse to humble yourself before me? Let my people go, that they may serve me.  
@@ -2114,7 +2114,7 @@ LORD our God.
 28. Pharaoh said to him, “Get away from me! Be careful to see my face no more; for in the day you see my face you shall die!”   
 29. Moses said, “You have spoken well. I will see your face again no more.”   
 
-## Chapter 11
+## Exodus Chapter 11
 1. The LORD said to Moses, “I will bring yet one more plague on Pharaoh, and on Egypt; afterwards he will let you go. When he lets you go, he will surely thrust you out altogether.  
 2. Speak now in the ears of the people, and let every man ask of his neighbor, and every woman of her neighbor, jewels of silver, and jewels of gold.”  
 3. The LORD gave the people favor in the sight of the Egyptians. Moreover, the man Moses was very great in the land of Egypt, in the sight of Pharaoh’s servants, and in the sight of the people.   
@@ -2126,7 +2126,7 @@ LORD our God.
 9. The LORD said to Moses, “Pharaoh won’t listen to you, that my wonders may be multiplied in the land of Egypt.”  
 10. Moses and Aaron did all these wonders before Pharaoh, but the LORD hardened Pharaoh’s heart, and he didn’t let the children of Israel go out of his land.   
 
-## Chapter 12
+## Exodus Chapter 12
 1. The LORD spoke to Moses and Aaron in the land of Egypt, saying,  
 2. “This month shall be to you the beginning of months. It shall be the first month of the year to you.  
 3. Speak to all the congregation of Israel, saying, ‘On the tenth day of this month, they shall take to them every man a lamb, according to their fathers’ houses, a lamb for a household;  
@@ -2180,7 +2180,7 @@ The people bowed their heads and worshiped.
 50. All the children of Israel did so. As the LORD commanded Moses and Aaron, so they did.  
 51. That same day, the LORD brought the children of Israel out of the land of Egypt by their armies.   
 
-## Chapter 13
+## Exodus Chapter 13
 1. The LORD spoke to Moses, saying,  
 2. “Sanctify to me all the firstborn, whatever opens the womb among the children of Israel, both of man and of animal. It is mine.”   
 3. Moses said to the people, “Remember this day, in which you came out of Egypt, out of the house of bondage; for by strength of hand the LORD brought you out from this place. No leavened bread shall be eaten.  
@@ -2204,7 +2204,7 @@ The people bowed their heads and worshiped.
 21. The LORD went before them by day in a pillar of cloud, to lead them on their way, and by night in a pillar of fire, to give them light, that they might go by day and by night:  
 22. the pillar of cloud by day, and the pillar of fire by night, didn’t depart from before the people.   
 
-## Chapter 14
+## Exodus Chapter 14
 1. The LORD spoke to Moses, saying,  
 2. “Speak to the children of Israel, that they turn back and encamp before Pihahiroth, between Migdol and the sea, before Baal Zephon. You shall encamp opposite it by the sea.  
 3. Pharaoh will say of the children of Israel, ‘They are entangled in the land. The wilderness has shut them in.’  
@@ -2237,7 +2237,7 @@ The people bowed their heads and worshiped.
 30. Thus the LORD saved Israel that day out of the hand of the Egyptians; and Israel saw the Egyptians dead on the seashore.  
 31. Israel saw the great work which the LORD did to the Egyptians, and the people feared the LORD; and they believed in the LORD and in his servant Moses.   
 
-## Chapter 15
+## Exodus Chapter 15
 1. Then Moses and the children of Israel sang this song to the LORD, and said,  
 I will sing to the LORD, for he has triumphed gloriously.  
 He has thrown the horse and his rider into the sea.   
@@ -2297,7 +2297,7 @@ He has thrown the horse and his rider into the sea.”
 26. He said, “If you will diligently listen to the LORD your God’s voice, and will do that which is right in his eyes, and will pay attention to his commandments, and keep all his statutes, I will put none of the diseases on you which I have put on the Egyptians; for I am the LORD who heals you.”   
 27. They came to Elim, where there were twelve springs of water and seventy palm trees. They encamped there by the waters.   
 
-## Chapter 16
+## Exodus Chapter 16
 1. They took their journey from Elim, and all the congregation of the children of Israel came to the wilderness of Sin, which is between Elim and Sinai, on the fifteenth day of the second month after their departing out of the land of Egypt.  
 2. The whole congregation of the children of Israel murmured against Moses and against Aaron in the wilderness;  
 3. and the children of Israel said to them, “We wish that we had died by the LORD’s hand in the land of Egypt, when we sat by the meat pots, when we ate our fill of bread, for you have brought us out into this wilderness to kill this whole assembly with hunger.”   
@@ -2335,7 +2335,7 @@ He has thrown the horse and his rider into the sea.”
 35. The children of Israel ate the manna forty years, until they came to an inhabited land. They ate the manna until they came to the borders of the land of Canaan.  
 36. Now an omer is one tenth of an ephah.  
 
-## Chapter 17
+## Exodus Chapter 17
 1. All the congregation of the children of Israel traveled from the wilderness of Sin, starting according to the LORD’s commandment, and encamped in Rephidim; but there was no water for the people to drink.  
 2. Therefore the people quarreled with Moses, and said, “Give us water to drink.”  
 Moses said to them, “Why do you quarrel with me? Why do you test the LORD?”   
@@ -2354,7 +2354,7 @@ Moses said to them, “Why do you quarrel with me? Why do you test the LORD?”
 15. Moses built an altar, and called its name “The LORD our Banner”. 
 16. He said, “The LORD has sworn: ‘The LORD will have war with Amalek from generation to generation.’”   
 
-## Chapter 18
+## Exodus Chapter 18
 1. Now Jethro, the priest of Midian, Moses’ father-in-law, heard of all that God had done for Moses and for Israel his people, how the LORD had brought Israel out of Egypt.  
 2. Jethro, Moses’ father-in-law, received Zipporah, Moses’ wife, after he had sent her away,  
 3. and her two sons. The name of one son was Gershom, for Moses said, “I have lived as a foreigner in a foreign land”.  
@@ -2383,7 +2383,7 @@ Moses said to them, “Why do you quarrel with me? Why do you test the LORD?”
 26. They judged the people at all times. They brought the hard cases to Moses, but every small matter they judged themselves.  
 27. Moses let his father-in-law depart, and he went his way into his own land.   
 
-## Chapter 19
+## Exodus Chapter 19
 1. In the third month after the children of Israel had gone out of the land of Egypt, on that same day they came into the wilderness of Sinai.  
 2. When they had departed from Rephidim, and had come to the wilderness of Sinai, they encamped in the wilderness; and there Israel encamped before the mountain.  
 3. Moses went up to God, and the LORD called to him out of the mountain, saying, “This is what you shall tell the house of Jacob, and tell the children of Israel:  
@@ -2411,7 +2411,7 @@ Moses reported the words of the people to the LORD.
 24. The LORD said to him, “Go down! You shall bring Aaron up with you, but don’t let the priests and the people break through to come up to the LORD, lest he break out against them.”   
 25. So Moses went down to the people, and told them.   
 
-## Chapter 20
+## Exodus Chapter 20
 1. God spoke all these words, saying,  
 2. “I am the LORD your God, who brought you out of the land of Egypt, out of the house of bondage.   
 3. “You shall have no other gods before me.   
@@ -2439,7 +2439,7 @@ Moses reported the words of the people to the LORD.
 25. If you make me an altar of stone, you shall not build it of cut stones; for if you lift up your tool on it, you have polluted it.  
 26. You shall not go up by steps to my altar, that your nakedness may not be exposed to it.’   
 
-## Chapter 21
+## Exodus Chapter 21
 1. “Now these are the ordinances which you shall set before them:   
 2. “If you buy a Hebrew servant, he shall serve six years, and in the seventh he shall go out free without paying anything.  
 3. If he comes in by himself, he shall go out by himself. If he is married, then his wife shall go out with him.  
@@ -2477,7 +2477,7 @@ Moses reported the words of the people to the LORD.
 35. “If one man’s bull injures another’s, so that it dies, then they shall sell the live bull, and divide its price; and they shall also divide the dead animal.  
 36. Or if it is known that the bull was in the habit of goring in the past, and its owner has not kept it in, he shall surely pay bull for bull, and the dead animal shall be his own.   
 
-## Chapter 22
+## Exodus Chapter 22
 1. “If a man steals an ox or a sheep, and kills it or sells it, he shall pay five oxen for an ox, and four sheep for a sheep.  
 2. If the thief is found breaking in, and is struck so that he dies, there shall be no guilt of bloodshed for him.  
 3. If the sun has risen on him, he is guilty of bloodshed. He shall make restitution. If he has nothing, then he shall be sold for his theft.  
@@ -2511,7 +2511,7 @@ You shall give the firstborn of your sons to me.
 30. You shall do likewise with your cattle and with your sheep. It shall be with its mother seven days, then on the eighth day you shall give it to me.   
 31. “You shall be holy men to me, therefore you shall not eat any meat that is torn by animals in the field. You shall cast it to the dogs.   
 
-## Chapter 23
+## Exodus Chapter 23
 1. “You shall not spread a false report. Don’t join your hand with the wicked to be a malicious witness.   
 2. “You shall not follow a crowd to do evil. You shall not testify in court to side with a multitude to pervert justice.  
 3. You shall not favor a poor man in his cause.   
@@ -2547,7 +2547,7 @@ You shall not boil a young goat in its mother’s milk.
 32. You shall make no covenant with them, nor with their gods.  
 33. They shall not dwell in your land, lest they make you sin against me, for if you serve their gods, it will surely be a snare to you.”   
 
-## Chapter 24
+## Exodus Chapter 24
 1. He said to Moses, “Come up to the LORD, you, and Aaron, Nadab, and Abihu, and seventy of the elders of Israel; and worship from a distance.  
 2. Moses alone shall come near to the LORD, but they shall not come near. The people shall not go up with him.”   
 3. Moses came and told the people all the LORD’s words, and all the ordinances; and all the people answered with one voice, and said, “All the words which the LORD has spoken will we do.”   
@@ -2567,7 +2567,7 @@ You shall not boil a young goat in its mother’s milk.
 17. The appearance of the LORD’s glory was like devouring fire on the top of the mountain in the eyes of the children of Israel.  
 18. Moses entered into the middle of the cloud, and went up on the mountain; and Moses was on the mountain forty days and forty nights.   
 
-## Chapter 25
+## Exodus Chapter 25
 1. The LORD spoke to Moses, saying,  
 2. “Speak to the children of Israel, that they take an offering for me. From everyone whose heart makes him willing you shall take my offering.  
 3. This is the offering which you shall take from them: gold, silver, bronze,  
@@ -2609,7 +2609,7 @@ You shall not boil a young goat in its mother’s milk.
 39. It shall be made of a talent of pure gold, with all these accessories.  
 40. See that you make them after their pattern, which has been shown to you on the mountain.   
 
-## Chapter 26
+## Exodus Chapter 26
 1. “Moreover you shall make the tabernacle with ten curtains of fine twined linen, and blue, and purple, and scarlet, with cherubim. You shall make them with the work of a skillful workman.  
 2. The length of each curtain shall be twenty-eight cubits, and the width of each curtain four cubits: all the curtains shall have one measure.  
 3. Five curtains shall be coupled together to one another, and the other five curtains shall be coupled to one another.  
@@ -2648,7 +2648,7 @@ You shall not boil a young goat in its mother’s milk.
 36. “You shall make a screen for the door of the Tent, of blue, and purple, and scarlet, and fine twined linen, the work of the embroiderer.  
 37. You shall make for the screen five pillars of acacia, and overlay them with gold. Their hooks shall be of gold. You shall cast five sockets of bronze for them.   
 
-## Chapter 27
+## Exodus Chapter 27
 1. “You shall make the altar of acacia wood, five cubits long, and five cubits wide. The altar shall be square. Its height shall be three cubits. 
 2. You shall make its horns on its four corners. Its horns shall be of one piece with it. You shall overlay it with bronze.  
 3. You shall make its pots to take away its ashes; and its shovels, its basins, its meat hooks, and its fire pans. You shall make all its vessels of bronze.  
@@ -2671,7 +2671,7 @@ You shall not boil a young goat in its mother’s milk.
 20. “You shall command the children of Israel, that they bring to you pure olive oil beaten for the light, to cause a lamp to burn continually.  
 21. In the Tent of Meeting, outside the veil which is before the covenant, Aaron and his sons shall keep it in order from evening to morning before the LORD: it shall be a statute forever throughout their generations on the behalf of the children of Israel.   
 
-## Chapter 28
+## Exodus Chapter 28
 1. “Bring Aaron your brother, and his sons with him, near to you from among the children of Israel, that he may minister to me in the priest’s office: Aaron, with Nadab, Abihu, Eleazar, and Ithamar, Aaron’s sons.  
 2. You shall make holy garments for Aaron your brother, for glory and for beauty.  
 3. You shall speak to all who are wise-hearted, whom I have filled with the spirit of wisdom, that they make Aaron’s garments to sanctify him, that he may minister to me in the priest’s office.  
@@ -2716,7 +2716,7 @@ You shall not boil a young goat in its mother’s milk.
 42. You shall make them linen pants to cover their naked flesh. They shall reach from the waist even to the thighs.  
 43. They shall be on Aaron and on his sons, when they go in to the Tent of Meeting, or when they come near to the altar to minister in the holy place, that they don’t bear iniquity, and die. This shall be a statute forever to him and to his offspring after him.   
 
-## Chapter 29
+## Exodus Chapter 29
 1. “This is the thing that you shall do to them to make them holy, to minister to me in the priest’s office: take one young bull and two rams without defect,  
 2. unleavened bread, unleavened cakes mixed with oil, and unleavened wafers anointed with oil. You shall make them of fine wheat flour.  
 3. You shall put them into one basket, and bring them in the basket, with the bull and the two rams.  
@@ -2764,7 +2764,7 @@ You shall not boil a young goat in its mother’s milk.
 45. I will dwell among the children of Israel, and will be their God.  
 46. They shall know that I am the LORD their God, who brought them out of the land of Egypt, that I might dwell among them: I am the LORD their God.   
 
-## Chapter 30
+## Exodus Chapter 30
 1. “You shall make an altar to burn incense on. You shall make it of acacia wood.  
 2. Its length shall be a cubit, and its width a cubit. It shall be square, and its height shall be two cubits. Its horns shall be of one piece with it.  
 3. You shall overlay it with pure gold, its top, its sides around it, and its horns; and you shall make a gold molding around it.  
@@ -2804,7 +2804,7 @@ You shall not boil a young goat in its mother’s milk.
 37. You shall not make this incense, according to its composition, for yourselves: it shall be to you holy for the LORD.  
 38. Whoever shall make any like that, to smell of it, he shall be cut off from his people.”   
 
-## Chapter 31
+## Exodus Chapter 31
 1. The LORD spoke to Moses, saying,  
 2. “Behold, I have called by name Bezalel the son of Uri, the son of Hur, of the tribe of Judah.  
 3. I have filled him with the Spirit of God, in wisdom, and in understanding, and in knowledge, and in all kinds of workmanship,  
@@ -2824,7 +2824,7 @@ You shall not boil a young goat in its mother’s milk.
 17. It is a sign between me and the children of Israel forever; for in six days the LORD made heaven and earth, and on the seventh day he rested, and was refreshed.’”   
 18. When he finished speaking with him on Mount Sinai, he gave Moses the two tablets of the covenant, stone tablets, written with God’s finger.   
 
-## Chapter 32
+## Exodus Chapter 32
 1. When the people saw that Moses delayed coming down from the mountain, the people gathered themselves together to Aaron, and said to him, “Come, make us gods, which shall go before us; for as for this Moses, the man who brought us up out of the land of Egypt, we don’t know what has become of him.”   
 2. Aaron said to them, “Take off the golden rings, which are in the ears of your wives, of your sons, and of your daughters, and bring them to me.”   
 3. All the people took off the golden rings which were in their ears, and brought them to Aaron.  
@@ -2862,7 +2862,7 @@ All the sons of Levi gathered themselves together to him.
 34. Now go, lead the people to the place of which I have spoken to you. Behold, my angel shall go before you. Nevertheless, in the day when I punish, I will punish them for their sin.”  
 35. The LORD struck the people, because of what they did with the calf, which Aaron made.   
 
-## Chapter 33
+## Exodus Chapter 33
 1. The LORD spoke to Moses, “Depart, go up from here, you and the people that you have brought up out of the land of Egypt, to the land of which I swore to Abraham, to Isaac, and to Jacob, saying, ‘I will give it to your offspring.’  
 2. I will send an angel before you; and I will drive out the Canaanite, the Amorite, and the Hittite, and the Perizzite, the Hivite, and the Jebusite.  
 3. Go to a land flowing with milk and honey; but I will not go up among you, for you are a stiff-necked people, lest I consume you on the way.”   
@@ -2887,7 +2887,7 @@ All the sons of Levi gathered themselves together to him.
 22. It will happen, while my glory passes by, that I will put you in a cleft of the rock, and will cover you with my hand until I have passed by;  
 23. then I will take away my hand, and you will see my back; but my face shall not be seen.”   
 
-## Chapter 34
+## Exodus Chapter 34
 1. The LORD said to Moses, “Chisel two stone tablets like the first. I will write on the tablets the words that were on the first tablets, which you broke.  
 2. Be ready by the morning, and come up in the morning to Mount Sinai, and present yourself there to me on the top of the mountain.  
 3. No one shall come up with you or be seen anywhere on the mountain. Do not let the flocks or herds graze in front of that mountain.”   
@@ -2925,7 +2925,7 @@ You shall not boil a young goat in its mother’s milk.”
 34. But when Moses went in before the LORD to speak with him, he took the veil off, until he came out; and he came out, and spoke to the children of Israel that which he was commanded.  
 35. The children of Israel saw Moses’ face, that the skin of Moses’ face shone; so Moses put the veil on his face again, until he went in to speak with him.   
 
-## Chapter 35
+## Exodus Chapter 35
 1. Moses assembled all the congregation of the children of Israel, and said to them, “These are the words which the LORD has commanded, that you should do them.  
 2. ‘Six days shall work be done, but on the seventh day there shall be a holy day for you, a Sabbath of solemn rest to the LORD: whoever does any work in it shall be put to death.  
 3. You shall kindle no fire throughout your habitations on the Sabbath day.’”   
@@ -2962,7 +2962,7 @@ You shall not boil a young goat in its mother’s milk.”
 34. He has put in his heart that he may teach, both he and Oholiab, the son of Ahisamach, of the tribe of Dan.  
 35. He has filled them with wisdom of heart to work all kinds of workmanship, of the engraver, of the skillful workman, and of the embroiderer, in blue, in purple, in scarlet, and in fine linen, and of the weaver, even of those who do any workmanship, and of those who make skillful works.   
 
-## Chapter 36
+## Exodus Chapter 36
 1. “Bezalel and Oholiab shall work with every wise-hearted man, in whom the LORD has put wisdom and understanding to know how to do all the work for the service of the sanctuary, according to all that the LORD has commanded.”   
 2. Moses called Bezalel and Oholiab, and every wise-hearted man, in whose heart the LORD had put wisdom, even everyone whose heart stirred him up to come to the work to do it.  
 3. They received from Moses all the offering which the children of Israel had brought for the work of the service of the sanctuary, with which to make it. They kept bringing free will offerings to him every morning.  
@@ -3002,7 +3002,7 @@ You shall not boil a young goat in its mother’s milk.”
 37. He made a screen for the door of the tent, of blue, purple, scarlet, and fine twined linen, the work of an embroiderer;  
 38. and the five pillars of it with their hooks. He overlaid their capitals and their fillets with gold, and their five sockets were of bronze.   
 
-## Chapter 37
+## Exodus Chapter 37
 1. Bezalel made the ark of acacia wood. Its length was two and a half cubits, and its width a cubit and a half, and a cubit and a half its height.  
 2. He overlaid it with pure gold inside and outside, and made a molding of gold for it around it.  
 3. He cast four rings of gold for it in its four feet—two rings on its one side, and two rings on its other side.  
@@ -3033,7 +3033,7 @@ You shall not boil a young goat in its mother’s milk.”
 28. He made the poles of acacia wood, and overlaid them with gold.  
 29. He made the holy anointing oil and the pure incense of sweet spices, after the art of the perfumer.   
 
-## Chapter 38
+## Exodus Chapter 38
 1. He made the altar of burnt offering of acacia wood. It was square. Its length was five cubits, its width was five cubits, and its height was three cubits.  
 2. He made its horns on its four corners. Its horns were of one piece with it, and he overlaid it with bronze.  
 3. He made all the vessels of the altar: the pots, the shovels, the basins, the forks, and the fire pans. He made all its vessels of bronze.  
@@ -3066,7 +3066,7 @@ You shall not boil a young goat in its mother’s milk.”
 30. With this he made the sockets to the door of the Tent of Meeting, the bronze altar, the bronze grating for it, all the vessels of the altar,  
 31. the sockets around the court, the sockets of the gate of the court, all the pins of the tabernacle, and all the pins around the court.   
 
-## Chapter 39
+## Exodus Chapter 39
 1. Of the blue, purple, and scarlet, they made finely worked garments for ministering in the holy place, and made the holy garments for Aaron, as the LORD commanded Moses.   
 2. He made the ephod of gold, blue, purple, scarlet, and fine twined linen.  
 3. They beat the gold into thin plates, and cut it into wires, to work it in with the blue, the purple, the scarlet, and the fine linen, the work of the skillful workman.  
@@ -3111,7 +3111,7 @@ You shall not boil a young goat in its mother’s milk.”
 42. According to all that the LORD commanded Moses, so the children of Israel did all the work.  
 43. Moses saw all the work, and behold, they had done it as the LORD had commanded. They had done so; and Moses blessed them.   
 
-## Chapter 40
+## Exodus Chapter 40
 1. The LORD spoke to Moses, saying,  
 2. “On the first day of the first month you shall raise up the tabernacle of the Tent of Meeting.  
 3. You shall put the ark of the covenant in it, and you shall screen the ark with the veil.  
@@ -3153,7 +3153,7 @@ You shall not boil a young goat in its mother’s milk.”
 
 # Leviticus
 
-## Chapter 1
+## Leviticus Chapter 1
 1. The LORD called to Moses, and spoke to him from the Tent of Meeting, saying,  
 2. “Speak to the children of Israel, and tell them, ‘When anyone of you offers an offering to the LORD, you shall offer your offering of the livestock, from the herd and from the flock.   
 3. “‘If his offering is a burnt offering from the herd, he shall offer a male without defect. He shall offer it at the door of the Tent of Meeting, that he may be accepted before the LORD.  
@@ -3172,7 +3172,7 @@ You shall not boil a young goat in its mother’s milk.”
 16. and he shall take away its crop and its feathers, and cast it beside the altar on the east part, in the place of the ashes.  
 17. He shall tear it by its wings, but shall not divide it apart. The priest shall burn it on the altar, on the wood that is on the fire. It is a burnt offering, an offering made by fire, of a pleasant aroma to the LORD.   
 
-## Chapter 2
+## Leviticus Chapter 2
 1. “‘When anyone offers an offering of a meal offering to the LORD, his offering shall be of fine flour. He shall pour oil on it, and put frankincense on it.  
 2. He shall bring it to Aaron’s sons, the priests. He shall take his handful of its fine flour, and of its oil, with all its frankincense, and the priest shall burn its memorial on the altar, an offering made by fire, of a pleasant aroma to the LORD.  
 3. That which is left of the meal offering shall be Aaron’s and his sons’. It is a most holy part of the offerings of the LORD made by fire.   
@@ -3190,7 +3190,7 @@ You shall not boil a young goat in its mother’s milk.”
 15. You shall put oil on it and lay frankincense on it. It is a meal offering.  
 16. The priest shall burn as its memorial part of its crushed grain and part of its oil, along with all its frankincense. It is an offering made by fire to the LORD.   
 
-## Chapter 3
+## Leviticus Chapter 3
 1. “‘If his offering is a sacrifice of peace offerings, if he offers it from the herd, whether male or female, he shall offer it without defect before the LORD.  
 2. He shall lay his hand on the head of his offering, and kill it at the door of the Tent of Meeting. Aaron’s sons, the priests, shall sprinkle the blood around on the altar.  
 3. He shall offer of the sacrifice of peace offerings an offering made by fire to the LORD. The fat that covers the innards, and all the fat that is on the innards,  
@@ -3209,7 +3209,7 @@ You shall not boil a young goat in its mother’s milk.”
 16. The priest shall burn them on the altar: it is the food of the offering made by fire, for a pleasant aroma; all the fat is the LORD’s.   
 17. “‘It shall be a perpetual statute throughout your generations in all your dwellings, that you shall eat neither fat nor blood.’”   
 
-## Chapter 4
+## Leviticus Chapter 4
 1. The LORD spoke to Moses, saying,  
 2. “Speak to the children of Israel, saying, ‘If anyone sins unintentionally, in any of the things which the LORD has commanded not to be done, and does any one of them,  
 3. if the anointed priest sins so as to bring guilt on the people, then let him offer for his sin which he has sinned a young bull without defect to the LORD for a sin offering.  
@@ -3246,7 +3246,7 @@ You shall not boil a young goat in its mother’s milk.”
 34. The priest shall take some of the blood of the sin offering with his finger, and put it on the horns of the altar of burnt offering; and all the rest of its blood he shall pour out at the base of the altar.  
 35. He shall remove all its fat, like the fat of the lamb is removed from the sacrifice of peace offerings. The priest shall burn them on the altar, on the offerings of the LORD made by fire. The priest shall make atonement for him concerning his sin that he has sinned, and he will be forgiven.   
 
-## Chapter 5
+## Leviticus Chapter 5
 1. “‘If anyone sins, in that he hears a public adjuration to testify, he being a witness, whether he has seen or known, if he doesn’t report it, then he shall bear his iniquity.   
 2. “‘Or if anyone touches any unclean thing, whether it is the carcass of an unclean animal, or the carcass of unclean livestock, or the carcass of unclean creeping things, and it is hidden from him, and he is unclean, then he shall be guilty.   
 3. “‘Or if he touches the uncleanness of man, whatever his uncleanness is with which he is unclean, and it is hidden from him; when he knows of it, then he shall be guilty.   
@@ -3267,7 +3267,7 @@ You shall not boil a young goat in its mother’s milk.”
 18. He shall bring a ram without defect from of the flock, according to your estimation, for a trespass offering, to the priest; and the priest shall make atonement for him concerning the thing in which he sinned and didn’t know it, and he will be forgiven.  
 19. It is a trespass offering. He is certainly guilty before the LORD.”   
 
-## Chapter 6
+## Leviticus Chapter 6
 1. The LORD spoke to Moses, saying,  
 2. “If anyone sins, and commits a trespass against the LORD, and deals falsely with his neighbor in a matter of deposit, or of bargain, or of robbery, or has oppressed his neighbor,  
 3. or has found that which was lost, and lied about it, and swearing to a lie—in any of these things that a man sins in his actions—  
@@ -3299,7 +3299,7 @@ You shall not boil a young goat in its mother’s milk.”
 29. Every male among the priests shall eat of it. It is most holy.  
 30. No sin offering, of which any of the blood is brought into the Tent of Meeting to make atonement in the Holy Place, shall be eaten. It shall be burned with fire.   
 
-## Chapter 7
+## Leviticus Chapter 7
 1. “‘This is the law of the trespass offering: It is most holy.  
 2. In the place where they kill the burnt offering, he shall kill the trespass offering; and its blood he shall sprinkle around on the altar.  
 3. He shall offer all of its fat: the fat tail, and the fat that covers the innards,  
@@ -3339,7 +3339,7 @@ You shall not boil a young goat in its mother’s milk.”
 37. This is the law of the burnt offering, the meal offering, the sin offering, the trespass offering, the consecration, and the sacrifice of peace offerings 
 38. which the LORD commanded Moses in Mount Sinai in the day that he commanded the children of Israel to offer their offerings to the LORD, in the wilderness of Sinai.   
 
-## Chapter 8
+## Leviticus Chapter 8
 1. The LORD spoke to Moses, saying,  
 2. “Take Aaron and his sons with him, and the garments, and the anointing oil, and the bull of the sin offering, and the two rams, and the basket of unleavened bread;  
 3. and assemble all the congregation at the door of the Tent of Meeting.”   
@@ -3377,7 +3377,7 @@ You shall not boil a young goat in its mother’s milk.”
 35. You shall stay at the door of the Tent of Meeting day and night seven days, and keep the LORD’s command, that you don’t die: for so I am commanded.”  
 36. Aaron and his sons did all the things which the LORD commanded by Moses.   
 
-## Chapter 9
+## Leviticus Chapter 9
 1. On the eighth day, Moses called Aaron and his sons, and the elders of Israel;  
 2. and he said to Aaron, “Take a calf from the herd for a sin offering, and a ram for a burnt offering, without defect, and offer them before the LORD.  
 3. You shall speak to the children of Israel, saying, ‘Take a male goat for a sin offering; and a calf and a lamb, both a year old, without defect, for a burnt offering;  
@@ -3403,7 +3403,7 @@ You shall not boil a young goat in its mother’s milk.”
 23. Moses and Aaron went into the Tent of Meeting, and came out, and blessed the people; and the LORD’s glory appeared to all the people.  
 24. Fire came out from before the LORD, and consumed the burnt offering and the fat upon the altar. When all the people saw it, they shouted, and fell on their faces.   
 
-## Chapter 10
+## Leviticus Chapter 10
 1. Nadab and Abihu, the sons of Aaron, each took his censer, and put fire in it, and laid incense on it, and offered strange fire before the LORD, which he had not commanded them.  
 2. Fire came out from before the LORD, and devoured them, and they died before the LORD.   
 3. Then Moses said to Aaron, “This is what the LORD spoke of, saying,  
@@ -3428,7 +3428,7 @@ held his peace.
 19. Aaron spoke to Moses, “Behold, today they have offered their sin offering and their burnt offering before the LORD; and such things as these have happened to me. If I had eaten the sin offering today, would it have been pleasing in the LORD’s sight?”   
 20. When Moses heard that, it was pleasing in his sight.   
 
-## Chapter 11
+## Leviticus Chapter 11
 1. The LORD spoke to Moses and to Aaron, saying to them,  
 2. “Speak to the children of Israel, saying, ‘These are the living things which you may eat among all the animals that are on the earth.  
 3. Whatever parts the hoof, and is cloven-footed, and chews the cud among the animals, that you may eat.   
@@ -3477,7 +3477,7 @@ held his peace.
 46. “‘This is the law of the animal, and of the bird, and of every living creature that moves in the waters, and of every creature that creeps on the earth,  
 47. to make a distinction between the unclean and the clean, and between the living thing that may be eaten and the living thing that may not be eaten.’”   
 
-## Chapter 12
+## Leviticus Chapter 12
 1. The LORD spoke to Moses, saying,  
 2. “Speak to the children of Israel, saying, ‘If a woman conceives, and bears a male child, then she shall be unclean seven days; as in the days of her monthly period she shall be unclean.  
 3. In the eighth day the flesh of his foreskin shall be circumcised.  
@@ -3488,7 +3488,7 @@ held his peace.
 This is the law for her who bears, whether a male or a female.  
 8. If she cannot afford a lamb, then she shall take two turtledoves or two young pigeons: the one for a burnt offering, and the other for a sin offering. The priest shall make atonement for her, and she shall be clean.’”   
 
-## Chapter 13
+## Leviticus Chapter 13
 1. The LORD spoke to Moses and to Aaron, saying,  
 2. “When a man shall have a swelling in his body’s skin, or a scab, or a bright spot, and it becomes in the skin of his body the plague of leprosy, then he shall be brought to Aaron the priest or to one of his sons, the priests.  
 3. The priest shall examine the plague in the skin of the body. If the hair in the plague has turned white, and the appearance of the plague is deeper than the body’s skin, it is the plague of leprosy; so the priest shall examine him and pronounce him unclean.  
@@ -3549,7 +3549,7 @@ This is the law for her who bears, whether a male or a female.
 58. The garment, either the warp, or the woof, or whatever thing of skin it is, which you shall wash, if the plague has departed from them, then it shall be washed the second time, and it will be clean.”   
 59. This is the law of the plague of mildew in a garment of wool or linen, either in the warp, or the woof, or in anything of skin, to pronounce it clean, or to pronounce it unclean.   
 
-## Chapter 14
+## Leviticus Chapter 14
 1. The LORD spoke to Moses, saying,   
 2. “This shall be the law of the leper in the day of his cleansing: He shall be brought to the priest,  
 3. and the priest shall go out of the camp. The priest shall examine him. Behold, if the plague of leprosy is healed in the leper,  
@@ -3609,7 +3609,7 @@ This is the law for her who bears, whether a male or a female.
 57. to teach when it is unclean, and when it is clean.  
 This is the law of leprosy.   
 
-## Chapter 15
+## Leviticus Chapter 15
 1. The LORD spoke to Moses and to Aaron, saying,  
 2. “Speak to the children of Israel, and tell them, ‘When any man has a discharge from his body, because of his discharge he is unclean.  
 3. This shall be his uncleanness in his discharge: whether his body runs with his discharge, or his body has stopped from his discharge, it is his uncleanness.   
@@ -3644,7 +3644,7 @@ This is the law of leprosy.
 32. This is the law of him who has a discharge, and of him who has an emission of semen, so that he is unclean by it;  
 33. and of her who has her period, and of a man or woman who has a discharge, and of him who lies with her who is unclean.   
 
-## Chapter 16
+## Leviticus Chapter 16
 1. The LORD spoke to Moses after the death of the two sons of Aaron, when they came near before the LORD, and died;  
 2. and the LORD said to Moses, “Tell Aaron your brother not to come at just any time into the Most Holy Place within the veil, before the mercy seat which is on the ark; lest he die; for I will appear in the cloud on the mercy seat.   
 3. “Aaron shall come into the sanctuary with a young bull for a sin offering, and a ram for a burnt offering.  
@@ -3681,7 +3681,7 @@ This is the law of leprosy.
 34. “This shall be an everlasting statute for you, to make atonement for the children of Israel once in the year because of all their sins.”  
 It was done as the LORD commanded Moses.   
 
-## Chapter 17
+## Leviticus Chapter 17
 1. The LORD spoke to Moses, saying,  
 2. “Speak to Aaron, and to his sons, and to all the children of Israel, and say to them, ‘This is the thing which the LORD has commanded:  
 3. Whatever man there is of the house of Israel who kills a bull, or lamb, or goat in the camp, or who kills it outside the camp,  
@@ -3699,7 +3699,7 @@ It was done as the LORD commanded Moses.
 15. “‘Every person that eats what dies of itself, or that which is torn by animals, whether he is native-born or a foreigner, shall wash his clothes, and bathe himself in water, and be unclean until the evening. Then he shall be clean.  
 16. But if he doesn’t wash them, or bathe his flesh, then he shall bear his iniquity.’”   
 
-## Chapter 18
+## Leviticus Chapter 18
 1. The LORD said to Moses,  
 2. “Speak to the children of Israel, and say to them, ‘I am the LORD your God.  
 3. You shall not do as they do in the land of Egypt, where you lived. You shall not do as they do in the land of Canaan, where I am bringing you. You shall not follow their statutes.  
@@ -3731,7 +3731,7 @@ It was done as the LORD commanded Moses.
 29. “‘For whoever shall do any of these abominations, even the souls that do them shall be cut off from among their people.  
 30. Therefore you shall keep my requirements, that you do not practice any of these abominable customs which were practiced before you, and that you do not defile yourselves with them. I am the LORD your God.’”   
 
-## Chapter 19
+## Leviticus Chapter 19
 1. The LORD spoke to Moses, saying,  
 2. “Speak to all the congregation of the children of Israel, and tell them, ‘You shall be holy; for I, the LORD your God, am holy.   
 3. “‘Each one of you shall respect his mother and his father. You shall keep my Sabbaths. I am the LORD your God.   
@@ -3777,7 +3777,7 @@ wear a garment made of two kinds of material.
 36. You shall have just balances, just weights, a just ephah, and a just hin. I am the LORD your God, who brought you out of the land of Egypt.   
 37. “‘You shall observe all my statutes and all my ordinances, and do them. I am the LORD.’”   
 
-## Chapter 20
+## Leviticus Chapter 20
 1. The LORD spoke to Moses, saying,  
 2. “Moreover, you shall tell the children of Israel, ‘Anyone of the children of Israel, or of the strangers who live as foreigners in Israel, who gives any of his offspring to Molech shall surely be put to death. The people of the land shall stone that person with stones.  
 3. I also will set my face against that person, and will cut him off from among his people, because he has given of his offspring to Molech, to defile my sanctuary, and to profane my holy name.  
@@ -3806,7 +3806,7 @@ wear a garment made of two kinds of material.
 26. You shall be holy to me, for I, the LORD, am holy, and have set you apart from the peoples, that you should be mine.   
 27. “‘A man or a woman that is a medium or is a wizard shall surely be put to death. They shall be stoned with stones. Their blood shall be upon themselves.’”   
 
-## Chapter 21
+## Leviticus Chapter 21
 1. The LORD said to Moses, “Speak to the priests, the sons of Aaron, and say to them, ‘A priest shall not defile himself for the dead among his people,  
 2. except for his relatives that are near to him: for his mother, for his father, for his son, for his daughter, for his brother,  
 3. and for his virgin sister who is near to him, who has had no husband; for her he may defile himself.  
@@ -3832,7 +3832,7 @@ wear a garment made of two kinds of material.
 23. He shall not come near to the veil, nor come near to the altar, because he has a defect; that he may not profane my sanctuaries, for I am the LORD who sanctifies them.’”   
 24. So Moses spoke to Aaron, and to his sons, and to all the children of Israel.   
 
-## Chapter 22
+## Leviticus Chapter 22
 1. The LORD spoke to Moses, saying,  
 2. “Tell Aaron and his sons to separate themselves from the holy things of the children of Israel, which they make holy to me, and that they not profane my holy name. I am the LORD.  
 3. “Tell them, ‘If anyone of all your offspring throughout your generations approaches the holy things which the children of Israel make holy to the LORD, having his uncleanness on him, that soul shall be cut off from before me. I am the LORD.   
@@ -3867,7 +3867,7 @@ wear a garment made of two kinds of material.
 32. You shall not profane my holy name, but I will be made holy among the children of Israel. I am the LORD who makes you holy,  
 33. who brought you out of the land of Egypt, to be your God. I am the LORD.”   
 
-## Chapter 23
+## Leviticus Chapter 23
 1. The LORD spoke to Moses, saying,  
 2. “Speak to the children of Israel, and tell them, ‘The set feasts of the LORD, which you shall proclaim to be holy convocations, even these are my set feasts.   
 3. “‘Six days shall work be done, but on the seventh day is a Sabbath of solemn rest, a holy convocation; you shall do no kind of work. It is a Sabbath to the LORD in all your dwellings.   
@@ -3913,7 +3913,7 @@ wear a garment made of two kinds of material.
 43. that your generations may know that I made the children of Israel to dwell in temporary shelters when I brought them out of the land of Egypt. I am the LORD your God.’”   
 44. So Moses declared to the children of Israel the appointed feasts of the LORD.   
 
-## Chapter 24
+## Leviticus Chapter 24
 1. The LORD spoke to Moses, saying,  
 2. “Command the children of Israel, that they bring to you pure olive oil beaten for the light, to cause a lamp to burn continually.  
 3. Outside of the veil of the Testimony, in the Tent of Meeting, Aaron shall keep it in order from evening to morning before the LORD continually. It shall be a statute forever throughout your generations.  
@@ -3938,7 +3938,7 @@ wear a garment made of two kinds of material.
 22. You shall have one kind of law for the foreigner as well as the native-born; for I am the LORD your God.’”   
 23. Moses spoke to the children of Israel; and they brought him who had cursed out of the camp, and stoned him with stones. The children of Israel did as the LORD commanded Moses.   
 
-## Chapter 25
+## Leviticus Chapter 25
 1. The LORD said to Moses on Mount Sinai,  
 2. “Speak to the children of Israel, and tell them, ‘When you come into the land which I give you, then the land shall keep a Sabbath to the LORD.  
 3. You shall sow your field six years, and you shall prune your vineyard six years, and gather in its fruits;  
@@ -3995,7 +3995,7 @@ wear a garment made of two kinds of material.
 54. If he isn’t redeemed by these means, then he shall be released in the Year of Jubilee: he and his children with him.  
 55. For to me the children of Israel are servants; they are my servants whom I brought out of the land of Egypt. I am the LORD your God.   
 
-## Chapter 26
+## Leviticus Chapter 26
 1. “‘You shall make for yourselves no idols, and you shall not raise up a carved image or a pillar, and you shall not place any figured stone in your land, to bow down to it; for I am the LORD your God.   
 2. “‘You shall keep my Sabbaths, and have reverence for my sanctuary. I am the LORD.   
 3. “‘If you walk in my statutes and keep my commandments, and do them,  
@@ -4043,7 +4043,7 @@ wear a garment made of two kinds of material.
 45. But I will for their sake remember the covenant of their ancestors, whom I brought out of the land of Egypt in the sight of the nations, that I might be their God. I am the LORD.’”   
 46. These are the statutes, ordinances, and laws, which the LORD made between him and the children of Israel in Mount Sinai by Moses.   
 
-## Chapter 27
+## Leviticus Chapter 27
 1. The LORD spoke to Moses, saying,  
 2. “Speak to the children of Israel, and say to them, ‘When a man consecrates a person to the LORD in a vow, according to your valuation,  
 3. your valuation of a male from twenty years old to sixty years old shall be fifty shekels of silver, according to the shekel of the sanctuary.  
@@ -4081,7 +4081,7 @@ wear a garment made of two kinds of material.
 
 # Numbers
 
-## Chapter 1
+## Numbers Chapter 1
 1. The LORD spoke to Moses in the wilderness of Sinai, in the Tent of Meeting, on the first day of the second month, in the second year after they had come out of the land of Egypt, saying,  
 2. “Take a census of all the congregation of the children of Israel, by their families, by their fathers’ houses, according to the number of the names, every male, one by one,  
 3. from twenty years old and upward, all who are able to go out to war in Israel. You and Aaron shall count them by their divisions.  
@@ -4138,7 +4138,7 @@ Of Reuben: Elizur the son of Shedeur.
 53. But the Levites shall encamp around the Tabernacle of the Testimony, that there may be no wrath on the congregation of the children of Israel. The Levites shall be responsible for the Tabernacle of the Testimony.”   
 54. Thus the children of Israel did. According to all that the LORD commanded Moses, so they did.   
 
-## Chapter 2
+## Numbers Chapter 2
 1. The LORD spoke to Moses and to Aaron, saying,  
 2. “The children of Israel shall encamp every man by his own standard, with the banners of their fathers’ houses. They shall encamp around the Tent of Meeting at a distance from it.   
 3. “Those who encamp on the east side toward the sunrise shall be of the standard of the camp of Judah, according to their divisions. The prince of the children of Judah shall be Nahshon the son of Amminadab.  
@@ -4174,7 +4174,7 @@ Of Reuben: Elizur the son of Shedeur.
 33. But the Levites were not counted among the children of Israel, as the LORD commanded Moses.   
 34. Thus the children of Israel did. According to all that the LORD commanded Moses, so they encamped by their standards, and so they set out, everyone by their families, according to their fathers’ houses.   
 
-## Chapter 3
+## Numbers Chapter 3
 1. Now this is the history of the generations of Aaron and Moses in the day that the LORD spoke with Moses in Mount Sinai.  
 2. These are the names of the sons of Aaron: Nadab the firstborn, and Abihu, Eleazar, and Ithamar.   
 3. These are the names of the sons of Aaron, the priests who were anointed, whom he consecrated to minister in the priest’s office.  
@@ -4228,7 +4228,7 @@ These are the families of the Levites according to their fathers’ houses.
 50. from the firstborn of the children of Israel he took the money, one thousand three hundred sixty-five shekels, according to the shekel of the sanctuary;  
 51. and Moses gave the redemption money to Aaron and to his sons, according to the LORD’s word, as the LORD commanded Moses.   
 
-## Chapter 4
+## Numbers Chapter 4
 1. The LORD spoke to Moses and to Aaron, saying,  
 2. “Take a census of the sons of Kohath from among the sons of Levi, by their families, by their fathers’ houses,  
 3. from thirty years old and upward even until fifty years old, all who enter into the service to do the work in the Tent of Meeting.   
@@ -4279,7 +4279,7 @@ These are the families of the Levites according to their fathers’ houses.
 48. even those who were counted of them, were eight thousand five hundred eighty.  
 49. According to the commandment of the LORD they were counted by Moses, everyone according to his service and according to his burden. Thus they were counted by him, as the LORD commanded Moses.   
 
-## Chapter 5
+## Numbers Chapter 5
 1. The LORD spoke to Moses, saying,  
 2. “Command the children of Israel that they put out of the camp every leper, everyone who has a discharge, and whoever is unclean by a corpse.  
 3. You shall put both male and female outside of the camp so that they don’t defile their camp, in the midst of which I dwell.”   
@@ -4312,7 +4312,7 @@ These are the families of the Levites according to their fathers’ houses.
 30. or when the spirit of jealousy comes on a man, and he is jealous of his wife; then he shall set the woman before the LORD, and the priest shall execute on her all this law.  
 31. The man shall be free from iniquity, and that woman shall bear her iniquity.’”   
 
-## Chapter 6
+## Numbers Chapter 6
 1. The LORD spoke to Moses, saying,  
 2. “Speak to the children of Israel, and tell them: ‘When either man or woman shall make a special vow, the vow of a Nazirite, to separate himself to the LORD,  
 3. he shall separate himself from wine and strong drink. He shall drink no vinegar of wine, or vinegar of fermented drink, neither shall he drink any juice of grapes, nor eat fresh grapes or dried.  
@@ -4343,7 +4343,7 @@ and be gracious to you.
 and give you peace.’   
 27. “So they shall put my name on the children of Israel; and I will bless them.”   
 
-## Chapter 7
+## Numbers Chapter 7
 1. On the day that Moses had finished setting up the tabernacle, and had anointed it and sanctified it with all its furniture, and the altar with all its vessels, and had anointed and sanctified them;  
 2. the princes of Israel, the heads of their fathers’ houses, gave offerings. These were the princes of the tribes. These are they who were over those who were counted;  
 3. and they brought their offering before the LORD, six covered wagons and twelve oxen; a wagon for every two of the princes, and for each one an ox. They presented them before the tabernacle.  
@@ -4482,7 +4482,7 @@ one male lamb a year old, for a burnt offering;
 88. and all the cattle for the sacrifice of peace offerings: twenty-four bulls, sixty rams, sixty male goats, and sixty male lambs a year old. This was the dedication offering of the altar, after it was anointed.   
 89. When Moses went into the Tent of Meeting to speak with the LORD, he heard his voice speaking to him from above the mercy seat that was on the ark of the Testimony, from between the two cherubim; and he spoke to him.   
 
-## Chapter 8
+## Numbers Chapter 8
 1. The LORD spoke to Moses, saying,  
 2. “Speak to Aaron, and tell him, ‘When you light the lamps, the seven lamps shall give light in front of the lamp stand.’”   
 3. Aaron did so. He lit its lamps to light the area in front of the lamp stand, as the LORD commanded Moses.  
@@ -4510,7 +4510,7 @@ one male lamb a year old, for a burnt offering;
 25. and from the age of fifty years they shall retire from doing the work, and shall serve no more,  
 26. but shall assist their brothers in the Tent of Meeting, to perform the duty, and shall perform no service. This is how you shall have the Levites do their duties.”   
 
-## Chapter 9
+## Numbers Chapter 9
 1. The LORD spoke to Moses in the wilderness of Sinai, in the first month of the second year after they had come out of the land of Egypt, saying,  
 2. “Let the children of Israel keep the Passover in its appointed season.  
 3. On the fourteenth day of this month, at evening, you shall keep it in its appointed season. You shall keep it according to all its statutes and according to all its ordinances.”   
@@ -4535,7 +4535,7 @@ one male lamb a year old, for a burnt offering;
 22. Whether it was two days, or a month, or a year that the cloud stayed on the tabernacle, remaining on it, the children of Israel remained encamped, and didn’t travel; but when it was taken up, they traveled.  
 23. At the commandment of the LORD they encamped, and at the commandment of the LORD they traveled. They kept the LORD’s command, at the commandment of the LORD by Moses.   
 
-## Chapter 10
+## Numbers Chapter 10
 1. The LORD spoke to Moses, saying,  
 2. “Make two trumpets of silver. You shall make them of beaten work. You shall use them for the calling of the congregation and for the journeying of the camps.  
 3. When they blow them, all the congregation shall gather themselves to you at the door of the Tent of Meeting.  
@@ -4573,7 +4573,7 @@ one male lamb a year old, for a burnt offering;
 35. When the ark went forward, Moses said, “Rise up, LORD, and let your enemies be scattered! Let those who hate you flee before you!”  
 36. When it rested, he said, “Return, LORD, to the ten thousands of the thousands of Israel.”   
 
-## Chapter 11
+## Numbers Chapter 11
 1. The people were complaining in the ears of the LORD. When the LORD heard it, his anger burned; and the LORD’s fire burned among them, and consumed some of the outskirts of the camp.  
 2. The people cried to Moses; and Moses prayed to the LORD, and the fire abated.  
 3. The name of that place was called Taberah, because the LORD’s fire burned among them.   
@@ -4610,7 +4610,7 @@ one male lamb a year old, for a burnt offering;
 34. The name of that place was called Kibroth Hattaavah, because there they buried the people who lusted.   
 35. From Kibroth Hattaavah the people traveled to Hazeroth; and they stayed at Hazeroth.   
 
-## Chapter 12
+## Numbers Chapter 12
 1. Miriam and Aaron spoke against Moses because of the Cushite woman whom he had married; for he had married a Cushite woman.  
 2. They said, “Has the LORD indeed spoken only with Moses? Hasn’t he spoken also with us?” And the LORD heard it.   
 3. Now the man Moses was very humble, more than all the men who were on the surface of the earth.  
@@ -4629,7 +4629,7 @@ The three of them came out.
 15. Miriam was shut up outside of the camp seven days, and the people didn’t travel until Miriam was brought in again.  
 16. Afterward the people traveled from Hazeroth, and encamped in the wilderness of Paran.   
 
-## Chapter 13
+## Numbers Chapter 13
 1. The LORD spoke to Moses, saying,  
 2. “Send men, that they may spy out the land of Canaan, which I give to the children of Israel. Of every tribe of their fathers, you shall send a man, every one a prince among them.”   
 3. Moses sent them from the wilderness of Paran according to the commandment of the LORD. All of them were men who were heads of the children of Israel.  
@@ -4665,7 +4665,7 @@ Of the tribe of Reuben, Shammua the son of Zaccur.
 32. They brought up an evil report of the land which they had spied out to the children of Israel, saying, “The land, through which we have gone to spy it out, is a land that eats up its inhabitants; and all the people who we saw in it are men of great stature.  
 33. There we saw the Nephilim, the sons of Anak, who come from the Nephilim. We were in our own sight as grasshoppers, and so we were in their sight.”   
 
-## Chapter 14
+## Numbers Chapter 14
 1. All the congregation lifted up their voice, and cried; and the people wept that night.  
 2. All the children of Israel murmured against Moses and against Aaron. The whole congregation said to them, “We wish that we had died in the land of Egypt, or that we had died in this wilderness!  
 3. Why does the LORD bring us to this land, to fall by the sword? Our wives and our little ones will be captured or killed! Wouldn’t it be better for us to return into Egypt?”  
@@ -4713,7 +4713,7 @@ The LORD’s glory appeared in the Tent of Meeting to all the children of Israel
 44. But they presumed to go up to the top of the mountain. Nevertheless, the ark of the LORD’s covenant and Moses didn’t depart out of the camp.  
 45. Then the Amalekites came down, and the Canaanites who lived in that mountain, and struck them and beat them down even to Hormah.   
 
-## Chapter 15
+## Numbers Chapter 15
 1. The LORD spoke to Moses, saying,  
 2. “Speak to the children of Israel, and tell them, ‘When you have come into the land of your habitations, which I give to you,  
 3. and will make an offering by fire to the LORD—a burnt offering, or a sacrifice, to accomplish a vow, or as a free will offering, or in your set feasts, to make a pleasant aroma to the LORD, of the herd, or of the flock—  
@@ -4756,7 +4756,7 @@ The LORD’s glory appeared in the Tent of Meeting to all the children of Israel
 40. so that you may remember and do all my commandments, and be holy to your God.  
 41. I am the LORD your God, who brought you out of the land of Egypt, to be your God: I am the LORD your God.”   
 
-## Chapter 16
+## Numbers Chapter 16
 1. Now Korah, the son of Izhar, the son of Kohath, the son of Levi, with Dathan and Abiram, the sons of Eliab, and On, the son of Peleth, sons of Reuben, took some men.  
 2. They rose up before Moses, with some of the children of Israel, two hundred fifty princes of the congregation, called to the assembly, men of renown.  
 3. They assembled themselves together against Moses and against Aaron, and said to them, “You take too much on yourself, since all the congregation are holy, everyone of them, and the LORD is among them! Why do you lift yourselves up above the LORD’s assembly?”   
@@ -4809,7 +4809,7 @@ The LORD’s glory appeared to all the congregation.
 49. Now those who died by the plague were fourteen thousand seven hundred, in addition to those who died about the matter of Korah.  
 50. Aaron returned to Moses to the door of the Tent of Meeting, and the plague was stopped.   
 
-## Chapter 17
+## Numbers Chapter 17
 1. The LORD spoke to Moses, saying,  
 2. “Speak to the children of Israel, and take rods from them, one for each fathers’ house, of all their princes according to their fathers’ houses, twelve rods. Write each man’s name on his rod.  
 3. You shall write Aaron’s name on Levi’s rod. There shall be one rod for each head of their fathers’ houses.  
@@ -4824,7 +4824,7 @@ The LORD’s glory appeared to all the congregation.
 12. The children of Israel spoke to Moses, saying, “Behold, we perish! We are undone! We are all undone!  
 13. Everyone who keeps approaching the LORD’s tabernacle, dies! Will we all perish?”   
 
-## Chapter 18
+## Numbers Chapter 18
 1. The LORD said to Aaron, “You and your sons and your fathers’ house with you shall bear the iniquity of the sanctuary; and you and your sons with you shall bear the iniquity of your priesthood.  
 2. Bring your brothers also, the tribe of Levi, the tribe of your father, near with you, that they may be joined to you, and minister to you; but you and your sons with you shall be before the Tent of the Testimony.  
 3. They shall keep your commands and the duty of the whole Tent; only they shall not come near to the vessels of the sanctuary and to the altar, that they not die, neither they nor you.  
@@ -4858,7 +4858,7 @@ The LORD’s glory appeared to all the congregation.
 31. You may eat it anywhere, you and your households, for it is your reward in return for your service in the Tent of Meeting.  
 32. You shall bear no sin by reason of it, when you have heaved from it its best. You shall not profane the holy things of the children of Israel, that you not die.’”   
 
-## Chapter 19
+## Numbers Chapter 19
 1. The LORD spoke to Moses and to Aaron, saying,  
 2. “This is the statute of the law which the LORD has commanded. Tell the children of Israel to bring you a red heifer without spot, in which is no defect, and which was never yoked.  
 3. You shall give her to Eleazar the priest, and he shall bring her outside of the camp, and one shall kill her before his face.  
@@ -4882,7 +4882,7 @@ The LORD’s glory appeared to all the congregation.
 21. It shall be a perpetual statute to them. He who sprinkles the water for impurity shall wash his clothes, and he who touches the water for impurity shall be unclean until evening.   
 22. “Whatever the unclean person touches shall be unclean; and the soul that touches it shall be unclean until evening.”   
 
-## Chapter 20
+## Numbers Chapter 20
 1. The children of Israel, even the whole congregation, came into the wilderness of Zin in the first month. The people stayed in Kadesh. Miriam died there, and was buried there.  
 2. There was no water for the congregation; and they assembled themselves together against Moses and against Aaron.  
 3. The people quarreled with Moses, and spoke, saying, “We wish that we had died when our brothers died before the LORD!  
@@ -4914,7 +4914,7 @@ Your brother Israel says: You know all the travail that has happened to us;
 28. Moses stripped Aaron of his garments, and put them on Eleazar his son. Aaron died there on the top of the mountain, and Moses and Eleazar came down from the mountain.  
 29. When all the congregation saw that Aaron was dead, they wept for Aaron thirty days, even all the house of Israel.   
 
-## Chapter 21
+## Numbers Chapter 21
 1. The Canaanite, the king of Arad, who lived in the South, heard that Israel came by the way of Atharim. He fought against Israel, and took some of them captive.  
 2. Israel vowed a vow to the LORD, and said, “If you will indeed deliver this people into my hand, then I will utterly destroy their cities.”  
 3. The LORD listened to the voice of Israel, and delivered up the Canaanites; and they utterly destroyed them and their cities. The name of the place was called Hormah.  
@@ -4967,7 +4967,7 @@ reaches to Medeba.”
 34. The LORD said to Moses, “Don’t fear him, for I have delivered him into your hand, with all his people, and his land. You shall do to him as you did to Sihon king of the Amorites, who lived at Heshbon.”   
 35. So they struck him, with his sons and all his people, until there were no survivors; and they possessed his land.   
 
-## Chapter 22
+## Numbers Chapter 22
 1. The children of Israel traveled, and encamped in the plains of Moab beyond the Jordan at Jericho.  
 2. Balak the son of Zippor saw all that Israel had done to the Amorites.  
 3. Moab was very afraid of the people, because they were many. Moab was distressed because of the children of Israel.  
@@ -5013,7 +5013,7 @@ So Balaam went with the princes of Balak.
 40. Balak sacrificed cattle and sheep, and sent to Balaam, and to the princes who were with him.  
 41. In the morning, Balak took Balaam, and brought him up into the high places of Baal; and he saw from there part of the people.   
 
-## Chapter 23
+## Numbers Chapter 23
 1. Balaam said to Balak, “Build here seven altars for me, and prepare here seven bulls and seven rams for me.”   
 2. Balak did as Balaam had spoken; and Balak and Balaam offered on every altar a bull and a ram.  
 3. Balaam said to Balak, “Stand by your burnt offering, and I will go. Perhaps the LORD will come to meet me. Whatever he shows me I will tell you.”  
@@ -5073,7 +5073,7 @@ and drinks the blood of the slain.”
 29. Balaam said to Balak, “Build seven altars for me here, and prepare seven bulls and seven rams for me here.”   
 30. Balak did as Balaam had said, and offered up a bull and a ram on every altar.   
 
-## Chapter 24
+## Numbers Chapter 24
 1. When Balaam saw that it pleased the LORD to bless Israel, he didn’t go, as at the other times, to use divination, but he set his face toward the wilderness.  
 2. Balaam lifted up his eyes, and he saw Israel dwelling according to their tribes; and the Spirit of God came on him.  
 3. He took up his parable, and said,  
@@ -5140,7 +5140,7 @@ They shall afflict Asshur, and shall afflict Eber.
 He also shall come to destruction.”   
 25. Balaam rose up, and went and returned to his place; and Balak also went his way.   
 
-## Chapter 25
+## Numbers Chapter 25
 1. Israel stayed in Shittim; and the people began to play the prostitute with the daughters of Moab;  
 2. for they called the people to the sacrifices of their gods. The people ate and bowed down to their gods.  
 3. Israel joined himself to Baal Peor, and the LORD’s anger burned against Israel.  
@@ -5160,7 +5160,7 @@ He also shall come to destruction.”
 17. “Harass the Midianites, and strike them;  
 18. for they harassed you with their wiles, wherein they have deceived you in the matter of Peor, and in the incident regarding Cozbi, the daughter of the prince of Midian, their sister, who was slain on the day of the plague in the matter of Peor.”   
 
-## Chapter 26
+## Numbers Chapter 26
 1. After the plague, the LORD spoke to Moses and to Eleazar the son of Aaron the priest, saying,  
 2. “Take a census of all the congregation of the children of Israel, from twenty years old and upward, by their fathers’ houses, all who are able to go out to war in Israel.”  
 3. Moses and Eleazar the priest spoke with them in the plains of Moab by the Jordan at Jericho, saying,  
@@ -5228,7 +5228,7 @@ These are those who came out of the land of Egypt.
 64. But among these there was not a man of them who were counted by Moses and Aaron the priest, who counted the children of Israel in the wilderness of Sinai.  
 65. For the LORD had said of them, “They shall surely die in the wilderness.” There was not a man left of them, except Caleb the son of Jephunneh, and Joshua the son of Nun.   
 
-## Chapter 27
+## Numbers Chapter 27
 1. Then the daughters of Zelophehad, the son of Hepher, the son of Gilead, the son of Machir, the son of Manasseh, of the families of Manasseh the son of Joseph came near. These are the names of his daughters: Mahlah, Noah, Hoglah, Milcah, and Tirzah.  
 2. They stood before Moses, before Eleazar the priest, and before the princes and all the congregation, at the door of the Tent of Meeting, saying,  
 3. “Our father died in the wilderness. He was not among the company of those who gathered themselves together against the LORD in the company of Korah, but he died in his own sin. He had no sons.  
@@ -5253,7 +5253,7 @@ These are those who came out of the land of Egypt.
 22. Moses did as the LORD commanded him. He took Joshua, and set him before Eleazar the priest and before all the congregation.  
 23. He laid his hands on him and commissioned him, as the LORD spoke by Moses.   
 
-## Chapter 28
+## Numbers Chapter 28
 1. The LORD spoke to Moses, saying,  
 2. “Command the children of Israel, and tell them, ‘See that you present my offering, my food for my offerings made by fire, as a pleasant aroma to me, in their due season.’  
 3. You shall tell them, ‘This is the offering made by fire which you shall offer to the LORD: male lambs a year old without defect, two day by day, for a continual burnt offering.  
@@ -5286,7 +5286,7 @@ These are those who came out of the land of Egypt.
 30. and one male goat, to make atonement for you.  
 31. Besides the continual burnt offering and its meal offering, you shall offer them and their drink offerings. See that they are without defect.   
 
-## Chapter 29
+## Numbers Chapter 29
 1. “‘In the seventh month, on the first day of the month, you shall have a holy convocation; you shall do no regular work. It is a day of blowing of trumpets to you.  
 2. You shall offer a burnt offering for a pleasant aroma to the LORD: one young bull, one ram, seven male lambs a year old without defect;  
 3. and their meal offering, fine flour mixed with oil: three tenths for the bull, two tenths for the ram,  
@@ -5328,7 +5328,7 @@ These are those who came out of the land of Egypt.
 39. “‘You shall offer these to the LORD in your set feasts—in addition to your vows and your free will offerings—for your burnt offerings, your meal offerings, your drink offerings, and your peace offerings.’”   
 40. Moses told the children of Israel according to all that the LORD commanded Moses.   
 
-## Chapter 30
+## Numbers Chapter 30
 1. Moses spoke to the heads of the tribes of the children of Israel, saying, “This is the thing which the LORD has commanded.  
 2. When a man vows a vow to the LORD, or swears an oath to bind his soul with a bond, he shall not break his word. He shall do according to all that proceeds out of his mouth.   
 3. “Also, when a woman vows a vow to the LORD and binds herself by a pledge, being in her father’s house, in her youth,  
@@ -5346,7 +5346,7 @@ These are those who came out of the land of Egypt.
 15. But if he makes them null and void after he has heard them, then he shall bear her iniquity.”   
 16. These are the statutes which the LORD commanded Moses, between a man and his wife, between a father and his daughter, being in her youth, in her father’s house.   
 
-## Chapter 31
+## Numbers Chapter 31
 1. The LORD spoke to Moses, saying,  
 2. “Avenge the children of Israel on the Midianites. Afterward you shall be gathered to your people.”   
 3. Moses spoke to the people, saying, “Arm men from among you for war, that they may go against Midian, to execute the LORD’s vengeance on Midian.  
@@ -5402,7 +5402,7 @@ These are those who came out of the land of Egypt.
 53. The men of war had taken booty, every man for himself.  
 54. Moses and Eleazar the priest took the gold of the captains of thousands and of hundreds, and brought it into the Tent of Meeting for a memorial for the children of Israel before the LORD.   
 
-## Chapter 32
+## Numbers Chapter 32
 1. Now the children of Reuben and the children of Gad had a very great multitude of livestock. They saw the land of Jazer, and the land of Gilead. Behold, the place was a place for livestock.  
 2. Then the children of Gad and the children of Reuben came and spoke to Moses, and to Eleazar the priest, and to the princes of the congregation, saying,  
 3. “Ataroth, Dibon, Jazer, Nimrah, Heshbon, Elealeh, Sebam, Nebo, and Beon,  
@@ -5446,7 +5446,7 @@ These are those who came out of the land of Egypt.
 41. Jair the son of Manasseh went and took its villages, and called them Havvoth Jair.  
 42. Nobah went and took Kenath and its villages, and called it Nobah, after his own name.   
 
-## Chapter 33
+## Numbers Chapter 33
 1. These are the journeys of the children of Israel, when they went out of the land of Egypt by their armies under the hand of Moses and Aaron.  
 2. Moses wrote the starting points of their journeys by the commandment of the LORD. These are their journeys according to their starting points.  
 3. They traveled from Rameses in the first month, on the fifteenth day of the first month; on the next day after the Passover, the children of Israel went out with a high hand in the sight of all the Egyptians,  
@@ -5504,7 +5504,7 @@ These are those who came out of the land of Egypt.
 55. “But if you do not drive out the inhabitants of the land from before you, then those you let remain of them will be like pricks in your eyes and thorns in your sides. They will harass you in the land in which you dwell.  
 56. It shall happen that as I thought to do to them, so I will do to you.”   
 
-## Chapter 34
+## Numbers Chapter 34
 1. The LORD spoke to Moses, saying,  
 2. “Command the children of Israel, and tell them, ‘When you come into the land of Canaan (this is the land that shall fall to you for an inheritance, even the land of Canaan according to its borders),  
 3. then your south quarter shall be from the wilderness of Zin along by the side of Edom, and your south border shall be from the end of the Salt Sea eastward.  
@@ -5535,7 +5535,7 @@ These are those who came out of the land of Egypt.
 28. Of the tribe of the children of Naphtali a prince, Pedahel the son of Ammihud.”  
 29. These are they whom the LORD commanded to divide the inheritance to the children of Israel in the land of Canaan.   
 
-## Chapter 35
+## Numbers Chapter 35
 1. The LORD spoke to Moses in the plains of Moab by the Jordan at Jericho, saying,  
 2. “Command the children of Israel to give to the Levites cities to dwell in out of their inheritance. You shall give pasture lands for the cities around them to the Levites.  
 3. They shall have the cities to dwell in. Their pasture lands shall be for their livestock, and for their possessions, and for all their animals.   
@@ -5571,7 +5571,7 @@ These are those who came out of the land of Egypt.
 33. “‘So you shall not pollute the land where you live; for blood pollutes the land. No atonement can be made for the land for the blood that is shed in it, but by the blood of him who shed it.  
 34. You shall not defile the land which you inhabit, where I dwell; for I, the LORD, dwell among the children of Israel.’”   
 
-## Chapter 36
+## Numbers Chapter 36
 1. The heads of the fathers’ households of the family of the children of Gilead, the son of Machir, the son of Manasseh, of the families of the sons of Joseph, came near and spoke before Moses and before the princes, the heads of the fathers’ households of the children of Israel.  
 2. They said, “The LORD commanded my lord to give the land for inheritance by lot to the children of Israel. My lord was commanded by the LORD to give the inheritance of Zelophehad our brother to his daughters.  
 3. If they are married to any of the sons of the other tribes of the children of Israel, then their inheritance will be taken away from the inheritance of our fathers, and will be added to the inheritance of the tribe to which they shall belong. So it will be taken away from the lot of our inheritance.  
@@ -5588,7 +5588,7 @@ These are those who came out of the land of Egypt.
 
 # Deuteronomy
 
-## Chapter 1
+## Deuteronomy Chapter 1
 1. These are the words which Moses spoke to all Israel beyond the Jordan in the wilderness, in the Arabah opposite Suf, between Paran, Tophel, Laban, Hazeroth, and Dizahab.  
 2. It is eleven days’ journey from Horeb by the way of Mount Seir to Kadesh Barnea.  
 3. In the fortieth year, in the eleventh month, on the first day of the month, Moses spoke to the children of Israel according to all that the LORD had given him in commandment to them,  
@@ -5636,7 +5636,7 @@ These are those who came out of the land of Egypt.
 45. You returned and wept before the LORD, but the LORD didn’t listen to your voice, nor turn his ear to you.  
 46. So you stayed in Kadesh many days, according to the days that you remained.   
 
-## Chapter 2
+## Deuteronomy Chapter 2
 1. Then we turned, and took our journey into the wilderness by the way to the Red Sea, as the LORD spoke to me; and we encircled Mount Seir many days.   
 2. The LORD spoke to me, saying,  
 3. “You have encircled this mountain long enough. Turn northward.  
@@ -5675,7 +5675,7 @@ These are those who came out of the land of Egypt.
 36. From Aroer, which is on the edge of the valley of the Arnon, and the city that is in the valley, even to Gilead, there was not a city too high for us. The LORD our God delivered up all before us.  
 37. Only to the land of the children of Ammon you didn’t come near: all the banks of the river Jabbok, and the cities of the hill country, and wherever the LORD our God forbade us.   
 
-## Chapter 3
+## Deuteronomy Chapter 3
 1. Then we turned, and went up the way to Bashan. Og the king of Bashan came out against us, he and all his people, to battle at Edrei.  
 2. The LORD said to me, “Don’t fear him; for I have delivered him, with all his people and his land, into your hand. You shall do to him as you did to Sihon king of the Amorites, who lived at Heshbon.”   
 3. So the LORD our God also delivered into our hand Og, the king of Bashan, and all his people. We struck him until no one was left to him remaining.  
@@ -5706,7 +5706,7 @@ These are those who came out of the land of Egypt.
 28. But commission Joshua, and encourage him, and strengthen him; for he shall go over before this people, and he shall cause them to inherit the land which you shall see.”  
 29. So we stayed in the valley near Beth Peor.   
 
-## Chapter 4
+## Deuteronomy Chapter 4
 1. Now, Israel, listen to the statutes and to the ordinances which I teach you, to do them, that you may live and go in and possess the land which the LORD, the God of your fathers, gives you.  
 2. You shall not add to the word which I command you, neither shall you take away from it, that you may keep the commandments of the LORD your God which I command you.  
 3. Your eyes have seen what the LORD did because of Baal Peor; for the LORD your God has destroyed all the men who followed Baal Peor from among you.  
@@ -5757,7 +5757,7 @@ These are those who came out of the land of Egypt.
 48. from Aroer, which is on the edge of the valley of the Arnon, even to Mount Zion (also called Hermon),  
 49. and all the Arabah beyond the Jordan eastward, even to the sea of the Arabah, under the slopes of Pisgah.   
 
-## Chapter 5
+## Deuteronomy Chapter 5
 1. Moses called to all Israel, and said to them, “Hear, Israel, the statutes and the ordinances which I speak in your ears today, that you may learn them, and observe to do them.”  
 2. The LORD our God made a covenant with us in Horeb.  
 3. The LORD didn’t make this covenant with our fathers, but with us, even us, who are all of us here alive today.  
@@ -5792,7 +5792,7 @@ These are those who came out of the land of Egypt.
 32. You shall observe to do therefore as the LORD your God has commanded you. You shall not turn away to the right hand or to the left.  
 33. You shall walk in all the way which the LORD your God has commanded you, that you may live and that it may be well with you, and that you may prolong your days in the land which you shall possess.   
 
-## Chapter 6
+## Deuteronomy Chapter 6
 1. Now these are the commandments, the statutes, and the ordinances, which the LORD your God commanded to teach you, that you might do them in the land that you go over to possess;  
 2. that you might fear the LORD your God, to keep all his statutes and his commandments, which I command you—you, your son, and your son’s son, all the days of your life; and that your days may be prolonged.  
 3. Hear therefore, Israel, and observe to do it, that it may be well with you, and that you may increase mightily, as the LORD, the God of your fathers, has promised to you, in a land flowing with milk and honey.   
@@ -5819,7 +5819,7 @@ These are those who came out of the land of Egypt.
 24. The LORD commanded us to do all these statutes, to fear the LORD our God, for our good always, that he might preserve us alive, as we are today.  
 25. It shall be righteousness to us, if we observe to do all these commandments before the LORD our God, as he has commanded us.”   
 
-## Chapter 7
+## Deuteronomy Chapter 7
 1. When the LORD your God brings you into the land where you go to possess it, and casts out many nations before you—the Hittite, the Girgashite, the Amorite, the Canaanite, the Perizzite, the Hivite, and the Jebusite—seven nations greater and mightier than you;  
 2. and when the LORD your God delivers them up before you, and you strike them, then you shall utterly destroy them. You shall make no covenant with them, nor show mercy to them.  
 3. You shall not make marriages with them. You shall not give your daughter to his son, nor shall you take his daughter for your son.  
@@ -5847,7 +5847,7 @@ These are those who came out of the land of Egypt.
 25. You shall burn the engraved images of their gods with fire. You shall not covet the silver or the gold that is on them, nor take it for yourself, lest you be snared in it; for it is an abomination to the LORD your God.  
 26. You shall not bring an abomination into your house and become a devoted thing like it. You shall utterly detest it. You shall utterly abhor it; for it is a devoted thing.   
 
-## Chapter 8
+## Deuteronomy Chapter 8
 1. You shall observe to do all the commandments which I command you today, that you may live, and multiply, and go in and possess the land which the LORD swore to your fathers.  
 2. You shall remember all the way which the LORD your God has led you these forty years in the wilderness, that he might humble you, to test you, to know what was in your heart, whether you would keep his commandments or not.  
 3. He humbled you, allowed you to be hungry, and fed you with manna, which you didn’t know, neither did your fathers know, that he might teach you that man does not live by bread only, but man lives by every word that proceeds out of the LORD’s mouth.  
@@ -5869,7 +5869,7 @@ These are those who came out of the land of Egypt.
 19. It shall be, if you shall forget the LORD your God, and walk after other gods, and serve them and worship them, I testify against you today that you shall surely perish.  
 20. As the nations that the LORD makes to perish before you, so you shall perish, because you wouldn’t listen to the LORD your God’s voice.   
 
-## Chapter 9
+## Deuteronomy Chapter 9
 1. Hear, Israel! You are to pass over the Jordan today, to go in to dispossess nations greater and mightier than yourself, cities great and fortified up to the sky,  
 2. a people great and tall, the sons of the Anakim, whom you know, and of whom you have heard say, “Who can stand before the sons of Anak?”  
 3. Know therefore today that the LORD your God is he who goes over before you as a devouring fire. He will destroy them and he will bring them down before you. So you shall drive them out and make them perish quickly, as the LORD has spoken to you.   
@@ -5900,7 +5900,7 @@ These are those who came out of the land of Egypt.
 28. lest the land you brought us out from say, ‘Because the LORD was not able to bring them into the land which he promised to them, and because he hated them, he has brought them out to kill them in the wilderness.’  
 29. Yet they are your people and your inheritance, which you brought out by your great power and by your outstretched arm.”   
 
-## Chapter 10
+## Deuteronomy Chapter 10
 1. At that time the LORD said to me, “Cut two stone tablets like the first, and come up to me onto the mountain, and make an ark of wood.  
 2. I will write on the tablets the words that were on the first tablets which you broke, and you shall put them in the ark.”  
 3. So I made an ark of acacia wood, and cut two stone tablets like the first, and went up onto the mountain, having the two tablets in my hand.  
@@ -5924,7 +5924,7 @@ These are those who came out of the land of Egypt.
 21. He is your praise, and he is your God, who has done for you these great and awesome things which your eyes have seen.  
 22. Your fathers went down into Egypt with seventy persons; and now the LORD your God has made you as the stars of the sky for multitude.   
 
-## Chapter 11
+## Deuteronomy Chapter 11
 1. Therefore you shall love the LORD your God, and keep his instructions, his statutes, his ordinances, and his commandments, always.  
 2. Know this day—for I don’t speak with your children who have not known, and who have not seen the chastisement of the LORD your God, his greatness, his mighty hand, his outstretched arm,  
 3. his signs, and his works, which he did in the middle of Egypt to Pharaoh the king of Egypt, and to all his land;  
@@ -5958,7 +5958,7 @@ These are those who came out of the land of Egypt.
 31. For you are to pass over the Jordan to go in to possess the land which the LORD your God gives you, and you shall possess it and dwell in it.  
 32. You shall observe to do all the statutes and the ordinances which I set before you today.   
 
-## Chapter 12
+## Deuteronomy Chapter 12
 1. These are the statutes and the ordinances which you shall observe to do in the land which the LORD, the God of your fathers, has given you to possess all the days that you live on the earth.  
 2. You shall surely destroy all the places in which the nations that you shall dispossess served their gods: on the high mountains, and on the hills, and under every green tree.  
 3. You shall break down their altars, dash their pillars in pieces, and burn their Asherah poles with fire. You shall cut down the engraved images of their gods. You shall destroy their name out of that place.  
@@ -5992,7 +5992,7 @@ These are those who came out of the land of Egypt.
 31. You shall not do so to the LORD your God; for every abomination to the LORD, which he hates, they have done to their gods; for they even burn their sons and their daughters in the fire to their gods.  
 32. Whatever thing I command you, that you shall observe to do. You shall not add to it, nor take away from it.   
 
-## Chapter 13
+## Deuteronomy Chapter 13
 1. If a prophet or a dreamer of dreams arises among you, and he gives you a sign or a wonder,  
 2. and the sign or the wonder comes to pass, of which he spoke to you, saying, “Let’s go after other gods” (which you have not known) “and let’s serve them,”  
 3. you shall not listen to the words of that prophet, or to that dreamer of dreams; for the LORD your God is testing you, to know whether you love the LORD your God with all your heart and with all your soul.  
@@ -6012,7 +6012,7 @@ These are those who came out of the land of Egypt.
 17. Nothing of the devoted thing shall cling to your hand, that the LORD may turn from the fierceness of his anger and show you mercy, and have compassion on you and multiply you, as he has sworn to your fathers,  
 18. when you listen to the LORD your God’s voice, to keep all his commandments which I command you today, to do that which is right in the LORD your God’s eyes.   
 
-## Chapter 14
+## Deuteronomy Chapter 14
 1. You are the children of the LORD your God. You shall not cut yourselves, nor make any baldness between your eyes for the dead.  
 2. For you are a holy people to the LORD your God, and the LORD has chosen you to be a people for his own possession, above all peoples who are on the face of the earth.   
 3. You shall not eat any abominable thing.  
@@ -6044,7 +6044,7 @@ You shall not boil a young goat in its mother’s milk.
 28. At the end of every three years you shall bring all the tithe of your increase in the same year, and shall store it within your gates.  
 29. The Levite, because he has no portion nor inheritance with you, as well as the foreigner living among you, the fatherless, and the widow who are within your gates shall come, and shall eat and be satisfied; that the LORD your God may bless you in all the work of your hand which you do.   
 
-## Chapter 15
+## Deuteronomy Chapter 15
 1. At the end of every seven years, you shall cancel debts.  
 2. This is the way it shall be done: every creditor shall release that which he has lent to his neighbor. He shall not require payment from his neighbor and his brother, because the LORD’s release has been proclaimed.  
 3. Of a foreigner you may require it; but whatever of yours is with your brother, your hand shall release.  
@@ -6069,7 +6069,7 @@ You shall not boil a young goat in its mother’s milk.
 22. You shall eat it within your gates. The unclean and the clean shall eat it alike, as the gazelle and as the deer.  
 23. Only you shall not eat its blood. You shall pour it out on the ground like water.   
 
-## Chapter 16
+## Deuteronomy Chapter 16
 1. Observe the month of Abib, and keep the Passover to the LORD your God; for in the month of Abib the LORD your God brought you out of Egypt by night.  
 2. You shall sacrifice the Passover to the LORD your God, of the flock and the herd, in the place which the LORD shall choose to cause his name to dwell there.  
 3. You shall eat no leavened bread with it. You shall eat unleavened bread with it seven days, even the bread of affliction (for you came out of the land of Egypt in haste) that you may remember the day when you came out of the land of Egypt all the days of your life.  
@@ -6093,7 +6093,7 @@ You shall not boil a young goat in its mother’s milk.
 21. You shall not plant for yourselves an Asherah of any kind of tree beside the LORD your God’s altar, which you shall make for yourselves.  
 22. Neither shall you set yourself up a sacred stone which the LORD your God hates.   
 
-## Chapter 17
+## Deuteronomy Chapter 17
 1. You shall not sacrifice to the LORD your God an ox or a sheep in which is a defect or anything evil; for that is an abomination to the LORD your God.   
 2. If there is found among you, within any of your gates which the LORD your God gives you, a man or woman who does that which is evil in the LORD your God’s sight in transgressing his covenant,  
 3. and has gone and served other gods and worshiped them, or the sun, or the moon, or any of the stars of the sky, which I have not commanded,  
@@ -6115,7 +6115,7 @@ You shall not boil a young goat in its mother’s milk.
 19. It shall be with him, and he shall read from it all the days of his life, that he may learn to fear the LORD his God, to keep all the words of this law and these statutes, to do them;  
 20. that his heart not be lifted up above his brothers, and that he not turn away from the commandment to the right hand, or to the left, to the end that he may prolong his days in his kingdom, he and his children, in the middle of Israel.   
 
-## Chapter 18
+## Deuteronomy Chapter 18
 1. The priests and the Levites—all the tribe of Levi—shall have no portion nor inheritance with Israel. They shall eat the offerings of the LORD made by fire and his portion.  
 2. They shall have no inheritance among their brothers. The LORD is their inheritance, as he has spoken to them.  
 3. This shall be the priests’ due from the people, from those who offer a sacrifice, whether it be ox or sheep, that they shall give to the priest: the shoulder, the two cheeks, and the inner parts.  
@@ -6139,7 +6139,7 @@ You shall not boil a young goat in its mother’s milk.
 21. You may say in your heart, “How shall we know the word which the LORD has not spoken?”  
 22. When a prophet speaks in the LORD’s name, if the thing doesn’t follow, nor happen, that is the thing which the LORD has not spoken. The prophet has spoken it presumptuously. You shall not be afraid of him.   
 
-## Chapter 19
+## Deuteronomy Chapter 19
 1. When the LORD your God cuts off the nations whose land the LORD your God gives you, and you succeed them and dwell in their cities and in their houses,  
 2. you shall set apart three cities for yourselves in the middle of your land, which the LORD your God gives you to possess.  
 3. You shall prepare the way, and divide the borders of your land which the LORD your God causes you to inherit into three parts, that every man slayer may flee there.  
@@ -6162,7 +6162,7 @@ You shall not boil a young goat in its mother’s milk.
 20. Those who remain shall hear, and fear, and will never again commit any such evil among you.  
 21. Your eyes shall not pity: life for life, eye for eye, tooth for tooth, hand for hand, foot for foot.   
 
-## Chapter 20
+## Deuteronomy Chapter 20
 1. When you go out to battle against your enemies, and see horses, chariots, and a people more numerous than you, you shall not be afraid of them; for the LORD your God, who brought you up out of the land of Egypt, is with you.  
 2. It shall be, when you draw near to the battle, that the priest shall approach and speak to the people,  
 3. and shall tell them, “Hear, Israel, you draw near today to battle against your enemies. Don’t let your heart faint! Don’t be afraid, nor tremble, neither be scared of them;  
@@ -6184,7 +6184,7 @@ You shall not boil a young goat in its mother’s milk.
 19. When you shall besiege a city a long time, in making war against it to take it, you shall not destroy its trees by wielding an ax against them; for you may eat of them. You shall not cut them down, for is the tree of the field man, that it should be besieged by you?  
 20. Only the trees that you know are not trees for food, you shall destroy and cut them down. You shall build bulwarks against the city that makes war with you, until it falls.   
 
-## Chapter 21
+## Deuteronomy Chapter 21
 1. If someone is found slain in the land which the LORD your God gives you to possess, lying in the field, and it isn’t known who has struck him,  
 2. then your elders and your judges shall come out, and they shall measure to the cities which are around him who is slain.  
 3. It shall be that the elders of the city which is nearest to the slain man shall take a heifer of the herd, which hasn’t been worked with and which has not drawn in the yoke.  
@@ -6209,7 +6209,7 @@ You shall not boil a young goat in its mother’s milk.
 22. If a man has committed a sin worthy of death, and he is put to death, and you hang him on a tree,  
 23. his body shall not remain all night on the tree, but you shall surely bury him the same day; for he who is hanged is accursed of God. Don’t defile your land which the LORD your God gives you for an inheritance.   
 
-## Chapter 22
+## Deuteronomy Chapter 22
 1. You shall not see your brother’s ox or his sheep go astray and hide yourself from them. You shall surely bring them again to your brother.  
 2. If your brother isn’t near to you, or if you don’t know him, then you shall bring it home to your house, and it shall be with you until your brother comes looking for it, and you shall restore it to him.  
 3. So you shall do with his donkey. So you shall do with his garment. So you shall do with every lost thing of your brother’s, which he has lost and you have found. You may not hide yourself.  
@@ -6241,7 +6241,7 @@ You shall not boil a young goat in its mother’s milk.
 29. then the man who lay with her shall give to the lady’s father fifty shekels of silver. She shall be his wife, because he has humbled her. He may not put her away all his days.  
 30. A man shall not take his father’s wife, and shall not uncover his father’s skirt.   
 
-## Chapter 23
+## Deuteronomy Chapter 23
 1. He who is emasculated by crushing or cutting shall not enter into the LORD’s assembly.  
 2. A person born of a forbidden union shall not enter into the LORD’s assembly; even to the tenth generation shall no one of his enter into the LORD’s assembly.  
 3. An Ammonite or a Moabite shall not enter into the LORD’s assembly; even to the tenth generation shall no one belonging to them enter into the LORD’s assembly forever,  
@@ -6268,7 +6268,7 @@ You shall not boil a young goat in its mother’s milk.
 24. When you come into your neighbor’s vineyard, then you may eat your fill of grapes at your own pleasure; but you shall not put any in your container.  
 25. When you come into your neighbor’s standing grain, then you may pluck the ears with your hand; but you shall not use a sickle on your neighbor’s standing grain.   
 
-## Chapter 24
+## Deuteronomy Chapter 24
 1. When a man takes a wife and marries her, then it shall be, if she finds no favor in his eyes because he has found some unseemly thing in her, that he shall write her a certificate of divorce, put it in her hand, and send her out of his house.  
 2. When she has departed out of his house, she may go and be another man’s wife.  
 3. If the latter husband hates her, and writes her a certificate of divorce, puts it in her hand, and sends her out of his house; or if the latter husband dies, who took her to be his wife;  
@@ -6292,7 +6292,7 @@ You shall not boil a young goat in its mother’s milk.
 21. When you harvest your vineyard, you shall not glean it after yourselves. It shall be for the foreigner, for the fatherless, and for the widow.  
 22. You shall remember that you were a slave in the land of Egypt. Therefore I command you to do this thing.   
 
-## Chapter 25
+## Deuteronomy Chapter 25
 1. If there is a controversy between men, and they come to judgment and the judges judge them, then they shall justify the righteous and condemn the wicked.  
 2. It shall be, if the wicked man is worthy to be beaten, that the judge shall cause him to lie down and to be beaten before his face, according to his wickedness, by number.  
 3. He may sentence him to no more than forty stripes. He shall not give more, lest if he should give more and beat him more than that many stripes, then your brother will be degraded in your sight.   
@@ -6313,7 +6313,7 @@ You shall not boil a young goat in its mother’s milk.
 18. how he met you by the way, and struck the rearmost of you, all who were feeble behind you, when you were faint and weary; and he didn’t fear God.  
 19. Therefore it shall be, when the LORD your God has given you rest from all your enemies all around, in the land which the LORD your God gives you for an inheritance to possess it, that you shall blot out the memory of Amalek from under the sky. You shall not forget.   
 
-## Chapter 26
+## Deuteronomy Chapter 26
 1. It shall be, when you have come in to the land which the LORD your God gives you for an inheritance, possess it, and dwell in it,  
 2. that you shall take some of the first of all the fruit of the ground, which you shall bring in from your land that the LORD your God gives you. You shall put it in a basket, and shall go to the place which the LORD your God shall choose to cause his name to dwell there.  
 3. You shall come to the priest who shall be in those days, and tell him, “I profess today to the LORD your God, that I have come to the land which the LORD swore to our fathers to give us.”  
@@ -6334,7 +6334,7 @@ You shall not boil a young goat in its mother’s milk.
 18. The LORD has declared today that you are a people for his own possession, as he has promised you, and that you should keep all his commandments.  
 19. He will make you high above all nations that he has made, in praise, in name, and in honor, and that you may be a holy people to the LORD your God, as he has spoken.   
 
-## Chapter 27
+## Deuteronomy Chapter 27
 1. Moses and the elders of Israel commanded the people, saying, “Keep all the commandment which I command you today.  
 2. It shall be on the day when you shall pass over the Jordan to the land which the LORD your God gives you, that you shall set yourself up great stones, and coat them with plaster.  
 3. You shall write on them all the words of this law, when you have passed over, that you may go in to the land which the LORD your God gives you, a land flowing with milk and honey, as the LORD, the God of your fathers, has promised you.  
@@ -6374,7 +6374,7 @@ All the people shall say, ‘Amen.’
 26. ‘Cursed is he who doesn’t uphold the words of this law by doing them.’  
 All the people shall say, ‘Amen.’”   
 
-## Chapter 28
+## Deuteronomy Chapter 28
 1. It shall happen, if you shall listen diligently to the LORD your God’s voice, to observe to do all his commandments which I command you today, that the LORD your God will set you high above all the nations of the earth.  
 2. All these blessings will come upon you, and overtake you, if you listen to the LORD your God’s voice.  
 3. You shall be blessed in the city, and you shall be blessed in the field.  
@@ -6444,7 +6444,7 @@ All the people shall say, ‘Amen.’”
 67. In the morning you will say, “I wish it were evening!” and at evening you will say, “I wish it were morning!” for the fear of your heart which you will fear, and for the sights which your eyes will see.  
 68. The LORD will bring you into Egypt again with ships, by the way of which I told you that you would never see it again. There you will offer yourselves to your enemies for male and female slaves, and nobody will buy you.   
 
-## Chapter 29
+## Deuteronomy Chapter 29
 1. These are the words of the covenant which the LORD commanded Moses to make with the children of Israel in the land of Moab, in addition to the covenant which he made with them in Horeb.  
 2. Moses called to all Israel, and said to them:  
 Your eyes have seen all that the LORD did in the land of Egypt to Pharaoh, and to all his servants, and to all his land;  
@@ -6476,7 +6476,7 @@ Your eyes have seen all that the LORD did in the land of Egypt to Pharaoh, and t
 28. The LORD rooted them out of their land in anger, in wrath, and in great indignation, and thrust them into another land, as it is today.”   
 29. The secret things belong to the LORD our God; but the things that are revealed belong to us and to our children forever, that we may do all the words of this law.   
 
-## Chapter 30
+## Deuteronomy Chapter 30
 1. It shall happen, when all these things have come on you, the blessing and the curse, which I have set before you, and you shall call them to mind among all the nations where the LORD your God has driven you,  
 2. and return to the LORD your God and obey his voice according to all that I command you today, you and your children, with all your heart and with all your soul,  
 3. that then the LORD your God will release you from captivity, have compassion on you, and will return and gather you from all the peoples where the LORD your God has scattered you.  
@@ -6498,7 +6498,7 @@ Your eyes have seen all that the LORD did in the land of Egypt to Pharaoh, and t
 19. I call heaven and earth to witness against you today that I have set before you life and death, the blessing and the curse. Therefore choose life, that you may live, you and your descendants,  
 20. to love the LORD your God, to obey his voice, and to cling to him; for he is your life, and the length of your days, that you may dwell in the land which the LORD swore to your fathers, to Abraham, to Isaac, and to Jacob, to give them.   
 
-## Chapter 31
+## Deuteronomy Chapter 31
 1. Moses went and spoke these words to all Israel.  
 2. He said to them, “I am one hundred twenty years old today. I can no more go out and come in. The LORD has said to me, ‘You shall not go over this Jordan.’  
 3. The LORD your God himself will go over before you. He will destroy these nations from before you, and you shall dispossess them. Joshua will go over before you, as the LORD has spoken.  
@@ -6531,7 +6531,7 @@ Moses and Joshua went, and presented themselves in the Tent of Meeting.
 29. For I know that after my death you will utterly corrupt yourselves, and turn away from the way which I have commanded you; and evil will happen to you in the latter days, because you will do that which is evil in the LORD’s sight, to provoke him to anger through the work of your hands.”   
 30. Moses spoke in the ears of all the assembly of Israel the words of this song, until they were finished.   
 
-## Chapter 32
+## Deuteronomy Chapter 32
 1. Give ear, you heavens, and I will speak.  
 the earth hear the words of my mouth.   
 2. My doctrine will drop as the rain.  
@@ -6687,7 +6687,7 @@ and will make atonement for his land and for his people.
 51. because you trespassed against me among the children of Israel at the waters of Meribah of Kadesh, in the wilderness of Zin; because you didn’t uphold my holiness among the children of Israel.  
 52. For you shall see the land from a distance; but you shall not go there into the land which I give the children of Israel.”   
 
-## Chapter 33
+## Deuteronomy Chapter 33
 1. This is the blessing with which Moses the man of God blessed the children of Israel before his death.  
 2. He said,  
 The LORD came from Sinai,  
@@ -6796,7 +6796,7 @@ the sword of your excellency?
 Your enemies will submit themselves to you.  
 You will tread on their high places.”   
 
-## Chapter 34
+## Deuteronomy Chapter 34
 1. Moses went up from the plains of Moab to Mount Nebo, to the top of Pisgah, that is opposite Jericho. The LORD showed him all the land of Gilead to Dan,  
 2. and all Naphtali, and the land of Ephraim and Manasseh, and all the land of Judah, to the Western Sea,  
 3. and the south, and the Plain of the valley of Jericho the city of palm trees, to Zoar.  
@@ -6812,7 +6812,7 @@ You will tread on their high places.”
 
 # Joshua
 
-## Chapter 1
+## Joshua Chapter 1
 1. Now after the death of Moses the servant of the LORD, the LORD spoke to Joshua the son of Nun, Moses’ servant, saying,  
 2. “Moses my servant is dead. Now therefore arise, go across this Jordan, you and all these people, to the land which I am giving to them, even to the children of Israel.  
 3. I have given you every place that the sole of your foot will tread on, as I told Moses.  
@@ -6832,7 +6832,7 @@ You will tread on their high places.”
 17. Just as we listened to Moses in all things, so will we listen to you. Only may the LORD your God be with you, as he was with Moses.  
 18. Whoever rebels against your commandment, and doesn’t listen to your words in all that you command him shall himself be put to death. Only be strong and courageous.”   
 
-## Chapter 2
+## Joshua Chapter 2
 1. Joshua the son of Nun secretly sent two men out of Shittim as spies, saying, “Go, view the land, including Jericho.” They went and came into the house of a prostitute whose name was Rahab, and slept there.   
 2. The king of Jericho was told, “Behold, men of the children of Israel came in here tonight to spy out the land.”   
 3. Jericho’s king sent to Rahab, saying, “Bring out the men who have come to you, who have entered into your house; for they have come to spy out all the land.”   
@@ -6858,7 +6858,7 @@ You will tread on their high places.”
 23. Then the two men returned, descended from the mountain, crossed the river, and came to Joshua the son of Nun. They told him all that had happened to them.  
 24. They said to Joshua, “Truly the LORD has delivered all the land into our hands. Moreover, all the inhabitants of the land melt away before us.”   
 
-## Chapter 3
+## Joshua Chapter 3
 1. Joshua got up early in the morning; and they moved from Shittim and came to the Jordan, he and all the children of Israel. They camped there before they crossed over.  
 2. After three days, the officers went through the middle of the camp;  
 3. and they commanded the people, saying, “When you see the ark of the LORD your God’s covenant, and the Levitical priests bearing it, then leave your place and follow it.  
@@ -6877,7 +6877,7 @@ You will tread on their high places.”
 16. the waters which came down from above stood, and rose up in one heap a great way off, at Adam, the city that is beside Zarethan; and those that went down toward the sea of the Arabah, even the Salt Sea, were wholly cut off. Then the people passed over near Jericho.  
 17. The priests who bore the ark of the LORD’s covenant stood firm on dry ground in the middle of the Jordan; and all Israel crossed over on dry ground, until all the nation had passed completely over the Jordan.   
 
-## Chapter 4
+## Joshua Chapter 4
 1. When all the nation had completely crossed over the Jordan, the LORD spoke to Joshua, saying,  
 2. “Take twelve men out of the people, a man out of every tribe,  
 3. and command them, saying, ‘Take from out of the middle of the Jordan, out of the place where the priests’ feet stood firm, twelve stones, carry them over with you, and lay them down in the place where you’ll camp tonight.’”   
@@ -6903,7 +6903,7 @@ You will tread on their high places.”
 23. For the LORD your God dried up the waters of the Jordan from before you until you had crossed over, as the LORD your God did to the Red Sea, which he dried up from before us, until we had crossed over,  
 24. that all the peoples of the earth may know that the LORD’s hand is mighty, and that you may fear the LORD your God forever.’”   
 
-## Chapter 5
+## Joshua Chapter 5
 1. When all the kings of the Amorites, who were beyond the Jordan westward, and all the kings of the Canaanites, who were by the sea, heard how the LORD had dried up the waters of the Jordan from before the children of Israel until we had crossed over, their heart melted, and there was no more spirit in them, because of the children of Israel.  
 2. At that time, the LORD said to Joshua, “Make flint knives, and circumcise again the sons of Israel the second time.”  
 3. Joshua made himself flint knives, and circumcised the sons of Israel at the hill of the foreskins.  
@@ -6921,7 +6921,7 @@ You will tread on their high places.”
 Joshua fell on his face to the earth, and worshiped, and asked him, “What does my lord say to his servant?”   
 15. The prince of the LORD’s army said to Joshua, “Take off your sandals, for the place on which you stand is holy.” Joshua did so.   
 
-## Chapter 6
+## Joshua Chapter 6
 1. Now Jericho was tightly shut up because of the children of Israel. No one went out, and no one came in.  
 2. The LORD said to Joshua, “Behold, I have given Jericho into your hand, with its king and the mighty men of valor.  
 3. All of your men of war shall march around the city, going around the city once. You shall do this six days.  
@@ -6950,7 +6950,7 @@ Joshua fell on his face to the earth, and worshiped, and asked him, “What does
 26. Joshua commanded them with an oath at that time, saying, “Cursed is the man before the LORD who rises up and builds this city Jericho. With the loss of his firstborn he will lay its foundation, and with the loss of his youngest son he will set up its gates.”  
 27. So the LORD was with Joshua; and his fame was in all the land.   
 
-## Chapter 7
+## Joshua Chapter 7
 1. But the children of Israel committed a trespass in the devoted things; for Achan, the son of Carmi, the son of Zabdi, the son of Zerah, of the tribe of Judah, took some of the devoted things. Therefore the LORD’s anger burned against the children of Israel.  
 2. Joshua sent men from Jericho to Ai, which is beside Beth Aven, on the east side of Bethel, and spoke to them, saying, “Go up and spy out the land.”  
 The men went up and spied out Ai.  
@@ -6979,7 +6979,7 @@ The men went up and spied out Ai.
 25. Joshua said, “Why have you troubled us? The LORD will trouble you today.” All Israel stoned him with stones, and they burned them with fire and stoned them with stones.  
 26. They raised over him a great heap of stones that remains to this day. The LORD turned from the fierceness of his anger. Therefore the name of that place was called “The valley of Achor” to this day.   
 
-## Chapter 8
+## Joshua Chapter 8
 1. The LORD said to Joshua, “Don’t be afraid, and don’t be dismayed. Take all the warriors with you, and arise, go up to Ai. Behold, I have given into your hand the king of Ai, with his people, his city, and his land.  
 2. You shall do to Ai and her king as you did to Jericho and her king, except you shall take its goods and its livestock for yourselves. Set an ambush for the city behind it.”   
 3. So Joshua arose, with all the warriors, to go up to Ai. Joshua chose thirty thousand men, the mighty men of valor, and sent them out by night.  
@@ -7017,7 +7017,7 @@ Joshua stretched out the javelin that was in his hand toward the city.
 34. Afterward he read all the words of the law, the blessing and the curse, according to all that is written in the book of the law.  
 35. There was not a word of all that Moses commanded which Joshua didn’t read before all the assembly of Israel, with the women, the little ones, and the foreigners who were among them.   
 
-## Chapter 9
+## Joshua Chapter 9
 1. When all the kings who were beyond the Jordan, in the hill country, and in the lowland, and on all the shore of the great sea in front of Lebanon, the Hittite, the Amorite, the Canaanite, the Perizzite, the Hivite, and the Jebusite, heard of it 
 2. they gathered themselves together to fight with Joshua and with Israel, with one accord.  
 3. But when the inhabitants of Gibeon heard what Joshua had done to Jericho and to Ai,  
@@ -7047,7 +7047,7 @@ Joshua said to them, “Who are you? Where do you come from?”
 26. He did so to them, and delivered them out of the hand of the children of Israel, so that they didn’t kill them.  
 27. That day Joshua made them wood cutters and drawers of water for the congregation and for the LORD’s altar to this day, in the place which he should choose.   
 
-## Chapter 10
+## Joshua Chapter 10
 1. Now when Adoni-Zedek king of Jerusalem heard how Joshua had taken Ai, and had utterly destroyed it; as he had done to Jericho and her king, so he had done to Ai and her king; and how the inhabitants of Gibeon had made peace with Israel, and were among them,  
 2. they were very afraid, because Gibeon was a great city, as one of the royal cities, and because it was greater than Ai, and all its men were mighty.  
 3. Therefore Adoni-Zedek king of Jerusalem sent to Hoham king of Hebron, Piram king of Jarmuth, Japhia king of Lachish, and Debir king of Eglon, saying,  
@@ -7093,7 +7093,7 @@ They came near, and put their feet on their necks.
 42. Joshua took all these kings and their land at one time because the LORD, the God of Israel, fought for Israel.  
 43. Joshua returned, and all Israel with him, to the camp to Gilgal.   
 
-## Chapter 11
+## Joshua Chapter 11
 1. When Jabin king of Hazor heard of it, he sent to Jobab king of Madon, to the king of Shimron, to the king of Achshaph,  
 2. and to the kings who were on the north, in the hill country, in the Arabah south of Chinneroth, in the lowland, and in the heights of Dor on the west,  
 3. to the Canaanite on the east and on the west, the Amorite, the Hittite, the Perizzite, the Jebusite in the hill country, and the Hivite under Hermon in the land of Mizpah.  
@@ -7118,7 +7118,7 @@ They came near, and put their feet on their necks.
 22. There were none of the Anakim left in the land of the children of Israel. Only in Gaza, in Gath, and in Ashdod, did some remain.  
 23. So Joshua took the whole land, according to all that the LORD spoke to Moses; and Joshua gave it for an inheritance to Israel according to their divisions by their tribes. Then the land had rest from war.   
 
-## Chapter 12
+## Joshua Chapter 12
 1. Now these are the kings of the land, whom the children of Israel struck, and possessed their land beyond the Jordan toward the sunrise, from the valley of the Arnon to Mount Hermon, and all the Arabah eastward:  
 2. Sihon king of the Amorites, who lived in Heshbon, and ruled from Aroer, which is on the edge of the valley of the Arnon, and the middle of the valley, and half Gilead, even to the river Jabbok, the border of the children of Ammon;  
 3. and the Arabah to the sea of Chinneroth, eastward, and to the sea of the Arabah, even the Salt Sea, eastward, the way to Beth Jeshimoth; and on the south, under the slopes of Pisgah:  
@@ -7160,7 +7160,7 @@ the king of Goiim in Gilgal, one;
 24. the king of Tirzah, one:  
 all the kings thirty-one.   
 
-## Chapter 13
+## Joshua Chapter 13
 1. Now Joshua was old and well advanced in years. The LORD said to him, “You are old and advanced in years, and there remains yet very much land to be possessed.   
 2. “This is the land that still remains: all the regions of the Philistines, and all the Geshurites;  
 3. from the Shihor, which is before Egypt, even to the border of Ekron northward, which is counted as Canaanite; the five lords of the Philistines; the Gazites, and the Ashdodites, the Ashkelonites, the Gittites, and the Ekronites; also the Avvim,  
@@ -7195,7 +7195,7 @@ all the kings thirty-one.
 32. These are the inheritances which Moses distributed in the plains of Moab, beyond the Jordan at Jericho, eastward.  
 33. But Moses gave no inheritance to the tribe of Levi. The LORD, the God of Israel, is their inheritance, as he spoke to them.   
 
-## Chapter 14
+## Joshua Chapter 14
 1. These are the inheritances which the children of Israel took in the land of Canaan, which Eleazar the priest, Joshua the son of Nun, and the heads of the fathers’ houses of the tribes of the children of Israel, distributed to them,  
 2. by the lot of their inheritance, as the LORD commanded by Moses, for the nine tribes, and for the half-tribe.  
 3. For Moses had given the inheritance of the two tribes and the half-tribe beyond the Jordan; but to the Levites he gave no inheritance among them.  
@@ -7212,7 +7212,7 @@ all the kings thirty-one.
 14. Therefore Hebron became the inheritance of Caleb the son of Jephunneh the Kenizzite to this day, because he followed the LORD, the God of Israel wholeheartedly.  
 15. Now the name of Hebron before was Kiriath Arba, after the greatest man among the Anakim. Then the land had rest from war.   
 
-## Chapter 15
+## Joshua Chapter 15
 1. The lot for the tribe of the children of Judah according to their families was to the border of Edom, even to the wilderness of Zin southward, at the uttermost part of the south.  
 2. Their south border was from the uttermost part of the Salt Sea, from the bay that looks southward;  
 3. and it went out southward of the ascent of Akrabbim, and passed along to Zin, and went up by the south of Kadesh Barnea, and passed along by Hezron, went up to Addar, and turned toward Karka;  
@@ -7278,7 +7278,7 @@ So he gave her the upper springs and the lower springs.
 62. Nibshan, the City of Salt, and En Gedi; six cities with their villages.   
 63. As for the Jebusites, the inhabitants of Jerusalem, the children of Judah couldn’t drive them out; but the Jebusites live with the children of Judah at Jerusalem to this day.   
 
-## Chapter 16
+## Joshua Chapter 16
 1. The lot came out for the children of Joseph from the Jordan at Jericho, at the waters of Jericho on the east, even the wilderness, going up from Jericho through the hill country to Bethel.  
 2. It went out from Bethel to Luz, and passed along to the border of the Archites to Ataroth;  
 3. and it went down westward to the border of the Japhletites, to the border of Beth Horon the lower, and on to Gezer; and ended at the sea.   
@@ -7290,7 +7290,7 @@ So he gave her the upper springs and the lower springs.
 9. together with the cities which were set apart for the children of Ephraim in the middle of the inheritance of the children of Manasseh, all the cities with their villages.  
 10. They didn’t drive out the Canaanites who lived in Gezer; but the Canaanites dwell in the territory of Ephraim to this day, and have become servants to do forced labor.   
 
-## Chapter 17
+## Joshua Chapter 17
 1. This was the lot for the tribe of Manasseh, for he was the firstborn of Joseph. As for Machir the firstborn of Manasseh, the father of Gilead, because he was a man of war, therefore he had Gilead and Bashan.  
 2. So this was for the rest of the children of Manasseh according to their families: for the children of Abiezer, for the children of Helek, for the children of Asriel, for the children of Shechem, for the children of Hepher, and for the children of Shemida. These were the male children of Manasseh the son of Joseph according to their families.  
 3. But Zelophehad, the son of Hepher, the son of Gilead, the son of Machir, the son of Manasseh, had no sons, but daughters. These are the names of his daughters: Mahlah, Noah, Hoglah, Milcah, and Tirzah.  
@@ -7310,7 +7310,7 @@ So he gave her the upper springs and the lower springs.
 17. Joshua spoke to the house of Joseph, that is, to Ephraim and to Manasseh, saying, “You are a numerous people, and have great power. You shall not have one lot only;  
 18. but the hill country shall be yours. Although it is a forest, you shall cut it down, and it’s farthest extent shall be yours; for you shall drive out the Canaanites, though they have chariots of iron, and though they are strong.”   
 
-## Chapter 18
+## Joshua Chapter 18
 1. The whole congregation of the children of Israel assembled themselves together at Shiloh, and set up the Tent of Meeting there. The land was subdued before them.  
 2. Seven tribes remained among the children of Israel, which had not yet divided their inheritance.  
 3. Joshua said to the children of Israel, “How long will you neglect to go in to possess the land, which the LORD, the God of your fathers, has given you?  
@@ -7340,7 +7340,7 @@ So he gave her the upper springs and the lower springs.
 27. Rekem, Irpeel, Taralah,  
 28. Zelah, Eleph, the Jebusite (also called Jerusalem), Gibeath, and Kiriath; fourteen cities with their villages. This is the inheritance of the children of Benjamin according to their families.   
 
-## Chapter 19
+## Joshua Chapter 19
 1. The second lot came out for Simeon, even for the tribe of the children of Simeon according to their families. Their inheritance was in the middle of the inheritance of the children of Judah.  
 2. They had for their inheritance Beersheba (or Sheba), Moladah,  
 3. Hazar Shual, Balah, Ezem,  
@@ -7393,7 +7393,7 @@ So he gave her the upper springs and the lower springs.
 50. According to the LORD’s commandment, they gave him the city which he asked, even Timnathserah in the hill country of Ephraim; and he built the city, and lived there.  
 51. These are the inheritances, which Eleazar the priest, Joshua the son of Nun, and the heads of the fathers’ houses of the tribes of the children of Israel, distributed for inheritance by lot in Shiloh before the LORD, at the door of the Tent of Meeting. So they finished dividing the land.   
 
-## Chapter 20
+## Joshua Chapter 20
 1. The LORD spoke to Joshua, saying,  
 2. “Speak to the children of Israel, saying, ‘Assign the cities of refuge, of which I spoke to you by Moses,  
 3. that the man slayer who kills any person accidentally or unintentionally may flee there. They shall be to you for a refuge from the avenger of blood.  
@@ -7404,7 +7404,7 @@ So he gave her the upper springs and the lower springs.
 8. Beyond the Jordan at Jericho eastward, they assigned Bezer in the wilderness in the plain out of the tribe of Reuben, Ramoth in Gilead out of the tribe of Gad, and Golan in Bashan out of the tribe of Manasseh.  
 9. These were the appointed cities for all the children of Israel, and for the alien who lives among them, that whoever kills any person unintentionally might flee there, and not die by the hand of the avenger of blood, until he stands trial before the congregation.   
 
-## Chapter 21
+## Joshua Chapter 21
 1. Then the heads of fathers’ houses of the Levites came near to Eleazar the priest, and to Joshua the son of Nun, and to the heads of fathers’ houses of the tribes of the children of Israel.  
 2. They spoke to them at Shiloh in the land of Canaan, saying, “The LORD commanded through Moses to give us cities to dwell in, with their pasture lands for our livestock.”   
 3. The children of Israel gave to the Levites out of their inheritance, according to the commandment of the LORD, these cities with their pasture lands.  
@@ -7451,7 +7451,7 @@ So he gave her the upper springs and the lower springs.
 44. The LORD gave them rest all around, according to all that he swore to their fathers. Not a man of all their enemies stood before them. The LORD delivered all their enemies into their hand.  
 45. Nothing failed of any good thing which the LORD had spoken to the house of Israel. All came to pass.   
 
-## Chapter 22
+## Joshua Chapter 22
 1. Then Joshua called the Reubenites, the Gadites, and the half-tribe of Manasseh,  
 2. and said to them, “You have kept all that Moses the servant of the LORD commanded you, and have listened to my voice in all that I commanded you.  
 3. You have not left your brothers these many days to this day, but have performed the duty of the commandment of the LORD your God.  
@@ -7487,7 +7487,7 @@ So he gave her the upper springs and the lower springs.
 33. The thing pleased the children of Israel; and the children of Israel blessed God, and spoke no more of going up against them to war, to destroy the land in which the children of Reuben and the children of Gad lived.  
 34. The children of Reuben and the children of Gad named the altar “A Witness Between Us that the LORD is God.”   
 
-## Chapter 23
+## Joshua Chapter 23
 1. After many days, when the LORD had given rest to Israel from their enemies all around, and Joshua was old and well advanced in years,  
 2. Joshua called for all Israel, for their elders and for their heads, and for their judges and for their officers, and said to them, “I am old and well advanced in years.  
 3. You have seen all that the LORD your God has done to all these nations because of you; for it is the LORD your God who has fought for you.  
@@ -7505,7 +7505,7 @@ So he gave her the upper springs and the lower springs.
 15. It shall happen that as all the good things have come on you of which the LORD your God spoke to you, so the LORD will bring on you all the evil things, until he has destroyed you from off this good land which the LORD your God has given you,  
 16. when you disobey the covenant of the LORD your God, which he commanded you, and go and serve other gods, and bow down yourselves to them. Then the LORD’s anger will be kindled against you, and you will perish quickly from off the good land which he has given to you.”   
 
-## Chapter 24
+## Joshua Chapter 24
 1. Joshua gathered all the tribes of Israel to Shechem, and called for the elders of Israel, for their heads, for their judges, and for their officers; and they presented themselves before God.  
 2. Joshua said to all the people, “The LORD, the God of Israel, says, ‘Your fathers lived of old time beyond the River, even Terah, the father of Abraham, and the father of Nahor. They served other gods.  
 3. I took your father Abraham from beyond the River, and led him throughout all the land of Canaan, and multiplied his offspring, and gave him Isaac.  
@@ -7543,7 +7543,7 @@ They said, “We are witnesses.”
 
 # Judges
 
-## Chapter 1
+## Judges Chapter 1
 1. After the death of Joshua, the children of Israel asked of the LORD, saying, “Who should go up for us first against the Canaanites, to fight against them?”   
 2. The LORD said, “Judah shall go up. Behold, I have delivered the land into his hand.”   
 3. Judah said to Simeon his brother, “Come up with me into my lot, that we may fight against the Canaanites; and I likewise will go with you into your lot.” So Simeon went with him.  
@@ -7581,7 +7581,7 @@ They said, “We are witnesses.”
 35. but the Amorites would dwell in Mount Heres, in Aijalon, and in Shaalbim. Yet the hand of the house of Joseph prevailed, so that they became subject to forced labor.  
 36. The border of the Amorites was from the ascent of Akrabbim, from the rock, and upward.   
 
-## Chapter 2
+## Judges Chapter 2
 1. The LORD’s angel came up from Gilgal to Bochim. He said, “I brought you out of Egypt, and have brought you to the land which I swore to give your fathers. I said, ‘I will never break my covenant with you.  
 2. You shall make no covenant with the inhabitants of this land. You shall break down their altars.’ But you have not listened to my voice. Why have you done this?  
 3. Therefore I also said, ‘I will not drive them out from before you; but they shall be in your sides, and their gods will be a snare to you.’”   
@@ -7606,7 +7606,7 @@ They said, “We are witnesses.”
 22. that by them I may test Israel, to see if they will keep the LORD’s way to walk therein, as their fathers kept it, or not.”  
 23. So the LORD left those nations, without driving them out hastily. He didn’t deliver them into Joshua’s hand.   
 
-## Chapter 3
+## Judges Chapter 3
 1. Now these are the nations which the LORD left, to test Israel by them, even as many as had not known all the wars of Canaan;  
 2. only that the generations of the children of Israel might know, to teach them war, at least those who knew nothing of it before:  
 3. the five lords of the Philistines, all the Canaanites, the Sidonians, and the Hivites who lived on Mount Lebanon, from Mount Baal Hermon to the entrance of Hamath.  
@@ -7640,7 +7640,7 @@ The king said, “Keep silence!” All who stood by him left him.
 30. So Moab was subdued that day under the hand of Israel. Then the land had rest eighty years.   
 31. After him was Shamgar the son of Anath, who struck six hundred men of the Philistines with an ox goad. He also saved Israel.   
 
-## Chapter 4
+## Judges Chapter 4
 1. The children of Israel again did that which was evil in the LORD’s sight, when Ehud was dead.  
 2. The LORD sold them into the hand of Jabin king of Canaan, who reigned in Hazor; the captain of whose army was Sisera, who lived in Harosheth of the Gentiles.  
 3. The children of Israel cried to the LORD, for he had nine hundred chariots of iron; and he mightily oppressed the children of Israel for twenty years.  
@@ -7667,7 +7667,7 @@ She opened a container of milk, and gave him a drink, and covered him.
 23. So God subdued Jabin the king of Canaan before the children of Israel on that day.  
 24. The hand of the children of Israel prevailed more and more against Jabin the king of Canaan, until they had destroyed Jabin king of Canaan.   
 
-## Chapter 5
+## Judges Chapter 5
 1. Then Deborah and Barak the son of Abinoam sang on that day, saying,   
 2. “Because the leaders took the lead in Israel,  
 because the people offered themselves willingly,  
@@ -7768,7 +7768,7 @@ of dyed garments embroidered on both sides, on the necks of the plunder?’
 but let those who love him be as the sun when it rises in its strength.”  
 Then the land had rest forty years.   
 
-## Chapter 6
+## Judges Chapter 6
 1. The children of Israel did that which was evil in the LORD’s sight, so the LORD delivered them into the hand of Midian seven years.  
 2. The hand of Midian prevailed against Israel; and because of Midian the children of Israel made themselves the dens which are in the mountains, the caves, and the strongholds.  
 3. So it was, when Israel had sown, that the Midianites, the Amalekites, and the children of the east came up against them.  
@@ -7813,7 +7813,7 @@ When they inquired and asked, they said, “Gideon the son of Joash has done thi
 39. Gideon said to God, “Don’t let your anger be kindled against me, and I will speak but this once. Please let me make a trial just this once with the fleece. Let it now be dry only on the fleece, and on all the ground let there be dew.”   
 40. God did so that night; for it was dry on the fleece only, and there was dew on all the ground.   
 
-## Chapter 7
+## Judges Chapter 7
 1. Then Jerubbaal, who is Gideon, and all the people who were with him, rose up early and encamped beside the spring of Harod. Midian’s camp was on the north side of them, by the hill of Moreh, in the valley.  
 2. The LORD said to Gideon, “The people who are with you are too many for me to give the Midianites into their hand, lest Israel brag against me, saying, ‘My own hand has saved me.’  
 3. Now therefore proclaim in the ears of the people, saying, ‘Whoever is fearful and trembling, let him return and depart from Mount Gilead.’” So twenty-two thousand of the people returned, and ten thousand remained.   
@@ -7840,7 +7840,7 @@ When they inquired and asked, they said, “Gideon the son of Joash has done thi
 24. Gideon sent messengers throughout all the hill country of Ephraim, saying, “Come down against Midian and take the waters before them as far as Beth Barah, even the Jordan!” So all the men of Ephraim were gathered together and took the waters as far as Beth Barah, even the Jordan.  
 25. They took the two princes of Midian, Oreb and Zeeb. They killed Oreb at Oreb’s rock, and Zeeb they killed at Zeeb’s wine press, as they pursued Midian. Then they brought the heads of Oreb and Zeeb to Gideon beyond the Jordan.   
 
-## Chapter 8
+## Judges Chapter 8
 1. The men of Ephraim said to him, “Why have you treated us this way, that you didn’t call us when you went to fight with Midian?” They rebuked him sharply.  
 2. He said to them, “What have I now done in comparison with you? Isn’t the gleaning of the grapes of Ephraim better than the vintage of Abiezer?  
 3. God has delivered into your hand the princes of Midian, Oreb and Zeeb! What was I able to do in comparison with you?” Then their anger was abated toward him when he had said that.   
@@ -7878,7 +7878,7 @@ They answered, “They were like you. They all resembled the children of a king.
 34. The children of Israel didn’t remember the LORD their God, who had delivered them out of the hand of all their enemies on every side;  
 35. neither did they show kindness to the house of Jerubbaal, that is, Gideon, according to all the goodness which he had shown to Israel.   
 
-## Chapter 9
+## Judges Chapter 9
 1. Abimelech the son of Jerubbaal went to Shechem to his mother’s brothers, and spoke with them and with all the family of the house of his mother’s father, saying,  
 2. “Please speak in the ears of all the men of Shechem, ‘Is it better for you that all the sons of Jerubbaal, who are seventy persons, rule over you, or that one rule over you?’ Remember also that I am your bone and your flesh.”   
 3. His mother’s brothers spoke of him in the ears of all the men of Shechem all these words. Their hearts inclined to follow Abimelech; for they said, “He is our brother.”  
@@ -7938,7 +7938,7 @@ Zebul said to him, “You see the shadows of the mountains as if they were men.�
 56. Thus God repaid the wickedness of Abimelech, which he did to his father in killing his seventy brothers;  
 57. and God repaid all the wickedness of the men of Shechem on their heads; and the curse of Jotham the son of Jerubbaal came on them.   
 
-## Chapter 10
+## Judges Chapter 10
 1. After Abimelech, Tola the son of Puah, the son of Dodo, a man of Issachar, arose to save Israel. He lived in Shamir in the hill country of Ephraim.  
 2. He judged Israel twenty-three years, and died, and was buried in Shamir.   
 3. After him Jair, the Gileadite, arose. He judged Israel twenty-two years.  
@@ -7958,7 +7958,7 @@ Zebul said to him, “You see the shadows of the mountains as if they were men.�
 17. Then the children of Ammon were gathered together and encamped in Gilead. The children of Israel assembled themselves together and encamped in Mizpah.  
 18. The people, the princes of Gilead, said to one another, “Who is the man who will begin to fight against the children of Ammon? He shall be head over all the inhabitants of Gilead.”   
 
-## Chapter 11
+## Judges Chapter 11
 1. Now Jephthah the Gileadite was a mighty man of valor. He was the son of a prostitute. Gilead became the father of Jephthah.  
 2. Gilead’s wife bore him sons. When his wife’s sons grew up, they drove Jephthah out and said to him, “You will not inherit in our father’s house, for you are the son of another woman.”  
 3. Then Jephthah fled from his brothers and lived in the land of Tob. Outlaws joined up with Jephthah, and they went out with him.   
@@ -8000,7 +8000,7 @@ Zebul said to him, “You see the shadows of the mountains as if they were men.�
 39. At the end of two months, she returned to her father, who did with her according to his vow which he had vowed. She was a virgin. It became a custom in Israel 
 40. that the daughters of Israel went yearly to celebrate the daughter of Jephthah the Gileadite four days in a year.   
 
-## Chapter 12
+## Judges Chapter 12
 1. The men of Ephraim were gathered together, and passed northward; and they said to Jephthah, “Why did you pass over to fight against the children of Ammon, and didn’t call us to go with you? We will burn your house around you with fire!”   
 2. Jephthah said to them, “I and my people were at great strife with the children of Ammon; and when I called you, you didn’t save me out of their hand.  
 3. When I saw that you didn’t save me, I put my life in my hand, and passed over against the children of Ammon, and the LORD delivered them into my hand. Why then have you come up to me today, to fight against me?”   
@@ -8017,7 +8017,7 @@ Zebul said to him, “You see the shadows of the mountains as if they were men.�
 14. He had forty sons and thirty sons’ sons who rode on seventy donkey colts. He judged Israel eight years.  
 15. Abdon the son of Hillel the Pirathonite died, and was buried in Pirathon in the land of Ephraim, in the hill country of the Amalekites.   
 
-## Chapter 13
+## Judges Chapter 13
 1. The children of Israel again did that which was evil in the LORD’s sight; and the LORD delivered them into the hand of the Philistines forty years.   
 2. There was a certain man of Zorah, of the family of the Danites, whose name was Manoah; and his wife was barren, and childless.  
 3. The LORD’s angel appeared to the woman, and said to her, “See now, you are barren and childless; but you shall conceive and bear a son.  
@@ -8045,7 +8045,7 @@ He said, “I am.”
 24. The woman bore a son and named him Samson. The child grew, and the LORD blessed him.  
 25. The LORD’s Spirit began to move him in Mahaneh Dan, between Zorah and Eshtaol.   
 
-## Chapter 14
+## Judges Chapter 14
 1. Samson went down to Timnah, and saw a woman in Timnah of the daughters of the Philistines.  
 2. He came up, and told his father and his mother, saying, “I have seen a woman in Timnah of the daughters of the Philistines. Now therefore get her for me as my wife.”   
 3. Then his father and his mother said to him, “Isn’t there a woman among your brothers’ daughters, or among all my people, that you go to take a wife of the uncircumcised Philistines?”  
@@ -8076,7 +8076,7 @@ you wouldn’t have found out my riddle.”
 19. The LORD’s Spirit came mightily on him, and he went down to Ashkelon and struck thirty men of them. He took their plunder, then gave the changes of clothing to those who declared the riddle. His anger burned, and he went up to his father’s house.  
 20. But Samson’s wife was given to his companion, who had been his friend.   
 
-## Chapter 15
+## Judges Chapter 15
 1. But after a while, in the time of wheat harvest, Samson visited his wife with a young goat. He said, “I will go in to my wife’s room.”  
 But her father wouldn’t allow him to go in.  
 2. Her father said, “I most certainly thought that you utterly hated her; therefore I gave her to your companion. Isn’t her younger sister more beautiful than she? Please, take her instead.”   
@@ -8103,7 +8103,7 @@ Samson said to them, “Swear to me that you will not attack me yourselves.”
 19. But God split the hollow place that is in Lehi, and water came out of it. When he had drunk, his spirit came again, and he revived. Therefore its name was called En Hakkore, which is in Lehi, to this day.  
 20. He judged Israel twenty years in the days of the Philistines.   
 
-## Chapter 16
+## Judges Chapter 16
 1. Samson went to Gaza, and saw there a prostitute, and went in to her.  
 2. The Gazites were told, “Samson is here!” They surrounded him and laid wait for him all night in the gate of the city, and were quiet all the night, saying, “Wait until morning light; then we will kill him.”  
 3. Samson lay until midnight, then arose at midnight and took hold of the doors of the gate of the city, with the two posts, and plucked them up, bar and all, and put them on his shoulders and carried them up to the top of the mountain that is before Hebron.   
@@ -8138,7 +8138,7 @@ He awoke out of his sleep, and said, “I will go out as at other times, and sha
 30. Samson said, “Let me die with the Philistines!” He bowed himself with all his might; and the house fell on the lords, and on all the people who were in it. So the dead that he killed at his death were more than those who he killed in his life.   
 31. Then his brothers and all the house of his father came down and took him, and brought him up and buried him between Zorah and Eshtaol in the burial site of Manoah his father. He judged Israel twenty years.   
 
-## Chapter 17
+## Judges Chapter 17
 1. There was a man of the hill country of Ephraim, whose name was Micah.  
 2. He said to his mother, “The eleven hundred pieces of silver that were taken from you, about which you uttered a curse, and also spoke it in my ears—behold, the silver is with me. I took it.”  
 His mother said, “May the LORD bless my son!”   
@@ -8155,7 +8155,7 @@ He said to him, “I am a Levite of Bethlehem Judah, and I am looking for a plac
 12. Micah consecrated the Levite, and the young man became his priest, and was in the house of Micah.  
 13. Then Micah said, “Now I know that the LORD will do good to me, since I have a Levite as my priest.”   
 
-## Chapter 18
+## Judges Chapter 18
 1. In those days there was no king in Israel. In those days the tribe of the Danites sought an inheritance to dwell in; for to that day, their inheritance had not fallen to them among the tribes of Israel.  
 2. The children of Dan sent five men of their family from their whole number, men of valor, from Zorah and from Eshtaol, to spy out the land and to search it. They said to them, “Go, explore the land!”  
 They came to the hill country of Ephraim, to the house of Micah, and lodged there.  
@@ -8189,7 +8189,7 @@ They came to the hill country of Ephraim, to the house of Micah, and lodged ther
 30. The children of Dan set up for themselves the engraved image; and Jonathan, the son of Gershom, the son of Moses, and his sons were priests to the tribe of the Danites until the day of the captivity of the land.  
 31. So they set up for themselves Micah’s engraved image which he made, and it remained all the time that God’s house was in Shiloh.   
 
-## Chapter 19
+## Judges Chapter 19
 1. In those days, when there was no king in Israel, there was a certain Levite living on the farther side of the hill country of Ephraim, who took for himself a concubine out of Bethlehem Judah.  
 2. His concubine played the prostitute against him, and went away from him to her father’s house to Bethlehem Judah, and was there for four months.  
 3. Her husband arose and went after her to speak kindly to her, to bring her again, having his servant with him and a couple of donkeys. She brought him into her father’s house; and when the father of the young lady saw him, he rejoiced to meet him.  
@@ -8221,7 +8221,7 @@ They came to the hill country of Ephraim, to the house of Micah, and lodged ther
 29. When he had come into his house, he took a knife and cut up his concubine, and divided her, limb by limb, into twelve pieces, and sent her throughout all the borders of Israel.  
 30. It was so, that all who saw it said, “Such a deed has not been done or seen from the day that the children of Israel came up out of the land of Egypt to this day! Consider it, take counsel, and speak.”   
 
-## Chapter 20
+## Judges Chapter 20
 1. Then all the children of Israel went out, and the congregation was assembled as one man, from Dan even to Beersheba, with the land of Gilead, to the LORD at Mizpah.  
 2. The chiefs of all the people, even of all the tribes of Israel, presented themselves in the assembly of the people of God, four hundred thousand footmen who drew sword.  
 3. (Now the children of Benjamin heard that the children of Israel had gone up to Mizpah.) The children of Israel said, “Tell us, how did this wickedness happen?”   
@@ -8275,7 +8275,7 @@ The LORD said, “Go up; for tomorrow I will deliver him into your hand.”
 47. But six hundred men turned and fled toward the wilderness to the rock of Rimmon, and stayed in the rock of Rimmon four months.  
 48. The men of Israel turned again on the children of Benjamin, and struck them with the edge of the sword—including the entire city, the livestock, and all that they found. Moreover they set all the cities which they found on fire.   
 
-## Chapter 21
+## Judges Chapter 21
 1. Now the men of Israel had sworn in Mizpah, saying, “None of us will give his daughter to Benjamin as a wife.”  
 2. The people came to Bethel and sat there until evening before God, and lifted up their voices, and wept severely.  
 3. They said, “The LORD, the God of Israel, why has this happened in Israel, that there should be one tribe lacking in Israel today?”   
@@ -8304,7 +8304,7 @@ The LORD said, “Go up; for tomorrow I will deliver him into your hand.”
 
 # Ruth
 
-## Chapter 1
+## Ruth Chapter 1
 1. In the days when the judges judged, there was a famine in the land. A certain man of Bethlehem Judah went to live in the country of Moab with his wife and his two sons.  
 2. The name of the man was Elimelech, and the name of his wife Naomi. The names of his two sons were Mahlon and Chilion, Ephrathites of Bethlehem Judah. They came into the country of Moab and lived there.  
 3. Elimelech, Naomi’s husband, died; and she was left with her two sons.  
@@ -8329,7 +8329,7 @@ Then she kissed them, and they lifted up their voices, and wept.
 21. I went out full, and the LORD has brought me home again empty. Why do you call me Naomi, since the LORD has testified against me, and the Almighty has afflicted me?”  
 22. So Naomi returned, and Ruth the Moabitess, her daughter-in-law, with her, who returned out of the country of Moab. They came to Bethlehem in the beginning of barley harvest.   
 
-## Chapter 2
+## Ruth Chapter 2
 1. Naomi had a relative of her husband’s, a mighty man of wealth, of the family of Elimelech, and his name was Boaz.  
 2. Ruth the Moabitess said to Naomi, “Let me now go to the field, and glean among the ears of grain after him in whose sight I find favor.”  
 to her, “Go, my daughter.”  
@@ -8358,7 +8358,7 @@ She told her mother-in-law with whom she had worked, “The man’s name with wh
 22. Naomi said to Ruth her daughter-in-law, “It is good, my daughter, that you go out with his maidens, and that they not meet you in any other field.”  
 23. So she stayed close to the maidens of Boaz, to glean to the end of barley harvest and of wheat harvest; and she lived with her mother-in-law.   
 
-## Chapter 3
+## Ruth Chapter 3
 1. Naomi her mother-in-law said to her, “My daughter, shall I not seek rest for you, that it may be well with you?  
 2. Now isn’t Boaz our kinsman, with whose maidens you were? Behold, he will be winnowing barley tonight on the threshing floor.  
 3. Therefore wash yourself, anoint yourself, get dressed, and go down to the threshing floor; but don’t make yourself known to the man until he has finished eating and drinking.  
@@ -8380,7 +8380,7 @@ told her all that the man had done for her.
 17. She said, “He gave me these six measures of barley; for he said, ‘Don’t go empty to your mother-in-law.’”   
 18. Then she said, “Wait, my daughter, until you know what will happen; for the man will not rest until he has settled this today.”   
 
-## Chapter 4
+## Ruth Chapter 4
 1. Now Boaz went up to the gate and sat down there. Behold, the near kinsman of whom Boaz spoke came by. Boaz said to him, “Come over here, friend, and sit down!” He came over, and sat down.  
 2. Boaz took ten men of the elders of the city, and said, “Sit down here,” and they sat down.  
 3. He said to the near kinsman, “Naomi, who has come back out of the country of Moab, is selling the parcel of land, which was our brother Elimelech’s.  
@@ -8407,7 +8407,7 @@ He said, “I will redeem it.”
 
 # 1 Samuel
 
-## Chapter 1
+## 1 Samuel Chapter 1
 1. Now there was a certain man of Ramathaim Zophim, of the hill country of Ephraim, and his name was Elkanah, the son of Jeroham, the son of Elihu, the son of Tohu, the son of Zuph, an Ephraimite.  
 2. He had two wives. The name of one was Hannah, and the name of the other Peninnah. Peninnah had children, but Hannah had no children.  
 3. This man went up out of his city from year to year to worship and to sacrifice to the LORD of Armies in Shiloh. The two sons of Eli, Hophni and Phinehas, priests to the LORD, were there.  
@@ -8438,7 +8438,7 @@ So the woman waited and nursed her son until she weaned him.
 27. I prayed for this child, and the LORD has given me my petition which I asked of him.  
 28. Therefore I have also given him to the LORD. As long as he lives he is given to the LORD.” He worshiped the LORD there.   
 
-## Chapter 2
+## 1 Samuel Chapter 2
 1. Hannah prayed, and said,  
 My heart exults in the LORD!  
 My horn is exalted in the LORD.  
@@ -8502,7 +8502,7 @@ and exalt the horn of his anointed.”
 35. I will raise up a faithful priest for myself who will do according to that which is in my heart and in my mind. I will build him a sure house. He will walk before my anointed forever.  
 36. It will happen that everyone who is left in your house will come and bow down to him for a piece of silver and a loaf of bread, and will say, “Please put me into one of the priests’ offices, that I may eat a morsel of bread.”’”   
 
-## Chapter 3
+## 1 Samuel Chapter 3
 1. The child Samuel ministered to the LORD before Eli. The LORD’s word was rare in those days. There were not many visions, then.  
 2. At that time, when Eli was laid down in his place (now his eyes had begun to grow dim, so that he could not see),  
 3. and God’s lamp hadn’t yet gone out, and Samuel had laid down in the LORD’s temple where God’s ark was,  
@@ -8533,7 +8533,7 @@ He said, “It is the LORD. Let him do what seems good to him.”
 20. All Israel from Dan even to Beersheba knew that Samuel was established to be a prophet of the LORD.  
 21. The LORD appeared again in Shiloh; for the LORD revealed himself to Samuel in Shiloh by the LORD’s word.   
 
-## Chapter 4
+## 1 Samuel Chapter 4
 1. The word of Samuel came to all Israel.  
 Now Israel went out against the Philistines to battle, and encamped beside Ebenezer; and the Philistines encamped in Aphek.  
 2. The Philistines put themselves in array against Israel. When they joined battle, Israel was defeated by the Philistines, who killed about four thousand men of the army in the field.  
@@ -8560,7 +8560,7 @@ He said, “How did the matter go, my son?”
 21. She named the child Ichabod, saying, “The glory has departed from Israel!” because God’s ark was taken, and because of her father-in-law and her husband.  
 22. She said, “The glory has departed from Israel; for God’s ark has been taken.”   
 
-## Chapter 5
+## 1 Samuel Chapter 5
 1. Now the Philistines had taken God’s ark, and they brought it from Ebenezer to Ashdod.  
 2. The Philistines took God’s ark, and brought it into the house of Dagon and set it by Dagon.  
 3. When the people of Ashdod arose early on the next day, behold, Dagon had fallen on his face to the ground before the LORD’s ark. They took Dagon and set him in his place again.  
@@ -8576,7 +8576,7 @@ As God’s ark came to Ekron, the Ekronites cried out, saying, “They have brou
 11. They sent therefore and gathered together all the lords of the Philistines, and they said, “Send the ark of the God of Israel away, and let it go again to its own place, that it not kill us and our people.” For there was a deadly panic throughout all the city. The hand of God was very heavy there.  
 12. The men who didn’t die were struck with the tumors; and the cry of the city went up to heaven.   
 
-## Chapter 6
+## 1 Samuel Chapter 6
 1. The LORD’s ark was in the country of the Philistines seven months.  
 2. The Philistines called for the priests and the diviners, saying, “What shall we do with the LORD’s ark? Show us how we should send it to its place.”   
 3. They said, “If you send away the ark of the God of Israel, don’t send it empty; but by all means return a trespass offering to him. Then you will be healed, and it will be known to you why his hand is not removed from you.”   
@@ -8600,7 +8600,7 @@ They said, “Five golden tumors and five golden mice, for the number of the lor
 20. The men of Beth Shemesh said, “Who is able to stand before the LORD, this holy God? To whom shall he go up from us?”   
 21. They sent messengers to the inhabitants of Kiriath Jearim, saying, “The Philistines have brought back the LORD’s ark. Come down and bring it up to yourselves.”   
 
-## Chapter 7
+## 1 Samuel Chapter 7
 1. The men of Kiriath Jearim came and took the LORD’s ark, and brought it into Abinadab’s house on the hill, and consecrated Eleazar his son to keep the LORD’s ark.  
 2. From the day that the ark stayed in Kiriath Jearim, the time was long—for it was twenty years; and all the house of Israel lamented after the LORD.  
 3. Samuel spoke to all the house of Israel, saying, “If you are returning to the LORD with all your heart, then put away the foreign gods and the Ashtaroth from among you, and direct your hearts to the LORD, and serve him only; and he will deliver you out of the hand of the Philistines.”  
@@ -8619,7 +8619,7 @@ They said, “Five golden tumors and five golden mice, for the number of the lor
 16. He went from year to year in a circuit to Bethel, Gilgal, and Mizpah; and he judged Israel in all those places.  
 17. His return was to Ramah, for his house was there, and he judged Israel there; and he built an altar to the LORD there.   
 
-## Chapter 8
+## 1 Samuel Chapter 8
 1. When Samuel was old, he made his sons judges over Israel.  
 2. Now the name of his firstborn was Joel, and the name of his second, Abijah. They were judges in Beersheba.  
 3. His sons didn’t walk in his ways, but turned away after dishonest gain, took bribes, and perverted justice.   
@@ -8645,7 +8645,7 @@ Samuel prayed to the LORD.
 22. The LORD said to Samuel, “Listen to their voice, and make them a king.”  
 Samuel said to the men of Israel, “Everyone go to your own city.”   
 
-## Chapter 9
+## 1 Samuel Chapter 9
 1. Now there was a man of Benjamin, whose name was Kish the son of Abiel, the son of Zeror, the son of Becorath, the son of Aphiah, the son of a Benjamite, a mighty man of valor.  
 2. He had a son whose name was Saul, an impressive young man; and there was not among the children of Israel a more handsome person than he. From his shoulders and upward he was taller than any of the people.   
 3. The donkeys of Kish, Saul’s father, were lost. Kish said to Saul his son, “Now take one of the servants with you, and arise, go look for the donkeys.”  
@@ -8674,7 +8674,7 @@ Samuel said to the men of Israel, “Everyone go to your own city.”
 26. They arose early; and about daybreak, Samuel called to Saul on the housetop, saying, “Get up, that I may send you away.” Saul arose, and they both went outside, he and Samuel, together.  
 27. As they were going down at the end of the city, Samuel said to Saul, “Tell the servant to go on ahead of us.” He went ahead, then Samuel said, “But stand still first, that I may cause you to hear God’s message.”   
 
-## Chapter 10
+## 1 Samuel Chapter 10
 1. Then Samuel took the vial of oil and poured it on his head, then kissed him and said, “Hasn’t the LORD anointed you to be prince over his inheritance?  
 2. When you have departed from me today, then you will find two men by Rachel’s tomb, on the border of Benjamin at Zelzah. They will tell you, ‘The donkeys which you went to look for have been found; and behold, your father has stopped caring about the donkeys and is anxious for you, saying, “What shall I do for my son?”’   
 3. “Then you will go on forward from there, and you will come to the oak of Tabor. Three men will meet you there going up to God to Bethel: one carrying three young goats, and another carrying three loaves of bread, and another carrying a container of wine.  
@@ -8706,7 +8706,7 @@ All the people shouted and said, “Long live the king!”
 26. Saul also went to his house in Gibeah; and the army went with him, whose hearts God had touched.  
 27. But certain worthless fellows said, “How could this man save us?” They despised him, and brought him no tribute. But he held his peace.   
 
-## Chapter 11
+## 1 Samuel Chapter 11
 1. Then Nahash the Ammonite came up and encamped against Jabesh Gilead; and all the men of Jabesh said to Nahash, “Make a covenant with us, and we will serve you.”   
 2. Nahash the Ammonite said to them, “On this condition I will make it with you, that all your right eyes be gouged out. I will make this dishonor all Israel.”   
 3. The elders of Jabesh said to him, “Give us seven days, that we may send messengers to all the borders of Israel; and then, if there is no one to save us, we will come out to you.”  
@@ -8723,7 +8723,7 @@ All the people shouted and said, “Long live the king!”
 14. Then Samuel said to the people, “Come! Let’s go to Gilgal, and renew the kingdom there.”  
 15. All the people went to Gilgal; and there they made Saul king before the LORD in Gilgal. There they offered sacrifices of peace offerings before the LORD; and there Saul and all the men of Israel rejoiced greatly.   
 
-## Chapter 12
+## 1 Samuel Chapter 12
 1. Samuel said to all Israel, “Behold, I have listened to your voice in all that you said to me, and have made a king over you.  
 2. Now, behold, the king walks before you. I am old and gray-headed. Behold, my sons are with you. I have walked before you from my youth to this day.  
 3. Here I am. Witness against me before the LORD and before his anointed. Whose ox have I taken? Whose donkey have I taken? Whom have I defrauded? Whom have I oppressed? Of whose hand have I taken a bribe to make me blind my eyes? I will restore it to you.”   
@@ -8751,7 +8751,7 @@ They said, “He is witness.”
 24. Only fear the LORD, and serve him in truth with all your heart; for consider what great things he has done for you.  
 25. But if you keep doing evil, you will be consumed, both you and your king.”   
 
-## Chapter 13
+## 1 Samuel Chapter 13
 1. Saul was thirty years old when he became king, and he reigned over Israel forty-two years.  
 2. Saul chose for himself three thousand men of Israel, of which two thousand were with Saul in Michmash and in the Mount of Bethel, and one thousand were with Jonathan in Gibeah of Benjamin. He sent the rest of the people to their own tents.  
 3. Jonathan struck the garrison of the Philistines that was in Geba, and the Philistines heard of it. Saul blew the trumpet throughout all the land, saying, “Let the Hebrews hear!”  
@@ -8777,7 +8777,7 @@ Saul said, “Because I saw that the people were scattered from me, and that you
 22. So it came to pass in the day of battle that neither sword nor spear was found in the hand of any of the people who were with Saul and Jonathan; but Saul and Jonathan his son had them.   
 23. The garrison of the Philistines went out to the pass of Michmash.   
 
-## Chapter 14
+## 1 Samuel Chapter 14
 1. Now it happened on a day that Jonathan the son of Saul said to the young man who bore his armor, “Come! Let’s go over to the Philistines’ garrison that is on the other side.” But he didn’t tell his father.  
 2. Saul stayed in the uttermost part of Gibeah under the pomegranate tree which is in Migron; and the people who were with him were about six hundred men,  
 3. including Ahijah the son of Ahitub, Ichabod’s brother, the son of Phinehas, the son of Eli the priest of the LORD in Shiloh, wearing an ephod. The people didn’t know that Jonathan was gone.   
@@ -8839,7 +8839,7 @@ Jonathan told him, and said, “I certainly did taste a little honey with the en
 51. Kish was the father of Saul, and Ner the father of Abner was the son of Abiel.   
 52. There was severe war against the Philistines all the days of Saul; and when Saul saw any mighty man or any valiant man, he took him into his service.   
 
-## Chapter 15
+## 1 Samuel Chapter 15
 1. Samuel said to Saul, “The LORD sent me to anoint you to be king over his people, over Israel. Now therefore listen to the voice of the LORD’s words.  
 2. The LORD of Armies says, ‘I remember what Amalek did to Israel, how he set himself against him on the way when he came up out of Egypt.  
 3. Now go and strike Amalek, and utterly destroy all that they have, and don’t spare them; but kill both man and woman, infant and nursing baby, ox and sheep, camel and donkey.’”   
@@ -8878,7 +8878,7 @@ came to him cheerfully. Agag said, “Surely the bitterness of death is past.”
 34. Then Samuel went to Ramah; and Saul went up to his house to Gibeah of Saul.  
 35. Samuel came no more to see Saul until the day of his death, but Samuel mourned for Saul. The LORD grieved that he had made Saul king over Israel.   
 
-## Chapter 16
+## 1 Samuel Chapter 16
 1. The LORD said to Samuel, “How long will you mourn for Saul, since I have rejected him from being king over Israel? Fill your horn with oil, and go. I will send you to Jesse the Bethlehemite, for I have provided a king for myself among his sons.”   
 2. Samuel said, “How can I go? If Saul hears it, he will kill me.”  
 The LORD said, “Take a heifer with you, and say, ‘I have come to sacrifice to the LORD.’  
@@ -8906,7 +8906,7 @@ Samuel said to Jesse, “Send and get him, for we will not sit down until he com
 22. Saul sent to Jesse, saying, “Please let David stand before me, for he has found favor in my sight.”  
 23. When the spirit from God was on Saul, David took the harp and played with his hand; so Saul was refreshed and was well, and the evil spirit departed from him.   
 
-## Chapter 17
+## 1 Samuel Chapter 17
 1. Now the Philistines gathered together their armies to battle; and they were gathered together at Socoh, which belongs to Judah, and encamped between Socoh and Azekah in Ephesdammim.  
 2. Saul and the men of Israel were gathered together, and encamped in the valley of Elah, and set the battle in array against the Philistines.  
 3. The Philistines stood on the mountain on the one side, and Israel stood on the mountain on the other side: and there was a valley between them.  
@@ -8970,7 +8970,7 @@ said, “As your soul lives, O king, I can’t tell.”
 58. Saul said to him, “Whose son are you, you young man?”  
 David answered, “I am the son of your servant Jesse the Bethlehemite.”   
 
-## Chapter 18
+## 1 Samuel Chapter 18
 1. When he had finished speaking to Saul, the soul of Jonathan was knit with the soul of David, and Jonathan loved him as his own soul.  
 2. Saul took him that day, and wouldn’t let him go home to his father’s house any more.  
 3. Then Jonathan and David made a covenant, because he loved him as his own soul.  
@@ -9004,7 +9004,7 @@ and David his ten thousands.”
 29. Saul was even more afraid of David; and Saul was David’s enemy continually.   
 30. Then the princes of the Philistines went out; and as often as they went out, David behaved himself more wisely than all the servants of Saul, so that his name was highly esteemed.   
 
-## Chapter 19
+## 1 Samuel Chapter 19
 1. Saul spoke to Jonathan his son and to all his servants, that they should kill David. But Jonathan, Saul’s son, greatly delighted in David.  
 2. Jonathan told David, saying, “Saul my father seeks to kill you. Now therefore, please take care of yourself in the morning, live in a secret place, and hide yourself.  
 3. I will go out and stand beside my father in the field where you are, and I will talk with my father about you; and if I see anything, I will tell you.”   
@@ -9032,7 +9032,7 @@ One said, “Behold, they are at Naioth in Ramah.”
 23. He went there to Naioth in Ramah. Then God’s Spirit came on him also, and he went on, and prophesied, until he came to Naioth in Ramah.  
 24. He also stripped off his clothes. He also prophesied before Samuel and lay down naked all that day and all that night. Therefore they say, “Is Saul also among the prophets?”   
 
-## Chapter 20
+## 1 Samuel Chapter 20
 1. David fled from Naioth in Ramah, and came and said to Jonathan, “What have I done? What is my iniquity? What is my sin before your father, that he seeks my life?”   
 2. He said to him, “Far from it; you will not die. Behold, my father does nothing either great or small, but that he discloses it to me. Why would my father hide this thing from me? It is not so.”   
 3. David swore moreover, and said, “Your father knows well that I have found favor in your eyes; and he says, ‘Don’t let Jonathan know this, lest he be grieved;’ but truly as the LORD lives, and as your soul lives, there is but a step between me and death.”   
@@ -9076,7 +9076,7 @@ One said, “Behold, they are at Naioth in Ramah.”
 41. As soon as the boy was gone, David arose out of the south, and fell on his face to the ground, and bowed himself three times. They kissed one another and wept with one another, and David wept the most.  
 42. Jonathan said to David, “Go in peace, because we have both sworn in the LORD’s name, saying, ‘The LORD is between me and you, and between my offspring and your offspring, forever.’” He arose and departed; and Jonathan went into the city.   
 
-## Chapter 21
+## 1 Samuel Chapter 21
 1. Then David came to Nob to Ahimelech the priest. Ahimelech came to meet David trembling, and said to him, “Why are you alone, and no man with you?”  
 2. David said to Ahimelech the priest, “The king has commanded me to do something, and has said to me, ‘Let no one know anything about the business about which I send you, and what I have commanded you. I have sent the young men to a certain place.’  
 3. Now therefore what is under your hand? Please give me five loaves of bread in my hand, or whatever is available.”   
@@ -9096,7 +9096,7 @@ and David his ten thousands’?”
 14. Then Achish said to his servants, “Look, you see the man is insane. Why then have you brought him to me?  
 15. Do I lack madmen, that you have brought this fellow to play the madman in my presence? Should this fellow come into my house?”   
 
-## Chapter 22
+## 1 Samuel Chapter 22
 1. David therefore departed from there and escaped to Adullam’s cave. When his brothers and all his father’s house heard it, they went down there to him.  
 2. Everyone who was in distress, everyone who was in debt, and everyone who was discontented gathered themselves to him; and he became captain over them. There were with him about four hundred men.  
 3. David went from there to Mizpeh of Moab; and he said to the king of Moab, “Please let my father and my mother come out to you, until I know what God will do for me.”  
@@ -9124,7 +9124,7 @@ Doeg the Edomite turned, and he attacked the priests, and he killed on that day 
 22. David said to Abiathar, “I knew on that day, when Doeg the Edomite was there, that he would surely tell Saul. I am responsible for the death of all the persons of your father’s house.  
 23. Stay with me. Don’t be afraid, for he who seeks my life seeks your life. You will be safe with me.”   
 
-## Chapter 23
+## 1 Samuel Chapter 23
 1. David was told, “Behold, the Philistines are fighting against Keilah, and are robbing the threshing floors.”   
 2. Therefore David inquired of the LORD, saying, “Shall I go and strike these Philistines?”  
 The LORD said to David, “Go strike the Philistines, and save Keilah.”   
@@ -9158,7 +9158,7 @@ The LORD said, “They will deliver you up.”
 28. So Saul returned from pursuing David, and went against the Philistines. Therefore they called that place Sela Hammahlekoth.  
 29. David went up from there and lived in the strongholds of En Gedi.   
 
-## Chapter 24
+## 1 Samuel Chapter 24
 1. When Saul had returned from following the Philistines, he was told, “Behold, David is in the wilderness of En Gedi.”  
 2. Then Saul took three thousand chosen men out of all Israel, and went to seek David and his men on the rocks of the wild goats.  
 3. He came to the sheep pens by the way, where there was a cave; and Saul went in to relieve himself. Now David and his men were staying in the innermost parts of the cave.  
@@ -9183,7 +9183,7 @@ When Saul looked behind him, David bowed with his face to the earth, and showed 
 21. Swear now therefore to me by the LORD that you will not cut off my offspring after me, and that you will not destroy my name out of my father’s house.”   
 22. David swore to Saul. Saul went home, but David and his men went up to the stronghold.   
 
-## Chapter 25
+## 1 Samuel Chapter 25
 1. Samuel died; and all Israel gathered themselves together and mourned for him, and buried him at his house at Ramah.  
 Then David arose and went down to the wilderness of Paran.  
 2. There was a man in Maon whose possessions were in Carmel; and the man was very great. He had three thousand sheep and a thousand goats; and he was shearing his sheep in Carmel.  
@@ -9232,7 +9232,7 @@ David sent and spoke concerning Abigail, to take her to himself as wife.
 43. David also took Ahinoam of Jezreel; and they both became his wives.   
 44. Now Saul had given Michal his daughter, David’s wife, to Palti the son of Laish, who was of Gallim.   
 
-## Chapter 26
+## 1 Samuel Chapter 26
 1. The Ziphites came to Saul to Gibeah, saying, “Doesn’t David hide himself in the hill of Hachilah, which is before the desert?”  
 2. Then Saul arose and went down to the wilderness of Ziph, having three thousand chosen men of Israel with him, to seek David in the wilderness of Ziph.  
 3. Saul encamped in the hill of Hachilah, which is before the desert, by the way. But David stayed in the wilderness, and he saw that Saul came after him into the wilderness.  
@@ -9263,7 +9263,7 @@ David said, “It is my voice, my lord, O king.”
 25. Then Saul said to David, “You are blessed, my son David. You will both do mightily, and will surely prevail.”  
 So David went his way, and Saul returned to his place.   
 
-## Chapter 27
+## 1 Samuel Chapter 27
 1. David said in his heart, “I will now perish one day by the hand of Saul. There is nothing better for me than that I should escape into the land of the Philistines; and Saul will despair of me, to seek me any more in all the borders of Israel. So I will escape out of his hand.”  
 2. David arose and passed over, he and the six hundred men who were with him, to Achish the son of Maoch, king of Gath.  
 3. David lived with Achish at Gath, he and his men, every man with his household, even David with his two wives, Ahinoam the Jezreelitess and Abigail the Carmelitess, Nabal’s wife.  
@@ -9278,7 +9278,7 @@ David said, “Against the South of Judah, against the South of the Jerahmeelite
 11. David saved neither man nor woman alive to bring them to Gath, saying, “Lest they should tell about us, saying, ‘David did this, and this has been his way all the time he has lived in the country of the Philistines.’”   
 12. Achish believed David, saying, “He has made his people Israel utterly to abhor him. Therefore he will be my servant forever.”   
 
-## Chapter 28
+## 1 Samuel Chapter 28
 1. In those days, the Philistines gathered their armies together for warfare, to fight with Israel. Achish said to David, “Know assuredly that you will go out with me in the army, you and your men.”   
 2. David said to Achish, “Therefore you will know what your servant can do.”  
 said to David, “Therefore I will make you my bodyguard forever.”   
@@ -9311,7 +9311,7 @@ Saul answered, “I am very distressed; for the Philistines make war against me,
 24. The woman had a fattened calf in the house. She hurried and killed it; and she took flour and kneaded it, and baked unleavened bread of it.  
 25. She brought it before Saul and before his servants, and they ate. Then they rose up and went away that night.   
 
-## Chapter 29
+## 1 Samuel Chapter 29
 1. Now the Philistines gathered together all their armies to Aphek; and the Israelites encamped by the spring which is in Jezreel.  
 2. The lords of the Philistines passed on by hundreds and by thousands; and David and his men passed on in the rear with Achish.   
 3. Then the princes of the Philistines said, “What about these Hebrews?”  
@@ -9327,7 +9327,7 @@ and David his ten thousands’?”
 10. Therefore now rise up early in the morning with the servants of your lord who have come with you; and as soon as you are up early in the morning and have light, depart.”   
 11. So David rose up early, he and his men, to depart in the morning, to return into the land of the Philistines; and the Philistines went up to Jezreel.   
 
-## Chapter 30
+## 1 Samuel Chapter 30
 1. When David and his men had come to Ziklag on the third day, the Amalekites had made a raid on the South and on Ziklag, and had struck Ziklag and burned it with fire,  
 2. and had taken captive the women and all who were in it, both small and great. They didn’t kill any, but carried them off and went their way.  
 3. When David and his men came to the city, behold, it was burned with fire; and their wives, their sons, and their daughters were taken captive.  
@@ -9364,7 +9364,7 @@ He said, “Swear to me by God that you will not kill me and not deliver me up i
 30. to those who were in Hormah, to those who were in Borashan, to those who were in Athach,  
 31. to those who were in Hebron, and to all the places where David himself and his men used to stay.   
 
-## Chapter 31
+## 1 Samuel Chapter 31
 1. Now the Philistines fought against Israel; and the men of Israel fled from before the Philistines, and fell down slain on Mount Gilboa.  
 2. The Philistines overtook Saul and his sons; and the Philistines killed Jonathan, Abinadab, and Malchishua, the sons of Saul.  
 3. The battle went hard against Saul, and the archers overtook him; and he was greatly distressed by reason of the archers.  
@@ -9381,7 +9381,7 @@ He said, “Swear to me by God that you will not kill me and not deliver me up i
 
 # 2 Samuel
 
-## Chapter 1
+## 2 Samuel Chapter 1
 1. After the death of Saul, when David had returned from the slaughter of the Amalekites, and David had stayed two days in Ziklag,  
 2. on the third day, behold, a man came out of the camp from Saul, with his clothes torn and earth on his head. When he came to David, he fell to the earth and showed respect.   
 3. David said to him, “Where do you come from?”  
@@ -9433,7 +9433,7 @@ the love of women.
 27. How the mighty have fallen,  
 and the weapons of war have perished!”   
 
-## Chapter 2
+## 2 Samuel Chapter 2
 1. After this, David inquired of the LORD, saying, “Shall I go up into any of the cities of Judah?”  
 The LORD said to him, “Go up.”  
 David said, “Where shall I go up?”  
@@ -9472,7 +9472,7 @@ He answered, “It is.”
 31. But David’s servants had struck Benjamin Abner’s men so that three hundred sixty men died.  
 32. They took up Asahel and buried him in the tomb of his father, which was in Bethlehem. Joab and his men went all night, and the day broke on them at Hebron.   
 
-## Chapter 3
+## 2 Samuel Chapter 3
 1. Now there was long war between Saul’s house and David’s house. David grew stronger and stronger, but Saul’s house grew weaker and weaker.  
 2. Sons were born to David in Hebron. His firstborn was Amnon, of Ahinoam the Jezreelitess;  
 3. and his second, Chileab, of Abigail the wife of Nabal the Carmelite; and the third, Absalom the son of Maacah the daughter of Talmai king of Geshur;  
@@ -9514,7 +9514,7 @@ All the people wept again over him.
 38. The king said to his servants, “Don’t you know that a prince and a great man has fallen today in Israel?  
 39. I am weak today, though anointed king. These men, the sons of Zeruiah are too hard for me. May the LORD reward the evildoer according to his wickedness.”   
 
-## Chapter 4
+## 2 Samuel Chapter 4
 1. When Saul’s son heard that Abner was dead in Hebron, his hands became feeble, and all the Israelites were troubled.  
 2. Saul’s son had two men who were captains of raiding bands. The name of one was Baanah and the name of the other Rechab, the sons of Rimmon the Beerothite, of the children of Benjamin (for Beeroth also is considered a part of Benjamin;  
 3. and the Beerothites fled to Gittaim, and have lived as foreigners there until today).   
@@ -9528,7 +9528,7 @@ All the people wept again over him.
 11. How much more, when wicked men have slain a righteous person in his own house on his bed, should I not now require his blood from your hand, and rid the earth of you?”  
 12. David commanded his young men, and they killed them, cut off their hands and their feet, and hanged them up beside the pool in Hebron. But they took the head of Ishbosheth and buried it in Abner’s grave in Hebron.   
 
-## Chapter 5
+## 2 Samuel Chapter 5
 1. Then all the tribes of Israel came to David at Hebron and spoke, saying, “Behold, we are your bone and your flesh.  
 2. In times past, when Saul was king over us, it was you who led Israel out and in. The LORD said to you, ‘You will be shepherd of my people Israel, and you will be prince over Israel.’”  
 3. So all the elders of Israel came to the king to Hebron, and King David made a covenant with them in Hebron before the LORD; and they anointed David king over Israel.   
@@ -9556,7 +9556,7 @@ The LORD said to David, “Go up; for I will certainly deliver the Philistines i
 24. When you hear the sound of marching in the tops of the mulberry trees, then stir yourself up; for then the LORD has gone out before you to strike the army of the Philistines.”   
 25. David did so, as the LORD commanded him, and struck the Philistines all the way from Geba to Gezer.   
 
-## Chapter 6
+## 2 Samuel Chapter 6
 1. David again gathered together all the chosen men of Israel, thirty thousand.  
 2. David arose and went with all the people who were with him from Baale Judah, to bring up from there God’s ark, which is called by the Name, even the name of the LORD of Armies who sits above the cherubim.  
 3. They set God’s ark on a new cart, and brought it out of Abinadab’s house that was on the hill; and Uzzah and Ahio, the sons of Abinadab, drove the new cart.  
@@ -9582,7 +9582,7 @@ So David went and brought up God’s ark from the house of Obed-Edom into David�
 22. I will be yet more undignified than this, and will be worthless in my own sight. But the maids of whom you have spoken will honor me.”   
 23. Michal the daughter of Saul had no child to the day of her death.   
 
-## Chapter 7
+## 2 Samuel Chapter 7
 1. When the king lived in his house, and the LORD had given him rest from all his enemies all around,  
 2. the king said to Nathan the prophet, “See now, I dwell in a house of cedar, but God’s ark dwells within curtains.”   
 3. Nathan said to the king, “Go, do all that is in your heart, for the LORD is with you.”   
@@ -9613,7 +9613,7 @@ So David went and brought up God’s ark from the house of Obed-Edom into David�
 28. “Now, O Lord GOD, you are God, and your words are truth, and you have promised this good thing to your servant.  
 29. Now therefore, let it please you to bless the house of your servant, that it may continue forever before you; for you, Lord GOD, have spoken it. Let the house of your servant be blessed forever with your blessing.”   
 
-## Chapter 8
+## 2 Samuel Chapter 8
 1. After this, David struck the Philistines and subdued them; and David took the bridle of the mother city out of the hand of the Philistines.  
 2. He defeated Moab, and measured them with the line, making them to lie down on the ground; and he measured two lines to put to death, and one full line to keep alive. The Moabites became servants to David, and brought tribute.   
 3. David also struck Hadadezer the son of Rehob, king of Zobah, as he went to recover his dominion at the River.  
@@ -9633,7 +9633,7 @@ So David went and brought up God’s ark from the house of Obed-Edom into David�
 17. Zadok the son of Ahitub and Ahimelech the son of Abiathar were priests, Seraiah was scribe,  
 18. Benaiah the son of Jehoiada was over the Cherethites and the Pelethites; and David’s sons were chief ministers.   
 
-## Chapter 9
+## 2 Samuel Chapter 9
 1. David said, “Is there yet any who is left of Saul’s house, that I may show him kindness for Jonathan’s sake?”  
 2. There was of Saul’s house a servant whose name was Ziba, and they called him to David; and the king said to him, “Are you Ziba?”  
 He said, “I am your servant.”   
@@ -9653,7 +9653,7 @@ Now Ziba had fifteen sons and twenty servants.
 12. Mephibosheth had a young son, whose name was Mica. All who lived in Ziba’s house were servants to Mephibosheth.  
 13. So Mephibosheth lived in Jerusalem, for he ate continually at the king’s table. He was lame in both his feet.   
 
-## Chapter 10
+## 2 Samuel Chapter 10
 1. After this, the king of the children of Ammon died, and Hanun his son reigned in his place.  
 2. David said, “I will show kindness to Hanun the son of Nahash, as his father showed kindness to me.” So David sent by his servants to comfort him concerning his father. David’s servants came into the land of the children of Ammon.   
 3. But the princes of the children of Ammon said to Hanun their lord, “Do you think that David honors your father, in that he has sent comforters to you? Hasn’t David sent his servants to you to search the city, to spy it out, and to overthrow it?”   
@@ -9674,7 +9674,7 @@ Now Ziba had fifteen sons and twenty servants.
 18. The Syrians fled before Israel; and David killed seven hundred charioteers of the Syrians and forty thousand horsemen, and struck Shobach the captain of their army, so that he died there.  
 19. When all the kings who were servants to Hadadezer saw that they were defeated before Israel, they made peace with Israel and served them. So the Syrians were afraid to help the children of Ammon any more.   
 
-## Chapter 11
+## 2 Samuel Chapter 11
 1. At the return of the year, at the time when kings go out, David sent Joab and his servants with him, and all Israel; and they destroyed the children of Ammon and besieged Rabbah. But David stayed at Jerusalem.  
 2. At evening, David arose from his bed and walked on the roof of the king’s house. From the roof, he saw a woman bathing, and the woman was very beautiful to look at.  
 3. David sent and inquired after the woman. One said, “Isn’t this Bathsheba, the daughter of Eliam, Uriah the Hittite’s wife?”   
@@ -9703,7 +9703,7 @@ Now Ziba had fifteen sons and twenty servants.
 26. When Uriah’s wife heard that Uriah her husband was dead, she mourned for her husband.  
 27. When the mourning was past, David sent and took her home to his house, and she became his wife and bore him a son. But the thing that David had done displeased the LORD.   
 
-## Chapter 12
+## 2 Samuel Chapter 12
 1. The LORD sent Nathan to David. He came to him, and said to him, “There were two men in one city: the one rich, and the other poor.  
 2. The rich man had very many flocks and herds,  
 3. but the poor man had nothing, except one little ewe lamb, which he had bought and raised. It grew up together with him and with his children. It ate of his own food, drank of his own cup, and lay in his bosom, and was like a daughter to him.  
@@ -9739,7 +9739,7 @@ They said, “He is dead.”
 30. He took the crown of their king from off his head; and its weight was a talent of gold, and in it were precious stones; and it was set on David’s head. He brought a great quantity of plunder out of the city.  
 31. He brought out the people who were in it, and put them to work under saws, under iron picks, under axes of iron, and made them go to the brick kiln; and he did so to all the cities of the children of Ammon. Then David and all the people returned to Jerusalem.   
 
-## Chapter 13
+## 2 Samuel Chapter 13
 1. After this, Absalom the son of David had a beautiful sister, whose name was Tamar; and Amnon the son of David loved her.  
 2. Amnon was so troubled that he became sick because of his sister Tamar, for she was a virgin, and it seemed hard to Amnon to do anything to her.  
 3. But Amnon had a friend whose name was Jonadab the son of Shimeah, David’s brother; and Jonadab was a very subtle man.  
@@ -9784,7 +9784,7 @@ The king said to him, “Why should he go with you?”
 38. So Absalom fled and went to Geshur, and was there three years.  
 39. King David longed to go out to Absalom, for he was comforted concerning Amnon, since he was dead.   
 
-## Chapter 14
+## 2 Samuel Chapter 14
 1. Now Joab the son of Zeruiah perceived that the king’s heart was toward Absalom.  
 2. Joab sent to Tekoa and brought a wise woman from there, and said to her, “Please act like a mourner, and put on mourning clothing, please, and don’t anoint yourself with oil; but be as a woman who has mourned a long time for the dead.  
 3. Go in to the king and speak like this to him.” So Joab put the words in her mouth.   
@@ -9824,7 +9824,7 @@ The woman answered, “As your soul lives, my lord the king, no one can turn to 
 32. Absalom answered Joab, “Behold, I sent to you, saying, ‘Come here, that I may send you to the king, to say, “Why have I come from Geshur? It would be better for me to be there still. Now therefore, let me see the king’s face; and if there is iniquity in me, let him kill me.”’”   
 33. So Joab came to the king and told him; and when he had called for Absalom, he came to the king and bowed himself on his face to the ground before the king; and the king kissed Absalom.   
 
-## Chapter 15
+## 2 Samuel Chapter 15
 1. After this, Absalom prepared a chariot and horses for himself, and fifty men to run before him.  
 2. Absalom rose up early, and stood beside the way of the gate. When any man had a suit which should come to the king for judgment, then Absalom called to him, and said, “What city are you from?”  
 He said, “Your servant is of one of the tribes of Israel.”   
@@ -9866,7 +9866,7 @@ David said, “LORD, please turn the counsel of Ahithophel into foolishness.”
 36. Behold, they have there with them their two sons, Ahimaaz, Zadok’s son, and Jonathan, Abiathar’s son. Send to me everything that you shall hear by them.”   
 37. So Hushai, David’s friend, came into the city; and Absalom came into Jerusalem.   
 
-## Chapter 16
+## 2 Samuel Chapter 16
 1. When David was a little past the top, behold, Ziba the servant of Mephibosheth met him with a couple of donkeys saddled, and on them two hundred loaves of bread, and one hundred clusters of raisins, and one hundred summer fruits, and a container of wine.  
 2. The king said to Ziba, “What do you mean by these?”  
 Ziba said, “The donkeys are for the king’s household to ride on; and the bread and summer fruit for the young men to eat; and the wine, that those who are faint in the wilderness may drink.”   
@@ -9894,7 +9894,7 @@ Ziba said, “I bow down. Let me find favor in your sight, my lord, O king.”
 22. So they spread a tent for Absalom on the top of the house, and Absalom went in to his father’s concubines in the sight of all Israel.   
 23. The counsel of Ahithophel, which he gave in those days, was as if a man inquired at the inner sanctuary of God. All the counsel of Ahithophel was like this both with David and with Absalom.   
 
-## Chapter 17
+## 2 Samuel Chapter 17
 1. Moreover Ahithophel said to Absalom, “Let me now choose twelve thousand men, and I will arise and pursue after David tonight.  
 2. I will come on him while he is weary and exhausted, and will make him afraid. All the people who are with him will flee. I will strike the king only,  
 3. and I will bring back all the people to you. The man whom you seek is as if all returned. All the people shall be in peace.”   
@@ -9927,7 +9927,7 @@ When they had sought and could not find them, they returned to Jerusalem.
 28. brought beds, basins, earthen vessels, wheat, barley, meal, parched grain, beans, lentils, roasted grain,  
 29. honey, butter, sheep, and cheese of the herd, for David and for the people who were with him to eat; for they said, “The people are hungry, weary, and thirsty in the wilderness.”   
 
-## Chapter 18
+## 2 Samuel Chapter 18
 1. David counted the people who were with him, and set captains of thousands and captains of hundreds over them.  
 2. David sent the people out, a third part under the hand of Joab, and a third part under the hand of Abishai the son of Zeruiah, Joab’s brother, and a third part under the hand of Ittai the Gittite. The king said to the people, “I will also surely go out with you myself.”   
 3. But the people said, “You shall not go out, for if we flee away, they will not care for us, neither if half of us die, will they care for us. But you are worth ten thousand of us. Therefore now it is better that you are ready to help us out of the city.”   
@@ -9969,7 +9969,7 @@ When Joab sent the king’s servant, even me your servant, I saw a great tumult,
 The Cushite answered, “May the enemies of my lord the king, and all who rise up against you to do you harm, be as that young man is.”   
 33. The king was much moved, and went up to the room over the gate and wept. As he went, he said, “My son Absalom! My son, my son Absalom! I wish I had died instead of you, Absalom, my son, my son!”   
 
-## Chapter 19
+## 2 Samuel Chapter 19
 1. Joab was told, “Behold, the king weeps and mourns for Absalom.”  
 2. The victory that day was turned into mourning among all the people, for the people heard it said that day, “The king grieves for his son.”   
 3. The people sneaked into the city that day, as people who are ashamed steal away when they flee in battle.  
@@ -10015,7 +10015,7 @@ the son of Gera fell down before the king when he had come over the Jordan.
 42. All the men of Judah answered the men of Israel, “Because the king is a close relative to us. Why then are you angry about this matter? Have we eaten at all at the king’s cost? Or has he given us any gift?”   
 43. The men of Israel answered the men of Judah, and said, “We have ten parts in the king, and we have also more claim to David than you. Why then did you despise us, that our advice should not be first had in bringing back our king?” The words of the men of Judah were fiercer than the words of the men of Israel.   
 
-## Chapter 20
+## 2 Samuel Chapter 20
 1. There happened to be there a wicked fellow, whose name was Sheba the son of Bichri, a Benjamite; and he blew the trumpet, and said, “We have no portion in David, neither have we inheritance in the son of Jesse. Every man to his tents, Israel!”   
 2. So all the men of Israel went up from following David, and followed Sheba the son of Bichri; but the men of Judah joined with their king, from the Jordan even to Jerusalem.   
 3. David came to his house at Jerusalem; and the king took the ten women his concubines, whom he had left to keep the house, and put them in custody and provided them with sustenance, but didn’t go in to them. So they were shut up to the day of their death, living in widowhood.   
@@ -10047,7 +10047,7 @@ The woman said to Joab, “Behold, his head will be thrown to you over the wall.
 25. Sheva was scribe, Zadok and Abiathar were priests,  
 26. and Ira the Jairite was chief minister to David.   
 
-## Chapter 21
+## 2 Samuel Chapter 21
 1. There was a famine in the days of David for three years, year after year; and David sought the face of the LORD. The LORD said, “It is for Saul, and for his bloody house, because he put the Gibeonites to death.”   
 2. The king called the Gibeonites and said to them (now the Gibeonites were not of the children of Israel, but of the remnant of the Amorites, and the children of Israel had sworn to them; and Saul sought to kill them in his zeal for the children of Israel and Judah);  
 3. and David said to the Gibeonites, “What should I do for you? And with what should I make atonement, that you may bless the LORD’s inheritance?”   
@@ -10073,7 +10073,7 @@ The king said, “I will give them.”
 21. When he defied Israel, Jonathan the son of Shimei, David’s brother, killed him.  
 22. These four were born to the giant in Gath; and they fell by the hand of David and by the hand of his servants.   
 
-## Chapter 22
+## 2 Samuel Chapter 22
 1. David spoke to the LORD the words of this song in the day that the LORD delivered him out of the hand of all his enemies, and out of the hand of Saul,  
 2. and he said:  
 The LORD is my rock,  
@@ -10192,7 +10192,7 @@ and will sing praises to your name.
 and shows loving kindness to his anointed,  
 to David and to his offspring, forever more.”   
 
-## Chapter 23
+## 2 Samuel Chapter 23
 1. Now these are the last words of David.  
 David the son of Jesse says,  
 the man who was raised on high says,  
@@ -10250,7 +10250,7 @@ be utterly burned with fire in their place.”
 38. Ira the Ithrite, Gareb the Ithrite,  
 39. and Uriah the Hittite: thirty-seven in all.   
 
-## Chapter 24
+## 2 Samuel Chapter 24
 1. Again the LORD’s anger burned against Israel, and he moved David against them, saying, “Go, count Israel and Judah.”  
 2. The king said to Joab the captain of the army, who was with him, “Now go back and forth through all the tribes of Israel, from Dan even to Beersheba, and count the people, that I may know the sum of the people.”   
 3. Joab said to the king, “Now may the LORD your God add to the people, however many they may be, one hundred times; and may the eyes of my lord the king see it. But why does my lord the king delight in this thing?”   
@@ -10280,7 +10280,7 @@ David said, “To buy your threshing floor, to build an altar to the LORD, that 
 
 # 1 Kings
 
-## Chapter 1
+## 1 Kings Chapter 1
 1. Now King David was old and advanced in years; and they covered him with clothes, but he couldn’t keep warm.  
 2. Therefore his servants said to him, “Let a young virgin be sought for my lord the king. Let her stand before the king, and cherish him; and let her lie in your bosom, that my lord the king may keep warm.”  
 3. So they sought for a beautiful young lady throughout all the borders of Israel, and found Abishag the Shunammite, and brought her to the king.  
@@ -10336,7 +10336,7 @@ When he had come in before the king, he bowed himself before the king with his f
 52. Solomon said, “If he shows himself a worthy man, not a hair of his shall fall to the earth; but if wickedness is found in him, he shall die.”   
 53. So King Solomon sent, and they brought him down from the altar. He came and bowed down to King Solomon; and Solomon said to him, “Go to your house.”   
 
-## Chapter 2
+## 1 Kings Chapter 2
 1. Now the days of David came near that he should die; and he commanded Solomon his son, saying,  
 2. “I am going the way of all the earth. You be strong therefore, and show yourself a man;  
 3. and keep the instruction of the LORD your God, to walk in his ways, to keep his statutes, his commandments, his ordinances, and his testimonies, according to that which is written in the law of Moses, that you may prosper in all that you do and wherever you turn yourself.  
@@ -10390,7 +10390,7 @@ Benaiah brought the king word again, saying, “This is what Joab said, and this
 45. But King Solomon will be blessed, and David’s throne will be established before the LORD forever.”  
 46. So the king commanded Benaiah the son of Jehoiada; and he went out, and fell on him, so that he died. The kingdom was established in the hand of Solomon.   
 
-## Chapter 3
+## 1 Kings Chapter 3
 1. Solomon made a marriage alliance with Pharaoh king of Egypt. He took Pharaoh’s daughter and brought her into David’s city until he had finished building his own house, the LORD’s house, and the wall around Jerusalem.  
 2. However, the people sacrificed in the high places, because there was not yet a house built for the LORD’s name.  
 3. Solomon loved the LORD, walking in the statutes of David his father, except that he sacrificed and burned incense in the high places.  
@@ -10422,7 +10422,7 @@ But the other said, “He shall be neither mine nor yours. Divide him.”
 27. Then the king answered, “Give the first woman the living child, and definitely do not kill him. She is his mother.”   
 28. All Israel heard of the judgment which the king had judged; and they feared the king, for they saw that the wisdom of God was in him to do justice.   
 
-## Chapter 4
+## 1 Kings Chapter 4
 1. King Solomon was king over all Israel.  
 2. These were the princes whom he had: Azariah the son of Zadok, the priest;  
 3. Elihoreph and Ahijah, the sons of Shisha, scribes; Jehoshaphat the son of Ahilud, the recorder;  
@@ -10458,7 +10458,7 @@ But the other said, “He shall be neither mine nor yours. Divide him.”
 33. He spoke of trees, from the cedar that is in Lebanon even to the hyssop that grows out of the wall; he also spoke of animals, of birds, of creeping things, and of fish.  
 34. People of all nations came to hear the wisdom of Solomon, sent by all kings of the earth who had heard of his wisdom.   
 
-## Chapter 5
+## 1 Kings Chapter 5
 1. Hiram king of Tyre sent his servants to Solomon, for he had heard that they had anointed him king in the place of his father, and Hiram had always loved David.  
 2. Solomon sent to Hiram, saying,  
 3. “You know that David my father could not build a house for the name of the LORD his God because of the wars which were around him on every side, until the LORD put his enemies under the soles of his feet.  
@@ -10478,7 +10478,7 @@ But the other said, “He shall be neither mine nor yours. Divide him.”
 17. The king commanded, and they cut out large stones, costly stones, to lay the foundation of the house with worked stone.  
 18. Solomon’s builders and Hiram’s builders and the Gebalites cut them, and prepared the timber and the stones to build the house.   
 
-## Chapter 6
+## 1 Kings Chapter 6
 1. In the four hundred and eightieth year after the children of Israel had come out of the land of Egypt, in the fourth year of Solomon’s reign over Israel, in the month Ziv, which is the second month, he began to build the LORD’s house.  
 2. The house which King Solomon built for the LORD had a length of sixty cubits, and its width twenty, and its height thirty cubits.  
 3. The porch in front of the temple of the house had a length of twenty cubits, which was along the width of the house. Ten cubits was its width in front of the house.  
@@ -10518,7 +10518,7 @@ But the other said, “He shall be neither mine nor yours. Divide him.”
 37. The foundation of the LORD’s house was laid in the fourth year, in the month Ziv.  
 38. In the eleventh year, in the month Bul, which is the eighth month, the house was finished throughout all its parts and according to all its specifications. So he spent seven years building it.   
 
-## Chapter 7
+## 1 Kings Chapter 7
 1. Solomon was building his own house thirteen years, and he finished all his house.  
 2. For he built the House of the Forest of Lebanon. Its length was one hundred cubits, its width fifty cubits, and its height thirty cubits, on four rows of cedar pillars, with cedar beams on the pillars.  
 3. It was covered with cedar above over the forty-five beams that were on the pillars, fifteen in a row.  
@@ -10571,7 +10571,7 @@ But the other said, “He shall be neither mine nor yours. Divide him.”
 50. the cups, the snuffers, the basins, the spoons, and the fire pans, of pure gold; and the hinges, both for the doors of the inner house, the most holy place, and for the doors of the house, of the temple, of gold.   
 51. Thus all the work that King Solomon did in the LORD’s house was finished. Solomon brought in the things which David his father had dedicated—the silver, the gold, and the vessels—and put them in the treasuries of the LORD’s house.   
 
-## Chapter 8
+## 1 Kings Chapter 8
 1. Then Solomon assembled the elders of Israel with all the heads of the tribes, the princes of the fathers’ households of the children of Israel, to King Solomon in Jerusalem, to bring up the ark of the LORD’s covenant out of David’s city, which is Zion.  
 2. All the men of Israel assembled themselves to King Solomon at the feast in the month Ethanim, which is the seventh month.  
 3. All the elders of Israel came, and the priests picked up the ark.  
@@ -10639,7 +10639,7 @@ But the other said, “He shall be neither mine nor yours. Divide him.”
 65. So Solomon held the feast at that time, and all Israel with him, a great assembly, from the entrance of Hamath to the brook of Egypt, before the LORD our God, seven days and seven more days, even fourteen days.  
 66. On the eighth day he sent the people away; and they blessed the king, and went to their tents joyful and glad in their hearts for all the goodness that the LORD had shown to David his servant, and to Israel his people.   
 
-## Chapter 9
+## 1 Kings Chapter 9
 1. When Solomon had finished the building of the LORD’s house, the king’s house, and all Solomon’s desire which he was pleased to do,  
 2. The LORD appeared to Solomon the second time, as he had appeared to him at Gibeon.  
 3. The LORD said to him, “I have heard your prayer and your supplication that you have made before me. I have made this house holy, which you have built, to put my name there forever; and my eyes and my heart shall be there perpetually.  
@@ -10669,7 +10669,7 @@ But the other said, “He shall be neither mine nor yours. Divide him.”
 27. Hiram sent in the fleet his servants, sailors who had knowledge of the sea, with the servants of Solomon.  
 28. They came to Ophir, and fetched from there gold, four hundred and twenty talents, and brought it to King Solomon.   
 
-## Chapter 10
+## 1 Kings Chapter 10
 1. When the queen of Sheba heard of the fame of Solomon concerning the LORD’s name, she came to test him with hard questions.  
 2. She came to Jerusalem with a very great caravan, with camels that bore spices, very much gold, and precious stones; and when she had come to Solomon, she talked with him about all that was in her heart.  
 3. Solomon answered all her questions. There wasn’t anything hidden from the king which he didn’t tell her.  
@@ -10700,7 +10700,7 @@ But the other said, “He shall be neither mine nor yours. Divide him.”
 28. The horses which Solomon had were brought out of Egypt. The king’s merchants received them in droves, each drove at a price.  
 29. A chariot was imported from Egypt for six hundred shekels of silver, and a horse for one hundred fifty shekels; and so they exported them to all the kings of the Hittites and to the kings of Syria.   
 
-## Chapter 11
+## 1 Kings Chapter 11
 1. Now King Solomon loved many foreign women, together with the daughter of Pharaoh: women of the Moabites, Ammonites, Edomites, Sidonians, and Hittites,  
 2. of the nations concerning which the LORD said to the children of Israel, “You shall not go among them, neither shall they come among you, for surely they will turn away your heart after their gods.” Solomon joined to these in love.  
 3. He had seven hundred wives, princesses, and three hundred concubines. His wives turned his heart away.  
@@ -10746,7 +10746,7 @@ He answered, “Nothing, however only let me depart.”
 42. The time that Solomon reigned in Jerusalem over all Israel was forty years.  
 43. Solomon slept with his fathers, and was buried in his father David’s city; and Rehoboam his son reigned in his place.   
 
-## Chapter 12
+## 1 Kings Chapter 12
 1. Rehoboam went to Shechem, for all Israel had come to Shechem to make him king.  
 2. When Jeroboam the son of Nebat heard of it (for he was yet in Egypt, where he had fled from the presence of King Solomon, and Jeroboam lived in Egypt;  
 3. and they sent and called him), Jeroboam and all the assembly of Israel came, and spoke to Rehoboam, saying,  
@@ -10782,7 +10782,7 @@ So the people departed.
 32. Jeroboam ordained a feast in the eighth month, on the fifteenth day of the month, like the feast that is in Judah, and he went up to the altar. He did so in Bethel, sacrificing to the calves that he had made, and he placed in Bethel the priests of the high places that he had made.  
 33. He went up to the altar which he had made in Bethel on the fifteenth day in the eighth month, even in the month which he had devised of his own heart; and he ordained a feast for the children of Israel, and went up to the altar to burn incense.   
 
-## Chapter 13
+## 1 Kings Chapter 13
 1. Behold, a man of God came out of Judah by the LORD’s word to Bethel; and Jeroboam was standing by the altar to burn incense.  
 2. He cried against the altar by the LORD’s word, and said, “Altar! Altar! The LORD says: ‘Behold, a son will be born to David’s house, Josiah by name. On you he will sacrifice the priests of the high places who burn incense on you, and they will burn men’s bones on you.’”  
 3. He gave a sign the same day, saying, “This is the sign which the LORD has spoken: Behold, the altar will be split apart, and the ashes that are on it will be poured out.”   
@@ -10820,7 +10820,7 @@ He said, “I am.”
 33. After this thing, Jeroboam didn’t turn from his evil way, but again made priests of the high places from among all the people. Whoever wanted to, he consecrated him, that there might be priests of the high places.  
 34. This thing became sin to the house of Jeroboam, even to cut it off and to destroy it from off the surface of the earth.   
 
-## Chapter 14
+## 1 Kings Chapter 14
 1. At that time Abijah the son of Jeroboam became sick.  
 2. Jeroboam said to his wife, “Please get up and disguise yourself, so that you won’t be recognized as Jeroboam’s wife. Go to Shiloh. Behold, Ahijah the prophet is there, who said that I would be king over this people.  
 3. Take with you ten loaves of bread, some cakes, and a jar of honey, and go to him. He will tell you what will become of the child.”   
@@ -10853,7 +10853,7 @@ He said, “I am.”
 30. There was war between Rehoboam and Jeroboam continually.  
 31. Rehoboam slept with his fathers, and was buried with his fathers in David’s city. His mother’s name was Naamah the Ammonitess. Abijam his son reigned in his place.   
 
-## Chapter 15
+## 1 Kings Chapter 15
 1. Now in the eighteenth year of King Jeroboam the son of Nebat, Abijam began to reign over Judah.  
 2. He reigned three years in Jerusalem. His mother’s name was Maacah the daughter of Abishalom.  
 3. He walked in all the sins of his father, which he had done before him; and his heart was not perfect with the LORD his God, as the heart of David his father.  
@@ -10889,7 +10889,7 @@ He said, “I am.”
 33. In the third year of Asa king of Judah, Baasha the son of Ahijah began to reign over all Israel in Tirzah for twenty-four years.  
 34. He did that which was evil in the LORD’s sight, and walked in the way of Jeroboam, and in his sin with which he made Israel to sin.   
 
-## Chapter 16
+## 1 Kings Chapter 16
 1. The LORD’s word came to Jehu the son of Hanani against Baasha, saying,  
 2. “Because I exalted you out of the dust and made you prince over my people Israel, and you have walked in the way of Jeroboam and have made my people Israel to sin, to provoke me to anger with their sins,  
 3. behold, I will utterly sweep away Baasha and his house; and I will make your house like the house of Jeroboam the son of Nebat.  
@@ -10925,7 +10925,7 @@ He said, “I am.”
 33. Ahab made the Asherah; and Ahab did more yet to provoke the LORD, the God of Israel, to anger than all the kings of Israel who were before him.  
 34. In his days Hiel the Bethelite built Jericho. He laid its foundation with the loss of Abiram his firstborn, and set up its gates with the loss of his youngest son Segub, according to the LORD’s word, which he spoke by Joshua the son of Nun.   
 
-## Chapter 17
+## 1 Kings Chapter 17
 1. Elijah the Tishbite, who was one of the settlers of Gilead, said to Ahab, “As the LORD, the God of Israel, lives, before whom I stand, there shall not be dew nor rain these years, but according to my word.”   
 2. Then the LORD’s word came to him, saying,  
 3. “Go away from here, turn eastward, and hide yourself by the brook Cherith, that is before the Jordan.  
@@ -10951,7 +10951,7 @@ He said, “I am.”
 23. Elijah took the child and brought him down out of the room into the house, and delivered him to his mother; and Elijah said, “Behold, your son lives.”   
 24. The woman said to Elijah, “Now I know that you are a man of God, and that the LORD’s word in your mouth is truth.”   
 
-## Chapter 18
+## 1 Kings Chapter 18
 1. After many days, the LORD’s word came to Elijah, in the third year, saying, “Go, show yourself to Ahab; and I will send rain on the earth.”   
 2. Elijah went to show himself to Ahab. The famine was severe in Samaria.  
 3. Ahab called Obadiah, who was over the household. (Now Obadiah feared the LORD greatly;  
@@ -11005,7 +11005,7 @@ He said, “Go up, tell Ahab, ‘Get ready and go down, so that the rain doesn�
 45. In a little while, the sky grew black with clouds and wind, and there was a great rain. Ahab rode, and went to Jezreel.  
 46. The LORD’s hand was on Elijah; and he tucked his cloak into his belt and ran before Ahab to the entrance of Jezreel.   
 
-## Chapter 19
+## 1 Kings Chapter 19
 1. Ahab told Jezebel all that Elijah had done, and how he had killed all the prophets with the sword.  
 2. Then Jezebel sent a messenger to Elijah, saying, “So let the gods do to me, and more also, if I don’t make your life as the life of one of them by tomorrow about this time!”   
 3. When he saw that, he arose and ran for his life, and came to Beersheba, which belongs to Judah, and left his servant there.  
@@ -11030,7 +11030,7 @@ Behold, the LORD passed by, and a great and strong wind tore the mountains and b
 He said to him, “Go back again; for what have I done to you?”   
 21. He returned from following him, and took the yoke of oxen, killed them, and boiled their meat with the oxen’s equipment, and gave to the people; and they ate. Then he arose, and went after Elijah, and served him.   
 
-## Chapter 20
+## 1 Kings Chapter 20
 1. Ben Hadad the king of Syria gathered all his army together; and there were thirty-two kings with him, with horses and chariots. He went up and besieged Samaria, and fought against it.  
 2. He sent messengers into the city to Ahab king of Israel and said to him, “Ben Hadad says,  
 3. ‘Your silver and your gold are mine. Your wives also and your children, even the best, are mine.’”   
@@ -11087,7 +11087,7 @@ The king of Israel said to him, “So shall your judgment be. You yourself have 
 42. He said to him, “The LORD says, ‘Because you have let go out of your hand the man whom I had devoted to destruction, therefore your life will take the place of his life, and your people take the place of his people.’”   
 43. The king of Israel went to his house sullen and angry, and came to Samaria.   
 
-## Chapter 21
+## 1 Kings Chapter 21
 1. After these things, Naboth the Jezreelite had a vineyard which was in Jezreel, next to the palace of Ahab king of Samaria.  
 2. Ahab spoke to Naboth, saying, “Give me your vineyard, that I may have it for a garden of herbs, because it is near my house; and I will give you for it a better vineyard than it. Or, if it seems good to you, I will give you its worth in money.”   
 3. Naboth said to Ahab, “May the LORD forbid me, that I should give the inheritance of my fathers to you!”   
@@ -11119,7 +11119,7 @@ He answered, “I have found you, because you have sold yourself to do that whic
 28. The LORD’s word came to Elijah the Tishbite, saying,  
 29. “See how Ahab humbles himself before me? Because he humbles himself before me, I will not bring the evil in his days; but I will bring the evil on his house in his son’s day.”   
 
-## Chapter 22
+## 1 Kings Chapter 22
 1. They continued three years without war between Syria and Israel.  
 2. In the third year, Jehoshaphat the king of Judah came down to the king of Israel.  
 3. The king of Israel said to his servants, “You know that Ramoth Gilead is ours, and we do nothing, and don’t take it out of the hand of the king of Syria?”  
@@ -11182,7 +11182,7 @@ He said, ‘You will entice him, and will also prevail. Go out and do so.’
 
 # 2 Kings
 
-## Chapter 1
+## 2 Kings Chapter 1
 1. Moab rebelled against Israel after the death of Ahab.   
 2. Ahaziah fell down through the lattice in his upper room that was in Samaria, and was sick. So he sent messengers, and said to them, “Go, inquire of Baal Zebub, the god of Ekron, whether I will recover of this sickness.”   
 3. But the LORD’s angel said to Elijah the Tishbite, “Arise, go up to meet the messengers of the king of Samaria, and tell them, ‘Is it because there is no God in Israel that you go to inquire of Baal Zebub, the god of Ekron?  
@@ -11204,7 +11204,7 @@ Then he arose and went down with him to the king.
 17. So he died according to the LORD’s word which Elijah had spoken. Jehoram began to reign in his place in the second year of Jehoram the son of Jehoshaphat king of Judah, because he had no son.  
 18. Now the rest of the acts of Ahaziah which he did, aren’t they written in the book of the chronicles of the kings of Israel?   
 
-## Chapter 2
+## 2 Kings Chapter 2
 1. When the LORD was about to take Elijah up by a whirlwind into heaven, Elijah went with Elisha from Gilgal.  
 2. Elijah said to Elisha, “Please wait here, for the LORD has sent me as far as Bethel.”  
 Elisha said, “As the LORD lives, and as your soul lives, I will not leave you.” So they went down to Bethel.   
@@ -11240,7 +11240,7 @@ Therefore they sent fifty men; and they searched for three days, but didn’t fi
 24. He looked behind him and saw them, and cursed them in the LORD’s name. Then two female bears came out of the woods and mauled forty-two of those youths.  
 25. He went from there to Mount Carmel, and from there he returned to Samaria.   
 
-## Chapter 3
+## 2 Kings Chapter 3
 1. Now Jehoram the son of Ahab began to reign over Israel in Samaria in the eighteenth year of Jehoshaphat king of Judah, and reigned twelve years.  
 2. He did that which was evil in the LORD’s sight, but not like his father and like his mother, for he put away the pillar of Baal that his father had made.  
 3. Nevertheless he held to the sins of Jeroboam the son of Nebat, with which he made Israel to sin. He didn’t depart from them.   
@@ -11273,7 +11273,7 @@ The king of Israel said to him, “No, for the LORD has called these three kings
 26. When the king of Moab saw that the battle was too severe for him, he took with him seven hundred men who drew a sword, to break through to the king of Edom; but they could not.  
 27. Then he took his oldest son who would have reigned in his place, and offered him for a burnt offering on the wall. There was great wrath against Israel; and they departed from him, and returned to their own land.   
 
-## Chapter 4
+## 2 Kings Chapter 4
 1. Now a certain woman of the wives of the sons of the prophets cried out to Elisha, saying, “Your servant my husband is dead. You know that your servant feared the LORD. Now the creditor has come to take for himself my two children to be slaves.”   
 2. Elisha said to her, “What should I do for you? Tell me, what do you have in the house?”  
 She said, “Your servant has nothing in the house, except a pot of oil.”   
@@ -11330,7 +11330,7 @@ When she had come in to him, he said, “Take up your son.”
 But he said, “Give it to the people, that they may eat; for the LORD says, ‘They will eat, and will have some left over.’”   
 44. So he set it before them and they ate and had some left over, according to the LORD’s word.   
 
-## Chapter 5
+## 2 Kings Chapter 5
 1. Now Naaman, captain of the army of the king of Syria, was a great man with his master, and honorable, because by him the LORD had given victory to Syria; he was also a mighty man of valor, but he was a leper.  
 2. The Syrians had gone out in bands, and had brought away captive out of the land of Israel a little girl, and she waited on Naaman’s wife.  
 3. She said to her mistress, “I wish that my lord were with the prophet who is in Samaria! Then he would heal him of his leprosy.”   
@@ -11364,7 +11364,7 @@ He said, “Your servant went nowhere.”
 27. Therefore the leprosy of Naaman will cling to you and to your offspring forever.”  
 He went out from his presence a leper, as white as snow.   
 
-## Chapter 6
+## 2 Kings Chapter 6
 1. The sons of the prophets said to Elisha, “See now, the place where we live and meet with you is too small for us.  
 2. Please let us go to the Jordan, and each man take a beam from there, and let’s make us a place there, where we may live.”  
 He answered, “Go!”   
@@ -11405,7 +11405,7 @@ She answered, “This woman said to me, ‘Give your son, that we may eat him to
 32. But Elisha was sitting in his house, and the elders were sitting with him. Then the king sent a man from before him; but before the messenger came to him, he said to the elders, “Do you see how this son of a murderer has sent to take away my head? Behold, when the messenger comes, shut the door, and hold the door shut against him. Isn’t the sound of his master’s feet behind him?”   
 33. While he was still talking with them, behold, the messenger came down to him. Then he said, “Behold, this evil is from the LORD. Why should I wait for the LORD any longer?”   
 
-## Chapter 7
+## 2 Kings Chapter 7
 1. Elisha said, “Hear the LORD’s word. The LORD says, ‘Tomorrow about this time a seah of fine flour will be sold for a shekel, and two seahs of barley for a shekel, in the gate of Samaria.’”   
 2. Then the captain on whose hand the king leaned answered the man of God, and said, “Behold, if the LORD made windows in heaven, could this thing be?”  
 He said, “Behold, you will see it with your eyes, but will not eat of it.”   
@@ -11428,7 +11428,7 @@ He said, “Behold, you will see it with your eyes, but will not eat of it.”
 19. and that captain answered the man of God, and said, “Now, behold, if the LORD made windows in heaven, might such a thing be?” and he said, “Behold, you will see it with your eyes, but will not eat of it.”  
 20. It happened like that to him, for the people trampled over him in the gate, and he died.   
 
-## Chapter 8
+## 2 Kings Chapter 8
 1. Now Elisha had spoken to the woman whose son he had restored to life, saying, “Arise, and go, you and your household, and stay for a while wherever you can; for the LORD has called for a famine. It will also come on the land for seven years.”   
 2. The woman arose, and did according to the man of God’s word. She went with her household, and lived in the land of the Philistines for seven years.  
 3. At the end of seven years, the woman returned from the land of the Philistines. Then she went out to beg the king for her house and for her land.  
@@ -11462,7 +11462,7 @@ He answered, “He told me that you would surely recover.”
 28. He went with Joram the son of Ahab to war against Hazael king of Syria at Ramoth Gilead, and the Syrians wounded Joram.  
 29. King Joram returned to be healed in Jezreel from the wounds which the Syrians had given him at Ramah, when he fought against Hazael king of Syria. Ahaziah the son of Jehoram, king of Judah, went down to see Joram the son of Ahab in Jezreel, because he was sick.   
 
-## Chapter 9
+## 2 Kings Chapter 9
 1. Elisha the prophet called one of the sons of the prophets, and said to him, “Put your belt on your waist, take this vial of oil in your hand, and go to Ramoth Gilead.  
 2. When you come there, find Jehu the son of Jehoshaphat the son of Nimshi, and go in and make him rise up from among his brothers, and take him to an inner room.  
 3. Then take the vial of oil, and pour it on his head, and say, ‘The LORD says, “I have anointed you king over Israel.”’ Then open the door, flee, and don’t wait.”   
@@ -11514,7 +11514,7 @@ threw her down; and some of her blood was sprinkled on the wall, and on the hors
 He said, “This is the LORD’s word, which he spoke by his servant Elijah the Tishbite, saying, ‘The dogs will eat the flesh of Jezebel on the plot of Jezreel,  
 37. and the body of Jezebel will be as dung on the surface of the field on Jezreel’s land, so that they won’t say, “This is Jezebel.”’”   
 
-## Chapter 10
+## 2 Kings Chapter 10
 1. Now Ahab had seventy sons in Samaria. Jehu wrote letters and sent them to Samaria, to the rulers of Jezreel, even the elders, and to those who brought up Ahab’s sons, saying,  
 2. “Now as soon as this letter comes to you, since your master’s sons are with you, and you have chariots and horses, a fortified city also, and armor,  
 3. select the best and fittest of your master’s sons, set him on his father’s throne, and fight for your master’s house.”   
@@ -11560,7 +11560,7 @@ So he brought robes out to them.
 35. Jehu slept with his fathers; and they buried him in Samaria. Jehoahaz his son reigned in his place.  
 36. The time that Jehu reigned over Israel in Samaria was twenty-eight years.   
 
-## Chapter 11
+## 2 Kings Chapter 11
 1. Now when Athaliah the mother of Ahaziah saw that her son was dead, she arose and destroyed all the royal offspring.  
 2. But Jehosheba, the daughter of King Joram, sister of Ahaziah, took Joash the son of Ahaziah, and stole him away from among the king’s sons who were slain, even him and his nurse, and put them in the bedroom; and they hid him from Athaliah, so that he was not slain.  
 3. He was with her hidden in the LORD’s house six years while Athaliah reigned over the land.   
@@ -11583,7 +11583,7 @@ So he brought robes out to them.
 20. So all the people of the land rejoiced, and the city was quiet. They had slain Athaliah with the sword at the king’s house.   
 21. Jehoash was seven years old when he began to reign.   
 
-## Chapter 12
+## 2 Kings Chapter 12
 1. Jehoash began to reign in the seventh year of Jehu, and he reigned forty years in Jerusalem. His mother’s name was Zibiah of Beersheba.  
 2. Jehoash did that which was right in the LORD’s eyes all his days in which Jehoiada the priest instructed him.  
 3. However, the high places were not taken away. The people still sacrificed and burned incense in the high places.   
@@ -11606,7 +11606,7 @@ So he brought robes out to them.
 20. His servants arose and made a conspiracy, and struck Joash at the house of Millo, on the way that goes down to Silla.  
 21. For Jozacar the son of Shimeath, and Jehozabad the son of Shomer, his servants, struck him, and he died; and they buried him with his fathers in David’s city; and Amaziah his son reigned in his place.   
 
-## Chapter 13
+## 2 Kings Chapter 13
 1. In the twenty-third year of Joash the son of Ahaziah, king of Judah, Jehoahaz the son of Jehu began to reign over Israel in Samaria for seventeen years.  
 2. He did that which was evil in the LORD’s sight, and followed the sins of Jeroboam the son of Nebat, with which he made Israel to sin. He didn’t depart from it.  
 3. The LORD’s anger burned against Israel, and he delivered them into the hand of Hazael king of Syria, and into the hand of Benhadad the son of Hazael, continually.  
@@ -11634,7 +11634,7 @@ the bands of the Moabites invaded the land at the coming in of the year.
 24. Hazael king of Syria died; and Benhadad his son reigned in his place.  
 25. Jehoash the son of Jehoahaz took again out of the hand of Benhadad the son of Hazael the cities which he had taken out of the hand of Jehoahaz his father by war. Joash struck him three times, and recovered the cities of Israel.   
 
-## Chapter 14
+## 2 Kings Chapter 14
 1. In the second year of Joash, son of Joahaz, king of Israel, Amaziah the son of Joash king of Judah began to reign.  
 2. He was twenty-five years old when he began to reign; and he reigned twenty-nine years in Jerusalem. His mother’s name was Jehoaddin of Jerusalem.  
 3. He did that which was right in the LORD’s eyes, yet not like David his father. He did according to all that Joash his father had done.  
@@ -11665,7 +11665,7 @@ the bands of the Moabites invaded the land at the coming in of the year.
 28. Now the rest of the acts of Jeroboam, and all that he did, and his might, how he fought, and how he recovered Damascus, and Hamath, which had belonged to Judah, for Israel, aren’t they written in the book of the chronicles of the kings of Israel?  
 29. Jeroboam slept with his fathers, even with the kings of Israel; and Zechariah his son reigned in his place.   
 
-## Chapter 15
+## 2 Kings Chapter 15
 1. In the twenty-seventh year of Jeroboam king of Israel, Azariah son of Amaziah king of Judah began to reign.  
 2. He was sixteen years old when he began to reign, and he reigned fifty-two years in Jerusalem. His mother’s name was Jecoliah of Jerusalem.  
 3. He did that which was right in the LORD’s eyes, according to all that his father Amaziah had done.  
@@ -11705,7 +11705,7 @@ the bands of the Moabites invaded the land at the coming in of the year.
 37. In those days, the LORD began to send Rezin the king of Syria and Pekah the son of Remaliah against Judah.  
 38. Jotham slept with his fathers, and was buried with his fathers in his father David’s city; and Ahaz his son reigned in his place.   
 
-## Chapter 16
+## 2 Kings Chapter 16
 1. In the seventeenth year of Pekah the son of Remaliah, Ahaz the son of Jotham king of Judah began to reign.  
 2. Ahaz was twenty years old when he began to reign, and he reigned sixteen years in Jerusalem. He didn’t do that which was right in the LORD his God’s eyes, like David his father.  
 3. But he walked in the way of the kings of Israel, and even made his son to pass through the fire, according to the abominations of the nations whom the LORD cast out from before the children of Israel.  
@@ -11727,7 +11727,7 @@ the bands of the Moabites invaded the land at the coming in of the year.
 19. Now the rest of the acts of Ahaz which he did, aren’t they written in the book of the chronicles of the kings of Judah?  
 20. Ahaz slept with his fathers, and was buried with his fathers in David’s city; and Hezekiah his son reigned in his place.   
 
-## Chapter 17
+## 2 Kings Chapter 17
 1. In the twelfth year of Ahaz king of Judah, Hoshea the son of Elah began to reign in Samaria over Israel for nine years.  
 2. He did that which was evil in the LORD’s sight, yet not as the kings of Israel who were before him.  
 3. Shalmaneser king of Assyria came up against him; and Hoshea became his servant, and brought him tribute.  
@@ -11770,7 +11770,7 @@ the bands of the Moabites invaded the land at the coming in of the year.
 40. However they didn’t listen, but they did what they did before.  
 41. So these nations feared the LORD, and also served their engraved images. Their children did likewise, and so did their children’s children. They do as their fathers did to this day.   
 
-## Chapter 18
+## 2 Kings Chapter 18
 1. Now in the third year of Hoshea son of Elah king of Israel, Hezekiah the son of Ahaz king of Judah began to reign.  
 2. He was twenty-five years old when he began to reign, and he reigned twenty-nine years in Jerusalem. His mother’s name was Abi the daughter of Zechariah.  
 3. He did that which was right in the LORD’s eyes, according to all that David his father had done.  
@@ -11809,7 +11809,7 @@ the bands of the Moabites invaded the land at the coming in of the year.
 36. But the people stayed quiet, and answered him not a word; for the king’s commandment was, “Don’t answer him.”  
 37. Then Eliakim the son of Hilkiah, who was over the household, came with Shebna the scribe and Joah the son of Asaph the recorder to Hezekiah with their clothes torn, and told him Rabshakeh’s words.   
 
-## Chapter 19
+## 2 Kings Chapter 19
 1. When King Hezekiah heard it, he tore his clothes, covered himself with sackcloth, and went into the LORD’s house.  
 2. He sent Eliakim, who was over the household, Shebna the scribe, and the elders of the priests, covered with sackcloth, to Isaiah the prophet the son of Amoz.  
 3. They said to him, “Hezekiah says, ‘Today is a day of trouble, of rebuke, and of rejection; for the children have come to the point of birth, and there is no strength to deliver them.  
@@ -11848,7 +11848,7 @@ the bands of the Moabites invaded the land at the coming in of the year.
 36. So Sennacherib king of Assyria departed, went home, and lived at Nineveh.  
 37. As he was worshiping in the house of Nisroch his god, Adrammelech and Sharezer struck him with the sword; and they escaped into the land of Ararat. Esar Haddon his son reigned in his place.   
 
-## Chapter 20
+## 2 Kings Chapter 20
 1. In those days Hezekiah was sick and dying. Isaiah the prophet the son of Amoz came to him, and said to him, “The LORD says, ‘Set your house in order; for you will die, and not live.’”   
 2. Then he turned his face to the wall, and prayed to the LORD, saying,  
 3. “Remember now, LORD, I beg you, how I have walked before you in truth and with a perfect heart, and have done that which is good in your sight.” And Hezekiah wept bitterly.   
@@ -11874,7 +11874,7 @@ Hezekiah answered, “They have seen all that is in my house. There is nothing a
 20. Now the rest of the acts of Hezekiah, and all his might, and how he made the pool, and the conduit, and brought water into the city, aren’t they written in the book of the chronicles of the kings of Judah?  
 21. Hezekiah slept with his fathers, and Manasseh his son reigned in his place.   
 
-## Chapter 21
+## 2 Kings Chapter 21
 1. Manasseh was twelve years old when he began to reign, and he reigned fifty-five years in Jerusalem. His mother’s name was Hephzibah.  
 2. He did that which was evil in the LORD’s sight, after the abominations of the nations whom the LORD cast out before the children of Israel.  
 3. For he built again the high places which Hezekiah his father had destroyed; and he raised up altars for Baal, and made an Asherah, as Ahab king of Israel did, and worshiped all the army of the sky, and served them.  
@@ -11902,7 +11902,7 @@ Hezekiah answered, “They have seen all that is in my house. There is nothing a
 25. Now the rest of the acts of Amon which he did, aren’t they written in the book of the chronicles of the kings of Judah?  
 26. He was buried in his tomb in the garden of Uzza, and Josiah his son reigned in his place.   
 
-## Chapter 22
+## 2 Kings Chapter 22
 1. Josiah was eight years old when he began to reign, and he reigned thirty-one years in Jerusalem. His mother’s name was Jedidah the daughter of Adaiah of Bozkath.  
 2. He did that which was right in the LORD’s eyes, and walked in all the ways of David his father, and didn’t turn away to the right hand or to the left.   
 3. In the eighteenth year of King Josiah, the king sent Shaphan, the son of Azaliah the son of Meshullam, the scribe, to the LORD’s house, saying,  
@@ -11924,7 +11924,7 @@ Hezekiah answered, “They have seen all that is in my house. There is nothing a
 19. because your heart was tender, and you humbled yourself before the LORD when you heard what I spoke against this place and against its inhabitants, that they should become a desolation and a curse, and have torn your clothes and wept before me, I also have heard you,’ says the LORD.  
 20. ‘Therefore behold, I will gather you to your fathers, and you will be gathered to your grave in peace. Your eyes will not see all the evil which I will bring on this place.’”’” So they brought this message back to the king.   
 
-## Chapter 23
+## 2 Kings Chapter 23
 1. The king sent, and they gathered to him all the elders of Judah and of Jerusalem.  
 2. The king went up to the LORD’s house, and all the men of Judah and all the inhabitants of Jerusalem with him—with the priests, the prophets, and all the people, both small and great; and he read in their hearing all the words of the book of the covenant which was found in the LORD’s house.  
 3. The king stood by the pillar and made a covenant before the LORD to walk after the LORD and to keep his commandments, his testimonies, and his statutes with all his heart and all his soul, to confirm the words of this covenant that were written in this book; and all the people agreed to the covenant.   
@@ -11964,7 +11964,7 @@ The men of the city told him, “It is the tomb of the man of God who came from 
 36. Jehoiakim was twenty-five years old when he began to reign, and he reigned eleven years in Jerusalem. His mother’s name was Zebidah the daughter of Pedaiah of Rumah.  
 37. He did that which was evil in the LORD’s sight, according to all that his fathers had done.   
 
-## Chapter 24
+## 2 Kings Chapter 24
 1. In his days Nebuchadnezzar king of Babylon came up, and Jehoiakim became his servant three years. Then he turned and rebelled against him.  
 2. The LORD sent against him bands of the Chaldeans, bands of the Syrians, bands of the Moabites, and bands of the children of Ammon, and sent them against Judah to destroy it, according to the LORD’s word which he spoke by his servants the prophets.  
 3. Surely at the commandment of the LORD this came on Judah, to remove them out of his sight for the sins of Manasseh, according to all that he did,  
@@ -11987,7 +11987,7 @@ The men of the city told him, “It is the tomb of the man of God who came from 
 20. For through the anger of the LORD, this happened in Jerusalem and Judah, until he had cast them out from his presence.  
 Then Zedekiah rebelled against the king of Babylon.   
 
-## Chapter 25
+## 2 Kings Chapter 25
 1. In the ninth year of his reign, in the tenth month, in the tenth day of the month, Nebuchadnezzar king of Babylon came, he and all his army, against Jerusalem, and encamped against it; and they built forts against it around it.  
 2. So the city was besieged until the eleventh year of King Zedekiah.  
 3. On the ninth day of the fourth month, the famine was severe in the city, so that there was no bread for the people of the land.  
@@ -12021,7 +12021,7 @@ Then Zedekiah rebelled against the king of Babylon.
 
 # 1 Chronicles
 
-## Chapter 1
+## 1 Chronicles Chapter 1
 1. Adam, Seth, Enosh,  
 2. Kenan, Mahalalel, Jared,  
 3. Enoch, Methuselah, Lamech,  
@@ -12077,7 +12077,7 @@ Then Zedekiah rebelled against the king of Babylon.
 53. chief Kenaz, chief Teman, chief Mibzar,  
 54. chief Magdiel, and chief Iram. These are the chiefs of Edom.   
 
-## Chapter 2
+## 1 Chronicles Chapter 2
 1. These are the sons of Israel: Reuben, Simeon, Levi, Judah, Issachar, Zebulun,  
 2. Dan, Joseph, Benjamin, Naphtali, Gad, and Asher.   
 3. The sons of Judah: Er, Onan, and Shelah, which three were born to him of Shua’s daughter the Canaanitess. Er, Judah’s firstborn, was wicked in the LORD’s sight; and he killed him.  
@@ -12134,7 +12134,7 @@ Then Zedekiah rebelled against the king of Babylon.
 54. The sons of Salma: Bethlehem, the Netophathites, Atroth Beth Joab, and half of the Manahathites, the Zorites.  
 55. The families of scribes who lived at Jabez: the Tirathites, the Shimeathites, and the Sucathites. These are the Kenites who came from Hammath, the father of the house of Rechab.   
 
-## Chapter 3
+## 1 Chronicles Chapter 3
 1. Now these were the sons of David, who were born to him in Hebron: the firstborn, Amnon, of Ahinoam the Jezreelitess; the second, Daniel, of Abigail the Carmelitess;  
 2. the third, Absalom the son of Maacah the daughter of Talmai king of Geshur; the fourth, Adonijah the son of Haggith;  
 3. the fifth, Shephatiah of Abital; the sixth, Ithream by Eglah his wife:  
@@ -12160,7 +12160,7 @@ Then Zedekiah rebelled against the king of Babylon.
 23. The sons of Neariah: Elioenai, Hizkiah, and Azrikam, three.  
 24. The sons of Elioenai: Hodaviah, Eliashib, Pelaiah, Akkub, Johanan, Delaiah, and Anani, seven.   
 
-## Chapter 4
+## 1 Chronicles Chapter 4
 1. The sons of Judah: Perez, Hezron, Carmi, Hur, and Shobal.  
 2. Reaiah the son of Shobal became the father of Jahath; and Jahath became the father of Ahumai and Lahad. These are the families of the Zorathites.  
 3. These were the sons of the father of Etam: Jezreel, Ishma, and Idbash. The name of their sister was Hazzelelponi.  
@@ -12206,7 +12206,7 @@ God granted him that which he requested.
 42. Some of them, even of the sons of Simeon, five hundred men, went to Mount Seir, having for their captains Pelatiah, Neariah, Rephaiah, and Uzziel, the sons of Ishi.  
 43. They struck the remnant of the Amalekites who escaped, and have lived there to this day.   
 
-## Chapter 5
+## 1 Chronicles Chapter 5
 1. The sons of Reuben the firstborn of Israel (for he was the firstborn, but because he defiled his father’s couch, his birthright was given to the sons of Joseph the son of Israel; and the genealogy is not to be listed according to the birthright.  
 2. For Judah prevailed above his brothers, and from him came the prince; but the birthright was Joseph’s)—  
 3. the sons of Reuben the firstborn of Israel: Hanoch, Pallu, Hezron, and Carmi.  
@@ -12234,7 +12234,7 @@ God granted him that which he requested.
 25. They trespassed against the God of their fathers, and played the prostitute after the gods of the peoples of the land whom God destroyed before them.  
 26. So the God of Israel stirred up the spirit of Pul king of Assyria, and the spirit of Tilgath Pilneser king of Assyria, and he carried away the Reubenites, the Gadites, and the half-tribe of Manasseh, and brought them to Halah, Habor, Hara, and to the river of Gozan, to this day.   
 
-## Chapter 6
+## 1 Chronicles Chapter 6
 1. The sons of Levi: Gershon, Kohath, and Merari.  
 2. The sons of Kohath: Amram, Izhar, Hebron, and Uzziel.  
 3. The children of Amram: Aaron, Moses, and Miriam. The sons of Aaron: Nadab, Abihu, Eleazar, and Ithamar.  
@@ -12317,7 +12317,7 @@ God granted him that which he requested.
 80. and out of the tribe of Gad, Ramoth in Gilead with its pasture lands, Mahanaim with its pasture lands,  
 81. Heshbon with its pasture lands, and Jazer with its pasture lands.   
 
-## Chapter 7
+## 1 Chronicles Chapter 7
 1. Of the sons of Issachar: Tola, Puah, Jashub, and Shimron, four.  
 2. The sons of Tola: Uzzi, Rephaiah, Jeriel, Jahmai, Ibsam, and Shemuel, heads of their fathers’ houses, of Tola; mighty men of valor in their generations. Their number in the days of David was twenty-two thousand six hundred.  
 3. The son of Uzzi: Izrahiah. The sons of Izrahiah: Michael, Obadiah, Joel, and Isshiah, five; all of them chief men.  
@@ -12359,7 +12359,7 @@ God granted him that which he requested.
 39. The sons of Ulla: Arah, Hanniel, and Rizia.  
 40. All these were the children of Asher, heads of the fathers’ houses, choice and mighty men of valor, chief of the princes. The number of them listed by genealogy for service in war was twenty-six thousand men.   
 
-## Chapter 8
+## 1 Chronicles Chapter 8
 1. Benjamin became the father of Bela his firstborn, Ashbel the second, Aharah the third,  
 2. Nohah the fourth, and Rapha the fifth.  
 3. Bela had sons: Addar, Gera, Abihud,  
@@ -12401,7 +12401,7 @@ God granted him that which he requested.
 39. The sons of Eshek his brother: Ulam his firstborn, Jeush the second, and Eliphelet the third.  
 40. The sons of Ulam were mighty men of valor, archers, and had many sons, and grandsons, one hundred fifty. All these were of the sons of Benjamin.   
 
-## Chapter 9
+## 1 Chronicles Chapter 9
 1. So all Israel were listed by genealogies; and behold, they are written in the book of the kings of Israel. Judah was carried away captive to Babylon for their disobedience.  
 2. Now the first inhabitants who lived in their possessions in their cities were Israel, the priests, the Levites, and the temple servants.  
 3. In Jerusalem, there lived of the children of Judah, of the children of Benjamin, and of the children of Ephraim and Manasseh:  
@@ -12447,7 +12447,7 @@ God granted him that which he requested.
 43. Moza became the father of Binea, Rephaiah his son, Eleasah his son, and Azel his son.  
 44. Azel had six sons, whose names are Azrikam, Bocheru, Ishmael, Sheariah, Obadiah, and Hanan. These were the sons of Azel.   
 
-## Chapter 10
+## 1 Chronicles Chapter 10
 1. Now the Philistines fought against Israel; and the men of Israel fled from before the Philistines, and fell down slain on Mount Gilboa.  
 2. The Philistines followed hard after Saul and after his sons; and the Philistines killed Jonathan, Abinadab, and Malchishua, the sons of Saul.  
 3. The battle went hard against Saul, and the archers overtook him; and he was distressed by reason of the archers.  
@@ -12464,7 +12464,7 @@ But his armor bearer would not, for he was terrified. Therefore Saul took his sw
 13. So Saul died for his trespass which he committed against the LORD, because of the LORD’s word, which he didn’t keep, and also because he asked counsel of one who had a familiar spirit, to inquire,  
 14. and didn’t inquire of the LORD. Therefore he killed him, and turned the kingdom over to David the son of Jesse.   
 
-## Chapter 11
+## 1 Chronicles Chapter 11
 1. Then all Israel gathered themselves to David to Hebron, saying, “Behold, we are your bone and your flesh.  
 2. In times past, even when Saul was king, it was you who led out and brought in Israel. The LORD your God said to you, ‘You shall be shepherd of my people Israel, and you shall be prince over my people Israel.’”   
 3. So all the elders of Israel came to the king to Hebron; and David made a covenant with them in Hebron before the LORD. They anointed David king over Israel, according to the LORD’s word by Samuel.   
@@ -12513,7 +12513,7 @@ But his armor bearer would not, for he was terrified. Therefore Saul took his sw
 46. Eliel the Mahavite, and Jeribai, and Joshaviah, the sons of Elnaam, and Ithmah the Moabite,  
 47. Eliel, Obed, and Jaasiel the Mezobaite.   
 
-## Chapter 12
+## 1 Chronicles Chapter 12
 1. Now these are those who came to David to Ziklag while he was a fugitive from Saul the son of Kish. They were among the mighty men, his helpers in war.  
 2. They were armed with bows, and could use both the right hand and the left in slinging stones and in shooting arrows from the bow. They were of Saul’s relatives of the tribe of Benjamin.  
 3. The chief was Ahiezer, then Joash, the sons of Shemaah the Gibeathite; Jeziel and Pelet, the sons of Azmaveth; Beracah; Jehu the Anathothite;  
@@ -12555,7 +12555,7 @@ But his armor bearer would not, for he was terrified. Therefore Saul took his sw
 39. They were there with David three days, eating and drinking; for their brothers had supplied provisions for them.  
 40. Moreover those who were near to them, as far as Issachar, Zebulun, and Naphtali, brought bread on donkeys, on camels, on mules, and on oxen: supplies of flour, cakes of figs, clusters of raisins, wine, oil, cattle, and sheep in abundance; for there was joy in Israel.   
 
-## Chapter 13
+## 1 Chronicles Chapter 13
 1. David consulted with the captains of thousands and of hundreds, even with every leader.  
 2. David said to all the assembly of Israel, “If it seems good to you, and if it is of the LORD our God, let’s send word everywhere to our brothers who are left in all the land of Israel, with whom the priests and Levites are in their cities that have pasture lands, that they may gather themselves to us.  
 3. Also, let’s bring the ark of our God back to us again, for we didn’t seek it in the days of Saul.”   
@@ -12571,7 +12571,7 @@ But his armor bearer would not, for he was terrified. Therefore Saul took his sw
 13. So David didn’t move the ark with him into David’s city, but carried it aside into Obed-Edom the Gittite’s house.  
 14. God’s ark remained with the family of Obed-Edom in his house three months; and the LORD blessed Obed-Edom’s house and all that he had.   
 
-## Chapter 14
+## 1 Chronicles Chapter 14
 1. Hiram king of Tyre sent messengers to David with cedar trees, masons, and carpenters, to build him a house.  
 2. David perceived that the LORD had established him king over Israel, for his kingdom was highly exalted, for his people Israel’s sake.   
 3. David took more wives in Jerusalem, and David became the father of more sons and daughters.  
@@ -12591,7 +12591,7 @@ The LORD said to him, “Go up; for I will deliver them into your hand.”
 16. David did as God commanded him; and they attacked the army of the Philistines from Gibeon even to Gezer.  
 17. The fame of David went out into all lands; and the LORD brought the fear of him on all nations.   
 
-## Chapter 15
+## 1 Chronicles Chapter 15
 1. David made himself houses in David’s city; and he prepared a place for God’s ark, and pitched a tent for it.  
 2. Then David said, “No one ought to carry God’s ark but the Levites. For the LORD has chosen them to carry God’s ark, and to minister to him forever.”   
 3. David assembled all Israel at Jerusalem, to bring up the LORD’s ark to its place, which he had prepared for it.  
@@ -12622,7 +12622,7 @@ The LORD said to him, “Go up; for I will deliver them into your hand.”
 28. Thus all Israel brought the ark of the LORD’s covenant up with shouting, with sound of the cornet, with trumpets, and with cymbals, sounding aloud with stringed instruments and harps.  
 29. As the ark of the LORD’s covenant came to David’s city, Michal the daughter of Saul looked out at the window, and saw king David dancing and playing; and she despised him in her heart.   
 
-## Chapter 16
+## 1 Chronicles Chapter 16
 1. They brought in God’s ark, and set it in the middle of the tent that David had pitched for it; and they offered burnt offerings and peace offerings before God.  
 2. When David had finished offering the burnt offering and the peace offerings, he blessed the people in the LORD’s name.  
 3. He gave to everyone of Israel, both man and woman, to everyone a loaf of bread, a portion of meat, and a cake of raisins.   
@@ -12703,7 +12703,7 @@ All the people said, “Amen,” and praised the LORD.
 42. and with them Heman and Jeduthun with trumpets and cymbals for those that should sound aloud, and with instruments for the songs of God, and the sons of Jeduthun to be at the gate.  
 43. All the people departed, each man to his house; and David returned to bless his house.   
 
-## Chapter 17
+## 1 Chronicles Chapter 17
 1. When David was living in his house, David said to Nathan the prophet, “Behold, I live in a cedar house, but the ark of the LORD’s covenant is in a tent.”   
 2. Nathan said to David, “Do all that is in your heart; for God is with you.”   
 3. That same night, the word of God came to Nathan, saying,  
@@ -12732,7 +12732,7 @@ All the people said, “Amen,” and praised the LORD.
 26. Now, LORD, you are God, and have promised this good thing to your servant.  
 27. Now it has pleased you to bless the house of your servant, that it may continue forever before you; for you, LORD, have blessed, and it is blessed forever.”   
 
-## Chapter 18
+## 1 Chronicles Chapter 18
 1. After this, David defeated the Philistines and subdued them, and took Gath and its towns out of the hand of the Philistines.  
 2. He defeated Moab; and the Moabites became servants to David and brought tribute.   
 3. David defeated Hadadezer king of Zobah, toward Hamath, as he went to establish his dominion by the river Euphrates.  
@@ -12751,7 +12751,7 @@ All the people said, “Amen,” and praised the LORD.
 16. Zadok the son of Ahitub and Abimelech the son of Abiathar were priests; Shavsha was scribe;  
 17. and Benaiah the son of Jehoiada was over the Cherethites and the Pelethites; and the sons of David were chief officials serving the king.   
 
-## Chapter 19
+## 1 Chronicles Chapter 19
 1. After this, Nahash the king of the children of Ammon died, and his son reigned in his place.  
 2. David said, “I will show kindness to Hanun the son of Nahash, because his father showed kindness to me.”  
 So David sent messengers to comfort him concerning his father. David’s servants came into the land of the children of Ammon to Hanun to comfort him.  
@@ -12773,7 +12773,7 @@ So David sent messengers to comfort him concerning his father. David’s servant
 18. The Syrians fled before Israel; and David killed of the Syrian men seven thousand charioteers and forty thousand footmen, and also killed Shophach the captain of the army.  
 19. When the servants of Hadadezer saw that they were defeated by Israel, they made peace with David and served him. The Syrians would not help the children of Ammon any more.   
 
-## Chapter 20
+## 1 Chronicles Chapter 20
 1. At the time of the return of the year, at the time when kings go out, Joab led out the army and wasted the country of the children of Ammon, and came and besieged Rabbah. But David stayed at Jerusalem. Joab struck Rabbah, and overthrew it.  
 2. David took the crown of their king from off his head, and found it to weigh a talent of gold, and there were precious stones in it. It was set on David’s head, and he brought very much plunder out of the city.  
 3. He brought out the people who were in it, and had them cut with saws, with iron picks, and with axes. David did so to all the cities of the children of Ammon. Then David and all the people returned to Jerusalem.   
@@ -12783,7 +12783,7 @@ So David sent messengers to comfort him concerning his father. David’s servant
 7. When he defied Israel, Jonathan the son of Shimea, David’s brother, killed him.  
 8. These were born to the giant in Gath; and they fell by the hand of David and by the hand of his servants.   
 
-## Chapter 21
+## 1 Chronicles Chapter 21
 1. Satan stood up against Israel, and moved David to take a census of Israel.  
 2. David said to Joab and to the princes of the people, “Go, count Israel from Beersheba even to Dan; and bring me word, that I may know how many there are.”   
 3. Joab said, “May the LORD make his people a hundred times as many as they are. But, my lord the king, aren’t they all my lord’s servants? Why does my lord require this thing? Why will he be a cause of guilt to Israel?”   
@@ -12816,7 +12816,7 @@ Then David and the elders, clothed in sackcloth, fell on their faces.
 29. For the LORD’s tabernacle, which Moses made in the wilderness, and the altar of burnt offering, were at that time in the high place at Gibeon.  
 30. But David couldn’t go before it to inquire of God, for he was afraid because of the sword of the LORD’s angel.   
 
-## Chapter 22
+## 1 Chronicles Chapter 22
 1. Then David said, “This is the house of the LORD God, and this is the altar of burnt offering for Israel.”   
 2. David gave orders to gather together the foreigners who were in the land of Israel; and he set masons to cut dressed stones to build God’s house.  
 3. David prepared iron in abundance for the nails for the doors of the gates and for the couplings, and bronze in abundance without weight,  
@@ -12837,7 +12837,7 @@ Then David and the elders, clothed in sackcloth, fell on their faces.
 18. “Isn’t the LORD your God with you? Hasn’t he given you rest on every side? For he has delivered the inhabitants of the land into my hand; and the land is subdued before the LORD and before his people.  
 19. Now set your heart and your soul to follow the LORD your God. Arise therefore, and build the sanctuary of the LORD God, to bring the ark of the LORD’s covenant and the holy vessels of God into the house that is to be built for the LORD’s name.”   
 
-## Chapter 23
+## 1 Chronicles Chapter 23
 1. Now David was old and full of days; and he made Solomon his son king over Israel.  
 2. He gathered together all the princes of Israel, with the priests and the Levites.  
 3. The Levites were counted from thirty years old and upward; and their number by their polls, man by man, was thirty-eight thousand.  
@@ -12871,7 +12871,7 @@ Then David and the elders, clothed in sackcloth, fell on their faces.
 31. and to offer all burnt offerings to the LORD on the Sabbaths, on the new moons, and on the set feasts, in number according to the ordinance concerning them, continually before the LORD;  
 32. and that they should keep the duty of the Tent of Meeting, the duty of the holy place, and the duty of the sons of Aaron their brothers for the service of the LORD’s house.   
 
-## Chapter 24
+## 1 Chronicles Chapter 24
 1. These were the divisions of the sons of Aaron. The sons of Aaron: Nadab, Abihu, Eleazar, and Ithamar.  
 2. But Nadab and Abihu died before their father, and had no children; therefore Eleazar and Ithamar served as priests.  
 3. David, with Zadok of the sons of Eleazar and Ahimelech of the sons of Ithamar, divided them according to their ordering in their service.  
@@ -12904,7 +12904,7 @@ Then David and the elders, clothed in sackcloth, fell on their faces.
 30. The sons of Mushi: Mahli, Eder, and Jerimoth. These were the sons of the Levites after their fathers’ houses.  
 31. These likewise cast lots even as their brothers the sons of Aaron in the presence of David the king, Zadok, Ahimelech, and the heads of the fathers’ households of the priests and of the Levites, the fathers’ households of the chief even as those of his younger brother.   
 
-## Chapter 25
+## 1 Chronicles Chapter 25
 1. Moreover, David and the captains of the army set apart for the service certain of the sons of Asaph, of Heman, and of Jeduthun, who were to prophesy with harps, with stringed instruments, and with cymbals. The number of those who did the work according to their service was:  
 2. of the sons of Asaph: Zaccur, Joseph, Nethaniah, and Asharelah. The sons of Asaph were under the hand of Asaph, who prophesied at the order of the king.  
 3. Of Jeduthun, the sons of Jeduthun: Gedaliah, Zeri, Jeshaiah, Shimei, Hashabiah, and Mattithiah, six, under the hands of their father Jeduthun, who prophesied in giving thanks and praising the LORD with the harp.  
@@ -12937,7 +12937,7 @@ Then David and the elders, clothed in sackcloth, fell on their faces.
 30. for the twenty-third to Mahazioth, his sons and his brothers, twelve;  
 31. for the twenty-fourth to Romamti-Ezer, his sons and his brothers, twelve.   
 
-## Chapter 26
+## 1 Chronicles Chapter 26
 1. For the divisions of the doorkeepers: of the Korahites, Meshelemiah the son of Kore, of the sons of Asaph.  
 2. Meshelemiah had sons: Zechariah the firstborn, Jediael the second, Zebadiah the third, Jathniel the fourth,  
 3. Elam the fifth, Jehohanan the sixth, and Eliehoenai the seventh.  
@@ -12971,7 +12971,7 @@ Then David and the elders, clothed in sackcloth, fell on their faces.
 31. Of the Hebronites, Jerijah was the chief of the Hebronites, according to their generations by fathers’ households. They were sought for in the fortieth year of the reign of David, and mighty men of valor were found among them at Jazer of Gilead.  
 32. His relatives, men of valor, were two thousand seven hundred, heads of fathers’ households, whom King David made overseers over the Reubenites, the Gadites, and the half-tribe of the Manassites, for every matter pertaining to God and for the affairs of the king.   
 
-## Chapter 27
+## 1 Chronicles Chapter 27
 1. Now the children of Israel after their number, the heads of fathers’ households and the captains of thousands and of hundreds, and their officers who served the king in any matter of the divisions which came in and went out month by month throughout all the months of the year—of every division were twenty-four thousand.   
 2. Over the first division for the first month was Jashobeam the son of Zabdiel. In his division were twenty-four thousand.  
 3. He was of the children of Perez, the chief of all the captains of the army for the first month.  
@@ -13007,7 +13007,7 @@ Then David and the elders, clothed in sackcloth, fell on their faces.
 33. Ahithophel was the king’s counselor. Hushai the Archite was the king’s friend.  
 34. After Ahithophel was Jehoiada the son of Benaiah, and Abiathar. Joab was the captain of the king’s army.   
 
-## Chapter 28
+## 1 Chronicles Chapter 28
 1. David assembled all the princes of Israel, the princes of the tribes, the captains of the companies who served the king by division, the captains of thousands, the captains of hundreds, and the rulers over all the substance and possessions of the king and of his sons, with the officers and the mighty men, even all the mighty men of valor, to Jerusalem.  
 2. Then David the king stood up on his feet and said, “Hear me, my brothers and my people! As for me, it was in my heart to build a house of rest for the ark of the LORD’s covenant, and for the footstool of our God; and I had prepared for the building.  
 3. But God said to me, ‘You shall not build a house for my name, because you are a man of war and have shed blood.’  
@@ -13030,7 +13030,7 @@ Then David and the elders, clothed in sackcloth, fell on their faces.
 20. David said to Solomon his son, “Be strong and courageous, and do it. Don’t be afraid, nor be dismayed, for the LORD God, even my God, is with you. He will not fail you nor forsake you, until all the work for the service of the LORD’s house is finished.  
 21. Behold, there are the divisions of the priests and the Levites for all the service of God’s house. Every willing man who has skill for any kind of service shall be with you in all kinds of work. Also the captains and all the people will be entirely at your command.”   
 
-## Chapter 29
+## 1 Chronicles Chapter 29
 1. David the king said to all the assembly, “Solomon my son, whom alone God has chosen, is yet young and tender, and the work is great; for the palace is not for man, but for the LORD God.  
 2. Now I have prepared with all my might for the house of my God the gold for the things of gold, the silver for the things of silver, the bronze for the things of bronze, iron for the things of iron, and wood for the things of wood, also onyx stones, stones to be set, stones for inlaid work of various colors, all kinds of precious stones, and marble stones in abundance.  
 3. In addition, because I have set my affection on the house of my God, since I have a treasure of my own of gold and silver, I give it to the house of my God, over and above all that I have prepared for the holy house:  
@@ -13065,7 +13065,7 @@ All the assembly blessed the LORD, the God of their fathers, and bowed down thei
 
 # 2 Chronicles
 
-## Chapter 1
+## 2 Chronicles Chapter 1
 1. Solomon the son of David was firmly established in his kingdom, and the LORD his God was with him, and made him exceedingly great.   
 2. Solomon spoke to all Israel, to the captains of thousands and of hundreds, to the judges, and to every prince in all Israel, the heads of the fathers’ households.  
 3. Then Solomon, and all the assembly with him, went to the high place that was at Gibeon; for God’s Tent of Meeting was there, which the LORD’s servant Moses had made in the wilderness.  
@@ -13084,7 +13084,7 @@ All the assembly blessed the LORD, the God of their fathers, and bowed down thei
 16. The horses which Solomon had were brought out of Egypt and from Kue. The king’s merchants purchased them from Kue.  
 17. They imported from Egypt then exported a chariot for six hundred pieces of silver and a horse for one hundred fifty. They also exported them to the Hittite kings and the Syrian kings.   
 
-## Chapter 2
+## 2 Chronicles Chapter 2
 1. Now Solomon decided to build a house for the LORD’s name, and a house for his kingdom.  
 2. Solomon counted out seventy thousand men to bear burdens, eighty thousand men who were stone cutters in the mountains, and three thousand six hundred to oversee them.   
 3. Solomon sent to Huram the king of Tyre, saying, “As you dealt with David my father, and sent him cedars to build him a house in which to dwell, so deal with me.  
@@ -13104,7 +13104,7 @@ All the assembly blessed the LORD, the God of their fathers, and bowed down thei
 17. Solomon counted all the foreigners who were in the land of Israel, after the census with which David his father had counted them; and they found one hundred fifty-three thousand six hundred.  
 18. He set seventy thousand of them to bear burdens, eighty thousand who were stone cutters in the mountains, and three thousand six hundred overseers to assign the people their work.   
 
-## Chapter 3
+## 2 Chronicles Chapter 3
 1. Then Solomon began to build the LORD’s house at Jerusalem on Mount Moriah, where the LORD appeared to David his father, which he prepared in the place that David had appointed, on the threshing floor of Ornan the Jebusite.  
 2. He began to build in the second day of the second month, in the fourth year of his reign.  
 3. Now these are the foundations which Solomon laid for the building of God’s house: the length by cubits after the first measure was sixty cubits, and the width twenty cubits.  
@@ -13123,7 +13123,7 @@ All the assembly blessed the LORD, the God of their fathers, and bowed down thei
 16. He made chains in the inner sanctuary, and put them on the tops of the pillars; and he made one hundred pomegranates, and put them on the chains.  
 17. He set up the pillars before the temple, one on the right hand and the other on the left; and called the name of that on the right hand Jachin, and the name of that on the left Boaz.   
 
-## Chapter 4
+## 2 Chronicles Chapter 4
 1. Then he made an altar of bronze, twenty cubits long, twenty cubits wide, and ten cubits high.  
 2. Also he made the molten sea of ten cubits from brim to brim. It was round, five cubits high, and thirty cubits in circumference.  
 3. Under it was the likeness of oxen, which encircled it, for ten cubits, encircling the sea. The oxen were in two rows, cast when it was cast.  
@@ -13148,7 +13148,7 @@ So Huram finished doing the work that he did for King Solomon in God’s house:
 21. and the flowers, the lamps, and the tongs of gold that was purest gold;  
 22. and the snuffers, the basins, the spoons, and the fire pans of pure gold. As for the entry of the house, its inner doors for the most holy place and the doors of the main hall of the temple were of gold.   
 
-## Chapter 5
+## 2 Chronicles Chapter 5
 1. Thus all the work that Solomon did for the LORD’s house was finished. Solomon brought in the things that David his father had dedicated, even the silver, the gold, and all the vessels, and put them in the treasuries of God’s house.   
 2. Then Solomon assembled the elders of Israel and all the heads of the tribes, the princes of the fathers’ households of the children of Israel, to Jerusalem, to bring up the ark of the LORD’s covenant out of David’s city, which is Zion.  
 3. So all the men of Israel assembled themselves to the king at the feast, which was in the seventh month.  
@@ -13167,7 +13167,7 @@ for his loving kindness endures forever!”
 then the house was filled with a cloud, even the LORD’s house,  
 14. so that the priests could not stand to minister by reason of the cloud; for the LORD’s glory filled God’s house.   
 
-## Chapter 6
+## 2 Chronicles Chapter 6
 1. Then Solomon said, “The LORD has said that he would dwell in the thick darkness.  
 2. But I have built you a house and home, a place for you to dwell in forever.”   
 3. The king turned his face, and blessed all the assembly of Israel; and all the assembly of Israel stood.   
@@ -13211,7 +13211,7 @@ then the house was filled with a cloud, even the LORD’s house,
 41. “Now therefore arise, LORD God, into your resting place, you, and the ark of your strength. Let your priests, LORD God, be clothed with salvation, and let your saints rejoice in goodness.   
 42. “LORD God, don’t turn away the face of your anointed. Remember your loving kindnesses to David your servant.”   
 
-## Chapter 7
+## 2 Chronicles Chapter 7
 1. Now when Solomon had finished praying, fire came down from heaven and consumed the burnt offering and the sacrifices; and the LORD’s glory filled the house.  
 2. The priests could not enter into the LORD’s house, because the LORD’s glory filled the LORD’s house.  
 3. All the children of Israel looked on, when the fire came down, and the LORD’s glory was on the house. They bowed themselves with their faces to the ground on the pavement, worshiped, and gave thanks to the LORD, saying,  
@@ -13237,7 +13237,7 @@ for his loving kindness endures forever!”
 21. This house, which is so high, everyone who passes by it will be astonished and say, ‘Why has the LORD done this to this land and to this house?’  
 22. They shall answer, ‘Because they abandoned the LORD, the God of their fathers, who brought them out of the land of Egypt, and took other gods, worshiped them, and served them. Therefore he has brought all this evil on them.’”   
 
-## Chapter 8
+## 2 Chronicles Chapter 8
 1. At the end of twenty years, in which Solomon had built the LORD’s house and his own house,  
 2. Solomon built the cities which Huram had given to Solomon, and caused the children of Israel to dwell there.   
 3. Solomon went to Hamath Zobah, and prevailed against it.  
@@ -13257,7 +13257,7 @@ for his loving kindness endures forever!”
 17. Then Solomon went to Ezion Geber and to Eloth, on the seashore in the land of Edom.  
 18. Huram sent him ships and servants who had knowledge of the sea by the hands of his servants; and they came with the servants of Solomon to Ophir, and brought from there four hundred fifty talents of gold, and brought them to King Solomon.   
 
-## Chapter 9
+## 2 Chronicles Chapter 9
 1. When the queen of Sheba heard of the fame of Solomon, she came to test Solomon with hard questions at Jerusalem, with a very great caravan, including camels that bore spices, gold in abundance, and precious stones. When she had come to Solomon, she talked with him about all that was in her heart.  
 2. Solomon answered all her questions. There wasn’t anything hidden from Solomon which he didn’t tell her.  
 3. When the queen of Sheba had seen the wisdom of Solomon, the house that he had built,  
@@ -13290,7 +13290,7 @@ for his loving kindness endures forever!”
 30. Solomon reigned in Jerusalem over all Israel forty years.  
 31. Solomon slept with his fathers, and he was buried in his father David’s city; and Rehoboam his son reigned in his place.   
 
-## Chapter 10
+## 2 Chronicles Chapter 10
 1. Rehoboam went to Shechem, for all Israel had come to Shechem to make him king.  
 2. When Jeroboam the son of Nebat heard of it (for he was in Egypt, where he had fled from the presence of King Solomon), Jeroboam returned out of Egypt.  
 3. They sent and called him; and Jeroboam and all Israel came, and they spoke to Rehoboam, saying,  
@@ -13312,7 +13312,7 @@ So the people departed.
 18. Then King Rehoboam sent Hadoram, who was over the men subject to forced labor; and the children of Israel stoned him to death with stones. King Rehoboam hurried to get himself up to his chariot, to flee to Jerusalem.  
 19. So Israel rebelled against David’s house to this day.   
 
-## Chapter 11
+## 2 Chronicles Chapter 11
 1. When Rehoboam had come to Jerusalem, he assembled the house of Judah and Benjamin, one hundred eighty thousand chosen men who were warriors, to fight against Israel, to bring the kingdom again to Rehoboam.  
 2. But the LORD’s word came to Shemaiah the man of God, saying,  
 3. “Speak to Rehoboam the son of Solomon, king of Judah, and to all Israel in Judah and Benjamin, saying,  
@@ -13337,7 +13337,7 @@ So the people departed.
 22. Rehoboam appointed Abijah the son of Maacah to be chief, the prince among his brothers, for he intended to make him king.  
 23. He dealt wisely, and dispersed some of his sons throughout all the lands of Judah and Benjamin, to every fortified city. He gave them food in abundance; and he sought many wives for them.   
 
-## Chapter 12
+## 2 Chronicles Chapter 12
 1. When the kingdom of Rehoboam was established and he was strong, he abandoned the LORD’s law, and all Israel with him.  
 2. In the fifth year of King Rehoboam, Shishak king of Egypt came up against Jerusalem, because they had trespassed against the LORD,  
 3. with twelve hundred chariots and sixty thousand horsemen. The people were without number who came with him out of Egypt: the Lubim, the Sukkiim, and the Ethiopians.  
@@ -13355,7 +13355,7 @@ So the people departed.
 15. Now the acts of Rehoboam, first and last, aren’t they written in the histories of Shemaiah the prophet and of Iddo the seer, in the genealogies? There were wars between Rehoboam and Jeroboam continually.  
 16. Rehoboam slept with his fathers, and was buried in David’s city; and Abijah his son reigned in his place.   
 
-## Chapter 13
+## 2 Chronicles Chapter 13
 1. In the eighteenth year of King Jeroboam, Abijah began to reign over Judah.  
 2. He reigned three years in Jerusalem. His mother’s name was Micaiah the daughter of Uriel of Gibeah. There was war between Abijah and Jeroboam.  
 3. Abijah joined battle with an army of valiant men of war, even four hundred thousand chosen men; and Jeroboam set the battle in array against him with eight hundred thousand chosen men, who were mighty men of valor.  
@@ -13379,7 +13379,7 @@ So the people departed.
 21. But Abijah grew mighty and took for himself fourteen wives, and became the father of twenty-two sons and sixteen daughters.  
 22. The rest of the acts of Abijah, his ways, and his sayings are written in the commentary of the prophet Iddo.   
 
-## Chapter 14
+## 2 Chronicles Chapter 14
 1. So Abijah slept with his fathers, and they buried him in David’s city; and Asa his son reigned in his place. In his days, the land was quiet ten years.  
 2. Asa did that which was good and right in the LORD his God’s eyes,  
 3. for he took away the foreign altars and the high places, broke down the pillars, cut down the Asherah poles,  
@@ -13396,7 +13396,7 @@ So the people departed.
 14. They struck all the cities around Gerar, for the fear of the LORD came on them. They plundered all the cities, for there was much plunder in them.  
 15. They also struck the tents of those who had livestock, and carried away sheep and camels in abundance, then returned to Jerusalem.   
 
-## Chapter 15
+## 2 Chronicles Chapter 15
 1. The Spirit of God came on Azariah the son of Oded.  
 2. He went out to meet Asa, and said to him, “Hear me, Asa, and all Judah and Benjamin! The LORD is with you while you are with him; and if you seek him, he will be found by you; but if you forsake him, he will forsake you.  
 3. Now for a long time Israel was without the true God, without a teaching priest, and without law.  
@@ -13417,7 +13417,7 @@ So the people departed.
 18. He brought the things that his father had dedicated and that he himself had dedicated, silver, gold, and vessels into God’s house.  
 19. There was no more war to the thirty-fifth year of Asa’s reign.   
 
-## Chapter 16
+## 2 Chronicles Chapter 16
 1. In the thirty-sixth year of Asa’s reign, Baasha king of Israel went up against Judah, and built Ramah, that he might not allow anyone to go out or come in to Asa king of Judah.  
 2. Then Asa brought out silver and gold out of the treasures of the LORD’s house and of the king’s house, and sent to Ben Hadad king of Syria, who lived at Damascus, saying,  
 3. “Let there be a treaty between me and you, as there was between my father and your father. Behold, I have sent you silver and gold. Go, break your treaty with Baasha king of Israel, that he may depart from me.”   
@@ -13433,7 +13433,7 @@ So the people departed.
 13. Asa slept with his fathers, and died in the forty-first year of his reign.  
 14. They buried him in his own tomb, which he had dug out for himself in David’s city, and laid him in the bed which was filled with sweet odors and various kinds of spices prepared by the perfumers’ art; and they made a very great fire for him.   
 
-## Chapter 17
+## 2 Chronicles Chapter 17
 1. Jehoshaphat his son reigned in his place, and strengthened himself against Israel.  
 2. He placed forces in all the fortified cities of Judah, and set garrisons in the land of Judah and in the cities of Ephraim, which Asa his father had taken.  
 3. The LORD was with Jehoshaphat, because he walked in the first ways of his father David, and didn’t seek the Baals,  
@@ -13454,7 +13454,7 @@ So the people departed.
 18. and next to him Jehozabad, and with him one hundred eighty thousand ready and prepared for war.  
 19. These were those who waited on the king, in addition to those whom the king put in the fortified cities throughout all Judah.   
 
-## Chapter 18
+## 2 Chronicles Chapter 18
 1. Now Jehoshaphat had riches and honor in abundance; and he allied himself with Ahab.  
 2. After some years, he went down to Ahab to Samaria. Ahab killed sheep and cattle for him in abundance, and for the people who were with him, and moved him to go up with him to Ramoth Gilead.  
 3. Ahab king of Israel said to Jehoshaphat king of Judah, “Will you go with me to Ramoth Gilead?”  
@@ -13496,7 +13496,7 @@ He said, ‘You will entice him, and will prevail also. Go and do so.’
 33. A certain man drew his bow at random, and struck the king of Israel between the joints of the armor. Therefore he said to the driver of the chariot, “Turn around and carry me out of the battle, for I am severely wounded.”  
 34. The battle increased that day. However, the king of Israel propped himself up in his chariot against the Syrians until the evening; and at about sunset, he died.   
 
-## Chapter 19
+## 2 Chronicles Chapter 19
 1. Jehoshaphat the king of Judah returned to his house in peace to Jerusalem.  
 2. Jehu the son of Hanani the seer went out to meet him, and said to King Jehoshaphat, “Should you help the wicked, and love those who hate the LORD? Because of this, wrath is on you from before the LORD.  
 3. Nevertheless there are good things found in you, in that you have put away the Asheroth out of the land, and have set your heart to seek God.”   
@@ -13509,7 +13509,7 @@ He said, ‘You will entice him, and will prevail also. Go and do so.’
 10. Whenever any controversy comes to you from your brothers who dwell in their cities, between blood and blood, between law and commandment, statutes and ordinances, you must warn them, that they not be guilty toward the LORD, and so wrath come on you and on your brothers. Do this, and you will not be guilty.  
 11. Behold, Amariah the chief priest is over you in all matters of the LORD; and Zebadiah the son of Ishmael, the ruler of the house of Judah, in all the king’s matters. Also the Levites shall be officers before you. Deal courageously, and may the LORD be with the good.”   
 
-## Chapter 20
+## 2 Chronicles Chapter 20
 1. After this, the children of Moab, the children of Ammon, and with them some of the Ammonites, came against Jehoshaphat to battle.  
 2. Then some came who told Jehoshaphat, saying, “A great multitude is coming against you from beyond the sea from Syria. Behold, they are in Hazazon Tamar” (that is, En Gedi).  
 3. Jehoshaphat was alarmed, and set himself to seek the LORD. He proclaimed a fast throughout all Judah.  
@@ -13548,7 +13548,7 @@ He said, ‘You will entice him, and will prevail also. Go and do so.’
 36. He joined himself with him to make ships to go to Tarshish. They made the ships in Ezion Geber.  
 37. Then Eliezer the son of Dodavahu of Mareshah prophesied against Jehoshaphat, saying, “Because you have joined yourself with Ahaziah, the LORD has destroyed your works.” The ships were wrecked, so that they were not able to go to Tarshish.   
 
-## Chapter 21
+## 2 Chronicles Chapter 21
 1. Jehoshaphat slept with his fathers, and was buried with his fathers in David’s city; and Jehoram his son reigned in his place.  
 2. He had brothers, the sons of Jehoshaphat: Azariah, Jehiel, Zechariah, Azariah, Michael, and Shephatiah. All these were the sons of Jehoshaphat king of Israel.  
 3. Their father gave them great gifts of silver, of gold, and of precious things, with fortified cities in Judah; but he gave the kingdom to Jehoram, because he was the firstborn.  
@@ -13570,7 +13570,7 @@ He said, ‘You will entice him, and will prevail also. Go and do so.’
 19. In process of time, at the end of two years, his bowels fell out by reason of his sickness, and he died of severe diseases. His people made no burning for him, like the burning of his fathers.  
 20. He was thirty-two years old when he began to reign, and he reigned in Jerusalem eight years. He departed with no one’s regret. They buried him in David’s city, but not in the tombs of the kings.   
 
-## Chapter 22
+## 2 Chronicles Chapter 22
 1. The inhabitants of Jerusalem made Ahaziah his youngest son king in his place, because the band of men who came with the Arabians to the camp had slain all the oldest. So Ahaziah the son of Jehoram king of Judah reigned.  
 2. Ahaziah was forty-two years old when he began to reign, and he reigned one year in Jerusalem. His mother’s name was Athaliah the daughter of Omri.  
 3. He also walked in the ways of Ahab’s house, because his mother was his counselor in acting wickedly.  
@@ -13584,7 +13584,7 @@ He said, ‘You will entice him, and will prevail also. Go and do so.’
 11. But Jehoshabeath, the king’s daughter, took Joash the son of Ahaziah, and stealthily rescued him from among the king’s sons who were slain, and put him and his nurse in the bedroom. So Jehoshabeath, the daughter of King Jehoram, the wife of Jehoiada the priest (for she was the sister of Ahaziah), hid him from Athaliah, so that she didn’t kill him.  
 12. He was with them hidden in God’s house six years while Athaliah reigned over the land.   
 
-## Chapter 23
+## 2 Chronicles Chapter 23
 1. In the seventh year, Jehoiada strengthened himself, and took the captains of hundreds—Azariah the son of Jeroham, Ishmael the son of Jehohanan, Azariah the son of Obed, Maaseiah the son of Adaiah, and Elishaphat the son of Zichri—into a covenant with him.  
 2. They went around in Judah and gathered the Levites out of all the cities of Judah, and the heads of fathers’ households of Israel, and they came to Jerusalem.  
 3. All the assembly made a covenant with the king in God’s house. Jehoiada said to them, “Behold, the king’s son must reign, as the LORD has spoken concerning the sons of David.  
@@ -13607,7 +13607,7 @@ He said, ‘You will entice him, and will prevail also. Go and do so.’
 20. He took the captains of hundreds, the nobles, the governors of the people, and all the people of the land, and brought the king down from the LORD’s house. They came through the upper gate to the king’s house, and set the king on the throne of the kingdom.  
 21. So all the people of the land rejoiced, and the city was quiet. They had slain Athaliah with the sword.   
 
-## Chapter 24
+## 2 Chronicles Chapter 24
 1. Joash was seven years old when he began to reign, and he reigned forty years in Jerusalem. His mother’s name was Zibiah, of Beersheba.  
 2. Joash did that which was right in the LORD’s eyes all the days of Jehoiada the priest.  
 3. Jehoiada took for him two wives, and he became the father of sons and daughters.   
@@ -13636,7 +13636,7 @@ He said, ‘You will entice him, and will prevail also. Go and do so.’
 26. These are those who conspired against him: Zabad the son of Shimeath the Ammonitess and Jehozabad the son of Shimrith the Moabitess.  
 27. Now concerning his sons, the greatness of the burdens laid on him, and the rebuilding of God’s house, behold, they are written in the commentary of the book of the kings. Amaziah his son reigned in his place.   
 
-## Chapter 25
+## 2 Chronicles Chapter 25
 1. Amaziah was twenty-five years old when he began to reign, and he reigned twenty-nine years in Jerusalem. His mother’s name was Jehoaddan, of Jerusalem.  
 2. He did that which was right in the LORD’s eyes, but not with a perfect heart.  
 3. Now when the kingdom was established to him, he killed his servants who had killed his father the king.  
@@ -13668,7 +13668,7 @@ Then the prophet stopped, and said, “I know that God has determined to destroy
 27. Now from the time that Amaziah turned away from following the LORD, they made a conspiracy against him in Jerusalem. He fled to Lachish, but they sent after him to Lachish and killed him there.  
 28. They brought him on horses and buried him with his fathers in the City of Judah.   
 
-## Chapter 26
+## 2 Chronicles Chapter 26
 1. All the people of Judah took Uzziah, who was sixteen years old, and made him king in the place of his father Amaziah.  
 2. He built Eloth and restored it to Judah. After that the king slept with his fathers.  
 3. Uzziah was sixteen years old when he began to reign; and he reigned fifty-two years in Jerusalem. His mother’s name was Jechiliah, of Jerusalem.  
@@ -13693,7 +13693,7 @@ Then the prophet stopped, and said, “I know that God has determined to destroy
 22. Now the rest of the acts of Uzziah, first and last, Isaiah the prophet, the son of Amoz, wrote.  
 23. So Uzziah slept with his fathers; and they buried him with his fathers in the field of burial which belonged to the kings, for they said, “He is a leper.” Jotham his son reigned in his place.   
 
-## Chapter 27
+## 2 Chronicles Chapter 27
 1. Jotham was twenty-five years old when he began to reign, and he reigned sixteen years in Jerusalem. His mother’s name was Jerushah the daughter of Zadok.  
 2. He did that which was right in the LORD’s eyes, according to all that his father Uzziah had done. However he didn’t enter into the LORD’s temple. The people still acted corruptly.  
 3. He built the upper gate of the LORD’s house, and he built much on the wall of Ophel.  
@@ -13704,7 +13704,7 @@ Then the prophet stopped, and said, “I know that God has determined to destroy
 8. He was twenty-five years old when he began to reign, and reigned sixteen years in Jerusalem.  
 9. Jotham slept with his fathers, and they buried him in David’s city; and Ahaz his son reigned in his place.   
 
-## Chapter 28
+## 2 Chronicles Chapter 28
 1. Ahaz was twenty years old when he began to reign, and he reigned sixteen years in Jerusalem. He didn’t do that which was right in the LORD’s eyes, like David his father,  
 2. but he walked in the ways of the kings of Israel, and also made molten images for the Baals.  
 3. Moreover he burned incense in the valley of the son of Hinnom, and burned his children in the fire, according to the abominations of the nations whom the LORD cast out before the children of Israel.  
@@ -13733,7 +13733,7 @@ Then the prophet stopped, and said, “I know that God has determined to destroy
 26. Now the rest of his acts, and all his ways, first and last, behold, they are written in the book of the kings of Judah and Israel.  
 27. Ahaz slept with his fathers, and they buried him in the city, even in Jerusalem, because they didn’t bring him into the tombs of the kings of Israel; and Hezekiah his son reigned in his place.   
 
-## Chapter 29
+## 2 Chronicles Chapter 29
 1. Hezekiah began to reign when he was twenty-five years old, and he reigned twenty-nine years in Jerusalem. His mother’s name was Abijah, the daughter of Zechariah.  
 2. He did that which was right in the LORD’s eyes, according to all that David his father had done.  
 3. In the first year of his reign, in the first month, he opened the doors of the LORD’s house and repaired them.  
@@ -13771,7 +13771,7 @@ Then the prophet stopped, and said, “I know that God has determined to destroy
 35. Also the burnt offerings were in abundance, with the fat of the peace offerings and with the drink offerings for every burnt offering. So the service of the LORD’s house was set in order.  
 36. Hezekiah and all the people rejoiced because of that which God had prepared for the people; for the thing was done suddenly.   
 
-## Chapter 30
+## 2 Chronicles Chapter 30
 1. Hezekiah sent to all Israel and Judah, and wrote letters also to Ephraim and Manasseh, that they should come to the LORD’s house at Jerusalem, to keep the Passover to the LORD, the God of Israel.  
 2. For the king had taken counsel with his princes and all the assembly in Jerusalem to keep the Passover in the second month.  
 3. For they could not keep it at that time, because the priests had not sanctified themselves in sufficient number, and the people had not gathered themselves together to Jerusalem.  
@@ -13800,7 +13800,7 @@ Then the prophet stopped, and said, “I know that God has determined to destroy
 26. So there was great joy in Jerusalem; for since the time of Solomon the son of David king of Israel there was nothing like this in Jerusalem.  
 27. Then the Levitical priests arose and blessed the people. Their voice was heard, and their prayer came up to his holy habitation, even to heaven.   
 
-## Chapter 31
+## 2 Chronicles Chapter 31
 1. Now when all this was finished, all Israel who were present went out to the cities of Judah and broke the pillars in pieces, cut down the Asherah poles, and broke down the high places and the altars out of all Judah and Benjamin, also in Ephraim and Manasseh, until they had destroyed them all. Then all the children of Israel returned, every man to his possession, into their own cities.   
 2. Hezekiah appointed the divisions of the priests and the Levites after their divisions, every man according to his service, both the priests and the Levites, for burnt offerings and for peace offerings, to minister, to give thanks, and to praise in the gates of the LORD’s camp.  
 3. He also appointed the king’s portion of his possessions for the burnt offerings: for the morning and evening burnt offerings, and the burnt offerings for the Sabbaths, for the new moons, and for the set feasts, as it is written in the LORD’s law.  
@@ -13823,7 +13823,7 @@ Then the prophet stopped, and said, “I know that God has determined to destroy
 20. Hezekiah did so throughout all Judah; and he did that which was good, right, and faithful before the LORD his God.  
 21. In every work that he began in the service of God’s house, in the law, and in the commandments, to seek his God, he did it with all his heart and prospered.   
 
-## Chapter 32
+## 2 Chronicles Chapter 32
 1. After these things and this faithfulness, Sennacherib king of Assyria came, entered into Judah, encamped against the fortified cities, and intended to win them for himself.  
 2. When Hezekiah saw that Sennacherib had come, and that he was planning to fight against Jerusalem,  
 3. he took counsel with his princes and his mighty men to stop the waters of the springs which were outside of the city, and they helped him.  
@@ -13858,7 +13858,7 @@ Then the prophet stopped, and said, “I know that God has determined to destroy
 32. Now the rest of the acts of Hezekiah and his good deeds, behold, they are written in the vision of Isaiah the prophet, the son of Amoz, in the book of the kings of Judah and Israel.  
 33. Hezekiah slept with his fathers, and they buried him in the ascent to the tombs of the sons of David. All Judah and the inhabitants of Jerusalem honored him at his death. Manasseh his son reigned in his place.   
 
-## Chapter 33
+## 2 Chronicles Chapter 33
 1. Manasseh was twelve years old when he began to reign, and he reigned fifty-five years in Jerusalem.  
 2. He did that which was evil in the LORD’s sight, after the abominations of the nations whom the LORD cast out before the children of Israel.  
 3. For he built again the high places which Hezekiah his father had broken down; and he raised up altars for the Baals, made Asheroth, and worshiped all the army of the sky, and served them.  
@@ -13885,7 +13885,7 @@ Then the prophet stopped, and said, “I know that God has determined to destroy
 24. His servants conspired against him, and put him to death in his own house.  
 25. But the people of the land killed all those who had conspired against King Amon; and the people of the land made Josiah his son king in his place.   
 
-## Chapter 34
+## 2 Chronicles Chapter 34
 1. Josiah was eight years old when he began to reign, and he reigned thirty-one years in Jerusalem.  
 2. He did that which was right in the LORD’s eyes, and walked in the ways of David his father, and didn’t turn away to the right hand or to the left.  
 3. For in the eighth year of his reign, while he was yet young, he began to seek after the God of David his father; and in the twelfth year he began to purge Judah and Jerusalem from the high places, the Asherah poles, the engraved images, and the molten images.  
@@ -13921,7 +13921,7 @@ They brought back this message to the king.
 32. He caused all who were found in Jerusalem and Benjamin to stand. The inhabitants of Jerusalem did according to the covenant of God, the God of their fathers.  
 33. Josiah took away all the abominations out of all the countries that belonged to the children of Israel, and made all who were found in Israel to serve, even to serve the LORD their God. All his days they didn’t depart from following the LORD, the God of their fathers.   
 
-## Chapter 35
+## 2 Chronicles Chapter 35
 1. Josiah kept a Passover to the LORD in Jerusalem. They killed the Passover on the fourteenth day of the first month.  
 2. He set the priests in their offices and encouraged them in the service of the LORD’s house.  
 3. He said to the Levites who taught all Israel, who were holy to the LORD, “Put the holy ark in the house which Solomon the son of David king of Israel built. It will no longer be a burden on your shoulders. Now serve the LORD your God and his people Israel.  
@@ -13950,7 +13950,7 @@ They brought back this message to the king.
 26. Now the rest of the acts of Josiah and his good deeds, according to that which is written in the LORD’s law,  
 27. and his acts, first and last, behold, they are written in the book of the kings of Israel and Judah.   
 
-## Chapter 36
+## 2 Chronicles Chapter 36
 1. Then the people of the land took Jehoahaz the son of Josiah, and made him king in his father’s place in Jerusalem.  
 2. Joahaz was twenty-three years old when he began to reign; and he reigned three months in Jerusalem.  
 3. The king of Egypt removed him from office at Jerusalem, and fined the land one hundred talents of silver and a talent of gold.  
@@ -13977,7 +13977,7 @@ They brought back this message to the king.
 
 # Ezra
 
-## Chapter 1
+## Ezra Chapter 1
 1. Now in the first year of Cyrus king of Persia, that the LORD’s word by Jeremiah’s mouth might be accomplished, the LORD stirred up the spirit of Cyrus king of Persia, so that he made a proclamation throughout all his kingdom, and put it also in writing, saying,   
 2. “Cyrus king of Persia says, ‘The LORD, the God of heaven, has given me all the kingdoms of the earth; and he has commanded me to build him a house in Jerusalem, which is in Judah.  
 3. Whoever there is among you of all his people, may his God be with him, and let him go up to Jerusalem, which is in Judah, and build the house of the LORD, the God of Israel (he is God), which is in Jerusalem.  
@@ -13990,7 +13990,7 @@ They brought back this message to the king.
 10. thirty bowls of gold, four hundred ten silver bowls of a second kind, and one thousand other vessels.  
 11. All the vessels of gold and of silver were five thousand four hundred. Sheshbazzar brought all these up when the captives were brought up from Babylon to Jerusalem.   
 
-## Chapter 2
+## Ezra Chapter 2
 1. Now these are the children of the province who went up out of the captivity of those who had been carried away, whom Nebuchadnezzar the king of Babylon had carried away to Babylon, and who returned to Jerusalem and Judah, everyone to his city;  
 2. who came with Zerubbabel, Jeshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mispar, Bigvai, Rehum, and Baanah.  
 The number of the men of the people of Israel:  
@@ -14063,7 +14063,7 @@ The number of the men of the people of Israel:
 69. They gave according to their ability into the treasury of the work sixty-one thousand darics of gold, five thousand minas of silver, and one hundred priests’ garments.   
 70. So the priests and the Levites, with some of the people, the singers, the gatekeepers, and the temple servants, lived in their cities, and all Israel in their cities.   
 
-## Chapter 3
+## Ezra Chapter 3
 1. When the seventh month had come, and the children of Israel were in the cities, the people gathered themselves together as one man to Jerusalem.  
 2. Then Jeshua the son of Jozadak stood up with his brothers the priests and Zerubbabel the son of Shealtiel and his relatives, and built the altar of the God of Israel, to offer burnt offerings on it, as it is written in the law of Moses the man of God.  
 3. In spite of their fear because of the peoples of the surrounding lands, they set the altar on its base; and they offered burnt offerings on it to the LORD, even burnt offerings morning and evening.  
@@ -14078,7 +14078,7 @@ The number of the men of the people of Israel:
 12. But many of the priests and Levites and heads of fathers’ households, the old men who had seen the first house, when the foundation of this house was laid before their eyes, wept with a loud voice. Many also shouted aloud for joy,  
 13. so that the people could not discern the noise of the shout of joy from the noise of the weeping of the people; for the people shouted with a loud shout, and the noise was heard far away.   
 
-## Chapter 4
+## Ezra Chapter 4
 1. Now when the adversaries of Judah and Benjamin heard that the children of the captivity were building a temple to the LORD, the God of Israel,  
 2. they came near to Zerubbabel, and to the heads of fathers’ households, and said to them, “Let us build with you, for we seek your God as you do; and we have been sacrificing to him since the days of Esar Haddon king of Assyria, who brought us up here.”   
 3. But Zerubbabel, Jeshua, and the rest of the heads of fathers’ households of Israel said to them, “You have nothing to do with us in building a house to our God; but we ourselves together will build to the LORD, the God of Israel, as King Cyrus the king of Persia has commanded us.”   
@@ -14106,7 +14106,7 @@ Peace.
 23. Then when the copy of King Artaxerxes’ letter was read before Rehum, Shimshai the scribe, and their companions, they went in haste to Jerusalem to the Jews, and made them to cease by force of arms.  
 24. Then work stopped on God’s house which is at Jerusalem. It stopped until the second year of the reign of Darius king of Persia.   
 
-## Chapter 5
+## Ezra Chapter 5
 1. Now the prophets, Haggai the prophet and Zechariah the son of Iddo, prophesied to the Jews who were in Judah and Jerusalem. They prophesied to them in the name of the God of Israel.  
 2. Then Zerubbabel the son of Shealtiel, and Jeshua the son of Jozadak rose up and began to build God’s house which is at Jerusalem; and with them were the prophets of God, helping them.   
 3. At the same time Tattenai, the governor beyond the River, came to them, with Shetharbozenai and their companions, and asked them, “Who gave you a decree to build this house and to finish this wall?”  
@@ -14126,7 +14126,7 @@ To Darius the king, all peace.
 16. Then the same Sheshbazzar came and laid the foundations of God’s house which is in Jerusalem. Since that time even until now it has been being built, and yet it is not completed.   
 17. Now therefore, if it seems good to the king, let a search be made in the king’s treasure house, which is there at Babylon, whether it is so that a decree was made by Cyrus the king to build this house of God at Jerusalem; and let the king send his pleasure to us concerning this matter.”   
 
-## Chapter 6
+## Ezra Chapter 6
 1. Then Darius the king made a decree, and the house of the archives, where the treasures were laid up in Babylon, was searched.  
 2. A scroll was found at Achmetha, in the palace that is in the province of Media, and in it this was written for a record:   
 3. In the first year of Cyrus the king, Cyrus the king made a decree: Concerning God’s house at Jerusalem, let the house be built, the place where they offer sacrifices, and let its foundations be strongly laid, with its height sixty cubits and its width sixty cubits;  
@@ -14150,7 +14150,7 @@ To Darius the king, all peace.
 21. The children of Israel who had returned out of the captivity, and all who had separated themselves to them from the filthiness of the nations of the land to seek the LORD, the God of Israel, ate,  
 22. and kept the feast of unleavened bread seven days with joy; because the LORD had made them joyful, and had turned the heart of the king of Assyria to them, to strengthen their hands in the work of God, the God of Israel’s house.   
 
-## Chapter 7
+## Ezra Chapter 7
 1. Now after these things, in the reign of Artaxerxes king of Persia, Ezra the son of Seraiah, the son of Azariah, the son of Hilkiah,  
 2. the son of Shallum, the son of Zadok, the son of Ahitub,  
 3. the son of Amariah, the son of Azariah, the son of Meraioth,  
@@ -14182,7 +14182,7 @@ Now
 27. Blessed be the LORD, the God of our fathers, who has put such a thing as this in the king’s heart, to beautify the LORD’s house which is in Jerusalem;  
 28. and has extended loving kindness to me before the king and his counselors, and before all the king’s mighty princes. I was strengthened according to the LORD my God’s hand on me, and I gathered together chief men out of Israel to go up with me.   
 
-## Chapter 8
+## Ezra Chapter 8
 1. Now these are the heads of their fathers’ households, and this is the genealogy of those who went up with me from Babylon, in the reign of Artaxerxes the king:   
 2. Of the sons of Phinehas, Gershom.  
 3. Of the sons of Shecaniah, of the sons of Parosh, Zechariah; and with him were listed by genealogy of the males one hundred fifty.   
@@ -14220,7 +14220,7 @@ Now
 35. The children of the captivity, who had come out of exile, offered burnt offerings to the God of Israel: twelve bulls for all Israel, ninety-six rams, seventy-seven lambs, and twelve male goats for a sin offering. All this was a burnt offering to the LORD.  
 36. They delivered the king’s commissions to the king’s local governors and to the governors beyond the River. So they supported the people and God’s house.   
 
-## Chapter 9
+## Ezra Chapter 9
 1. Now when these things were done, the princes came near to me, saying, “The people of Israel, the priests, and the Levites have not separated themselves from the peoples of the lands, following their abominations, even those of the Canaanites, the Hittites, the Perizzites, the Jebusites, the Ammonites, the Moabites, the Egyptians, and the Amorites.  
 2. For they have taken of their daughters for themselves and for their sons, so that the holy offspring have mixed themselves with the peoples of the lands. Yes, the hand of the princes and rulers has been chief in this trespass.”   
 3. When I heard this thing, I tore my garment and my robe, and pulled the hair out of my head and of my beard, and sat down confounded.  
@@ -14237,7 +14237,7 @@ Now
 14. shall we again break your commandments, and join ourselves with the peoples that do these abominations? Wouldn’t you be angry with us until you had consumed us, so that there would be no remnant, nor any to escape?  
 15. LORD, the God of Israel, you are righteous; for we are left a remnant that has escaped, as it is today. Behold, we are before you in our guiltiness; for no one can stand before you because of this.”   
 
-## Chapter 10
+## Ezra Chapter 10
 1. Now while Ezra prayed and made confession, weeping and casting himself down before God’s house, there was gathered together to him out of Israel a very great assembly of men and women and children; for the people wept very bitterly.  
 2. Shecaniah the son of Jehiel, one of the sons of Elam, answered Ezra, “We have trespassed against our God, and have married foreign women of the peoples of the land. Yet now there is hope for Israel concerning this thing.  
 3. Now therefore let’s make a covenant with our God to put away all the wives and those who are born of them, according to the counsel of my lord and of those who tremble at the commandment of our God. Let it be done according to the law.  
@@ -14285,7 +14285,7 @@ Now
 
 # Nehemiah
 
-## Chapter 1
+## Nehemiah Chapter 1
 1. The words of Nehemiah the son of Hacaliah.  
 Now in the month Chislev, in the twentieth year, as I was in Susa the palace,  
 2. Hanani, one of my brothers, came, he and certain men out of Judah; and I asked them about the Jews who had escaped, who were left of the captivity, and concerning Jerusalem.  
@@ -14300,7 +14300,7 @@ Now in the month Chislev, in the twentieth year, as I was in Susa the palace,
 11. Lord, I beg you, let your ear be attentive now to the prayer of your servant, and to the prayer of your servants who delight to fear your name; and please prosper your servant today, and grant him mercy in the sight of this man.”  
 Now I was cup bearer to the king.   
 
-## Chapter 2
+## Nehemiah Chapter 2
 1. In the month Nisan, in the twentieth year of Artaxerxes the king, when wine was before him, I picked up the wine, and gave it to the king. Now I had not been sad before in his presence.  
 2. The king said to me, “Why is your face sad, since you are not sick? This is nothing else but sorrow of heart.”  
 Then I was very much afraid.  
@@ -14327,7 +14327,7 @@ They said, “Let’s rise up and build.” So they strengthened their hands for
 19. But when Sanballat the Horonite, Tobiah the Ammonite servant, and Geshem the Arabian, heard it, they ridiculed us and despised us, and said, “What is this thing that you are doing? Will you rebel against the king?”   
 20. Then I answered them, and said to them, “The God of heaven will prosper us. Therefore we, his servants, will arise and build; but you have no portion, nor right, nor memorial in Jerusalem.”   
 
-## Chapter 3
+## Nehemiah Chapter 3
 1. Then Eliashib the high priest rose up with his brothers the priests, and they built the sheep gate. They sanctified it, and set up its doors. They sanctified it even to the tower of Hammeah, to the tower of Hananel.  
 2. Next to him the men of Jericho built. Next to them Zaccur the son of Imri built.   
 3. The sons of Hassenaah built the fish gate. They laid its beams, and set up its doors, its bolts, and its bars.  
@@ -14361,7 +14361,7 @@ They said, “Let’s rise up and build.” So they strengthened their hands for
 31. After him, Malchijah, one of the goldsmiths to the house of the temple servants, and of the merchants, made repairs opposite the gate of Hammiphkad and to the ascent of the corner.  
 32. Between the ascent of the corner and the sheep gate, the goldsmiths and the merchants made repairs.   
 
-## Chapter 4
+## Nehemiah Chapter 4
 1. But when Sanballat heard that we were building the wall, he was angry, and was very indignant, and mocked the Jews.  
 2. He spoke before his brothers and the army of Samaria, and said, “What are these feeble Jews doing? Will they fortify themselves? Will they sacrifice? Will they finish in a day? Will they revive the stones out of the heaps of rubbish, since they are burned?”   
 3. Now Tobiah the Ammonite was by him, and he said, “What they are building, if a fox climbed up it, he would break down their stone wall.”   
@@ -14386,7 +14386,7 @@ They said, “Let’s rise up and build.” So they strengthened their hands for
 22. Likewise at the same time I said to the people, “Let everyone with his servant lodge within Jerusalem, that in the night they may be a guard to us, and may labor in the day.”  
 23. So neither I, nor my brothers, nor my servants, nor the men of the guard who followed me took off our clothes. Everyone took his weapon to the water.   
 
-## Chapter 5
+## Nehemiah Chapter 5
 1. Then there arose a great cry of the people and of their wives against their brothers the Jews.  
 2. For there were some who said, “We, our sons and our daughters, are many. Let us get grain, that we may eat and live.”  
 3. There were also some who said, “We are mortgaging our fields, our vineyards, and our houses. Let us get grain, because of the famine.”  
@@ -14409,7 +14409,7 @@ All the assembly said, “Amen,” and praised the LORD. The people did accordin
 18. Now that which was prepared for one day was one ox and six choice sheep. Also fowls were prepared for me, and once in ten days a store of all sorts of wine. Yet for all this, I didn’t demand the governor’s pay, because the bondage was heavy on this people.  
 19. Remember me, my God, for all the good that I have done for this people.   
 
-## Chapter 6
+## Nehemiah Chapter 6
 1. Now when it was reported to Sanballat, Tobiah, Geshem the Arabian, and to the rest of our enemies that I had built the wall, and that there was no breach left in it (though even to that time I had not set up the doors in the gates),  
 2. Sanballat and Geshem sent to me, saying, “Come! Let’s meet together in the villages in the plain of Ono.” But they intended to harm me.   
 3. I sent messengers to them, saying, “I am doing a great work, so that I can’t come down. Why should the work cease while I leave it and come down to you?”   
@@ -14430,7 +14430,7 @@ All the assembly said, “Amen,” and praised the LORD. The people did accordin
 18. For there were many in Judah sworn to him because he was the son-in-law of Shecaniah the son of Arah; and his son Jehohanan had taken the daughter of Meshullam the son of Berechiah as wife.  
 19. Also they spoke of his good deeds before me, and reported my words to him. Tobiah sent letters to put me in fear.   
 
-## Chapter 7
+## Nehemiah Chapter 7
 1. Now when the wall was built and I had set up the doors, and the gatekeepers and the singers and the Levites were appointed,  
 2. I put my brother Hanani, and Hananiah the governor of the fortress, in charge of Jerusalem; for he was a faithful man and feared God above many.  
 3. I said to them, “Don’t let the gates of Jerusalem be opened until the sun is hot; and while they stand guard, let them shut the doors, and you bar them; and appoint watches of the inhabitants of Jerusalem, everyone in his watch, with everyone near his house.”   
@@ -14506,7 +14506,7 @@ The number of the men of the people of Israel:
 72. That which the rest of the people gave was twenty thousand darics of gold, plus two thousand minas of silver, and sixty-seven priests’ garments.   
 73. So the priests, the Levites, the gatekeepers, the singers, some of the people, the temple servants, and all Israel lived in their cities.  
 
-## Chapter 8
+## Nehemiah Chapter 8
 1. All the people gathered themselves together as one man into the wide place that was in front of the water gate; and they spoke to Ezra the scribe to bring the book of the law of Moses, which the LORD had commanded to Israel.  
 2. Ezra the priest brought the law before the assembly, both men and women, and all who could hear with understanding, on the first day of the seventh month.  
 3. He read from it before the wide place that was in front of the water gate from early morning until midday, in the presence of the men and the women, and of those who could understand. The ears of all the people were attentive to the book of the law.  
@@ -14527,7 +14527,7 @@ All the people answered, “Amen, Amen,” with the lifting up of their hands. T
 17. All the assembly of those who had come back out of the captivity made temporary shelters and lived in the temporary shelters, for since the days of Joshua the son of Nun to that day the children of Israel had not done so. There was very great gladness.  
 18. Also day by day, from the first day to the last day, he read in the book of the law of God. They kept the feast seven days; and on the eighth day was a solemn assembly, according to the ordinance.   
 
-## Chapter 9
+## Nehemiah Chapter 9
 1. Now in the twenty-fourth day of this month the children of Israel were assembled with fasting, with sackcloth, and dirt on them.  
 2. The offspring of Israel separated themselves from all foreigners and stood and confessed their sins and the iniquities of their fathers.  
 3. They stood up in their place, and read in the book of the law of the LORD their God a fourth part of the day; and a fourth part they confessed and worshiped the LORD their God.  
@@ -14567,7 +14567,7 @@ All the people answered, “Amen, Amen,” with the lifting up of their hands. T
 37. It yields much increase to the kings whom you have set over us because of our sins. Also they have power over our bodies and over our livestock, at their pleasure, and we are in great distress.  
 38. Yet for all this, we make a sure covenant, and write it; and our princes, our Levites, and our priests, seal it.”   
 
-## Chapter 10
+## Nehemiah Chapter 10
 1. Now those who sealed were: Nehemiah the governor, the son of Hacaliah, and Zedekiah,  
 2. Seraiah, Azariah, Jeremiah,  
 3. Pashhur, Amariah, Malchijah,  
@@ -14608,7 +14608,7 @@ All the people answered, “Amen, Amen,” with the lifting up of their hands. T
 38. The priest, the descendent of Aaron, shall be with the Levites when the Levites take tithes. The Levites shall bring up the tithe of the tithes to the house of our God, to the rooms, into the treasure house.  
 39. For the children of Israel and the children of Levi shall bring the wave offering of the grain, of the new wine, and of the oil, to the rooms where the vessels of the sanctuary are, and the priests who minister, with the gatekeepers and the singers. We will not forsake the house of our God.   
 
-## Chapter 11
+## Nehemiah Chapter 11
 1. The princes of the people lived in Jerusalem. The rest of the people also cast lots to bring one of ten to dwell in Jerusalem, the holy city, and nine parts in the other cities.  
 2. The people blessed all the men who willingly offered themselves to dwell in Jerusalem.   
 3. Now these are the chiefs of the province who lived in Jerusalem; but in the cities of Judah, everyone lived in his possession in their cities—Israel, the priests, the Levites, the temple servants, and the children of Solomon’s servants.  
@@ -14646,7 +14646,7 @@ All the people answered, “Amen, Amen,” with the lifting up of their hands. T
 35. Lod, and Ono, the valley of craftsmen.  
 36. Of the Levites, certain divisions in Judah settled in Benjamin’s territory.   
 
-## Chapter 12
+## Nehemiah Chapter 12
 1. Now these are the priests and the Levites who went up with Zerubbabel the son of Shealtiel, and Jeshua: Seraiah, Jeremiah, Ezra,  
 2. Amariah, Malluch, Hattush,  
 3. Shecaniah, Rehum, Meremoth,  
@@ -14695,7 +14695,7 @@ All the people answered, “Amen, Amen,” with the lifting up of their hands. T
 46. For in the days of David and Asaph of old there was a chief of the singers, and songs of praise and thanksgiving to God.  
 47. All Israel in the days of Zerubbabel and in the days of Nehemiah gave the portions of the singers and the gatekeepers, as every day required; and they set apart that which was for the Levites; and the Levites set apart that which was for the sons of Aaron.   
 
-## Chapter 13
+## Nehemiah Chapter 13
 1. On that day they read in the book of Moses in the hearing of the people; and it was found written in it that an Ammonite and a Moabite should not enter into the assembly of God forever,  
 2. because they didn’t meet the children of Israel with bread and with water, but hired Balaam against them to curse them; however, our God turned the curse into a blessing.  
 3. It came to pass, when they had heard the law, that they separated all the mixed multitude from Israel.   
@@ -14730,7 +14730,7 @@ All the people answered, “Amen, Amen,” with the lifting up of their hands. T
 
 # Esther
 
-## Chapter 1
+## Esther Chapter 1
 1. Now in the days of Ahasuerus (this is Ahasuerus who reigned from India even to Ethiopia, over one hundred twenty-seven provinces),  
 2. in those days, when the King Ahasuerus sat on the throne of his kingdom, which was in Susa the palace,  
 3. in the third year of his reign, he made a feast for all his princes and his servants; the army of Persia and Media, the nobles and princes of the provinces being before him.  
@@ -14754,7 +14754,7 @@ All the people answered, “Amen, Amen,” with the lifting up of their hands. T
 21. This advice pleased the king and the princes, and the king did according to the word of Memucan:  
 22. for he sent letters into all the king’s provinces, into every province according to its writing, and to every people in their language, that every man should rule his own house, speaking in the language of his own people.   
 
-## Chapter 2
+## Esther Chapter 2
 1. After these things, when the wrath of King Ahasuerus was pacified, he remembered Vashti, and what she had done, and what was decreed against her.  
 2. Then the king’s servants who served him said, “Let beautiful young virgins be sought for the king.  
 3. Let the king appoint officers in all the provinces of his kingdom, that they may gather together all the beautiful young virgins to the citadel of Susa, to the women’s house, to the custody of Hegai the king’s eunuch, keeper of the women. Let cosmetics be given them;  
@@ -14779,7 +14779,7 @@ All the people answered, “Amen, Amen,” with the lifting up of their hands. T
 22. This thing became known to Mordecai, who informed Esther the queen; and Esther informed the king in Mordecai’s name.  
 23. When this matter was investigated, and it was found to be so, they were both hanged on a gallows; and it was written in the book of the chronicles in the king’s presence.   
 
-## Chapter 3
+## Esther Chapter 3
 1. After these things King Ahasuerus promoted Haman the son of Hammedatha the Agagite, and advanced him, and set his seat above all the princes who were with him.  
 2. All the king’s servants who were in the king’s gate bowed down and paid homage to Haman, for the king had so commanded concerning him. But Mordecai didn’t bow down or pay him homage.  
 3. Then the king’s servants who were in the king’s gate said to Mordecai, “Why do you disobey the king’s commandment?”  
@@ -14796,7 +14796,7 @@ All the people answered, “Amen, Amen,” with the lifting up of their hands. T
 14. A copy of the letter, that the decree should be given out in every province, was published to all the peoples, that they should be ready against that day.  
 15. The couriers went out in haste by the king’s commandment, and the decree was given out in the citadel of Susa. The king and Haman sat down to drink; but the city of Susa was perplexed.   
 
-## Chapter 4
+## Esther Chapter 4
 1. Now when Mordecai found out all that was done, Mordecai tore his clothes and put on sackcloth with ashes, and went out into the middle of the city, and wailed loudly and bitterly.  
 2. He came even before the king’s gate, for no one is allowed inside the king’s gate clothed with sackcloth.  
 3. In every province, wherever the king’s commandment and his decree came, there was great mourning among the Jews, and fasting, and weeping, and wailing; and many lay in sackcloth and ashes.   
@@ -14815,7 +14815,7 @@ All the people answered, “Amen, Amen,” with the lifting up of their hands. T
 16. “Go, gather together all the Jews who are present in Susa, and fast for me, and neither eat nor drink three days, night or day. I and my maidens will also fast the same way. Then I will go in to the king, which is against the law; and if I perish, I perish.”  
 17. So Mordecai went his way, and did according to all that Esther had commanded him.   
 
-## Chapter 5
+## Esther Chapter 5
 1. Now on the third day, Esther put on her royal clothing and stood in the inner court of the king’s house, next to the king’s house. The king sat on his royal throne in the royal house, next to the entrance of the house.  
 2. When the king saw Esther the queen standing in the court, she obtained favor in his sight; and the king held out to Esther the golden scepter that was in his hand. So Esther came near and touched the top of the scepter.   
 3. Then the king asked her, “What would you like, queen Esther? What is your request? It shall be given you even to the half of the kingdom.”   
@@ -14831,7 +14831,7 @@ All the people answered, “Amen, Amen,” with the lifting up of their hands. T
 13. Yet all this avails me nothing, so long as I see Mordecai the Jew sitting at the king’s gate.”   
 14. Then Zeresh his wife and all his friends said to him, “Let a gallows be made fifty cubits high, and in the morning speak to the king about hanging Mordecai on it. Then go in merrily with the king to the banquet.” This pleased Haman, so he had the gallows made.   
 
-## Chapter 6
+## Esther Chapter 6
 1. On that night, the king couldn’t sleep. He commanded the book of records of the chronicles to be brought, and they were read to the king.  
 2. It was found written that Mordecai had told of Bigthana and Teresh, two of the king’s eunuchs, who were doorkeepers, who had tried to lay hands on the King Ahasuerus.  
 3. The king said, “What honor and dignity has been given to Mordecai for this?”  
@@ -14850,7 +14850,7 @@ Now Haman said in his heart, “Who would the king delight to honor more than my
 13. Haman recounted to Zeresh his wife and all his friends everything that had happened to him. Then his wise men and Zeresh his wife said to him, “If Mordecai, before whom you have begun to fall, is of Jewish descent, you will not prevail against him, but you will surely fall before him.”  
 14. While they were yet talking with him, the king’s eunuchs came, and hurried to bring Haman to the banquet that Esther had prepared.   
 
-## Chapter 7
+## Esther Chapter 7
 1. So the king and Haman came to banquet with Esther the queen.  
 2. The king said again to Esther on the second day at the banquet of wine, “What is your petition, queen Esther? It shall be granted you. What is your request? Even to the half of the kingdom it shall be performed.”   
 3. Then Esther the queen answered, “If I have found favor in your sight, O king, and if it pleases the king, let my life be given me at my petition, and my people at my request.  
@@ -14864,7 +14864,7 @@ Then Haman was afraid before the king and the queen.
 The king said, “Hang him on it!”   
 10. So they hanged Haman on the gallows that he had prepared for Mordecai. Then the king’s wrath was pacified.   
 
-## Chapter 8
+## Esther Chapter 8
 1. On that day, King Ahasuerus gave the house of Haman, the Jews’ enemy, to Esther the queen. Mordecai came before the king; for Esther had told what he was to her.  
 2. The king took off his ring, which he had taken from Haman, and gave it to Mordecai. Esther set Mordecai over the house of Haman.   
 3. Esther spoke yet again before the king, and fell down at his feet and begged him with tears to put away the mischief of Haman the Agagite, and his plan that he had planned against the Jews.  
@@ -14883,7 +14883,7 @@ The king said, “Hang him on it!”
 16. The Jews had light, gladness, joy, and honor.  
 17. In every province and in every city, wherever the king’s commandment and his decree came, the Jews had gladness, joy, a feast and a holiday. Many from among the peoples of the land became Jews, for the fear of the Jews had fallen on them.   
 
-## Chapter 9
+## Esther Chapter 9
 1. Now in the twelfth month, which is the month Adar, on the thirteenth day of the month, when the king’s commandment and his decree came near to be put in execution, on the day that the enemies of the Jews hoped to conquer them, (but it turned out that the opposite happened, that the Jews conquered those who hated them),  
 2. the Jews gathered themselves together in their cities throughout all the provinces of the King Ahasuerus, to lay hands on those who wanted to harm them. No one could withstand them, because the fear of them had fallen on all the people.  
 3. All the princes of the provinces, the local governors, the governors, and those who did the king’s business helped the Jews, because the fear of Mordecai had fallen on them.  
@@ -14917,14 +14917,14 @@ The king said, “Hang him on it!”
 31. to confirm these days of Purim in their appointed times, as Mordecai the Jew and Esther the queen had decreed, and as they had imposed upon themselves and their descendants in the matter of the fastings and their mourning.  
 32. The commandment of Esther confirmed these matters of Purim; and it was written in the book.   
 
-## Chapter 10
+## Esther Chapter 10
 1. King Ahasuerus laid a tribute on the land and on the islands of the sea.  
 2. Aren’t all the acts of his power and of his might, and the full account of the greatness of Mordecai, to which the king advanced him, written in the book of the chronicles of the kings of Media and Persia?  
 3. For Mordecai the Jew was next to King Ahasuerus, and great among the Jews and accepted by the multitude of his brothers, seeking the good of his people and speaking peace to all his descendants.   
 
 # Job
 
-## Chapter 1
+## Job Chapter 1
 1. There was a man in the land of Uz, whose name was Job. That man was blameless and upright, and one who feared God, and turned away from evil.  
 2. There were born to him seven sons and three daughters.  
 3. His possessions also were seven thousand sheep, three thousand camels, five hundred yoke of oxen, five hundred female donkeys, and a very great household; so that this man was the greatest of all the children of the east.  
@@ -14950,7 +14950,7 @@ So Satan went out from the presence of the LORD.
 21. He said, “Naked I came out of my mother’s womb, and naked will I return there. The LORD gave, and the LORD has taken away. Blessed be the LORD’s name.”  
 22. In all this, Job didn’t sin, nor charge God with wrongdoing.   
 
-## Chapter 2
+## Job Chapter 2
 1. Again, on the day when God’s sons came to present themselves before the LORD, Satan came also among them to present himself before the LORD.  
 2. The LORD said to Satan, “Where have you come from?”  
 Satan answered the LORD, and said, “From going back and forth in the earth, and from walking up and down in it.”   
@@ -14967,7 +14967,7 @@ In all this Job didn’t sin with his lips.
 12. When they lifted up their eyes from a distance, and didn’t recognize him, they raised their voices, and wept; and they each tore his robe, and sprinkled dust on their heads toward the sky.  
 13. So they sat down with him on the ground seven days and seven nights, and no one spoke a word to him, for they saw that his grief was very great.   
 
-## Chapter 3
+## Job Chapter 3
 1. After this Job opened his mouth, and cursed the day of his birth.  
 2. Job answered:   
 3. “Let the day perish in which I was born,  
@@ -15023,7 +15023,7 @@ that which I am afraid of comes to me.
 26. I am not at ease, neither am I quiet, neither do I have rest;  
 but trouble comes.”   
 
-## Chapter 4
+## Job Chapter 4
 1. Then Eliphaz the Temanite answered,   
 2. “If someone ventures to talk with you, will you be grieved?  
 who can withhold himself from speaking?   
@@ -15069,7 +15069,7 @@ They perish forever without any regarding it.
 21. Isn’t their tent cord plucked up within them?  
 They die, and that without wisdom.’   
 
-## Chapter 5
+## Job Chapter 5
 1. “Call now; is there any who will answer you?  
 To which of the holy ones will you turn?   
 2. For resentment kills the foolish man,  
@@ -15127,7 +15127,7 @@ like a shock of grain comes in its season.
 27. Behold, we have researched it. It is so.  
 Hear it, and know it for your good.”   
 
-## Chapter 6
+## Job Chapter 6
 1. Then Job answered,   
 2. “Oh that my anguish were weighed,  
 and all my calamity laid in the balances!   
@@ -15192,7 +15192,7 @@ My cause is righteous.
 30. Is there injustice on my tongue?  
 Can’t my taste discern mischievous things?   
 
-## Chapter 7
+## Job Chapter 7
 1. “Isn’t a man forced to labor on earth?  
 his days like the days of a hired hand?   
 2. As a servant who earnestly desires the shadow,  
@@ -15241,7 +15241,7 @@ so that I am a burden to myself?
 For now will I lie down in the dust.  
 You will seek me diligently, but I will not be.”   
 
-## Chapter 8
+## Job Chapter 8
 1. Then Bildad the Shuhite answered,   
 2. “How long will you speak these things?  
 Shall the words of your mouth be a mighty wind?   
@@ -15287,7 +15287,7 @@ your lips with shouting.
 22. Those who hate you will be clothed with shame.  
 The tent of the wicked will be no more.”   
 
-## Chapter 9
+## Job Chapter 9
 1. Then Job answered,   
 2. “Truly I know that it is so,  
 but how can man be just with God?   
@@ -15361,7 +15361,7 @@ his terror not make me afraid;
 35. then I would speak, and not fear him,  
 for I am not so in myself.   
 
-## Chapter 10
+## Job Chapter 10
 1. “My soul is weary of my life.  
 I will give free course to my complaint.  
 I will speak in the bitterness of my soul.   
@@ -15415,7 +15415,7 @@ of the shadow of death,
 without any order,  
 where the light is as midnight.’”   
 
-## Chapter 11
+## Job Chapter 11
 1. Then Zophar, the Naamathite, answered,   
 2. “Shouldn’t the multitude of words be answered?  
 Should a man full of talk be justified?   
@@ -15458,7 +15458,7 @@ many will court your favor.
 They will have no way to flee.  
 Their hope will be the giving up of the spirit.”   
 
-## Chapter 12
+## Job Chapter 12
 1. Then Job answered,   
 2. “No doubt, but you are the people,  
 and wisdom will die with you.   
@@ -15512,7 +15512,7 @@ and causes them to wander in a wilderness where there is no way.
 25. They grope in the dark without light.  
 He makes them stagger like a drunken man.   
 
-## Chapter 13
+## Job Chapter 13
 1. “Behold, my eye has seen all this.  
 My ear has heard and understood it.   
 2. What you know, I know also.  
@@ -15573,7 +15573,7 @@ You set a bound to the soles of my feet,
 28. though I am decaying like a rotten thing,  
 like a garment that is moth-eaten.   
 
-## Chapter 14
+## Job Chapter 14
 1. “Man, who is born of a woman,  
 is of few days, and full of trouble.   
 2. He grows up like a flower, and is cut down.  
@@ -15625,7 +15625,7 @@ They are brought low, but he doesn’t perceive it of them.
 22. But his flesh on him has pain,  
 and his soul within him mourns.”   
 
-## Chapter 15
+## Job Chapter 15
 1. Then Eliphaz the Temanite answered,   
 2. “Should a wise man answer with vain knowledge,  
 and fill himself with the east wind?   
@@ -15698,7 +15698,7 @@ and fire will consume the tents of bribery.
 35. They conceive mischief and produce iniquity.  
 Their heart prepares deceit.”   
 
-## Chapter 16
+## Job Chapter 16
 1. Then Job answered,   
 2. “I have heard many such things.  
 You are all miserable comforters!   
@@ -15750,7 +15750,7 @@ of a son of man with his neighbor!
 22. For when a few years have come,  
 I will go the way of no return.   
 
-## Chapter 17
+## Job Chapter 17
 1. “My spirit is consumed.  
 My days are extinct 
 and the grave is ready for me.   
@@ -15786,7 +15786,7 @@ for my hope, who will see it?
 16. Shall it go down with me to the gates of Sheol, 
 descend together into the dust?”   
 
-## Chapter 18
+## Job Chapter 18
 1. Then Bildad the Shuhite answered,   
 2. “How long will you hunt for words?  
 Consider, and afterwards we will speak.   
@@ -15830,7 +15830,7 @@ as those who went before were frightened.
 21. Surely such are the dwellings of the unrighteous.  
 This is the place of him who doesn’t know God.”   
 
-## Chapter 19
+## Job Chapter 19
 1. Then Job answered,   
 2. “How long will you torment me,  
 and crush me with words?   
@@ -15892,7 +15892,7 @@ because the root of the matter is found in me,
 for wrath brings the punishments of the sword,  
 that you may know there is a judgment.”   
 
-## Chapter 20
+## Job Chapter 20
 1. Then Zophar the Naamathite answered,   
 2. “Therefore my thoughts answer me,  
 even by reason of my haste that is in me.   
@@ -15953,7 +15953,7 @@ They will rush away in the day of his wrath.
 29. This is the portion of a wicked man from God,  
 the heritage appointed to him by God.”   
 
-## Chapter 21
+## Job Chapter 21
 1. Then Job answered,   
 2. “Listen diligently to my speech.  
 Let this be your consolation.   
@@ -16024,7 +16024,7 @@ as there were innumerable before him.
 34. So how can you comfort me with nonsense,  
 in your answers there remains only falsehood?”   
 
-## Chapter 22
+## Job Chapter 22
 1. Then Eliphaz the Temanite answered,   
 2. “Can a man be profitable to God?  
 Surely he who is wise is profitable to himself.   
@@ -16085,7 +16085,7 @@ He will save the humble person.
 30. He will even deliver him who is not innocent.  
 he will be delivered through the cleanness of your hands.”   
 
-## Chapter 23
+## Job Chapter 23
 1. Then Job answered,   
 2. “Even today my complaint is rebellious.  
 His hand is heavy in spite of my groaning.   
@@ -16120,7 +16120,7 @@ The Almighty has terrified me.
 17. Because I was not cut off before the darkness,  
 neither did he cover the thick darkness from my face.   
 
-## Chapter 24
+## Job Chapter 24
 1. “Why aren’t times laid up by the Almighty?  
 Why don’t those who know him see his days?   
 2. There are people who remove the landmarks.  
@@ -16182,7 +16182,7 @@ and are cut off as the tops of the ears of grain.
 25. If it isn’t so now, who will prove me a liar,  
 and make my speech worth nothing?”   
 
-## Chapter 25
+## Job Chapter 25
 1. Then Bildad the Shuhite answered,   
 2. “Dominion and fear are with him.  
 He makes peace in his high places.   
@@ -16195,7 +16195,7 @@ and the stars are not pure in his sight;
 6. How much less man, who is a worm,  
 and the son of man, who is a worm!”   
 
-## Chapter 26
+## Job Chapter 26
 1. Then Job answered,   
 2. “How have you helped him who is without power!  
 How have you saved the arm that has no strength!   
@@ -16225,7 +16225,7 @@ His hand has pierced the swift serpent.
 How small a whisper do we hear of him!  
 But the thunder of his power who can understand?”   
 
-## Chapter 27
+## Job Chapter 27
 1. Job again took up his parable, and said,   
 2. “As God lives, who has taken away my right,  
 the Almighty, who has made my soul bitter  
@@ -16271,7 +16271,7 @@ as he flees away from his hand.
 23. Men will clap their hands at him,  
 and will hiss him out of his place.   
 
-## Chapter 28
+## Job Chapter 28
 1. “Surely there is a mine for silver,  
 and a place for gold which they refine.   
 2. Iron is taken out of the earth,  
@@ -16332,7 +16332,7 @@ He established it, yes, and searched it out.
 Behold, the fear of the Lord, that is wisdom.  
 To depart from evil is understanding.’”   
 
-## Chapter 29
+## Job Chapter 29
 1. Job again took up his parable, and said,   
 2. “Oh that I were as in the months of old,  
 as in the days when God watched over me;   
@@ -16384,7 +16384,7 @@ They didn’t reject the light of my face.
 I lived as a king in the army,  
 as one who comforts the mourners.   
 
-## Chapter 30
+## Job Chapter 30
 1. “But now those who are younger than I have me in derision,  
 I considered unworthy to put with my sheep dogs.   
 2. Of what use is the strength of their hands to me,  
@@ -16451,7 +16451,7 @@ My bones are burned with heat.
 31. Therefore my harp has turned to mourning,  
 and my pipe into the voice of those who weep.   
 
-## Chapter 31
+## Job Chapter 31
 1. “I made a covenant with my eyes;  
 how then should I look lustfully at a young woman?   
 2. For what is the portion from God above,  
@@ -16538,7 +16538,7 @@ or have caused its owners to lose their life,
 and stinkweed instead of barley.”  
 The words of Job are ended.   
 
-## Chapter 32
+## Job Chapter 32
 1. So these three men ceased to answer Job, because he was righteous in his own eyes.  
 2. Then the wrath of Elihu the son of Barachel, the Buzite, of the family of Ram, was kindled against Job. His wrath was kindled because he justified himself rather than God.  
 3. Also his wrath was kindled against his three friends, because they had found no answer, and yet had condemned Job.  
@@ -16582,7 +16582,7 @@ neither will I give flattering titles to any man.
 22. For I don’t know how to give flattering titles,  
 or else my Maker would soon take me away.   
 
-## Chapter 33
+## Job Chapter 33
 1. “However, Job, please hear my speech,  
 and listen to all my words.   
 2. See now, I have opened my mouth.  
@@ -16655,7 +16655,7 @@ Speak, for I desire to justify you.
 33. If not, listen to me.  
 your peace, and I will teach you wisdom.”   
 
-## Chapter 34
+## Job Chapter 34
 1. Moreover Elihu answered,   
 2. “Hear my words, you wise men.  
 Give ear to me, you who have knowledge.   
@@ -16736,7 +16736,7 @@ because of his answering like wicked men.
 He claps his hands among us,  
 and multiplies his words against God.”   
 
-## Chapter 35
+## Job Chapter 35
 1. Moreover Elihu answered,   
 2. “Do you think this to be your right,  
 or do you say, ‘My righteousness is more than God’s,’   
@@ -16769,7 +16769,7 @@ neither does he greatly regard arrogance,
 16. therefore Job opens his mouth with empty talk,  
 and he multiplies words without knowledge.”   
 
-## Chapter 36
+## Job Chapter 36
 1. Elihu also continued, and said,   
 2. “Bear with me a little, and I will show you;  
 for I still have something to say on God’s behalf.   
@@ -16839,7 +16839,7 @@ and commands it to strike the mark.
 33. Its noise tells about him,  
 and the livestock also, concerning the storm that comes up.   
 
-## Chapter 37
+## Job Chapter 37
 1. “Yes, at this my heart trembles,  
 and is moved out of its place.   
 2. Hear, oh, hear the noise of his voice,  
@@ -16893,7 +16893,7 @@ In justice and great righteousness, he will not oppress.
 24. Therefore men revere him.  
 He doesn’t regard any who are wise of heart.”   
 
-## Chapter 38
+## Job Chapter 38
 1. Then the LORD answered Job out of the whirlwind,   
 2. “Who is this who darkens counsel 
 by words without knowledge?   
@@ -16977,7 +16977,7 @@ and lie in wait in the thicket?
 when his young ones cry to God,  
 and wander for lack of food?   
 
-## Chapter 39
+## Job Chapter 39
 1. “Do you know the time when the mountain goats give birth?  
 Do you watch when the doe bears fawns?   
 2. Can you count the months that they fulfill?  
@@ -17041,7 +17041,7 @@ His eyes see it afar off.
 30. His young ones also suck up blood.  
 Where the slain are, there he is.”   
 
-## Chapter 40
+## Job Chapter 40
 1. Moreover the LORD answered Job,   
 2. “Shall he who argues contend with the Almighty?  
 who argues with God, let him answer it.”   
@@ -17088,7 +17088,7 @@ He is confident, though the Jordan swells even to his mouth.
 24. Shall any take him when he is on the watch,  
 pierce through his nose with a snare?   
 
-## Chapter 41
+## Job Chapter 41
 1. “Can you draw out Leviathan with a fish hook,  
 or press down his tongue with a cord?   
 2. Can you put a rope into his nose,  
@@ -17153,7 +17153,7 @@ a pot of ointment.
 33. On earth there is not his equal,  
 34. He sees everything that is high.  
 
-## Chapter 42
+## Job Chapter 42
 1. Then Job answered the LORD:   
 2. “I know that you can do all things,  
 and that no purpose of yours can be restrained.   
@@ -17180,7 +17180,7 @@ and repent in dust and ashes.”
 
 # Psalms
 
-## Chapter 1
+## Psalms Chapter 1
 1. Blessed is the man who doesn’t walk in the counsel of the wicked,  
 nor stand on the path of sinners,  
 nor sit in the seat of scoffers;   
@@ -17197,7 +17197,7 @@ nor sinners in the congregation of the righteous.
 6. For the LORD knows the way of the righteous,  
 but the way of the wicked shall perish.   
 
-## Chapter 2
+## Psalms Chapter 2
 1. Why do the nations rage,  
 and the peoples plot a vain thing?   
 2. The kings of the earth take a stand,  
@@ -17225,7 +17225,7 @@ and rejoice with trembling.
 for his wrath will soon be kindled.  
 are all those who take refuge in him.   
 
-## Chapter 3
+## Psalms Chapter 3
 1. LORD, how my adversaries have increased!  
 are those who rise up against me.   
 2. Many there are who say of my soul,  
@@ -17245,7 +17245,7 @@ You have broken the teeth of the wicked.
 8. Salvation belongs to the LORD.  
 May your blessing be on your people.    
 
-## Chapter 4
+## Psalms Chapter 4
 1. Answer me when I call, God of my righteousness.  
 my distress.  
 Have mercy on me, and hear my prayer.   
@@ -17264,7 +17264,7 @@ more than when their grain and their new wine are increased.
 8. In peace I will both lay myself down and sleep,  
 for you alone, LORD, make me live in safety.   
 
-## Chapter 5
+## Psalms Chapter 5
 1. Give ear to my words, LORD.  
 my meditation.   
 2. Listen to the voice of my cry, my King and my God,  
@@ -17295,7 +17295,7 @@ them also who love your name be joyful in you.
 12. For you will bless the righteous.  
 LORD, you will surround him with favor as with a shield.   
 
-## Chapter 6
+## Psalms Chapter 6
 1. LORD, don’t rebuke me in your anger,  
 me in your wrath.   
 2. Have mercy on me, LORD, for I am faint.  
@@ -17318,7 +17318,7 @@ The LORD accepts my prayer.
 10. May all my enemies be ashamed and dismayed.  
 They shall turn back, they shall be disgraced suddenly.   
 
-## Chapter 7
+## Psalms Chapter 7
 1. LORD, my God, I take refuge in you.  
 me from all those who pursue me, and deliver me,   
 2. lest they tear apart my soul like a lion,  
@@ -17359,7 +17359,7 @@ His violence shall come down on the crown of his own head.
 17. I will give thanks to the LORD according to his righteousness,  
 and will sing praise to the name of the LORD Most High.   
 
-## Chapter 8
+## Psalms Chapter 8
 1. LORD, our Lord, how majestic is your name in all the earth!  
 You have set your glory above the heavens!   
 2. From the lips of babes and infants you have established strength,  
@@ -17379,7 +17379,7 @@ and whatever passes through the paths of the seas.
 9. LORD, our Lord,  
 your name in all the earth!   
 
-## Chapter 9
+## Psalms Chapter 9
 1. I will give thanks to the LORD with my whole heart.  
 of all your marvelous works.   
 2. I will be glad and rejoice in you.  
@@ -17424,7 +17424,7 @@ Let the nations be judged in your sight.
 20. Put them in fear, LORD.  
 the nations know that they are only men.    
 
-## Chapter 10
+## Psalms Chapter 10
 1. Why do you stand far off, LORD?  
 Why do you hide yourself in times of trouble?   
 2. In arrogance, the wicked hunt down the weak.  
@@ -17470,7 +17470,7 @@ You will cause your ear to hear,
 18. to judge the fatherless and the oppressed,  
 that man who is of the earth may terrify no more.   
 
-## Chapter 11
+## Psalms Chapter 11
 1. In the LORD, I take refuge.  
 you say to my soul, “Flee as a bird to your mountain”?   
 2. For, behold, the wicked bend their bows.  
@@ -17490,7 +17490,7 @@ sulfur, and scorching wind shall be the portion of their cup.
 He loves righteousness.  
 The upright shall see his face.   
 
-## Chapter 12
+## Psalms Chapter 12
 1. Help, LORD; for the godly man ceases.  
 For the faithful fail from among the children of men.   
 2. Everyone lies to his neighbor.  
@@ -17510,7 +17510,7 @@ will preserve them from this generation forever.
 8. The wicked walk on every side,  
 when what is vile is exalted among the sons of men.   
 
-## Chapter 13
+## Psalms Chapter 13
 1. How long, LORD?  
 your face from me?   
 2. How long shall I take counsel in my soul,  
@@ -17525,7 +17525,7 @@ My heart rejoices in your salvation.
 6. I will sing to the LORD,  
 because he has been good to me.   
 
-## Chapter 14
+## Psalms Chapter 14
 1. The fool has said in his heart, “There is no God.”  
 They are corrupt.  
 They have done abominable deeds.  
@@ -17547,7 +17547,7 @@ because the LORD is his refuge.
 When the LORD restores the fortunes of his people,  
 then Jacob shall rejoice, and Israel shall be glad.   
 
-## Chapter 15
+## Psalms Chapter 15
 1. LORD, who shall dwell in your sanctuary?  
 Who shall live on your holy hill?   
 2. He who walks blamelessly and does what is right,  
@@ -17562,7 +17562,7 @@ he who keeps an oath even when it hurts, and doesn’t change;
 nor take a bribe against the innocent.  
 He who does these things shall never be shaken.   
 
-## Chapter 16
+## Psalms Chapter 16
 1. Preserve me, God, for I take refuge in you.   
 2. My soul, you have said to the LORD, “You are my Lord.  
 from you I have no good thing.”   
@@ -17587,7 +17587,7 @@ neither will you allow your holy one to see corruption.
 In your presence is fullness of joy.  
 In your right hand there are pleasures forever more.   
 
-## Chapter 17
+## Psalms Chapter 17
 1. Hear, LORD, my righteous plea.  
 Give ear to my prayer that doesn’t go out of deceitful lips.   
 2. Let my sentence come out of your presence.  
@@ -17626,7 +17626,7 @@ and they store up wealth for their children.
 15. As for me, I shall see your face in righteousness.  
 I shall be satisfied, when I awake, with seeing your form.   
 
-## Chapter 18
+## Psalms Chapter 18
 1. I love you, LORD, my strength.   
 2. The LORD is my rock, my fortress, and my deliverer;  
 my God, my rock, in whom I take refuge;  
@@ -17739,7 +17739,7 @@ and will sing praises to your name.
 and shows loving kindness to his anointed,  
 to David and to his offspring, forever more.   
 
-## Chapter 19
+## Psalms Chapter 19
 1. The heavens declare the glory of God.  
 The expanse shows his handiwork.   
 2. Day after day they pour out speech,  
@@ -17774,7 +17774,7 @@ will be blameless and innocent of great transgression.
 be acceptable in your sight,  
 LORD, my rock, and my redeemer.   
 
-## Chapter 20
+## Psalms Chapter 20
 1. May the LORD answer you in the day of trouble.  
 May the name of the God of Jacob set you up on high,   
 2. send you help from the sanctuary,  
@@ -17796,7 +17796,7 @@ but we rise up, and stand upright.
 9. Save, LORD!  
 the King answer us when we call!   
 
-## Chapter 21
+## Psalms Chapter 21
 1. The king rejoices in your strength, LORD!  
 he rejoices in your salvation!   
 2. You have given him his heart’s desire,  
@@ -17825,7 +17825,7 @@ when you aim drawn bows at their face.
 13. Be exalted, LORD, in your strength,  
 so we will sing and praise your power.   
 
-## Chapter 22
+## Psalms Chapter 22
 1. My God, my God, why have you forsaken me?  
 Why are you so far from helping me, and from the words of my groaning?   
 2. My God, I cry in the daytime, but you don’t answer;  
@@ -17897,7 +17897,7 @@ shall be told about the Lord.
 31. They shall come and shall declare his righteousness to a people that shall be born,  
 for he has done it.   
 
-## Chapter 23
+## Psalms Chapter 23
 1. The LORD is my shepherd;  
 I shall lack nothing.   
 2. He makes me lie down in green pastures.  
@@ -17915,7 +17915,7 @@ My cup runs over.
 6. Surely goodness and loving kindness shall follow me all the days of my life,  
 and I will dwell in the LORD’s house forever.   
 
-## Chapter 24
+## Psalms Chapter 24
 1. The earth is the LORD’s, with its fullness;  
 the world, and those who dwell in it.   
 2. For he has founded it on the seas,  
@@ -17939,7 +17939,7 @@ lift them up, you everlasting doors,
 and the King of glory will come in.   
 10. Who is this King of glory?  
 The LORD of Armies is the King of glory!  Selah.
-## Chapter 25
+## Psalms Chapter 25
 1. To you, LORD, I lift up my soul.   
 2. My God, I have trusted in you.  
 let me be shamed.  
@@ -17987,7 +17987,7 @@ for I wait for you.
 22. God, redeem Israel 
 out of all his troubles.   
 
-## Chapter 26
+## Psalms Chapter 26
 1. Judge me, LORD, for I have walked in my integrity.  
 I have trusted also in the LORD without wavering.   
 2. Examine me, LORD, and prove me.  
@@ -18013,7 +18013,7 @@ Redeem me, and be merciful to me.
 12. My foot stands in an even place.  
 In the congregations I will bless the LORD.   
 
-## Chapter 27
+## Psalms Chapter 27
 1. The LORD is my light and my salvation.  
 Whom shall I fear?  
 The LORD is the strength of my life.  
@@ -18056,7 +18056,7 @@ I will see the goodness of the LORD in the land of the living.
 Be strong, and let your heart take courage.  
 wait for the LORD.   
 
-## Chapter 28
+## Psalms Chapter 28
 1. To you, LORD, I call.  
 My rock, don’t be deaf to me,  
 lest, if you are silent to me,  
@@ -18085,7 +18085,7 @@ and bless your inheritance.
 Be their shepherd also,  
 and bear them up forever.   
 
-## Chapter 29
+## Psalms Chapter 29
 1. Ascribe to the LORD, you sons of the mighty,  
 ascribe to the LORD glory and strength.   
 2. Ascribe to the LORD the glory due to his name.  
@@ -18109,7 +18109,7 @@ the LORD sits as King forever.
 11. The LORD will give strength to his people.  
 The LORD will bless his people with peace.   
 
-## Chapter 30
+## Psalms Chapter 30
 1. I will extol you, LORD, for you have raised me up,  
 and have not made my foes to rejoice over me.   
 2. LORD my God, I cried to you,  
@@ -18138,7 +18138,7 @@ You have removed my sackcloth, and clothed me with gladness,
 12. to the end that my heart may sing praise to you, and not be silent.  
 LORD my God, I will give thanks to you forever!   
 
-## Chapter 31
+## Psalms Chapter 31
 1. In you, LORD, I take refuge.  
 be disappointed.  
 in your righteousness.   
@@ -18200,7 +18200,7 @@ and fully recompenses him who behaves arrogantly.
 24. Be strong, and let your heart take courage,  
 all you who hope in the LORD.   
 
-## Chapter 32
+## Psalms Chapter 32
 1. Blessed is he whose disobedience is forgiven,  
 sin is covered.   
 2. Blessed is the man to whom the LORD doesn’t impute iniquity,  
@@ -18223,7 +18223,7 @@ but loving kindness shall surround him who trusts in the LORD.
 11. Be glad in the LORD, and rejoice, you righteous!  
 Shout for joy, all you who are upright in heart!   
 
-## Chapter 33
+## Psalms Chapter 33
 1. Rejoice in the LORD, you righteous!  
 Praise is fitting for the upright.   
 2. Give thanks to the LORD with the lyre.  
@@ -18268,7 +18268,7 @@ because we have trusted in his holy name.
 22. Let your loving kindness be on us, LORD,  
 we have hoped in you.   
 
-## Chapter 34
+## Psalms Chapter 34
 1.  I will bless the LORD at all times.  
 His praise will always be in my mouth.   
 2. My soul shall boast in the LORD.  
@@ -18314,7 +18314,7 @@ Those who hate the righteous shall be condemned.
 22. The LORD redeems the soul of his servants.  
 of those who take refuge in him shall be condemned.   
 
-## Chapter 35
+## Psalms Chapter 35
 1. Contend, LORD, with those who contend with me.  
 Fight against those who fight against me.   
 2. Take hold of shield and buckler,  
@@ -18377,7 +18377,7 @@ let them say continually, “May the LORD be magnified,
 who has pleasure in the prosperity of his servant!”   
 28. My tongue shall talk about your righteousness and about your praise all day long.   
 
-## Chapter 36
+## Psalms Chapter 36
 1. A revelation is within my heart about the disobedience of the wicked:  
 There is no fear of God before his eyes.   
 2. For he flatters himself in his own eyes,  
@@ -18405,7 +18405,7 @@ the hand of the wicked drive me away.
 12. There the workers of iniquity are fallen.  
 They are thrust down, and shall not be able to rise.   
 
-## Chapter 37
+## Psalms Chapter 37
 1. Don’t fret because of evildoers,  
 be envious against those who work unrighteousness.   
 2. For they shall soon be cut down like the grass,  
@@ -18496,7 +18496,7 @@ He is their stronghold in the time of trouble.
 He rescues them from the wicked and saves them,  
 because they have taken refuge in him.   
 
-## Chapter 38
+## Psalms Chapter 38
 1. LORD, don’t rebuke me in your wrath,  
 me in your hot displeasure.   
 2. For your arrows have pierced me,  
@@ -18544,7 +18544,7 @@ My God, don’t be far from me.
 22. Hurry to help me,  
 Lord, my salvation.   
 
-## Chapter 39
+## Psalms Chapter 39
 1. I said, “I will watch my ways, so that I don’t sin with my tongue.  
 my mouth with a bridle while the wicked is before me.”   
 2. I was mute with silence.  
@@ -18581,7 +18581,7 @@ a foreigner, as all my fathers were.
 13. Oh spare me, that I may recover strength,  
 before I go away and exist no more.”   
 
-## Chapter 40
+## Psalms Chapter 40
 1. I waited patiently for the LORD.  
 He turned to me, and heard my cry.   
 2. He brought me up also out of a horrible pit,  
@@ -18626,7 +18626,7 @@ May the Lord think about me.
 You are my help and my deliverer.  
 my God.   
 
-## Chapter 41
+## Psalms Chapter 41
 1. Blessed is he who considers the poor.  
 The LORD will deliver him in the day of evil.   
 2. The LORD will preserve him, and keep him alive.  
@@ -18658,7 +18658,7 @@ and set me in your presence forever.
 from everlasting and to everlasting!  
 and amen.   
 
-## Chapter 42
+## Psalms Chapter 42
 1. As the deer pants for the water brooks,  
   
 2. My soul thirsts for God, for the living God.  
@@ -18689,7 +18689,7 @@ are you disturbed within me?
 in God! For I shall still praise him,  
 the saving help of my countenance, and my God.   
 
-## Chapter 43
+## Psalms Chapter 43
 1. Vindicate me, God, and plead my cause against an ungodly nation.  
 deliver me from deceitful and wicked men.   
 2. For you are the God of my strength. Why have you rejected me?  
@@ -18707,7 +18707,7 @@ Hope in God!
 For I shall still praise him:  
 my Savior, my helper, and my God.   
 
-## Chapter 44
+## Psalms Chapter 44
 1. We have heard with our ears, God;  
 have told us what work you did in their days,  
 in the days of old.   
@@ -18768,7 +18768,7 @@ Our body clings to the earth.
 26. Rise up to help us.  
 us for your loving kindness’ sake.   
 
-## Chapter 45
+## Psalms Chapter 45
 1. My heart overflows with a noble theme.  
 I recite my verses for the king.  
 My tongue is like the pen of a skillful writer.   
@@ -18806,7 +18806,7 @@ You shall make them princes in all the earth.
 17. I will make your name to be remembered in all generations.  
 Therefore the peoples shall give you thanks forever and ever.   
 
-## Chapter 46
+## Psalms Chapter 46
 1. God is our refuge and strength,  
 a very present help in trouble.   
 2. Therefore we won’t be afraid, though the earth changes,  
@@ -18832,7 +18832,7 @@ I will be exalted in the earth.”
 11. The LORD of Armies is with us.  
 The God of Jacob is our refuge.    
 
-## Chapter 47
+## Psalms Chapter 47
 1. Oh clap your hands, all you nations.  
 to God with the voice of triumph!   
 2. For the LORD Most High is awesome.  
@@ -18854,7 +18854,7 @@ the people of the God of Abraham.
 For the shields of the earth belong to God.  
 He is greatly exalted!   
 
-## Chapter 48
+## Psalms Chapter 48
 1. Great is the LORD, and greatly to be praised,  
 in the city of our God, in his holy mountain.   
 2. Beautiful in elevation, the joy of the whole earth,  
@@ -18886,7 +18886,7 @@ you may tell it to the next generation.
 14. For this God is our God forever and ever.  
 He will be our guide even to death.   
 
-## Chapter 49
+## Psalms Chapter 49
 1. Hear this, all you peoples.  
 of the world,   
 2. both low and high,  
@@ -18933,7 +18933,7 @@ They shall never see the light.
 20. A man who has riches without understanding,  
 is like the animals that perish.   
 
-## Chapter 50
+## Psalms Chapter 50
 1. The Mighty One, God, the LORD, speaks,  
 and calls the earth from sunrise to sunset.   
 2. Out of Zion, the perfection of beauty,  
@@ -18984,7 +18984,7 @@ lest I tear you into pieces, and there be no one to deliver.
 23. Whoever offers the sacrifice of thanksgiving glorifies me,  
 and prepares his way so that I will show God’s salvation to him.”   
 
-## Chapter 51
+## Psalms Chapter 51
 1. Have mercy on me, God, according to your loving kindness.  
 to the multitude of your tender mercies, blot out my transgressions.   
 2. Wash me thoroughly from my iniquity.  
@@ -19027,7 +19027,7 @@ the walls of Jerusalem.
 in burnt offerings and in whole burnt offerings.  
 Then they will offer bulls on your altar.   
 
-## Chapter 52
+## Psalms Chapter 52
 1. Why do you boast of mischief, mighty man?  
 2. Your tongue plots destruction,  
 like a sharp razor, working deceitfully.   
@@ -19048,7 +19048,7 @@ I trust in God’s loving kindness forever and ever.
 I will hope in your name, for it is good,  
 in the presence of your saints.   
 
-## Chapter 53
+## Psalms Chapter 53
 1. The fool has said in his heart, “There is no God.”  
 They are corrupt, and have done abominable iniquity.  
 is no one who does good.   
@@ -19070,7 +19070,7 @@ When God brings back his people from captivity,
 then Jacob shall rejoice,  
 and Israel shall be glad.   
 
-## Chapter 54
+## Psalms Chapter 54
 1. Save me, God, by your name.  
 in your might.   
 2. Hear my prayer, God.  
@@ -19087,7 +19087,7 @@ I will give thanks to your name, LORD, for it is good.
 7. For he has delivered me out of all trouble.  
 My eye has seen triumph over my enemies.   
 
-## Chapter 55
+## Psalms Chapter 55
 1. Listen to my prayer, God.  
 my supplication.   
 2. Attend to me, and answer me.  
@@ -19145,7 +19145,7 @@ He will never allow the righteous to be moved.
 and deceitful men shall not live out half their days,  
 but I will trust in you.   
 
-## Chapter 56
+## Psalms Chapter 56
 1. Be merciful to me, God, for man wants to swallow me up.  
 All day long, he attacks and oppresses me.   
 2. My enemies want to swallow me up all day long,  
@@ -19179,7 +19179,7 @@ I will give thank offerings to you.
 and prevented my feet from falling,  
 that I may walk before God in the light of the living.   
 
-## Chapter 57
+## Psalms Chapter 57
 1. Be merciful to me, God, be merciful to me,  
 for my soul takes refuge in you.  
 in the shadow of your wings, I will take refuge,  
@@ -19211,7 +19211,7 @@ and your truth to the skies.
 11. Be exalted, God, above the heavens.  
 your glory be over all the earth.   
 
-## Chapter 58
+## Psalms Chapter 58
 1. Do you indeed speak righteousness, silent ones?  
 of men?   
 2. No, in your heart you plot injustice.  
@@ -19235,7 +19235,7 @@ He shall wash his feet in the blood of the wicked,
 11. so that men shall say, “Most certainly there is a reward for the righteous.  
 certainly there is a God who judges the earth.”   
 
-## Chapter 59
+## Psalms Chapter 59
 1. Deliver me from my enemies, my God.  
 Set me on high from those who rise up against me.   
 2. Deliver me from the workers of iniquity.  
@@ -19279,7 +19279,7 @@ a refuge in the day of my distress.
 17. To you, my strength, I will sing praises.  
 For God is my high tower, the God of my mercy.   
 
-## Chapter 60
+## Psalms Chapter 60
 1. God, you have rejected us.  
 You have broken us down.  
 You have been angry.  
@@ -19313,7 +19313,7 @@ for the help of man is vain.
 12. Through God we will do valiantly,  
 for it is he who will tread down our adversaries.   
 
-## Chapter 61
+## Psalms Chapter 61
 1. Hear my cry, God.  
 to my prayer.   
 2. From the end of the earth, I will call to you when my heart is overwhelmed.  
@@ -19331,7 +19331,7 @@ your loving kindness and truth, that they may preserve him.
 8. So I will sing praise to your name forever,  
 that I may fulfill my vows daily.   
 
-## Chapter 62
+## Psalms Chapter 62
 1. My soul rests in God alone.  
 My salvation is from him.   
 2. He alone is my rock, my salvation, and my fortress.  
@@ -19365,7 +19365,7 @@ that power belongs to God.
 12. Also to you, Lord, belongs loving kindness,  
 for you reward every man according to his work.   
 
-## Chapter 63
+## Psalms Chapter 63
 1. God, you are my God.  
 I will earnestly seek you.  
 My soul thirsts for you.  
@@ -19393,7 +19393,7 @@ They shall be jackal food.
 by him will praise him,  
 for the mouth of those who speak lies shall be silenced.   
 
-## Chapter 64
+## Psalms Chapter 64
 1. Hear my voice, God, in my complaint.  
 my life from fear of the enemy.   
 2. Hide me from the conspiracy of the wicked,  
@@ -19418,7 +19418,7 @@ and shall wisely ponder what he has done.
 and shall take refuge in him.  
 All the upright in heart shall praise him!   
 
-## Chapter 65
+## Psalms Chapter 65
 1. Praise waits for you, God, in Zion.  
 shall be performed to you.   
 2. You who hear prayer,  
@@ -19456,7 +19456,7 @@ The hills are clothed with gladness.
 The valleys also are clothed with grain.  
 for joy!  
 
-## Chapter 66
+## Psalms Chapter 66
 1. Make a joyful shout to God, all the earth!   
 2. Sing to the glory of his name!  
 glory and praise!   
@@ -19499,7 +19499,7 @@ heard the voice of my prayer.
 20. Blessed be God, who has not turned away my prayer,  
 nor his loving kindness from me.   
 
-## Chapter 67
+## Psalms Chapter 67
 1. May God be merciful to us, bless us,  
 to shine on us.    
 2. That your way may be known on earth,  
@@ -19516,7 +19516,7 @@ our own God, will bless us.
 7. God will bless us.  
 All the ends of the earth shall fear him.   
 
-## Chapter 68
+## Psalms Chapter 68
 1. Let God arise!  
 his enemies be scattered!  
 him also flee before him.   
@@ -19605,7 +19605,7 @@ his strength is in the skies.
 The God of Israel gives strength and power to his people.  
 be to God!   
 
-## Chapter 69
+## Psalms Chapter 69
 1. Save me, God,  
 for the waters have come up to my neck!   
 2. I sink in deep mire, where there is no foothold.  
@@ -19684,7 +19684,7 @@ They shall settle there, and own it.
 36. The children also of his servants shall inherit it.  
 Those who love his name shall dwell therein.   
 
-## Chapter 70
+## Psalms Chapter 70
 1. Hurry, God, to deliver me.  
 Come quickly to help me, LORD.   
 2. Let them be disappointed and confounded who seek my soul.  
@@ -19699,7 +19699,7 @@ to me quickly, God.
 You are my help and my deliverer.  
 LORD, don’t delay.   
 
-## Chapter 71
+## Psalms Chapter 71
 1. In you, LORD, I take refuge.  
 Never let me be disappointed.   
 2. Deliver me in your righteousness, and rescue me.  
@@ -19756,7 +19756,7 @@ My soul, which you have redeemed, sings praises to you!
 for they are disappointed, and they are confounded,  
 who want to harm me.   
 
-## Chapter 72
+## Psalms Chapter 72
 1. God, give the king your justice;  
 your righteousness to the royal son.   
 2. He will judge your people with righteousness,  
@@ -19803,7 +19803,7 @@ the whole earth be filled with his glory!
 and amen.   
 20. This ends the prayers by David, the son of Jesse.   
 
-## Chapter 73
+## Psalms Chapter 73
 1. Surely God is good to Israel,  
 to those who are pure in heart.   
 2. But as for me, my feet were almost gone.  
@@ -19862,7 +19862,7 @@ You have destroyed all those who are unfaithful to you.
 I have made the Lord GOD my refuge,  
 that I may tell of all your works.   
 
-## Chapter 74
+## Psalms Chapter 74
 1. God, why have you rejected us forever?  
 Why does your anger smolder against the sheep of your pasture?   
 2. Remember your congregation, which you purchased of old,  
@@ -19911,7 +19911,7 @@ Remember how the foolish man mocks you all day.
 23. Don’t forget the voice of your adversaries.  
 The tumult of those who rise up against you ascends continually.   
 
-## Chapter 75
+## Psalms Chapter 75
 1. We give thanks to you, God.  
 2. When I choose the appointed time,  
 I will judge blamelessly.   
@@ -19934,7 +19934,7 @@ I will sing praises to the God of Jacob.
 10. I will cut off all the horns of the wicked,  
 but the horns of the righteous shall be lifted up.   
 
-## Chapter 76
+## Psalms Chapter 76
 1. In Judah, God is known.  
 2. His tabernacle is also in Salem.  
 His dwelling place in Zion.   
@@ -19960,7 +19960,7 @@ of his neighbors bring presents to him who is to be feared.
 12. He will cut off the spirit of princes.  
 He is feared by the kings of the earth.   
 
-## Chapter 77
+## Psalms Chapter 77
 1. My cry goes to God!  
 I cry to God for help,  
 and for him to listen to me.   
@@ -20009,7 +20009,7 @@ were not known.
 20. You led your people like a flock,  
 by the hand of Moses and Aaron.   
 
-## Chapter 78
+## Psalms Chapter 78
 1. Hear my teaching, my people.  
 Turn your ears to the words of my mouth.   
 2. I will open my mouth in a parable.  
@@ -20170,7 +20170,7 @@ and Israel, his inheritance.
 72. So he was their shepherd according to the integrity of his heart,  
 and guided them by the skillfulness of his hands.   
 
-## Chapter 79
+## Psalms Chapter 79
 1. God, the nations have come into your inheritance.  
 They have defiled your holy temple.  
 They have laid Jerusalem in heaps.   
@@ -20203,7 +20203,7 @@ their reproach with which they have reproached you, Lord.
 will give you thanks forever.  
 will praise you forever, to all generations.   
 
-## Chapter 80
+## Psalms Chapter 80
 1. Hear us, Shepherd of Israel,  
 lead Joseph like a flock,  
 the cherubim, shine out.   
@@ -20247,7 +20247,7 @@ us, and we will call on your name.
 19. Turn us again, LORD God of Armies.  
 Cause your face to shine, and we will be saved.   
 
-## Chapter 81
+## Psalms Chapter 81
 1. Sing aloud to God, our strength!  
 a joyful shout to the God of Jacob!   
 2. Raise a song, and bring here the tambourine,  
@@ -20284,7 +20284,7 @@ and their punishment would last forever.
 16. But he would have also fed them with the finest of the wheat.  
 I will satisfy you with honey out of the rock.”   
 
-## Chapter 82
+## Psalms Chapter 82
 1. God presides in the great assembly.  
 He judges among the gods.   
 2. “How long will you judge unjustly,  
@@ -20302,7 +20302,7 @@ and fall like one of the rulers.”
 8. Arise, God, judge the earth,  
 for you inherit all of the nations.   
 
-## Chapter 83
+## Psalms Chapter 83
 1. God, don’t keep silent.  
 be still, God.   
 2. For, behold, your enemies are stirred up.  
@@ -20338,7 +20338,7 @@ them be confounded and perish;
 18. that they may know that you alone, whose name is the LORD, 
 the Most High over all the earth.   
 
-## Chapter 84
+## Psalms Chapter 84
 1. How lovely are your dwellings,  
 LORD of Armies!   
 2. My soul longs, and even faints for the courts of the LORD.  
@@ -20367,7 +20367,7 @@ He withholds no good thing from those who walk blamelessly.
 12. LORD of Armies,  
 is the man who trusts in you.   
 
-## Chapter 85
+## Psalms Chapter 85
 1. LORD, you have been favorable to your land.  
 have restored the fortunes of Jacob.   
 2. You have forgiven the iniquity of your people.  
@@ -20396,7 +20396,7 @@ land will yield its increase.
 13. Righteousness goes before him,  
 and prepares the way for his steps.   
 
-## Chapter 86
+## Psalms Chapter 86
 1. Hear, LORD, and answer me,  
 for I am poor and needy.   
 2. Preserve my soul, for I am godly.  
@@ -20436,7 +20436,7 @@ Save the son of your servant.
 that those who hate me may see it, and be shamed,  
 because you, LORD, have helped me, and comforted me.   
 
-## Chapter 87
+## Psalms Chapter 87
 1. His foundation is in the holy mountains.   
 2. The LORD loves the gates of Zion more than all the dwellings of Jacob.   
 3. Glorious things are spoken about you, city of God.  Selah.4. I will record Rahab and Babylon among those who acknowledge me.  
@@ -20448,7 +20448,7 @@ the Most High himself will establish her.
 This one was born there.”  Selah.7. Those who sing as well as those who dance say,  
 All my springs are in you.”   
 
-## Chapter 88
+## Psalms Chapter 88
 1. LORD, the God of my salvation,  
 I have cried day and night before you.   
 2. Let my prayer enter into your presence.  
@@ -20490,7 +20490,7 @@ They completely engulfed me.
 18. You have put lover and friend far from me,  
 and my friends into darkness.   
 
-## Chapter 89
+## Psalms Chapter 89
 1. I will sing of the loving kindness of the LORD forever.  
 2. I indeed declare, “Love stands firm forever.  
 You established the heavens.  
@@ -20600,7 +20600,7 @@ with which they have mocked the footsteps of your anointed one.
 52. Blessed be the LORD forever more.  
 and Amen.   
 
-## Chapter 90
+## Psalms Chapter 90
 1. Lord, you have been our dwelling place for all generations.   
 2. Before the mountains were born,  
 before you had formed the earth and the world,  
@@ -20640,7 +20640,7 @@ your glory to their children.
 Establish the work of our hands for us.  
 establish the work of our hands.   
 
-## Chapter 91
+## Psalms Chapter 91
 1. He who dwells in the secret place of the Most High 
 will rest in the shadow of the Almighty.   
 2. I will say of the LORD, “He is my refuge and my fortress;  
@@ -20677,7 +20677,7 @@ I will deliver him, and honor him.
 16. I will satisfy him with long life,  
 and show him my salvation.”   
 
-## Chapter 92
+## Psalms Chapter 92
 1. It is a good thing to give thanks to the LORD,  
 to sing praises to your name, Most High,   
 2. to proclaim your loving kindness in the morning,  
@@ -20711,7 +20711,7 @@ They will be full of sap and green,
 is my rock,  
 and there is no unrighteousness in him.   
 
-## Chapter 93
+## Psalms Chapter 93
 1. The LORD reigns!  
 He is clothed with majesty!  
 The LORD is armed with strength.  
@@ -20729,7 +20729,7 @@ the LORD on high is mighty.
 Holiness adorns your house,  
 LORD, forever more.   
 
-## Chapter 94
+## Psalms Chapter 94
 1. LORD, you God to whom vengeance belongs,  
 God to whom vengeance belongs, shine out.   
 2. Rise up, you judge of the earth.  
@@ -20778,7 +20778,7 @@ my God, the rock of my refuge.
 and will cut them off in their own wickedness.  
 The LORD, our God, will cut them off.   
 
-## Chapter 95
+## Psalms Chapter 95
 1. Oh come, let’s sing to the LORD.  
 Let’s shout aloud to the rock of our salvation!   
 2. Let’s come before his presence with thanksgiving.  
@@ -20805,7 +20805,7 @@ They have not known my ways.”
 11. Therefore I swore in my wrath,  
 my rest.”   
 
-## Chapter 96
+## Psalms Chapter 96
 1. Sing to the LORD a new song!  
 Sing to the LORD, all the earth.   
 2. Sing to the LORD!  
@@ -20838,7 +20838,7 @@ for he comes to judge the earth.
 He will judge the world with righteousness,  
 the peoples with his truth.   
 
-## Chapter 97
+## Psalms Chapter 97
 1. The LORD reigns!  
 Let the earth rejoice!  
 Let the multitude of islands be glad!   
@@ -20868,7 +20868,7 @@ and gladness for the upright in heart.
 12. Be glad in the LORD, you righteous people!  
 Give thanks to his holy Name.   
 
-## Chapter 98
+## Psalms Chapter 98
 1. Sing to the LORD a new song,  
 for he has done marvelous things!  
 His right hand and his holy arm have worked salvation for him.   
@@ -20891,7 +20891,7 @@ for he comes to judge the earth.
 He will judge the world with righteousness,  
 and the peoples with equity.   
 
-## Chapter 99
+## Psalms Chapter 99
 1. The LORD reigns! Let the peoples tremble.  
 He sits enthroned among the cherubim.  
 the earth be moved.   
@@ -20918,7 +20918,7 @@ although you took vengeance for their doings.
 Worship at his holy hill,  
 for the LORD, our God, is holy!   
 
-## Chapter 100
+## Psalms Chapter 100
 1. Shout for joy to the LORD, all you lands!   
 2. Serve the LORD with gladness.  
 before his presence with singing.   
@@ -20932,7 +20932,7 @@ Give thanks to him, and bless his name.
 His loving kindness endures forever,  
 his faithfulness to all generations.   
 
-## Chapter 101
+## Psalms Chapter 101
 1. I will sing of loving kindness and justice.  
 To you, LORD, I will sing praises.   
 2. I will be careful to live a blameless life.  
@@ -20954,7 +20954,7 @@ He who speaks falsehood won’t be established before my eyes.
 8. Morning by morning, I will destroy all the wicked of the land,  
 to cut off all the workers of iniquity from the LORD’s city.   
 
-## Chapter 102
+## Psalms Chapter 102
 1. Hear my prayer, LORD! 
 my cry come to you.   
 2. Don’t hide your face from me in the day of my distress.  
@@ -21014,7 +21014,7 @@ Your years will have no end.
 28. The children of your servants will continue.  
 Their offspring will be established before you.”   
 
-## Chapter 103
+## Psalms Chapter 103
 1. Praise the LORD, my soul!  
 All that is within me, praise his holy name!   
 2. Praise the LORD, my soul,  
@@ -21062,7 +21062,7 @@ you servants of his, who do his pleasure.
 in all places of his dominion.  
 Praise the LORD, my soul!   
 
-## Chapter 104
+## Psalms Chapter 104
 1. Bless the LORD, my soul.  
 The LORD, my God, you are very great.  
 You are clothed with honor and majesty.   
@@ -21143,7 +21143,7 @@ Let the wicked be no more.
 Bless the LORD, my soul.  
 Praise the LORD!  
 
-## Chapter 105
+## Psalms Chapter 105
 1. Give thanks to the LORD! Call on his name!  
 Make his doings known among the peoples.   
 2. Sing to him, sing praises to him!  
@@ -21236,7 +21236,7 @@ They took the labor of the peoples in possession,
 and observe his laws.  
 Praise the LORD!  
 
-## Chapter 106
+## Psalms Chapter 106
 1. Praise the LORD! 
 Give thanks to the LORD, for he is good,  
 for his loving kindness endures forever.   
@@ -21345,7 +21345,7 @@ from everlasting even to everlasting!
 all the people say, “Amen.”  
 Praise the LORD!  
 
-## Chapter 107
+## Psalms Chapter 107
 1. Give thanks to the LORD, for he is good,  
 for his loving kindness endures forever.   
 2. Let the redeemed by the LORD say so,  
@@ -21434,7 +21434,7 @@ All the wicked will shut their mouths.
 43. Whoever is wise will pay attention to these things.  
 They will consider the loving kindnesses of the LORD.   
 
-## Chapter 108
+## Psalms Chapter 108
 1. My heart is steadfast, God.  
 will sing and I will make music with my soul.   
 2. Wake up, harp and lyre!  
@@ -21464,7 +21464,7 @@ for the help of man is vain.
 13. Through God, we will do valiantly,  
 for it is he who will tread down our enemies.   
 
-## Chapter 109
+## Psalms Chapter 109
 1. God of my praise, don’t remain silent,   
 2. for they have opened the mouth of the wicked and the mouth of deceit against me.  
 They have spoken to me with a lying tongue.   
@@ -21530,7 +21530,7 @@ I will praise him among the multitude.
 31. For he will stand at the right hand of the needy,  
 to save him from those who judge his soul.   
 
-## Chapter 110
+## Psalms Chapter 110
 1. The LORD says to my Lord, “Sit at my right hand,  
 until I make your enemies your footstool for your feet.”   
 2. The LORD will send out the rod of your strength out of Zion.  
@@ -21547,7 +21547,7 @@ He will crush the ruler of the whole earth.
 7. He will drink of the brook on the way;  
 therefore he will lift up his head.   
 
-## Chapter 111
+## Psalms Chapter 111
 1. Praise the LORD! 
 I will give thanks to the LORD with my whole heart,  
 in the council of the upright, and in the congregation.   
@@ -21572,7 +21572,7 @@ His name is holy and awesome!
 All those who do his work have a good understanding.  
 His praise endures forever!   
 
-## Chapter 112
+## Psalms Chapter 112
 1. Praise the LORD! 
 is the man who fears the LORD, 
 who delights greatly in his commandments.   
@@ -21597,7 +21597,7 @@ His horn will be exalted with honor.
 He shall gnash with his teeth, and melt away.  
 The desire of the wicked will perish.   
 
-## Chapter 113
+## Psalms Chapter 113
 1. Praise the LORD! 
 Praise, you servants of the LORD, 
 praise the LORD’s name.   
@@ -21618,7 +21618,7 @@ with the princes of his people.
 as a joyful mother of children.  
 Praise the LORD!  
 
-## Chapter 114
+## Psalms Chapter 114
 1. When Israel went out of Egypt,  
 the house of Jacob from a people of foreign language,   
 2. Judah became his sanctuary,  
@@ -21636,7 +21636,7 @@ at the presence of the God of Jacob,
 8. who turned the rock into a pool of water,  
 the flint into a spring of waters.   
 
-## Chapter 115
+## Psalms Chapter 115
 1. Not to us, LORD, not to us,  
 but to your name give glory,  
 for your loving kindness, and for your truth’s sake.   
@@ -21678,7 +21678,7 @@ nor any who go down into silence,
 from this time forward and forever more.  
 Praise the LORD!  
 
-## Chapter 116
+## Psalms Chapter 116
 1. I love the LORD, because he listens to my voice,  
 and my cries for mercy.   
 2. Because he has turned his ear to me,  
@@ -21718,14 +21718,14 @@ in the presence of all his people,
 in the middle of you, Jerusalem.  
 Praise the LORD!  
 
-## Chapter 117
+## Psalms Chapter 117
 1. Praise the LORD, all you nations!  
 Extol him, all you peoples!   
 2. For his loving kindness is great toward us.  
 The LORD’s faithfulness endures forever.  
 Praise the LORD!  
 
-## Chapter 118
+## Psalms Chapter 118
 1. Give thanks to the LORD, for he is good,  
 for his loving kindness endures forever.   
 2. Let Israel now say 
@@ -21787,7 +21787,7 @@ You are my God, I will exalt you.
 29. Oh give thanks to the LORD, for he is good,  
 for his loving kindness endures forever.   
 
-## Chapter 119
+## Psalms Chapter 119
 1. Blessed are those whose ways are blameless,  
 who walk according to the LORD’s law.   
 2. Blessed are those who keep his statutes,  
@@ -22141,7 +22141,7 @@ Let your ordinances help me.
 176. I have gone astray like a lost sheep.  
 Seek your servant, for I don’t forget your commandments.   
 
-## Chapter 120
+## Psalms Chapter 120
 1. In my distress, I cried to the LORD.  
 He answered me.   
 2. Deliver my soul, LORD, from lying lips,  
@@ -22157,7 +22157,7 @@ with him who hates peace.
 7. I am for peace,  
 but when I speak, they are for war.   
 
-## Chapter 121
+## Psalms Chapter 121
 1. I will lift up my eyes to the hills.  
 my help come from?   
 2. My help comes from the LORD,  
@@ -22175,7 +22175,7 @@ He will keep your soul.
 8. The LORD will keep your going out and your coming in,  
 from this time forward, and forever more.   
 
-## Chapter 122
+## Psalms Chapter 122
 1. I was glad when they said to me,  
 Let’s go to the LORD’s house!”   
 2. Our feet are standing within your gates, Jerusalem!   
@@ -22194,7 +22194,7 @@ I will now say, “Peace be within you.”
 9. For the sake of the house of the LORD our God,  
 I will seek your good.   
 
-## Chapter 123
+## Psalms Chapter 123
 1. I lift up my eyes to you,  
 you who sit in the heavens.   
 2. Behold, as the eyes of servants look to the hand of their master,  
@@ -22206,7 +22206,7 @@ for we have endured much contempt.
 4. Our soul is exceedingly filled with the scoffing of those who are at ease,  
 with the contempt of the proud.   
 
-## Chapter 124
+## Psalms Chapter 124
 1. If it had not been the LORD who was on our side,  
 let Israel now say,   
 2. if it had not been the LORD who was on our side,  
@@ -22223,7 +22223,7 @@ The snare is broken, and we have escaped.
 8. Our help is in the LORD’s name,  
 who made heaven and earth.   
 
-## Chapter 125
+## Psalms Chapter 125
 1. Those who trust in the LORD are as Mount Zion,  
 which can’t be moved, but remains forever.   
 2. As the mountains surround Jerusalem,  
@@ -22236,7 +22236,7 @@ to those who are upright in their hearts.
 the LORD will lead them away with the workers of iniquity.  
 Peace be on Israel.   
 
-## Chapter 126
+## Psalms Chapter 126
 1. When the LORD brought back those who returned to Zion,  
 we were like those who dream.   
 2. Then our mouth was filled with laughter,  
@@ -22251,7 +22251,7 @@ like the streams in the Negev.
 6. He who goes out weeping, carrying seed for sowing,  
 will certainly come again with joy, carrying his sheaves.   
 
-## Chapter 127
+## Psalms Chapter 127
 1. Unless the LORD builds the house,  
 they who build it labor in vain.  
 Unless the LORD watches over the city,  
@@ -22267,7 +22267,7 @@ so are the children of youth.
 5. Happy is the man who has his quiver full of them.  
 They won’t be disappointed when they speak with their enemies in the gate.   
 
-## Chapter 128
+## Psalms Chapter 128
 1. Blessed is everyone who fears the LORD,  
 who walks in his ways.   
 2. For you will eat the labor of your hands.  
@@ -22280,7 +22280,7 @@ and may you see the good of Jerusalem all the days of your life.
 6. Yes, may you see your children’s children.  
 Peace be upon Israel.   
 
-## Chapter 129
+## Psalms Chapter 129
 1. Many times they have afflicted me from my youth up.  
 Let Israel now say:   
 2. many times they have afflicted me from my youth up,  
@@ -22299,7 +22299,7 @@ nor he who binds sheaves, his bosom.
 The blessing of the LORD be on you.  
 We bless you in the LORD’s name.”   
 
-## Chapter 130
+## Psalms Chapter 130
 1. Out of the depths I have cried to you, LORD.  
 2. Lord, hear my voice.  
 Let your ears be attentive to the voice of my petitions.   
@@ -22317,7 +22317,7 @@ for there is loving kindness with the LORD.
 Abundant redemption is with him.   
 8. He will redeem Israel from all their sins.   
 
-## Chapter 131
+## Psalms Chapter 131
 1. LORD, my heart isn’t arrogant, nor my eyes lofty;  
 nor do I concern myself with great matters,  
 or things too wonderful for me.   
@@ -22327,7 +22327,7 @@ like a weaned child is my soul within me.
 3. Israel, hope in the LORD,  
 from this time forward and forever more.   
 
-## Chapter 132
+## Psalms Chapter 132
 1. LORD, remember David and all his affliction,   
 2. how he swore to the LORD,  
 and vowed to the Mighty One of Jacob:   
@@ -22366,7 +22366,7 @@ I have ordained a lamp for my anointed.
 18. I will clothe his enemies with shame,  
 but on himself, his crown will shine.”   
 
-## Chapter 133
+## Psalms Chapter 133
 1. See how good and how pleasant it is 
 for brothers to live together in unity!   
 2. It is like the precious oil on the head,  
@@ -22378,7 +22378,7 @@ that comes down on the hills of Zion;
 for there the LORD gives the blessing,  
 even life forever more.   
 
-## Chapter 134
+## Psalms Chapter 134
 1. Look! Praise the LORD, all you servants of the LORD,  
 who stand by night in the LORD’s house!   
 2. Lift up your hands in the sanctuary.  
@@ -22386,7 +22386,7 @@ Praise the LORD!
 3. May the LORD bless you from Zion,  
 even he who made heaven and earth.   
 
-## Chapter 135
+## Psalms Chapter 135
 1. Praise the LORD! 
 Praise the LORD’s name!  
 Praise him, you servants of the LORD,   
@@ -22434,7 +22434,7 @@ You who fear the LORD, praise the LORD!
 who dwells in Jerusalem.  
 Praise the LORD!  
 
-## Chapter 136
+## Psalms Chapter 136
 1. Give thanks to the LORD, for he is good,  
 for his loving kindness endures forever.   
 2. Give thanks to the God of gods,  
@@ -22488,7 +22488,7 @@ for his loving kindness endures forever.
 26. Oh give thanks to the God of heaven,  
 for his loving kindness endures forever.   
 
-## Chapter 137
+## Psalms Chapter 137
 1. By the rivers of Babylon, there we sat down.  
 Yes, we wept, when we remembered Zion.   
 2. On the willows in that land,  
@@ -22510,7 +22510,7 @@ as you have done to us.
 9. Happy shall he be,  
 and dashes your little ones against the rock.   
 
-## Chapter 138
+## Psalms Chapter 138
 1. I will give you thanks with my whole heart.  
 Before the gods, I will sing praises to you.   
 2. I will bow down toward your holy temple,  
@@ -22531,7 +22531,7 @@ Your right hand will save me.
 Your loving kindness, LORD, endures forever.  
 forsake the works of your own hands.   
 
-## Chapter 139
+## Psalms Chapter 139
 1. LORD, you have searched me,  
 and you know me.   
 2. You know my sitting down and my rising up.  
@@ -22588,7 +22588,7 @@ Try me, and know my thoughts.
 24. See if there is any wicked way in me,  
 and lead me in the everlasting way.   
 
-## Chapter 140
+## Psalms Chapter 140
 1. Deliver me, LORD, from evil men.  
 2. those who devise mischief in their hearts.  
 They continually gather themselves together for war.   
@@ -22617,7 +22617,7 @@ and justice for the needy.
 13. Surely the righteous will give thanks to your name.  
 The upright will dwell in your presence.   
 
-## Chapter 141
+## Psalms Chapter 141
 1. LORD, I have called on you.  
 to me quickly!  
 Listen to my voice when I call to you.   
@@ -22644,7 +22644,7 @@ from the traps of the workers of iniquity.
 10. Let the wicked fall together into their own nets 
 while I pass by.   
 
-## Chapter 142
+## Psalms Chapter 142
 1. I cry with my voice to the LORD.  
 With my voice, I ask the LORD for mercy.   
 2. I pour out my complaint before him.  
@@ -22669,7 +22669,7 @@ that I may give thanks to your name.
 The righteous will surround me,  
 for you will be good to me.   
 
-## Chapter 143
+## Psalms Chapter 143
 1. Hear my prayer, LORD.  
 Listen to my petitions.  
 In your faithfulness and righteousness, relieve me.   
@@ -22704,7 +22704,7 @@ In your righteousness, bring my soul out of trouble.
 and destroy all those who afflict my soul,  
 for I am your servant.   
 
-## Chapter 144
+## Psalms Chapter 144
 1. Blessed be the LORD, my rock,  
 who trains my hands to war,  
 and my fingers to battle—   
@@ -22742,7 +22742,7 @@ and no outcry in our streets.
 15. Happy are the people who are in such a situation.  
 are the people whose God is the LORD.   
 
-## Chapter 145
+## Psalms Chapter 145
 1. I will exalt you, my God, the King.  
 I will praise your name forever and ever.   
 2. Every day I will praise you.  
@@ -22788,7 +22788,7 @@ but he will destroy all the wicked.
 21. My mouth will speak the praise of the LORD.  
 all flesh bless his holy name forever and ever.   
 
-## Chapter 146
+## Psalms Chapter 146
 1. Praise the LORD! 
 Praise the LORD, my soul.   
 2. While I live, I will praise the LORD.  
@@ -22815,7 +22815,7 @@ but he turns the way of the wicked upside down.
 your God, O Zion, to all generations.  
 Praise the LORD!  
 
-## Chapter 147
+## Psalms Chapter 147
 1. Praise the LORD, 
 for it is good to sing praises to our God;  
 for it is pleasant and fitting to praise him.   
@@ -22860,7 +22860,7 @@ his statutes and his ordinances to Israel.
 They don’t know his ordinances.  
 Praise the LORD!  
 
-## Chapter 148
+## Psalms Chapter 148
 1. Praise the LORD! 
 Praise the LORD from the heavens!  
 Praise him in the heights!   
@@ -22894,7 +22894,7 @@ the praise of all his saints,
 of the children of Israel, a people near to him.  
 Praise the LORD!  
 
-## Chapter 149
+## Psalms Chapter 149
 1. Praise the LORD! 
 Sing to the LORD a new song,  
 his praise in the assembly of the saints.   
@@ -22916,7 +22916,7 @@ and their nobles with fetters of iron;
 All his saints have this honor.  
 Praise the LORD!  
 
-## Chapter 150
+## Psalms Chapter 150
 1. Praise the LORD! 
 Praise God in his sanctuary!  
 Praise him in his heavens for his acts of power!   
@@ -22933,7 +22933,7 @@ Praise the LORD!
 
 # Proverbs
 
-## Chapter 1
+## Proverbs Chapter 1
 1. The proverbs of Solomon, the son of David, king of Israel:   
 2. to know wisdom and instruction;  
 to discern the words of understanding;   
@@ -23002,7 +23002,7 @@ The careless ease of fools will destroy them.
 33. But whoever listens to me will dwell securely,  
 and will be at ease, without fear of harm.”   
 
-## Chapter 2
+## Proverbs Chapter 2
 1. My son, if you will receive my words,  
 and store up my commandments within you,   
 2. so as to turn your ear to wisdom,  
@@ -23048,7 +23048,7 @@ The perfect will remain in it.
 22. But the wicked will be cut off from the land.  
 The treacherous will be rooted out of it.   
 
-## Chapter 3
+## Proverbs Chapter 3
 1. My son, don’t forget my teaching,  
 but let your heart keep my commandments,   
 2. for they will add to you length of days,  
@@ -23122,7 +23122,7 @@ but he gives grace to the humble.
 35. The wise will inherit glory,  
 shame will be the promotion of fools.   
 
-## Chapter 4
+## Proverbs Chapter 4
 1. Listen, sons, to a father’s instruction.  
 Pay attention and know understanding;   
 2. for I give you sound learning.  
@@ -23182,7 +23182,7 @@ all of your ways be established.
 27. Don’t turn to the right hand nor to the left.  
 Remove your foot from evil.   
 
-## Chapter 5
+## Proverbs Chapter 5
 1. My son, pay attention to my wisdom.  
 Turn your ear to my understanding,   
 2. that you may maintain discretion,  
@@ -23231,7 +23231,7 @@ The cords of his sin hold him firmly.
 23. He will die for lack of instruction.  
 In the greatness of his folly, he will go astray.   
 
-## Chapter 6
+## Proverbs Chapter 6
 1. My son, if you have become collateral for your neighbor,  
 if you have struck your hands in pledge for a stranger,   
 2. you are trapped by the words of your mouth;  
@@ -23307,7 +23307,7 @@ He won’t spare in the day of vengeance.
 35. He won’t regard any ransom,  
 neither will he rest content, though you give many gifts.   
 
-## Chapter 7
+## Proverbs Chapter 7
 1. My son, keep my words.  
 Lay up my commandments within you.   
 2. Keep my commandments and live!  
@@ -23365,7 +23365,7 @@ Yes, all her slain are a mighty army.
 27. Her house is the way to Sheol, 
 going down to the rooms of death.   
 
-## Chapter 8
+## Proverbs Chapter 8
 1. Doesn’t wisdom cry out?  
 understanding raise her voice?   
 2. On the top of high places by the way,  
@@ -23442,7 +23442,7 @@ and will obtain favor from the LORD.
 36. But he who sins against me wrongs his own soul.  
 All those who hate me love death.”   
 
-## Chapter 9
+## Proverbs Chapter 9
 1. Wisdom has built her house.  
 has carved out her seven pillars.   
 2. She has prepared her meat.  
@@ -23481,7 +23481,7 @@ Food eaten in secret is pleasant.”
 18. But he doesn’t know that the departed spirits are there,  
 that her guests are in the depths of Sheol.  
 
-## Chapter 10
+## Proverbs Chapter 10
 1. The proverbs of Solomon.  
 A wise son makes a glad father;  
 but a foolish son brings grief to his mother.   
@@ -23548,7 +23548,7 @@ but the perverse tongue will be cut off.
 32. The lips of the righteous know what is acceptable,  
 but the mouth of the wicked is perverse.   
 
-## Chapter 11
+## Proverbs Chapter 11
 1. A false balance is an abomination to the LORD,  
 but accurate weights are his delight.   
 2. When pride comes, then comes shame,  
@@ -23612,7 +23612,7 @@ He who is wise wins souls.
 31. Behold, the righteous shall be repaid in the earth,  
 how much more the wicked and the sinner!   
 
-## Chapter 12
+## Proverbs Chapter 12
 1. Whoever loves correction loves knowledge,  
 who hates reproof is stupid.   
 2. A good man shall obtain favor from the LORD,  
@@ -23670,7 +23670,7 @@ but the possessions of diligent men are prized.
 28. In the way of righteousness is life;  
 in its path there is no death.   
 
-## Chapter 13
+## Proverbs Chapter 13
 1. A wise son listens to his father’s instruction,  
 but a scoffer doesn’t listen to rebuke.   
 2. By the fruit of his lips, a man enjoys good things,  
@@ -23722,7 +23722,7 @@ one who loves him is careful to discipline him.
 25. The righteous one eats to the satisfying of his soul,  
 but the belly of the wicked goes hungry.   
 
-## Chapter 14
+## Proverbs Chapter 14
 1. Every wise woman builds her house,  
 the foolish one tears it down with her own hands.   
 2. He who walks in his uprightness fears the LORD,  
@@ -23794,7 +23794,7 @@ sin is a disgrace to any people.
 35. The king’s favor is toward a servant who deals wisely,  
 but his wrath is toward one who causes shame.   
 
-## Chapter 15
+## Proverbs Chapter 15
 1. A gentle answer turns away wrath,  
 but a harsh word stirs up anger.   
 2. The tongue of the wise commends knowledge,  
@@ -23862,7 +23862,7 @@ but he who listens to reproof gets understanding.
 33. The fear of the LORD teaches wisdom.  
 Before honor is humility.   
 
-## Chapter 16
+## Proverbs Chapter 16
 1. The plans of the heart belong to man,  
 but the answer of the tongue is from the LORD.   
 2. All the ways of a man are clean in his own eyes,  
@@ -23930,7 +23930,7 @@ one who rules his spirit, than he who takes a city.
 33. The lot is cast into the lap,  
 but its every decision is from the LORD.   
 
-## Chapter 17
+## Proverbs Chapter 17
 1. Better is a dry morsel with quietness,  
 than a house full of feasting with strife.   
 2. A servant who deals wisely will rule over a son who causes shame,  
@@ -23988,7 +23988,7 @@ He who is even tempered is a man of understanding.
 28. Even a fool, when he keeps silent, is counted wise.  
 When he shuts his lips, he is thought to be discerning.   
 
-## Chapter 18
+## Proverbs Chapter 18
 1. A man who isolates himself pursues selfishness,  
 and defies all sound judgment.   
 2. A fool has no delight in understanding,  
@@ -24038,7 +24038,7 @@ but the rich answer harshly.
 24. A man of many companions may be ruined,  
 but there is a friend who sticks closer than a brother.   
 
-## Chapter 19
+## Proverbs Chapter 19
 1. Better is the poor who walks in his integrity 
 than he who is perverse in his lips and is a fool.   
 2. It isn’t good to have zeal without knowledge,  
@@ -24099,7 +24099,7 @@ and the mouth of the wicked gulps down iniquity.
 29. Penalties are prepared for scoffers,  
 and beatings for the backs of fools.   
 
-## Chapter 20
+## Proverbs Chapter 20
 1. Wine is a mocker and beer is a brawler.  
 Whoever is led astray by them is not wise.   
 2. The terror of a king is like the roaring of a lion.  
@@ -24161,7 +24161,7 @@ The splendor of old men is their gray hair.
 30. Wounding blows cleanse away evil,  
 and beatings purge the innermost parts.   
 
-## Chapter 21
+## Proverbs Chapter 21
 1. The king’s heart is in the LORD’s hand like the watercourses.  
 He turns it wherever he desires.   
 2. Every way of a man is right in his own eyes,  
@@ -24225,7 +24225,7 @@ nor counsel against the LORD.
 31. The horse is prepared for the day of battle;  
 but victory is with the LORD.   
 
-## Chapter 22
+## Proverbs Chapter 22
 1. A good name is more desirable than great riches,  
 and loving favor is better than silver and gold.   
 2. The rich and the poor have this in common:  
@@ -24286,7 +24286,7 @@ which your fathers have set up.
 He will serve kings.  
 He won’t serve obscure men.   
 
-## Chapter 23
+## Proverbs Chapter 23
 1. When you sit to eat with a ruler,  
 what is before you;   
 2. put a knife to your throat 
@@ -24366,7 +24366,7 @@ They beat me, and I don’t feel it!
 When will I wake up? I can do it again.  
 I will look for more.”   
 
-## Chapter 24
+## Proverbs Chapter 24
 1. Don’t be envious of evil men,  
 to be with them;   
 2. for their hearts plot violence 
@@ -24441,7 +24441,7 @@ a little folding of the hands to sleep,
 34. so your poverty will come as a robber 
 and your want as an armed man.   
 
-## Chapter 25
+## Proverbs Chapter 25
 1. These also are proverbs of Solomon, which the men of Hezekiah king of Judah copied out.   
 2. It is the glory of God to conceal a thing,  
 but the glory of kings is to search out a matter.   
@@ -24502,7 +24502,7 @@ nor is it honorable to seek one’s own honor.
 28. Like a city that is broken down and without walls 
 is a man whose spirit is without restraint.   
 
-## Chapter 26
+## Proverbs Chapter 26
 1. Like snow in summer, and as rain in harvest,  
 so honor is not fitting for a fool.   
 2. Like a fluttering sparrow,  
@@ -24562,7 +24562,7 @@ rolls a stone, it will come back on him.
 28. A lying tongue hates those it hurts;  
 and a flattering mouth works ruin.   
 
-## Chapter 27
+## Proverbs Chapter 27
 1. Don’t boast about tomorrow;  
 for you don’t know what a day may bring.   
 2. Let another man praise you,  
@@ -24625,7 +24625,7 @@ and the goats are the price of a field.
 for your family’s food,  
 and for the nourishment of your servant girls.   
 
-## Chapter 28
+## Proverbs Chapter 28
 1. The wicked flee when no one pursues;  
 but the righteous are as bold as a lion.   
 2. In rebellion, a land has many rulers,  
@@ -24684,7 +24684,7 @@ but one who closes his eyes will have many curses.
 28. When the wicked rise, men hide themselves;  
 but when they perish, the righteous thrive.   
 
-## Chapter 29
+## Proverbs Chapter 29
 1. He who is often rebuked and stiffens his neck 
 will be destroyed suddenly, with no remedy.   
 2. When the righteous thrive, the people rejoice;  
@@ -24740,7 +24740,7 @@ but a man’s justice comes from the LORD.
 27. A dishonest man detests the righteous,  
 and the upright in their ways detest the wicked.   
 
-## Chapter 30
+## Proverbs Chapter 30
 1. The words of Agur the son of Jakeh, the revelation:  
 the man says to Ithiel,  
 to Ithiel and Ucal:   
@@ -24827,7 +24827,7 @@ put your hand over your mouth.
 and the wringing of the nose produces blood,  
 so the forcing of wrath produces strife.”   
 
-## Chapter 31
+## Proverbs Chapter 31
 1. The words of King Lemuel—the revelation which his mother taught him:   
 2. “Oh, my son!  
 son of my womb!  
@@ -24895,7 +24895,7 @@ Let her works praise her in the gates!
 
 # Ecclesiastes
 
-## Chapter 1
+## Ecclesiastes Chapter 1
 1. The words of the Preacher, the son of David, king in Jerusalem:   
 2. “Vanity of vanities,” says the Preacher; “Vanity of vanities, all is vanity.”  
 3. What does man gain from all his labor in which he labors under the sun?  
@@ -24915,7 +24915,7 @@ Let her works praise her in the gates!
 17. I applied my heart to know wisdom, and to know madness and folly. I perceived that this also was a chasing after wind.  
 18. For in much wisdom is much grief; and he who increases knowledge increases sorrow.   
 
-## Chapter 2
+## Ecclesiastes Chapter 2
 1. I said in my heart, “Come now, I will test you with mirth; therefore enjoy pleasure;” and behold, this also was vanity.  
 2. I said of laughter, “It is foolishness;” and of mirth, “What does it accomplish?”   
 3. I searched in my heart how to cheer my flesh with wine, my heart yet guiding me with wisdom, and how to lay hold of folly, until I might see what it was good for the sons of men that they should do under heaven all the days of their lives.  
@@ -24943,7 +24943,7 @@ Let her works praise her in the gates!
 25. For who can eat, or who can have enjoyment, more than I?  
 26. For to the man who pleases him, God gives wisdom, knowledge, and joy; but to the sinner he gives travail, to gather and to heap up, that he may give to him who pleases God. This also is vanity and a chasing after wind.   
 
-## Chapter 3
+## Ecclesiastes Chapter 3
 1. For everything there is a season, and a time for every purpose under heaven:   
 2. a time to be born,  
 and a time to die;  
@@ -24988,7 +24988,7 @@ and a time for peace.
 21. Who knows the spirit of man, whether it goes upward, and the spirit of the animal, whether it goes downward to the earth?”   
 22. Therefore I saw that there is nothing better than that a man should rejoice in his works, for that is his portion; for who can bring him to see what will be after him?   
 
-## Chapter 4
+## Ecclesiastes Chapter 4
 1. Then I returned and saw all the oppressions that are done under the sun: and behold, the tears of those who were oppressed, and they had no comforter; and on the side of their oppressors there was power; but they had no comforter.  
 2. Therefore I praised the dead who have been long dead more than the living who are yet alive.  
 3. Yes, better than them both is him who has not yet been, who has not seen the evil work that is done under the sun.  
@@ -25006,7 +25006,7 @@ and a time for peace.
 15. I saw all the living who walk under the sun, that they were with the youth, the other, who succeeded him.  
 16. There was no end of all the people, even of all them over whom he was—yet those who come after shall not rejoice in him. Surely this also is vanity and a chasing after wind.   
 
-## Chapter 5
+## Ecclesiastes Chapter 5
 1. Guard your steps when you go to God’s house; for to draw near to listen is better than to give the sacrifice of fools, for they don’t know that they do evil.  
 2. Don’t be rash with your mouth, and don’t let your heart be hasty to utter anything before God; for God is in heaven, and you on earth. Therefore let your words be few.  
 3. For as a dream comes with a multitude of cares, so a fool’s speech with a multitude of words.  
@@ -25028,7 +25028,7 @@ and a time for peace.
 19. Every man also to whom God has given riches and wealth, and has given him power to eat of it, and to take his portion, and to rejoice in his labor—this is the gift of God.  
 20. For he shall not often reflect on the days of his life, because God occupies him with the joy of his heart.   
 
-## Chapter 6
+## Ecclesiastes Chapter 6
 1. There is an evil which I have seen under the sun, and it is heavy on men:  
 2. a man to whom God gives riches, wealth, and honor, so that he lacks nothing for his soul of all that he desires, yet God gives him no power to eat of it, but an alien eats it. This is vanity, and it is an evil disease.   
 3. If a man fathers a hundred children, and lives many years, so that the days of his years are many, but his soul is not filled with good, and moreover he has no burial, I say that a stillborn child is better than he;  
@@ -25042,7 +25042,7 @@ and a time for peace.
 11. For there are many words that create vanity. What does that profit man?  
 12. For who knows what is good for man in life, all the days of his vain life which he spends like a shadow? For who can tell a man what will be after him under the sun?   
 
-## Chapter 7
+## Ecclesiastes Chapter 7
 1. A good name is better than fine perfume; and the day of death better than the day of one’s birth.  
 2. It is better to go to the house of mourning than to go to the house of feasting; for that is the end of all men, and the living should take this to heart.  
 3. Sorrow is better than laughter; for by the sadness of the face the heart is made good.  
@@ -25074,7 +25074,7 @@ The patient in spirit is better than the proud in spirit.
 28. which my soul still seeks, but I have not found. I have found one man among a thousand, but I have not found a woman among all those.  
 29. Behold, I have only found this: that God made mankind upright; but they search for many inventions.”   
 
-## Chapter 8
+## Ecclesiastes Chapter 8
 1. Who is like the wise man? And who knows the interpretation of a thing? A man’s wisdom makes his face shine, and the hardness of his face is changed.   
 2. I say, “Keep the king’s command!” because of the oath to God.  
 3. Don’t be hasty to go out of his presence. Don’t persist in an evil thing, for he does whatever pleases him,  
@@ -25093,7 +25093,7 @@ The patient in spirit is better than the proud in spirit.
 16. When I applied my heart to know wisdom, and to see the business that is done on the earth (even though eyes see no sleep day or night),  
 17. then I saw all the work of God, that man can’t find out the work that is done under the sun, because however much a man labors to seek it out, yet he won’t find it. Yes even though a wise man thinks he can comprehend it, he won’t be able to find it.   
 
-## Chapter 9
+## Ecclesiastes Chapter 9
 1. For all this I laid to my heart, even to explore all this: that the righteous, and the wise, and their works, are in the hand of God; whether it is love or hatred, man doesn’t know it; all is before them.  
 2. All things come alike to all. There is one event to the righteous and to the wicked; to the good, to the clean, to the unclean, to him who sacrifices, and to him who doesn’t sacrifice. As is the good, so is the sinner; he who takes an oath, as he who fears an oath.  
 3. This is an evil in all that is done under the sun, that there is one event to all. Yes also, the heart of the sons of men is full of evil, and madness is in their heart while they live, and after that they go to the dead.  
@@ -25113,7 +25113,7 @@ The patient in spirit is better than the proud in spirit.
 17. The words of the wise heard in quiet are better than the cry of him who rules among fools.  
 18. Wisdom is better than weapons of war; but one sinner destroys much good.   
 
-## Chapter 10
+## Ecclesiastes Chapter 10
 1. Dead flies cause the oil of the perfumer to produce an evil odor;  
 so does a little folly outweigh wisdom and honor.   
 2. A wise man’s heart is at his right hand,  
@@ -25147,7 +25147,7 @@ and don’t curse the rich in your bedroom,
 for a bird of the sky may carry your voice,  
 and that which has wings may tell the matter.   
 
-## Chapter 11
+## Ecclesiastes Chapter 11
 1. Cast your bread on the waters;  
 for you shall find it after many days.   
 2. Give a portion to seven, yes, even to eight;  
@@ -25178,7 +25178,7 @@ but know that for all these things God will bring you into judgment.
 and put away evil from your flesh;  
 for youth and the dawn of life are vanity.   
 
-## Chapter 12
+## Ecclesiastes Chapter 12
 1. Remember also your Creator in the days of your youth,  
 before the evil days come, and the years draw near,  
 when you will say, “I have no pleasure in them;”   
@@ -25216,7 +25216,7 @@ All is vanity!”
 
 # Song of Songs
 
-## Chapter 1
+## Song of Songs Chapter 1
 1. The Song of songs, which is Solomon’s.   
 2. Let him kiss me with the kisses of his mouth;  
 for your love is better than wine.   
@@ -25266,7 +25266,7 @@ and our couch is verdant.
 17. The beams of our house are cedars.  
 rafters are firs.   
 
-## Chapter 2
+## Song of Songs Chapter 2
 1. I am a rose of Sharon,  
 a lily of the valleys.   
 2. As a lily among thorns,  
@@ -25320,7 +25320,7 @@ among the lilies.
 turn, my beloved,  
 and be like a roe or a young deer on the mountains of Bether.   
 
-## Chapter 3
+## Song of Songs Chapter 3
 1. By night on my bed,  
 I sought him whom my soul loves.  
 I sought him, but I didn’t find him.   
@@ -25358,7 +25358,7 @@ with the crown with which his mother has crowned him,
 in the day of his weddings,  
 in the day of the gladness of his heart.   
 
-## Chapter 4
+## Song of Songs Chapter 4
 1. Behold, you are beautiful, my love.  
 Behold, you are beautiful.  
 Your eyes are like doves behind your veil.  
@@ -25413,7 +25413,7 @@ Blow on my garden, that its spices may flow out.
 my beloved come into his garden,  
 and taste his precious fruits.   
 
-## Chapter 5
+## Song of Songs Chapter 5
 1. I have come into my garden, my sister, my bride.  
 have gathered my myrrh with my spice;  
 have eaten my honeycomb with my honey;  
@@ -25466,7 +25466,7 @@ he is altogether lovely.
 This is my beloved, and this is my friend,  
 daughters of Jerusalem.   
 
-## Chapter 6
+## Song of Songs Chapter 6
 1. Where has your beloved gone, you fairest among women?  
 has your beloved turned, that we may seek him with you?   
 2. My beloved has gone down to his garden,  
@@ -25506,7 +25506,7 @@ my desire set me with my royal people’s chariots.
 13. Return, return, Shulammite!  
 we may gaze at you.  
 
-## Chapter 7
+## Song of Songs Chapter 7
 1. How beautiful are your feet in sandals, prince’s daughter!  
 Your rounded thighs are like jewels,  
 the work of the hands of a skillful workman.   
@@ -25546,7 +25546,7 @@ There I will give you my love.
 At our doors are all kinds of precious fruits, new and old,  
 which I have stored up for you, my beloved.   
 
-## Chapter 8
+## Song of Songs Chapter 8
 1. Oh that you were like my brother,  
 who nursed from the breasts of my mother!  
 I found you outside, I would kiss you;  
@@ -25598,7 +25598,7 @@ Be like a gazelle or a young stag on the mountains of spices!
 
 # Isaiah
 
-## Chapter 1
+## Isaiah Chapter 1
 1. The vision of Isaiah the son of Amoz, which he saw concerning Judah and Jerusalem, in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah.   
 2. Hear, heavens,  
 and listen, earth; for the LORD has spoken:  
@@ -25702,7 +25702,7 @@ and his work like a spark.
 They will both burn together,  
 and no one will quench them.”   
 
-## Chapter 2
+## Isaiah Chapter 2
 1. This is what Isaiah the son of Amoz saw concerning Judah and Jerusalem.   
 2. It shall happen in the latter days, that the mountain of the LORD’s house shall be established on the top of the mountains,  
 and shall be raised above the hills;  
@@ -25774,7 +25774,7 @@ when he arises to shake the earth mightily.
 22. Stop trusting in man, whose breath is in his nostrils;  
 for of what account is he?   
 
-## Chapter 3
+## Isaiah Chapter 3
 1. For, behold, the Lord, GOD of Armies, takes away from Jerusalem and from Judah supply and support,  
 the whole supply of bread,  
 and the whole supply of water;   
@@ -25849,7 +25849,7 @@ and your mighty in the war.
 26. Her gates shall lament and mourn.  
 shall be desolate and sit on the ground.   
 
-## Chapter 4
+## Isaiah Chapter 4
 1. Seven women shall take hold of one man in that day, saying, “We will eat our own bread, and wear our own clothing. Just let us be called by your name. Take away our reproach.”   
 2. In that day, the LORD’s branch will be beautiful and glorious, and the fruit of the land will be the beauty and glory of the survivors of Israel.  
 3. It will happen that he who is left in Zion and he who remains in Jerusalem shall be called holy, even everyone who is written among the living in Jerusalem,  
@@ -25857,7 +25857,7 @@ shall be desolate and sit on the ground.
 5. The LORD will create over the whole habitation of Mount Zion and over her assemblies, a cloud and smoke by day, and the shining of a flaming fire by night, for over all the glory will be a canopy.  
 6. There will be a pavilion for a shade in the daytime from the heat, and for a refuge and for a shelter from storm and from rain.   
 
-## Chapter 5
+## Isaiah Chapter 5
 1. Let me sing for my well beloved a song of my beloved about his vineyard.  
 My beloved had a vineyard on a very fruitful hill.   
 2. He dug it up,  
@@ -25955,7 +25955,7 @@ and there will be no one to deliver.
 If one looks to the land, behold, darkness and distress.  
 The light is darkened in its clouds.   
 
-## Chapter 6
+## Isaiah Chapter 6
 1. In the year that King Uzziah died, I saw the Lord sitting on a throne, high and lifted up; and his train filled the temple.  
 2. Above him stood the seraphim. Each one had six wings. With two he covered his face. With two he covered his feet. With two he flew.  
 3. One called to another, and said,  
@@ -25990,7 +25990,7 @@ that also will in turn be consumed,
 as a terebinth, and as an oak whose stump remains when they are cut down,  
 so the holy seed is its stump.”   
 
-## Chapter 7
+## Isaiah Chapter 7
 1. In the days of Ahaz the son of Jotham, the son of Uzziah, king of Judah, Rezin the king of Syria and Pekah the son of Remaliah, king of Israel, went up to Jerusalem to war against it, but could not prevail against it.  
 2. David’s house was told, “Syria is allied with Ephraim.” His heart trembled, and the heart of his people, as the trees of the forest tremble with the wind.   
 3. Then the LORD said to Isaiah, “Go out now to meet Ahaz, you, and Shearjashub your son, at the end of the conduit of the upper pool, on the highway of the fuller’s field.  
@@ -26017,7 +26017,7 @@ so the holy seed is its stump.”
 24. People will go there with arrows and with bow, because all the land will be briers and thorns.  
 25. All the hills that were cultivated with the hoe, you shall not come there for fear of briers and thorns; but it shall be for the sending out of oxen, and for sheep to tread on.”   
 
-## Chapter 8
+## Isaiah Chapter 8
 1. The LORD said to me, “Take a large tablet, and write on it with a man’s pen, ‘For Maher Shalal Hash Baz’; 
 2. and I will take for myself faithful witnesses to testify: Uriah the priest, and Zechariah the son of Jeberechiah.”   
 3. I went to the prophetess, and she conceived, and bore a son. Then the LORD said to me, “Call his name ‘Maher Shalal Hash Baz.’  
@@ -26041,7 +26041,7 @@ so the holy seed is its stump.”
 21. They will pass through it, very distressed and hungry. It will happen that when they are hungry, they will worry, and curse their king and their God. They will turn their faces upward,  
 22. then look to the earth and see distress, darkness, and the gloom of anguish. They will be driven into thick darkness.   
 
-## Chapter 9
+## Isaiah Chapter 9
 1. But there shall be no more gloom for her who was in anguish. In the former time, he brought into contempt the land of Zebulun and the land of Naphtali; but in the latter time he has made it glorious, by the way of the sea, beyond the Jordan, Galilee of the nations.   
 2. The people who walked in darkness have seen a great light.  
 The light has shined on those who lived in the land of the shadow of death.   
@@ -26093,7 +26093,7 @@ and he will eat on the left hand, and they will not be satisfied.
 Everyone will eat the flesh of his own arm:   
 21. Manasseh eating Ephraim and Ephraim eating Manasseh, and they together will be against Judah.  
 
-## Chapter 10
+## Isaiah Chapter 10
 1. Woe to those who decree unrighteous decrees, and to the writers who write oppressive decrees 
 2. to deprive the needy of justice, and to rob the poor among my people of their rights, that widows may be their plunder, and that they may make the fatherless their prey!  
 3. What will you do in the day of visitation, and in the desolation which will come from afar? To whom will you flee for help? Where will you leave your wealth?   
@@ -26132,7 +26132,7 @@ but his hand is stretched out still.
 33. Behold, the Lord, GOD of Armies, will lop the boughs with terror. The tall will be cut down, and the lofty will be brought low.  
 34. He will cut down the thickets of the forest with iron, and Lebanon will fall by the Mighty One.   
 
-## Chapter 11
+## Isaiah Chapter 11
 1. A shoot will come out of the stock of Jesse,  
 and a branch out of his roots will bear fruit.   
 2. The LORD’s Spirit will rest on him:  
@@ -26168,7 +26168,7 @@ as the waters cover the sea.
 15. The LORD will utterly destroy the tongue of the Egyptian sea; and with his scorching wind he will wave his hand over the River, and will split it into seven streams, and cause men to march over in sandals.  
 16. There will be a highway for the remnant that is left of his people from Assyria, like there was for Israel in the day that he came up out of the land of Egypt.   
 
-## Chapter 12
+## Isaiah Chapter 12
 1. In that day you will say, “I will give thanks to you, the LORD; for though you were angry with me, your anger has turned away and you comfort me.  
 2. Behold, God is my salvation. I will trust, and will not be afraid; for the LORD, the LORD, is my strength and song; and he has become my salvation.”  
 3. Therefore with joy you will draw water out of the wells of salvation.  
@@ -26176,7 +26176,7 @@ as the waters cover the sea.
 5. Sing to the LORD, for he has done excellent things! Let this be known in all the earth!  
 6. Cry aloud and shout, you inhabitant of Zion, for the Holy One of Israel is great among you!”   
 
-## Chapter 13
+## Isaiah Chapter 13
 1. The burden of Babylon, which Isaiah the son of Amoz saw.   
 2. Set up a banner on the bare mountain! Lift up your voice to them! Wave your hand, that they may go into the gates of the nobles.  
 3. I have commanded my consecrated ones; yes, I have called my mighty men for my anger, even my proudly exulting ones.  
@@ -26200,7 +26200,7 @@ as the waters cover the sea.
 21. But wild animals of the desert will lie there, and their houses will be full of jackals. Ostriches will dwell there, and wild goats will frolic there.  
 22. Hyenas will cry in their fortresses, and jackals in the pleasant palaces. Her time is near to come, and her days will not be prolonged.   
 
-## Chapter 14
+## Isaiah Chapter 14
 1. For the LORD will have compassion on Jacob, and will yet choose Israel, and set them in their own land. The foreigner will join himself with them, and they will unite with the house of Jacob.  
 2. The peoples will take them, and bring them to their place. The house of Israel will possess them in the LORD’s land for servants and for handmaids. They will take as captives those whose captives they were; and they shall rule over their oppressors.   
 3. It will happen in the day that the LORD will give you rest from your sorrow, from your trouble, and from the hard service in which you were made to serve,  
@@ -26234,7 +26234,7 @@ as the waters cover the sea.
 31. Howl, gate! Cry, city! You are melted away, Philistia, all of you; for smoke comes out of the north, and there is no straggler in his ranks.   
 32. What will they answer the messengers of the nation? That the LORD has founded Zion, and in her the afflicted of his people will take refuge.   
 
-## Chapter 15
+## Isaiah Chapter 15
 1. The burden of Moab.  
 For in a night, Ar of Moab is laid waste, and brought to nothing. For in a night Kir of Moab is laid waste, and brought to nothing.  
 2. They have gone up to Bayith, and to Dibon, to the high places, to weep. Moab wails over Nebo and over Medeba. Baldness is on all of their heads. Every beard is cut off.  
@@ -26246,7 +26246,7 @@ For in a night, Ar of Moab is laid waste, and brought to nothing. For in a night
 8. For the cry has gone around the borders of Moab, its wailing to Eglaim, and its wailing to Beer Elim.  
 9. For the waters of Dimon are full of blood; for I will bring yet more on Dimon, a lion on those of Moab who escape, and on the remnant of the land.   
 
-## Chapter 16
+## Isaiah Chapter 16
 1. Send the lambs for the ruler of the land from Selah to the wilderness, to the mountain of the daughter of Zion.  
 2. For it will be that as wandering birds, as a scattered nest, so will the daughters of Moab be at the fords of the Arnon.  
 3. Give counsel! Execute justice! Make your shade like the night in the middle of the noonday! Hide the outcasts! Don’t betray the fugitive!  
@@ -26262,7 +26262,7 @@ For in a night, Ar of Moab is laid waste, and brought to nothing. For in a night
 13. This is the word that the LORD spoke concerning Moab in time past.  
 14. But now the LORD has spoken, saying, “Within three years, as a worker bound by contract would count them, the glory of Moab shall be brought into contempt, with all his great multitude; and the remnant will be very small and feeble.”   
 
-## Chapter 17
+## Isaiah Chapter 17
 1. The burden of Damascus.  
 Behold, Damascus is taken away from being a city, and it will be a ruinous heap.  
 2. The cities of Aroer are forsaken. They will be for flocks, which shall lie down, and no one shall make them afraid.  
@@ -26279,7 +26279,7 @@ Behold, Damascus is taken away from being a city, and it will be a ruinous heap.
 13. The nations will rush like the rushing of many waters, but he will rebuke them, and they will flee far off, and will be chased like the chaff of the mountains before the wind, and like the whirling dust before the storm.  
 14. At evening, behold, terror! Before the morning, they are no more. This is the portion of those who plunder us, and the lot of those who rob us.   
 
-## Chapter 18
+## Isaiah Chapter 18
 1. Ah, the land of the rustling of wings, which is beyond the rivers of Ethiopia;  
 2. that sends ambassadors by the sea, even in vessels of papyrus on the waters, saying, “Go, you swift messengers, to a nation tall and smooth, to a people awesome from their beginning onward, a nation that measures out and treads down, whose land the rivers divide!”  
 3. All you inhabitants of the world, and you dwellers on the earth, when a banner is lifted up on the mountains, look! When the trumpet is blown, listen!   
@@ -26288,7 +26288,7 @@ Behold, Damascus is taken away from being a city, and it will be a ruinous heap.
 6. They will be left together for the ravenous birds of the mountains, and for the animals of the earth. The ravenous birds will eat them in the summer, and all the animals of the earth will eat them in the winter.  
 7. In that time, a present will be brought to the LORD of Armies from a people tall and smooth, even from a people awesome from their beginning onward, a nation that measures out and treads down, whose land the rivers divide, to the place of the name of the LORD of Armies, Mount Zion.   
 
-## Chapter 19
+## Isaiah Chapter 19
 1. The burden of Egypt.  
 Behold, the LORD rides on a swift cloud, and comes to Egypt. The idols of Egypt will tremble at his presence; and the heart of Egypt will melt within it.  
 2. I will stir up the Egyptians against the Egyptians, and they will fight everyone against his brother, and everyone against his neighbor; city against city, and kingdom against kingdom.  
@@ -26316,7 +26316,7 @@ Behold, the LORD rides on a swift cloud, and comes to Egypt. The idols of Egypt 
 24. In that day, Israel will be the third with Egypt and with Assyria, a blessing within the earth;  
 25. because the LORD of Armies has blessed them, saying, “Blessed be Egypt my people, Assyria the work of my hands, and Israel my inheritance.”   
 
-## Chapter 20
+## Isaiah Chapter 20
 1. In the year that Tartan came to Ashdod, when Sargon the king of Assyria sent him, and he fought against Ashdod and took it;  
 2. at that time the LORD spoke by Isaiah the son of Amoz, saying, “Go, and loosen the sackcloth from off your waist, and take your sandals from off your feet.” He did so, walking naked and barefoot.  
 3. The LORD said, “As my servant Isaiah has walked naked and barefoot three years for a sign and a wonder concerning Egypt and concerning Ethiopia,  
@@ -26324,7 +26324,7 @@ Behold, the LORD rides on a swift cloud, and comes to Egypt. The idols of Egypt 
 5. They will be dismayed and confounded, because of Ethiopia their expectation, and of Egypt their glory.  
 6. The inhabitants of this coast land will say in that day, ‘Behold, this is our expectation, where we fled for help to be delivered from the king of Assyria. And we, how will we escape?’”   
 
-## Chapter 21
+## Isaiah Chapter 21
 1. The burden of the wilderness of the sea.  
 As whirlwinds in the South sweep through, it comes from the wilderness, from an awesome land.  
 2. A grievous vision is declared to me. The treacherous man deals treacherously, and the destroyer destroys. Go up, Elam; attack! I have stopped all of Media’s sighing.  
@@ -26346,7 +26346,7 @@ You will lodge in the thickets in Arabia, you caravans of Dedanites.
 16. For the Lord said to me, “Within a year, as a worker bound by contract would count it, all the glory of Kedar will fail,  
 17. and the residue of the number of the archers, the mighty men of the children of Kedar, will be few; for the LORD, the God of Israel, has spoken it.”   
 
-## Chapter 22
+## Isaiah Chapter 22
 1. The burden of the valley of vision.  
 What ails you now, that you have all gone up to the housetops?  
 2. You that are full of shouting, a tumultuous city, a joyous town, your slain are not slain with the sword, neither are they dead in battle.  
@@ -26374,7 +26374,7 @@ What ails you now, that you have all gone up to the housetops?
 24. They will hang on him all the glory of his father’s house, the offspring and the issue, every small vessel, from the cups even to all the pitchers.  
 25. “In that day,” says the LORD of Armies, “the nail that was fastened in a sure place will give way. It will be cut down and fall. The burden that was on it will be cut off, for the LORD has spoken it.”   
 
-## Chapter 23
+## Isaiah Chapter 23
 1. The burden of Tyre.  
 Howl, you ships of Tarshish! For it is laid waste, so that there is no house, no entering in. From the land of Kittim it is revealed to them.  
 2. Be still, you inhabitants of the coast, you whom the merchants of Sidon that pass over the sea have replenished.  
@@ -26395,7 +26395,7 @@ Howl, you ships of Tarshish! For it is laid waste, so that there is no house, no
 17. It will happen after the end of seventy years that the LORD will visit Tyre. She will return to her wages, and will play the prostitute with all the kingdoms of the world on the surface of the earth.  
 18. Her merchandise and her wages will be holiness to the LORD. It will not be treasured nor laid up; for her merchandise will be for those who dwell before the LORD, to eat sufficiently, and for durable clothing.   
 
-## Chapter 24
+## Isaiah Chapter 24
 1. Behold, the LORD makes the earth empty, makes it waste, turns it upside down, and scatters its inhabitants.  
 2. It will be as with the people, so with the priest; as with the servant, so with his master; as with the maid, so with her mistress; as with the buyer, so with the seller; as with the creditor, so with the debtor; as with the taker of interest, so with the giver of interest.  
 3. The earth will be utterly emptied and utterly laid waste; for the LORD has spoken this word.  
@@ -26421,7 +26421,7 @@ But I said, “I pine away! I pine away! woe is me!” The treacherous have deal
 22. They will be gathered together, as prisoners are gathered in the pit, and will be shut up in the prison; and after many days they will be visited.  
 23. Then the moon will be confounded, and the sun ashamed; for the LORD of Armies will reign on Mount Zion and in Jerusalem; and glory will be before his elders.   
 
-## Chapter 25
+## Isaiah Chapter 25
 1. The LORD, you are my God. I will exalt you! I will praise your name, for you have done wonderful things, things planned long ago, in complete faithfulness and truth.  
 2. For you have made a city into a heap, a fortified city into a ruin, a palace of strangers to be no city. It will never be built.  
 3. Therefore a strong people will glorify you. A city of awesome nations will fear you.  
@@ -26436,7 +26436,7 @@ Moab will be trodden down in his place, even like straw is trodden down in the w
 11. He will spread out his hands in the middle of it, like one who swims spreads out hands to swim, but his pride will be humbled together with the craft of his hands.  
 12. He has brought the high fortress of your walls down, laid low, and brought to the ground, even to the dust.   
 
-## Chapter 26
+## Isaiah Chapter 26
 1. In that day, this song will be sung in the land of Judah:  
 We have a strong city.  
 salvation for walls and bulwarks.   
@@ -26501,7 +26501,7 @@ until the indignation is past.
 21. For, behold, the LORD comes out of his place to punish the inhabitants of the earth for their iniquity.  
 The earth also will disclose her blood, and will no longer cover her slain.   
 
-## Chapter 27
+## Isaiah Chapter 27
 1. In that day, the LORD with his hard and great and strong sword will punish leviathan, the fleeing serpent, and leviathan, the twisted serpent; and he will kill the dragon that is in the sea.   
 2. In that day, sing to her, “A pleasant vineyard!  
 3. I, the LORD, am its keeper. I will water it every moment. Lest anyone damage it, I will keep it night and day.  
@@ -26516,7 +26516,7 @@ The earth also will disclose her blood, and will no longer cover her slain.
 12. It will happen in that day that the LORD will thresh from the flowing stream of the Euphrates to the brook of Egypt; and you will be gathered one by one, children of Israel.   
 13. It will happen in that day that a great trumpet will be blown; and those who were ready to perish in the land of Assyria, and those who were outcasts in the land of Egypt, shall come; and they will worship the LORD in the holy mountain at Jerusalem.   
 
-## Chapter 28
+## Isaiah Chapter 28
 1. Woe to the crown of pride of the drunkards of Ephraim, and to the fading flower of his glorious beauty, which is on the head of the fertile valley of those who are overcome with wine!  
 2. Behold, the Lord has one who is mighty and strong. Like a storm of hail, a destroying storm, and like a storm of mighty waters overflowing, he will cast them down to the earth with his hand.  
 3. The crown of pride of the drunkards of Ephraim will be trodden under foot.  
@@ -26547,7 +26547,7 @@ The earth also will disclose her blood, and will no longer cover her slain.
 28. Bread flour must be ground; so he will not always be threshing it. Although he drives the wheel of his threshing cart over it, his horses don’t grind it.  
 29. This also comes out from the LORD of Armies, who is wonderful in counsel, and excellent in wisdom.   
 
-## Chapter 29
+## Isaiah Chapter 29
 1. Woe to Ariel! Ariel, the city where David encamped! Add year to year; let the feasts come around;  
 2. then I will distress Ariel, and there will be mourning and lamentation. She shall be to me as an altar hearth. 
 3. I will encamp against you all around you, and will lay siege against you with posted troops. I will raise siege works against you.  
@@ -26573,7 +26573,7 @@ The earth also will disclose her blood, and will no longer cover her slain.
 23. But when he sees his children, the work of my hands, in the middle of him, they will sanctify my name. Yes, they will sanctify the Holy One of Jacob, and will stand in awe of the God of Israel.  
 24. They also who err in spirit will come to understanding, and those who grumble will receive instruction.”   
 
-## Chapter 30
+## Isaiah Chapter 30
 1. “Woe to the rebellious children”, says the LORD, “who take counsel, but not from me; and who make an alliance, but not with my Spirit, that they may add sin to sin;  
 2. who set out to go down into Egypt without asking for my advice, to strengthen themselves in the strength of Pharaoh, and to take refuge in the shadow of Egypt!  
 3. Therefore the strength of Pharaoh will be your shame, and the refuge in the shadow of Egypt your confusion.  
@@ -26609,7 +26609,7 @@ Through the land of trouble and anguish, of the lioness and the lion, the viper 
 32. Every stroke of the rod of punishment, which the LORD will lay on him, will be with the sound of tambourines and harps. He will fight with them in battles, brandishing weapons.  
 33. For his burning place has long been ready. Yes, it is prepared for the king. He has made its pyre deep and large with fire and much wood. The LORD’s breath, like a stream of sulfur, kindles it.   
 
-## Chapter 31
+## Isaiah Chapter 31
 1. Woe to those who go down to Egypt for help,  
 and rely on horses,  
 and trust in chariots because they are many,  
@@ -26644,7 +26644,7 @@ and his princes will be afraid of the banner,”
 says the LORD, whose fire is in Zion,  
 and his furnace in Jerusalem.   
 
-## Chapter 32
+## Isaiah Chapter 32
 1. Behold, a king shall reign in righteousness,  
 and princes shall rule in justice.   
 2. A man shall be as a hiding place from the wind,  
@@ -26701,7 +26701,7 @@ and the city is leveled completely.
 20. Blessed are you who sow beside all waters,  
 who send out the feet of the ox and the donkey.   
 
-## Chapter 33
+## Isaiah Chapter 33
 1. Woe to you who destroy, but you weren’t destroyed,  
 and who betray, but nobody betrayed you!  
 you have finished destroying, you will be destroyed;  
@@ -26781,7 +26781,7 @@ The lame took the prey.
 24. The inhabitant won’t say, “I am sick.”  
 The people who dwell therein will be forgiven their iniquity.   
 
-## Chapter 34
+## Isaiah Chapter 34
 1. Come near, you nations, to hear!  
 Listen, you peoples.  
 the earth and all it contains hear,  
@@ -26845,7 +26845,7 @@ and his hand has divided it to them with a measuring line.
 They shall possess it forever.  
 From generation to generation they will dwell in it.   
 
-## Chapter 35
+## Isaiah Chapter 35
 1. The wilderness and the dry land will be glad.  
 The desert will rejoice and blossom like a rose.   
 2. It will blossom abundantly,  
@@ -26884,7 +26884,7 @@ and everlasting joy will be on their heads.
 They will obtain gladness and joy,  
 and sorrow and sighing will flee away.”   
 
-## Chapter 36
+## Isaiah Chapter 36
 1. Now in the fourteenth year of King Hezekiah, Sennacherib king of Assyria attacked all of the fortified cities of Judah and captured them.  
 2. The king of Assyria sent Rabshakeh from Lachish to Jerusalem to King Hezekiah with a large army. He stood by the aqueduct from the upper pool in the fuller’s field highway.  
 3. Then Eliakim the son of Hilkiah, who was over the household, and Shebna the scribe, and Joah, the son of Asaph the recorder came out to him.   
@@ -26908,7 +26908,7 @@ and sorrow and sighing will flee away.”
 21. But they remained silent, and said nothing in reply, for the king’s commandment was, “Don’t answer him.”   
 22. Then Eliakim the son of Hilkiah, who was over the household, and Shebna the scribe, and Joah, the son of Asaph the recorder, came to Hezekiah with their clothes torn, and told him the words of Rabshakeh.   
 
-## Chapter 37
+## Isaiah Chapter 37
 1. When King Hezekiah heard it, he tore his clothes, covered himself with sackcloth, and went into the LORD’s house.  
 2. He sent Eliakim, who was over the household, and Shebna the scribe, and the elders of the priests, covered with sackcloth, to Isaiah the prophet, the son of Amoz.  
 3. They said to him, “Hezekiah says, ‘Today is a day of trouble, and of rebuke, and of rejection; for the children have come to the birth, and there is no strength to give birth.  
@@ -26948,7 +26948,7 @@ and sorrow and sighing will flee away.”
 37. So Sennacherib king of Assyria departed, went away, returned to Nineveh, and stayed there.  
 38. As he was worshiping in the house of Nisroch his god, Adrammelech and Sharezer his sons struck him with the sword; and they escaped into the land of Ararat. Esar Haddon his son reigned in his place.   
 
-## Chapter 38
+## Isaiah Chapter 38
 1. In those days Hezekiah was sick and near death. Isaiah the prophet, the son of Amoz, came to him, and said to him, “The LORD says, ‘Set your house in order, for you will die, and not live.’”   
 2. Then Hezekiah turned his face to the wall and prayed to the LORD,  
 3. and said, “Remember now, LORD, I beg you, how I have walked before you in truth and with a perfect heart, and have done that which is good in your sight.” Then Hezekiah wept bitterly.   
@@ -26995,7 +26995,7 @@ Therefore we will sing my songs with stringed instruments all the days of our li
 21. Now Isaiah had said, “Let them take a cake of figs, and lay it for a poultice on the boil, and he shall recover.”  
 22. Hezekiah also had said, “What is the sign that I will go up to the LORD’s house?”   
 
-## Chapter 39
+## Isaiah Chapter 39
 1. At that time, Merodach-baladan the son of Baladan, king of Babylon, sent letters and a present to Hezekiah, for he heard that he had been sick, and had recovered.  
 2. Hezekiah was pleased with them, and showed them the house of his precious things, the silver, the gold, the spices, and the precious oil, and all the house of his armor, and all that was found in his treasures. There was nothing in his house, nor in all his dominion, that Hezekiah didn’t show them.  
 3. Then Isaiah the prophet came to King Hezekiah, and asked him, “What did these men say? From where did they come to you?”  
@@ -27007,7 +27007,7 @@ Hezekiah answered, “They have seen all that is in my house. There is nothing a
 7. ‘They will take away your sons who will issue from you, whom you shall father, and they will be eunuchs in the king of Babylon’s palace.’”   
 8. Then Hezekiah said to Isaiah, “The LORD’s word which you have spoken is good.” He said moreover, “For there will be peace and truth in my days.”   
 
-## Chapter 40
+## Isaiah Chapter 40
 1. “Comfort, comfort my people,” says your God.  
 2. “Speak comfortably to Jerusalem, and call out to her that her warfare is accomplished, that her iniquity is pardoned, that she has received of the LORD’s hand double for all her sins.”   
 3. The voice of one who calls out,  
@@ -27112,7 +27112,7 @@ They will mount up with wings like eagles.
 They will run, and not be weary.  
 They will walk, and not faint.   
 
-## Chapter 41
+## Isaiah Chapter 41
 1. “Keep silent before me, islands,  
 and let the peoples renew their strength.  
 them come near,  
@@ -27215,7 +27215,7 @@ among them there is no counselor who, when I ask, can answer a word.
 29. Behold, all of their deeds are vanity and nothing.  
 Their molten images are wind and confusion.   
 
-## Chapter 42
+## Isaiah Chapter 42
 1. “Behold, my servant, whom I uphold,  
 my chosen, in whom my soul delights:  
 I have put my Spirit on him.  
@@ -27309,7 +27309,7 @@ and the strength of battle.
 It set him on fire all around, but he didn’t know.  
 It burned him, but he didn’t take it to heart.”   
 
-## Chapter 43
+## Isaiah Chapter 43
 1. But now the LORD who created you, Jacob,  
 and he who formed you, Israel, says:  
 be afraid, for I have redeemed you.  
@@ -27404,7 +27404,7 @@ and your teachers have transgressed against me.
 and I will make Jacob a curse,  
 and Israel an insult.”   
 
-## Chapter 44
+## Isaiah Chapter 44
 1. Yet listen now, Jacob my servant,  
 and Israel, whom I have chosen.   
 2. This is what the LORD who made you,  
@@ -27533,7 +27533,7 @@ and ‘I will dry up your rivers,’
 even saying of Jerusalem, ‘She will be built;’  
 and of the temple, ‘Your foundation will be laid.’”   
 
-## Chapter 45
+## Isaiah Chapter 45
 1. The LORD says to his anointed, to Cyrus, whose right hand I have held to subdue nations before him and strip kings of their armor, to open the doors before him, and the gates shall not be shut:   
 2. “I will go before you 
 and make the rough places smooth.  
@@ -27637,7 +27637,7 @@ All those who raged against him will be disappointed.
 25. All the offspring of Israel will be justified in the LORD,  
 and will rejoice!   
 
-## Chapter 46
+## Isaiah Chapter 46
 1. Bel bows down.  
 Nebo stoops.  
 Their idols are carried by animals,  
@@ -27691,7 +27691,7 @@ and my salvation will not wait.
 I will grant salvation to Zion,  
 my glory to Israel.   
 
-## Chapter 47
+## Isaiah Chapter 47
 1. “Come down and sit in the dust, virgin daughter of Babylon.  
 Sit on the ground without a throne, daughter of the Chaldeans.  
 For you will no longer be called tender and delicate.   
@@ -27753,7 +27753,7 @@ or a fire to sit by.
 those who have trafficked with you from your youth will each wander in his own way.  
 There will be no one to save you.   
 
-## Chapter 48
+## Isaiah Chapter 48
 1. “Hear this, house of Jacob,  
 you who are called by the name of Israel,  
 and have come out of the waters of Judah.  
@@ -27839,7 +27839,7 @@ He caused the waters to flow out of the rock for them.
 He also split the rock and the waters gushed out.   
 22. “There is no peace”, says the LORD, “for the wicked.”   
 
-## Chapter 49
+## Isaiah Chapter 49
 1. Listen, islands, to me.  
 Listen, you peoples, from afar:  
 the LORD has called me from the womb;  
@@ -27935,7 +27935,7 @@ and they will be drunk on their own blood, as with sweet wine.
 Then all flesh shall know that I, the LORD, am your Savior 
 and your Redeemer, the Mighty One of Jacob.”   
 
-## Chapter 50
+## Isaiah Chapter 50
 1. The LORD says, “Where is the bill of your mother’s divorce, with which I have put her away?  
 Or to which of my creditors have I sold you?  
 Behold, you were sold for your iniquities,  
@@ -27985,7 +27985,7 @@ and among the torches that you have kindled.
 You will have this from my hand:  
 you will lie down in sorrow.   
 
-## Chapter 51
+## Isaiah Chapter 51
 1. “Listen to me, you who follow after righteousness,  
 you who seek the LORD.  
 Look to the rock you were cut from,  
@@ -28087,7 +28087,7 @@ who have said to your soul, ‘Bow down, that we may walk over you;’
 and you have laid your back as the ground,  
 like a street to those who walk over.”   
 
-## Chapter 52
+## Isaiah Chapter 52
 1. Awake, awake! Put on your strength, Zion.  
 Put on your beautiful garments, Jerusalem, the holy city,  
 for from now on the uncircumcised and the unclean will no more come into you.   
@@ -28137,7 +28137,7 @@ Kings will shut their mouths at him;
 for they will see that which had not been told them,  
 and they will understand that which they had not heard.   
 
-## Chapter 53
+## Isaiah Chapter 53
 1. Who has believed our message?  
 To whom has the LORD’s arm been revealed?   
 2. For he grew up before him as a tender plant,  
@@ -28191,7 +28191,7 @@ and was counted with the transgressors;
 yet he bore the sins of many 
 and made intercession for the transgressors.   
 
-## Chapter 54
+## Isaiah Chapter 54
 1. “Sing, barren, you who didn’t give birth!  
 Break out into singing, and cry aloud, you who didn’t travail with child!  
 For more are the children of the desolate than the children of the married wife,” says the LORD.   
@@ -28245,7 +28245,7 @@ and you will condemn every tongue that rises against you in judgment.
 This is the heritage of the LORD’s servants,  
 and their righteousness is of me,” says the LORD.   
 
-## Chapter 55
+## Isaiah Chapter 55
 1. “Hey! Come, everyone who thirsts, to the waters!  
 Come, he who has no money, buy, and eat!  
 come, buy wine and milk without money and without price.   
@@ -28291,7 +28291,7 @@ and instead of the brier the myrtle tree will come up.
 It will make a name for the LORD,  
 for an everlasting sign that will not be cut off.”   
 
-## Chapter 56
+## Isaiah Chapter 56
 1. The LORD says:  
 Maintain justice 
 and do what is right,  
@@ -28340,7 +28340,7 @@ and we will fill ourselves with strong drink;
 and tomorrow will be as today,  
 great beyond measure.”   
 
-## Chapter 57
+## Isaiah Chapter 57
 1. The righteous perish,  
 and no one lays it to heart.  
 Merciful men are taken away,  
@@ -28417,7 +28417,7 @@ for it can’t rest and its waters cast up mire and mud.
 21. “There is no peace”, says my God,  
 for the wicked.”   
 
-## Chapter 58
+## Isaiah Chapter 58
 1. “Cry aloud! Don’t spare!  
 Lift up your voice like a trumpet!  
 Declare to my people their disobedience,  
@@ -28487,7 +28487,7 @@ and I will make you to ride on the high places of the earth,
 and I will feed you with the heritage of Jacob your father;”  
 for the LORD’s mouth has spoken it.   
 
-## Chapter 59
+## Isaiah Chapter 59
 1. Behold, the LORD’s hand is not shortened, that it can’t save;  
 nor his ear dull, that it can’t hear.   
 2. But your iniquities have separated you and your God,  
@@ -28568,7 +28568,7 @@ which the LORD’s breath drives.
 and to those who turn from disobedience in Jacob,” says the LORD.   
 21. “As for me, this is my covenant with them,” says the LORD. “My Spirit who is on you, and my words which I have put in your mouth shall not depart out of your mouth, nor out of the mouth of your offspring, nor out of the mouth of your offspring’s offspring,” says the LORD, “from now on and forever.”   
 
-## Chapter 60
+## Isaiah Chapter 60
 1. “Arise, shine; for your light has come,  
 and the LORD’s glory has risen on you!   
 2. For behold, darkness will cover the earth,  
@@ -28651,7 +28651,7 @@ that I may be glorified.
 and the small one a strong nation.  
 I, the LORD, will do this quickly in its time.”   
 
-## Chapter 61
+## Isaiah Chapter 61
 1. The Lord GOD’s Spirit is on me,  
 because the LORD has anointed me to preach good news to the humble.  
 He has sent me to bind up the broken hearted,  
@@ -28699,7 +28699,7 @@ and as a bride adorns herself with her jewels.
 and as the garden causes the things that are sown in it to spring up,  
 so the Lord GOD will cause righteousness and praise to spring up before all the nations.   
 
-## Chapter 62
+## Isaiah Chapter 62
 1. For Zion’s sake I will not hold my peace,  
 and for Jerusalem’s sake I will not rest,  
 until her righteousness shines out like the dawn,  
@@ -28746,7 +28746,7 @@ The LORD’s Redeemed”.
 You will be called “Sought Out,  
 A City Not Forsaken”.   
 
-## Chapter 63
+## Isaiah Chapter 63
 1. Who is this who comes from Edom,  
 with dyed garments from Bozrah?  
 Who is this who is glorious in his clothing,  
@@ -28818,7 +28818,7 @@ Our adversaries have trodden down your sanctuary.
 19. We have become like those over whom you never ruled,  
 like those who were not called by your name.   
 
-## Chapter 64
+## Isaiah Chapter 64
 1. Oh that you would tear the heavens,  
 that you would come down,  
 that the mountains might quake at your presence—   
@@ -28859,7 +28859,7 @@ is burned with fire.
 All our pleasant places are laid waste.   
 12. Will you hold yourself back for these things, LORD?  
 
-## Chapter 65
+## Isaiah Chapter 65
 1. “I am inquired of by those who didn’t ask.  
 I am found by those who didn’t seek me.  
 I said, ‘See me, see me,’ to a nation that was not called by my name.   
@@ -28957,7 +28957,7 @@ Dust will be the serpent’s food.
 They will not hurt nor destroy in all my holy mountain,”  
 the LORD.   
 
-## Chapter 66
+## Isaiah Chapter 66
 1. The LORD says:  
 Heaven is my throne, and the earth is my footstool.  
 What kind of house will you build to me?  
@@ -29033,7 +29033,7 @@ and those slain by the LORD will be many.
 
 # Jeremiah
 
-## Chapter 1
+## Jeremiah Chapter 1
 1. The words of Jeremiah the son of Hilkiah, one of the priests who were in Anathoth in the land of Benjamin.  
 2. The LORD’s word came to him in the days of Josiah the son of Amon, king of Judah, in the thirteenth year of his reign.  
 3. It came also in the days of Jehoiakim the son of Josiah, king of Judah, to the end of the eleventh year of Zedekiah, the son of Josiah, king of Judah, to the carrying away of Jerusalem captive in the fifth month.  
@@ -29063,7 +29063,7 @@ and worshiped the works of their own hands.
 18. For behold, I have made you today a fortified city, an iron pillar, and bronze walls against the whole land—against the kings of Judah, against its princes, against its priests, and against the people of the land.  
 19. They will fight against you, but they will not prevail against you; for I am with you”, says the LORD, “to rescue you.”   
 
-## Chapter 2
+## Jeremiah Chapter 2
 1. The LORD’s word came to me, saying,  
 2. “Go and proclaim in the ears of Jerusalem, saying, ‘The LORD says,  
 I remember for you the kindness of your youth,  
@@ -29190,7 +29190,7 @@ as you were ashamed of Assyria.
 for the LORD has rejected those in whom you trust,  
 and you won’t prosper with them.   
 
-## Chapter 3
+## Jeremiah Chapter 3
 1. “They say, ‘If a man puts away his wife, and she goes from him, and becomes another man’s, should he return to her again?’ Wouldn’t that land be greatly polluted? But you have played the prostitute with many lovers; yet return again to me,” says the LORD.   
 2. “Lift up your eyes to the bare heights, and see! Where have you not been lain with? You have sat waiting for them by the road, as an Arabian in the wilderness. You have polluted the land with your prostitution and with your wickedness.  
 3. Therefore the showers have been withheld and there has been no latter rain; yet you have had a prostitute’s forehead and you refused to be ashamed.  
@@ -29218,7 +29218,7 @@ Behold, we have come to you; for you are the LORD our God.
 24. But the shameful thing has devoured the labor of our fathers from our youth, their flocks and their herds, their sons and their daughters.  
 25. Let us lie down in our shame, and let our confusion cover us; for we have sinned against the LORD our God, we and our fathers, from our youth even to this day. We have not obeyed the LORD our God’s voice.”   
 
-## Chapter 4
+## Jeremiah Chapter 4
 1. “If you will return, Israel,” says the LORD, “if you will return to me, and if you will put away your abominations out of my sight; then you will not be removed;  
 2. and you will swear, ‘As the LORD lives,’ in truth, in justice, and in righteousness. The nations will bless themselves in him, and they will glory in him.”   
 3. For the LORD says to the men of Judah and to Jerusalem, “Break up your fallow ground, and don’t sow among thorns.  
@@ -29251,7 +29251,7 @@ Behold, we have come to you; for you are the LORD our God.
 30. You, when you are made desolate, what will you do? Though you clothe yourself with scarlet, though you deck yourself with ornaments of gold, though you enlarge your eyes with makeup, you make yourself beautiful in vain. Your lovers despise you. They seek your life.  
 31. For I have heard a voice as of a woman in travail, the anguish as of her who gives birth to her first child, the voice of the daughter of Zion, who gasps for breath, who spreads her hands, saying, “Woe is me now! For my soul faints before the murderers.”   
 
-## Chapter 5
+## Jeremiah Chapter 5
 1. “Run back and forth through the streets of Jerusalem, and see now, and know, and seek in its wide places, if you can find a man, if there is anyone who does justly, who seeks truth, then I will pardon her.  
 2. Though they say, ‘As the LORD lives,’ surely they swear falsely.”   
 3. O LORD, don’t your eyes look on truth? You have stricken them, but they were not grieved. You have consumed them, but they have refused to receive correction. They have made their faces harder than a rock. They have refused to return.   
@@ -29284,7 +29284,7 @@ Behold, we have come to you; for you are the LORD our God.
 30. “An astonishing and horrible thing has happened in the land.  
 31. The prophets prophesy falsely, and the priests rule by their own authority; and my people love to have it so. What will you do in the end of it?   
 
-## Chapter 6
+## Jeremiah Chapter 6
 1. “Flee for safety, you children of Benjamin, out of the middle of Jerusalem! Blow the trumpet in Tekoa and raise up a signal on Beth Haccherem, for evil looks out from the north with a great destruction.  
 2. I will cut off the beautiful and delicate one, the daughter of Zion.  
 3. Shepherds with their flocks will come to her. They will pitch their tents against her all around. They will feed everyone in his place.”   
@@ -29327,7 +29327,7 @@ When I visit them, they will be cast down,” says the LORD.
 29. The bellows blow fiercely. The lead is consumed in the fire. In vain they go on refining, for the wicked are not plucked away.  
 30. Men will call them rejected silver, because the LORD has rejected them.”   
 
-## Chapter 7
+## Jeremiah Chapter 7
 1. The word that came to Jeremiah from the LORD, saying,  
 2. “Stand in the gate of the LORD’s house, and proclaim this word there, and say, ‘Hear the LORD’s word, all you of Judah, who enter in at these gates to worship the LORD.’”   
 3. The LORD of Armies, the God of Israel says, “Amend your ways and your doings, and I will cause you to dwell in this place.  
@@ -29363,7 +29363,7 @@ When I visit them, they will be cast down,” says the LORD.
 33. The dead bodies of this people will be food for the birds of the sky, and for the animals of the earth. No one will frighten them away.  
 34. Then I will cause to cease from the cities of Judah and from the streets of Jerusalem the voice of mirth and the voice of gladness, the voice of the bridegroom and the voice of the bride; for the land will become a waste.”   
 
-## Chapter 8
+## Jeremiah Chapter 8
 1. “At that time,” says the LORD, “they will bring the bones of the kings of Judah, the bones of his princes, the bones of the priests, the bones of the prophets, and the bones of the inhabitants of Jerusalem, out of their graves.  
 2. They will spread them before the sun, the moon, and all the army of the sky, which they have loved, which they have served, after which they have walked, which they have sought, and which they have worshiped. They will not be gathered or be buried. They will be like dung on the surface of the earth.  
 3. Death will be chosen rather than life by all the residue that remain of this evil family, that remain in all the places where I have driven them,” says the LORD of Armies.  
@@ -29437,7 +29437,7 @@ Dismay has taken hold of me.
 Is there no physician there?  
 Why then isn’t the health of the daughter of my people recovered?   
 
-## Chapter 9
+## Jeremiah Chapter 9
 1. Oh that my head were waters,  
 and my eyes a spring of tears,  
 that I might weep day and night  
@@ -29523,7 +29523,7 @@ for I delight in these things,” says the LORD.
 25. “Behold, the days come,” says the LORD, “that I will punish all those who are circumcised only in their flesh:  
 26. Egypt, Judah, Edom, the children of Ammon, Moab, and all who have the corners of their hair cut off, who dwell in the wilderness, for all the nations are uncircumcised, and all the house of Israel are uncircumcised in heart.”   
 
-## Chapter 10
+## Jeremiah Chapter 10
 1. Hear the word which the LORD speaks to you, house of Israel!  
 2. The LORD says,  
 learn the way of the nations,  
@@ -29616,7 +29616,7 @@ for they have devoured Jacob.
 Yes, they have devoured him, consumed him,  
 and have laid waste his habitation.   
 
-## Chapter 11
+## Jeremiah Chapter 11
 1. The word that came to Jeremiah from the LORD, saying,  
 2. “Hear the words of this covenant, and speak to the men of Judah, and to the inhabitants of Jerusalem;  
 3. and say to them, the LORD, the God of Israel says: ‘Cursed is the man who doesn’t hear the words of this covenant,  
@@ -29655,7 +29655,7 @@ for to you I have revealed my cause.
 22. therefore the LORD of Armies says, ‘Behold, I will punish them. The young men will die by the sword. Their sons and their daughters will die by famine.  
 23. There will be no remnant to them, for I will bring evil on the men of Anathoth, even the year of their visitation.’”   
 
-## Chapter 12
+## Jeremiah Chapter 12
 1. You are righteous, LORD,  
 when I contend with you;  
 yet I would like to plead a case with you.  
@@ -29716,7 +29716,7 @@ because of the LORD’s fierce anger.”
 16. It will happen, if they will diligently learn the ways of my people, to swear by my name, ‘As the LORD lives;’ even as they taught my people to swear by Baal, then they will be built up in the middle of my people.  
 17. But if they will not hear, then I will pluck up that nation, plucking up and destroying it,” says the LORD.   
 
-## Chapter 13
+## Jeremiah Chapter 13
 1. The LORD said to me, “Go, and buy yourself a linen belt, and put it on your waist, and don’t put it in water.”   
 2. So I bought a belt according to the LORD’s word, and put it on my waist.   
 3. The LORD’s word came to me the second time, saying,  
@@ -29783,7 +29783,7 @@ to you, Jerusalem!
 You will not be made clean.  
 How long will it yet be?”   
 
-## Chapter 14
+## Jeremiah Chapter 14
 1. This is the LORD’s word that came to Jeremiah concerning the drought:   
 2. “Judah mourns,  
 and its gates languish.  
@@ -29858,7 +29858,7 @@ you he, the LORD our God?
 Therefore we will wait for you;  
 for you have made all these things.   
 
-## Chapter 15
+## Jeremiah Chapter 15
 1. Then the LORD said to me, “Though Moses and Samuel stood before me, yet my mind would not turn toward this people. Cast them out of my sight, and let them go out!  
 2. It will happen when they ask you, ‘Where shall we go out?’ then you shall tell them, ‘The LORD says:  
 Such as are for death, to death;  
@@ -29935,7 +29935,7 @@ and to deliver you,” says the LORD.
 21. “I will deliver you out of the hand of the wicked,  
 and I will redeem you out of the hand of the terrible.”   
 
-## Chapter 16
+## Jeremiah Chapter 16
 1. Then the LORD’s word came to me, saying,  
 2. “You shall not take a wife, neither shall you have sons or daughters, in this place.”  
 3. For the LORD says concerning the sons and concerning the daughters who are born in this place, and concerning their mothers who bore them, and concerning their fathers who became their father in this land:  
@@ -29966,7 +29966,7 @@ which yet are no gods?”
 this once I will cause them to know my hand and my might.  
 Then they will know that my name is the LORD.”   
 
-## Chapter 17
+## Jeremiah Chapter 17
 1. “The sin of Judah is written with a pen of iron,  
 and with the point of a diamond.  
 It is engraved on the tablet of their heart,  
@@ -30040,7 +30040,7 @@ and destroy them with double destruction.
 26. They will come from the cities of Judah, and from the places around Jerusalem, from the land of Benjamin, from the lowland, from the hill country, and from the South, bringing burnt offerings, sacrifices, meal offerings, and frankincense, and bringing sacrifices of thanksgiving to the LORD’s house.  
 27. But if you will not listen to me to make the Sabbath day holy, and not to bear a burden and enter in at the gates of Jerusalem on the Sabbath day, then I will kindle a fire in its gates, and it will devour the palaces of Jerusalem. It will not be quenched.”’”   
 
-## Chapter 18
+## Jeremiah Chapter 18
 1. The word which came to Jeremiah from the LORD, saying,  
 2. “Arise, and go down to the potter’s house, and there I will cause you to hear my words.”   
 3. Then I went down to the potter’s house, and behold, he was making something on the wheels.  
@@ -30093,7 +30093,7 @@ blot out their sin from your sight,
 Let them be overthrown before you.  
 Deal with them in the time of your anger.   
 
-## Chapter 19
+## Jeremiah Chapter 19
 1. Thus said the LORD, “Go, and buy a potter’s earthen container, and take some of the elders of the people and of the elders of the priests;  
 2. and go out to the valley of the son of Hinnom, which is by the entry of the gate Harsith, and proclaim there the words that I will tell you.  
 3. Say, ‘Hear the LORD’s word, kings of Judah and inhabitants of Jerusalem: The LORD of Armies, the God of Israel says, “Behold, I will bring evil on this place, which whoever hears, his ears will tingle.  
@@ -30110,7 +30110,7 @@ Deal with them in the time of your anger.
 14. Then Jeremiah came from Topheth, where the LORD had sent him to prophesy, and he stood in the court of the LORD’s house, and said to all the people:  
 15. “The LORD of Armies, the God of Israel says, ‘Behold, I will bring on this city and on all its towns all the evil that I have pronounced against it, because they have made their neck stiff, that they may not hear my words.’”   
 
-## Chapter 20
+## Jeremiah Chapter 20
 1. Now Pashhur, the son of Immer the priest, who was chief officer in the LORD’s house, heard Jeremiah prophesying these things.  
 2. Then Pashhur struck Jeremiah the prophet and put him in the stocks that were in the upper gate of Benjamin, which was in the LORD’s house.  
 3. On the next day, Pashhur released Jeremiah out of the stocks. Then Jeremiah said to him, “The LORD has not called your name Pashhur, but Magormissabib. 
@@ -30165,7 +30165,7 @@ and her womb always great.
 18. Why did I come out of the womb to see labor and sorrow,  
 that my days should be consumed with shame?   
 
-## Chapter 21
+## Jeremiah Chapter 21
 1. The word which came to Jeremiah from the LORD, when King Zedekiah sent to him Pashhur the son of Malchijah, and Zephaniah the son of Maaseiah, the priest, saying,  
 2. “Please inquire of the LORD for us; for Nebuchadnezzar king of Babylon makes war against us. Perhaps the LORD will deal with us according to all his wondrous works, that he may withdraw from us.”   
 3. Then Jeremiah said to them, “Tell Zedekiah:  
@@ -30191,7 +30191,7 @@ or, “Who would enter into our homes?”
 and I will kindle a fire in her forest,  
 and it will devour all that is around her.’”   
 
-## Chapter 22
+## Jeremiah Chapter 22
 1. The LORD said, “Go down to the house of the king of Judah, and speak this word there:  
 2. ‘Hear the LORD’s word, king of Judah, who sits on David’s throne—you, your servants, and your people who enter in by these gates.  
 3. The LORD says: “Execute justice and righteousness, and deliver him who is robbed out of the hand of the oppressor. Do no wrong. Do no violence to the foreigner, the fatherless, or the widow. Don’t shed innocent blood in this place.  
@@ -30274,7 +30274,7 @@ for no more will a man of his offspring prosper,
 sitting on David’s throne 
 and ruling in Judah.”   
 
-## Chapter 23
+## Jeremiah Chapter 23
 1. “Woe to the shepherds who destroy and scatter the sheep of my pasture!” says the LORD.  
 2. Therefore the LORD, the God of Israel, says against the shepherds who feed my people: “You have scattered my flock, driven them away, and have not visited them. Behold, I will visit on you the evil of your doings,” says the LORD.  
 3. “I will gather the remnant of my flock out of all the countries where I have driven them, and will bring them again to their folds; and they will be fruitful and multiply.  
@@ -30367,7 +30367,7 @@ I fill heaven and earth?” says the LORD.
 39. therefore behold, I will utterly forget you, and I will cast you off with the city that I gave to you and to your fathers, away from my presence.  
 40. I will bring an everlasting reproach on you, and a perpetual shame, which will not be forgotten.’”   
 
-## Chapter 24
+## Jeremiah Chapter 24
 1. The LORD showed me, and behold, two baskets of figs were set before the LORD’s temple, after Nebuchadnezzar king of Babylon had carried away captive Jeconiah the son of Jehoiakim, king of Judah, and the princes of Judah, with the craftsmen and smiths, from Jerusalem, and had brought them to Babylon.  
 2. One basket had very good figs, like the figs that are first-ripe; and the other basket had very bad figs, which could not be eaten, they were so bad.   
 3. Then the LORD asked me, “What do you see, Jeremiah?”  
@@ -30380,7 +30380,7 @@ I said, “Figs. The good figs are very good, and the bad are very bad, so bad t
 9. I will even give them up to be tossed back and forth among all the kingdoms of the earth for evil, to be a reproach and a proverb, a taunt and a curse, in all places where I will drive them.  
 10. I will send the sword, the famine, and the pestilence among them, until they are consumed from off the land that I gave to them and to their fathers.’”   
 
-## Chapter 25
+## Jeremiah Chapter 25
 1. The word that came to Jeremiah concerning all the people of Judah, in the fourth year of Jehoiakim the son of Josiah, king of Judah (this was the first year of Nebuchadnezzar king of Babylon),  
 2. which Jeremiah the prophet spoke to all the people of Judah, and to all the inhabitants of Jerusalem:  
 3. From the thirteenth year of Josiah the son of Amon, king of Judah, even to this day, these twenty-three years, the LORD’s word has come to me, and I have spoken to you, rising up early and speaking; but you have not listened.   
@@ -30439,7 +30439,7 @@ because of the fierce anger of the LORD.
 for their land has become an astonishment because of the fierceness of the oppression,  
 and because of his fierce anger.   
 
-## Chapter 26
+## Jeremiah Chapter 26
 1. In the beginning of the reign of Jehoiakim the son of Josiah, king of Judah, this word came from the LORD:  
 2. “The LORD says: ‘Stand in the court of the LORD’s house, and speak to all the cities of Judah which come to worship in the LORD’s house, all the words that I command you to speak to them. Don’t omit a word.  
 3. It may be they will listen, and every man turn from his evil way, that I may relent from the evil which I intend to do to them because of the evil of their doings.’”  
@@ -30468,7 +30468,7 @@ and the mountain of the house as the high places of a forest.’
 23. They fetched Uriah out of Egypt and brought him to Jehoiakim the king, who killed him with the sword and cast his dead body into the graves of the common people.   
 24. But the hand of Ahikam the son of Shaphan was with Jeremiah, so that they didn’t give him into the hand of the people to put him to death.   
 
-## Chapter 27
+## Jeremiah Chapter 27
 1. In the beginning of the reign of Jehoiakim the son of Josiah, king of Judah, this word came to Jeremiah from the LORD, saying,  
 2. the LORD says to me: “Make bonds and bars, and put them on your neck.  
 3. Then send them to the king of Edom, to the king of Moab, to the king of the children of Ammon, to the king of Tyre, and to the king of Sidon, by the hand of the messengers who come to Jerusalem to Zedekiah king of Judah.  
@@ -30492,7 +30492,7 @@ and the mountain of the house as the high places of a forest.’
 21. yes, the LORD of Armies, the God of Israel, says concerning the vessels that are left in the LORD’s house, and in the house of the king of Judah, and at Jerusalem:  
 22. ‘They will be carried to Babylon, and there they will be, until the day that I visit them,’ says the LORD; ‘then I will bring them up, and restore them to this place.’”   
 
-## Chapter 28
+## Jeremiah Chapter 28
 1. That same year, in the beginning of the reign of Zedekiah king of Judah, in the fourth year, in the fifth month, Hananiah the son of Azzur, the prophet, who was of Gibeon, spoke to me in the LORD’s house, in the presence of the priests and of all the people, saying,  
 2. “The LORD of Armies, the God of Israel, says, ‘I have broken the yoke of the king of Babylon.  
 3. Within two full years I will bring again into this place all the vessels of the LORD’s house that Nebuchadnezzar king of Babylon took away from this place and carried to Babylon.  
@@ -30511,7 +30511,7 @@ and the mountain of the house as the high places of a forest.’
 16. Therefore the LORD says, ‘Behold, I will send you away from off the surface of the earth. This year you will die, because you have spoken rebellion against the LORD.’”   
 17. So Hananiah the prophet died the same year in the seventh month.   
 
-## Chapter 29
+## Jeremiah Chapter 29
 1. Now these are the words of the letter that Jeremiah the prophet sent from Jerusalem to the residue of the elders of the captivity, and to the priests, to the prophets, and to all the people whom Nebuchadnezzar had carried away captive from Jerusalem to Babylon,  
 2. (after Jeconiah the king, the queen mother, the eunuchs, the princes of Judah and Jerusalem, the craftsmen, and the smiths had departed from Jerusalem),  
 3. by the hand of Elasah the son of Shaphan and Gemariah the son of Hilkiah, (whom Zedekiah king of Judah sent to Babylon to Nebuchadnezzar king of Babylon). It said:   
@@ -30545,7 +30545,7 @@ and the mountain of the house as the high places of a forest.’
 31. “Send to all of the captives, saying, ‘The LORD says concerning Shemaiah the Nehelamite: “Because Shemaiah has prophesied to you, and I didn’t send him, and he has caused you to trust in a lie,”  
 32. therefore the LORD says, “Behold, I will punish Shemaiah the Nehelamite and his offspring. He will not have a man to dwell among this people. He won’t see the good that I will do to my people,” says the LORD, “because he has spoken rebellion against the LORD.”’”   
 
-## Chapter 30
+## Jeremiah Chapter 30
 1. The word that came to Jeremiah from the LORD, saying,  
 2. “The LORD, the God of Israel, says, ‘Write all the words that I have spoken to you in a book.  
 3. For, behold, the days come,’ says the LORD, ‘that I will reverse the captivity of my people Israel and Judah,’ says the LORD. ‘I will cause them to return to the land that I gave to their fathers, and they will possess it.’”   
@@ -30630,7 +30630,7 @@ it will burst on the head of the wicked.
 and until he has performed the intentions of his heart.  
 In the latter days you will understand it.”   
 
-## Chapter 31
+## Jeremiah Chapter 31
 1. “At that time,” says the LORD, “I will be the God of all the families of Israel, and they will be my people.”   
 2. The LORD says, “The people who survive the sword found favor in the wilderness; even Israel, when I went to cause him to rest.”   
 3. The LORD appeared of old to me, saying,  
@@ -30756,7 +30756,7 @@ then I will also cast off all the offspring of Israel for all that they have don
 39. The measuring line will go out further straight onward to the hill Gareb, and will turn toward Goah.  
 40. The whole valley of the dead bodies and of the ashes, and all the fields to the brook Kidron, to the corner of the horse gate toward the east, will be holy to the LORD. It will not be plucked up or thrown down any more forever.”   
 
-## Chapter 32
+## Jeremiah Chapter 32
 1. This is the word that came to Jeremiah from the LORD in the tenth year of Zedekiah king of Judah, which was the eighteenth year of Nebuchadnezzar.  
 2. Now at that time the king of Babylon’s army was besieging Jerusalem. Jeremiah the prophet was shut up in the court of the guard, which was in the king of Judah’s house.   
 3. For Zedekiah king of Judah had shut him up, saying, “Why do you prophesy, and say, ‘The LORD says, “Behold, I will give this city into the hand of the king of Babylon, and he will take it;  
@@ -30803,7 +30803,7 @@ Then I knew that this was the LORD’s word.
 43. Fields will be bought in this land, about which you say, ‘It is desolate, without man or animal. It is given into the hand of the Chaldeans.’  
 44. Men will buy fields for money, sign the deeds, seal them, and call witnesses, in the land of Benjamin, and in the places around Jerusalem, in the cities of Judah, in the cities of the hill country, in the cities of the lowland, and in the cities of the South; for I will cause their captivity to be reversed,” says the LORD.   
 
-## Chapter 33
+## Jeremiah Chapter 33
 1. Moreover the LORD’s word came to Jeremiah the second time, while he was still locked up in the court of the guard, saying,  
 2. “The LORD who does it, the LORD who forms it to establish it—the LORD is his name, says:  
 3. ‘Call to me, and I will answer you, and will show you great and difficult things, which you don’t know.’  
@@ -30836,7 +30836,7 @@ The LORD our righteousness.”
 25. The LORD says: “If my covenant of day and night fails, if I have not appointed the ordinances of heaven and earth,  
 26. then I will also cast away the offspring of Jacob, and of David my servant, so that I will not take of his offspring to be rulers over the offspring of Abraham, Isaac, and Jacob; for I will cause their captivity to be reversed and will have mercy on them.”   
 
-## Chapter 34
+## Jeremiah Chapter 34
 1. The word which came to Jeremiah from the LORD, when Nebuchadnezzar king of Babylon, with all his army, all the kingdoms of the earth that were under his dominion, and all the peoples, were fighting against Jerusalem and against all its cities, saying:  
 2. “The LORD, the God of Israel, says, ‘Go, and speak to Zedekiah king of Judah, and tell him, the LORD says, “Behold, I will give this city into the hand of the king of Babylon and he will burn it with fire.  
 3. You won’t escape out of his hand, but will surely be taken and delivered into his hand. Your eyes will see the eyes of the king of Babylon, and he will speak with you mouth to mouth. You will go to Babylon.”’   
@@ -30860,7 +30860,7 @@ The LORD our righteousness.”
 21. “I will give Zedekiah king of Judah and his princes into the hands of their enemies, into the hands of those who seek their life and into the hands of the king of Babylon’s army, who has gone away from you.  
 22. Behold, I will command,” says the LORD, “and cause them to return to this city. They will fight against it, take it, and burn it with fire. I will make the cities of Judah a desolation, without inhabitant.”   
 
-## Chapter 35
+## Jeremiah Chapter 35
 1. The word which came to Jeremiah from the LORD in the days of Jehoiakim the son of Josiah, king of Judah, saying,  
 2. “Go to the house of the Rechabites, and speak to them, and bring them into the LORD’s house, into one of the rooms, and give them wine to drink.”   
 3. Then I took Jaazaniah the son of Jeremiah, the son of Habazziniah, with his brothers, all his sons, and the whole house of the Rechabites;  
@@ -30881,7 +30881,7 @@ The LORD our righteousness.”
 18. Jeremiah said to the house of the Rechabites, “The LORD of Armies, the God of Israel, says: ‘Because you have obeyed the commandment of Jonadab your father, and kept all his precepts, and done according to all that he commanded you,’  
 19. therefore the LORD of Armies, the God of Israel, says: ‘Jonadab the son of Rechab will not lack a man to stand before me forever.’”   
 
-## Chapter 36
+## Jeremiah Chapter 36
 1. In the fourth year of Jehoiakim the son of Josiah, king of Judah, this word came to Jeremiah from the LORD, saying,  
 2. “Take a scroll of a book, and write in it all the words that I have spoken to you against Israel, against Judah, and against all the nations, from the day I spoke to you, from the days of Josiah even to this day.  
 3. It may be that the house of Judah will hear all the evil which I intend to do to them, that they may each return from his evil way; that I may forgive their iniquity and their sin.”   
@@ -30917,7 +30917,7 @@ So Baruch read it in their hearing.
 31. I will punish him, his offspring, and his servants for their iniquity. I will bring on them, on the inhabitants of Jerusalem, and on the men of Judah, all the evil that I have pronounced against them, but they didn’t listen.”’”   
 32. Then Jeremiah took another scroll, and gave it to Baruch the scribe, the son of Neriah, who wrote therein from the mouth of Jeremiah all the words of the book which Jehoiakim king of Judah had burned in the fire; and many similar words were added to them.   
 
-## Chapter 37
+## Jeremiah Chapter 37
 1. Zedekiah the son of Josiah reigned as king instead of Coniah the son of Jehoiakim, whom Nebuchadnezzar king of Babylon made king in the land of Judah.  
 2. But neither he, nor his servants, nor the people of the land, listened to the LORD’s words, which he spoke by the prophet Jeremiah.   
 3. Zedekiah the king sent Jehucal the son of Shelemiah and Zephaniah the son of Maaseiah, the priest, to the prophet Jeremiah, saying, “Pray now to the LORD our God for us.”   
@@ -30942,7 +30942,7 @@ Jeremiah said, “There is.” He also said, “You will be delivered into the h
 20. Now please hear, my lord the king: please let my supplication be presented before you, that you not cause me to return to the house of Jonathan the scribe, lest I die there.”   
 21. Then Zedekiah the king commanded, and they committed Jeremiah into the court of the guard. They gave him daily a loaf of bread out of the bakers’ street, until all the bread in the city was gone. Thus Jeremiah remained in the court of the guard.   
 
-## Chapter 38
+## Jeremiah Chapter 38
 1. Shephatiah the son of Mattan, Gedaliah the son of Pashhur, Jucal the son of Shelemiah, and Pashhur the son of Malchijah heard the words that Jeremiah spoke to all the people, saying,  
 2. “The LORD says, ‘He who remains in this city will die by the sword, by the famine, and by the pestilence, but he who goes out to the Chaldeans will live. He will escape with his life and he will live.’  
 3. The LORD says, ‘This city will surely be given into the hand of the army of the king of Babylon, and he will take it.’”   
@@ -30977,7 +30977,7 @@ they have turned away from you.”
 27. Then all the princes came to Jeremiah, and asked him; and he told them according to all these words that the king had commanded. So they stopped speaking with him, for the matter was not perceived.   
 28. So Jeremiah stayed in the court of the guard until the day that Jerusalem was taken.   
 
-## Chapter 39
+## Jeremiah Chapter 39
 1. In the ninth year of Zedekiah king of Judah, in the tenth month, Nebuchadnezzar king of Babylon and all his army came against Jerusalem, and besieged it.  
 2. In the eleventh year of Zedekiah, in the fourth month, the ninth day of the month, a breach was made in the city.  
 3. All the princes of the king of Babylon came in, and sat in the middle gate: Nergal Sharezer, Samgarnebo, Sarsechim the Rabsaris, Nergal Sharezer the Rabmag, with all the rest of the princes of the king of Babylon.  
@@ -30997,7 +30997,7 @@ they have turned away from you.”
 17. But I will deliver you in that day,” says the LORD; “and you will not be given into the hand of the men of whom you are afraid.  
 18. For I will surely save you. You won’t fall by the sword, but you will escape with your life, because you have put your trust in me,” says the LORD.’”   
 
-## Chapter 40
+## Jeremiah Chapter 40
 1. The word which came to Jeremiah from the LORD, after Nebuzaradan the captain of the guard had let him go from Ramah, when he had taken him being bound in chains among all the captives of Jerusalem and Judah who were carried away captive to Babylon.  
 2. The captain of the guard took Jeremiah and said to him, “The LORD your God pronounced this evil on this place;  
 3. and the LORD has brought it, and done according as he spoke. Because you have sinned against the LORD, and have not obeyed his voice, therefore this thing has come on you.  
@@ -31017,7 +31017,7 @@ But Gedaliah the son of Ahikam didn’t believe them.
 15. Then Johanan the son of Kareah spoke to Gedaliah in Mizpah secretly, saying, “Please let me go, and I will kill Ishmael the son of Nethaniah, and no man will know it. Why should he take your life, that all the Jews who are gathered to you should be scattered, and the remnant of Judah perish?”   
 16. But Gedaliah the son of Ahikam said to Johanan the son of Kareah, “You shall not do this thing, for you speak falsely of Ishmael.”   
 
-## Chapter 41
+## Jeremiah Chapter 41
 1. Now in the seventh month, Ishmael the son of Nethaniah, the son of Elishama, of the royal offspring and one of the chief officers of the king, and ten men with him, came to Gedaliah the son of Ahikam to Mizpah; and there they ate bread together in Mizpah.  
 2. Then Ishmael the son of Nethaniah arose, and the ten men who were with him, and struck Gedaliah the son of Ahikam the son of Shaphan with the sword and killed him, whom the king of Babylon had made governor over the land.  
 3. Ishmael also killed all the Jews who were with Gedaliah at Mizpah, and the Chaldean men of war who were found there.   
@@ -31038,7 +31038,7 @@ So he stopped, and didn’t kill them among their brothers.
 17. They departed and lived in Geruth Chimham, which is by Bethlehem, to go to enter into Egypt 
 18. because of the Chaldeans; for they were afraid of them, because Ishmael the son of Nethaniah had killed Gedaliah the son of Ahikam, whom the king of Babylon made governor over the land.   
 
-## Chapter 42
+## Jeremiah Chapter 42
 1. Then all the captains of the forces, and Johanan the son of Kareah, and Jezaniah the son of Hoshaiah, and all the people from the least even to the greatest, came near,  
 2. and said to Jeremiah the prophet, “Please let our supplication be presented before you, and pray for us to the LORD your God, even for all this remnant, for we are left but a few of many, as your eyes see us,  
 3. that the LORD your God may show us the way in which we should walk, and the things that we should do.”   
@@ -31062,7 +31062,7 @@ So he stopped, and didn’t kill them among their brothers.
 21. I have declared it to you today; but you have not obeyed the LORD your God’s voice in anything for which he has sent me to you.  
 22. Now therefore know certainly that you will die by the sword, by the famine, and by the pestilence in the place where you desire to go to live.”   
 
-## Chapter 43
+## Jeremiah Chapter 43
 1. When Jeremiah had finished speaking to all the people all the words of the LORD their God, with which the LORD their God had sent him to them, even all these words,  
 2. then Azariah the son of Hoshaiah, Johanan the son of Kareah, and all the proud men spoke, saying to Jeremiah, “You speak falsely. The LORD our God has not sent you to say, ‘You shall not go into Egypt to live there;’  
 3. but Baruch the son of Neriah has turned you against us, to deliver us into the hand of the Chaldeans, that they may put us to death or carry us away captive to Babylon.”   
@@ -31077,7 +31077,7 @@ So he stopped, and didn’t kill them among their brothers.
 12. I will kindle a fire in the houses of the gods of Egypt. He will burn them, and carry them away captive. He will array himself with the land of Egypt, as a shepherd puts on his garment; and he will go out from there in peace.  
 13. He will also break the pillars of Beth Shemesh that is in the land of Egypt; and he will burn the houses of the gods of Egypt with fire.’”   
 
-## Chapter 44
+## Jeremiah Chapter 44
 1. The word that came to Jeremiah concerning all the Jews who lived in the land of Egypt, who lived at Migdol, and at Tahpanhes, and at Memphis, and in the country of Pathros, saying,  
 2. “The LORD of Armies, the God of Israel, says: ‘You have seen all the evil that I have brought on Jerusalem, and on all the cities of Judah. Behold, today they are a desolation, and no man dwells in them,  
 3. because of their wickedness which they have committed to provoke me to anger, in that they went to burn incense, to serve other gods that they didn’t know, neither they, nor you, nor your fathers.  
@@ -31110,14 +31110,14 @@ Establish then your vows, and perform your vows.’
 29. “‘This will be the sign to you,’ says the LORD, ‘that I will punish you in this place, that you may know that my words will surely stand against you for evil.’  
 30. The LORD says, ‘Behold, I will give Pharaoh Hophra king of Egypt into the hand of his enemies and into the hand of those who seek his life, just as I gave Zedekiah king of Judah into the hand of Nebuchadnezzar king of Babylon, who was his enemy and sought his life.’”   
 
-## Chapter 45
+## Jeremiah Chapter 45
 1. The message that Jeremiah the prophet spoke to Baruch the son of Neriah, when he wrote these words in a book at the mouth of Jeremiah, in the fourth year of Jehoiakim the son of Josiah, king of Judah, saying,  
 2. “The LORD, the God of Israel, says to you, Baruch:  
 3. ‘You said, “Woe is me now! For the LORD has added sorrow to my pain! I am weary with my groaning, and I find no rest.”’   
 4. “You shall tell him, the LORD says: ‘Behold, that which I have built, I will break down, and that which I have planted I will pluck up; and this in the whole land.  
 5. Do you seek great things for yourself? Don’t seek them; for, behold, I will bring evil on all flesh,’ says the LORD, ‘but I will let you escape with your life wherever you go.’”   
 
-## Chapter 46
+## Jeremiah Chapter 46
 1. The LORD’s word which came to Jeremiah the prophet concerning the nations.   
 2. Of Egypt: concerning the army of Pharaoh Necoh king of Egypt, which was by the river Euphrates in Carchemish, which Nebuchadnezzar king of Babylon struck in the fourth year of Jehoiakim the son of Josiah, king of Judah.   
 3. “Prepare the buckler and shield,  
@@ -31220,7 +31220,7 @@ but I will not make a full end of you,
 but I will correct you in measure,  
 and will in no way leave you unpunished.”   
 
-## Chapter 47
+## Jeremiah Chapter 47
 1. The LORD’s word that came to Jeremiah the prophet concerning the Philistines, before Pharaoh struck Gaza.   
 2. The LORD says:  
 Behold, waters rise up out of the north,  
@@ -31250,7 +31250,7 @@ the LORD has given you a command?
 Against Ashkelon, and against the seashore,  
 there he has appointed it.”   
 
-## Chapter 48
+## Jeremiah Chapter 48
 1. Of Moab. The LORD of Armies, the God of Israel, says:  
 Woe to Nebo!  
 For it is laid waste.  
@@ -31408,7 +31408,7 @@ and your daughters into captivity.
 says the LORD.  
 Thus far is the judgment of Moab.   
 
-## Chapter 49
+## Jeremiah Chapter 49
 1. Of the children of Ammon. The LORD says:  
 Has Israel no sons?  
 Has he no heir?  
@@ -31556,7 +31556,7 @@ and will destroy from there king and princes,’ says the LORD.
 39. ‘But it will happen in the latter days 
 that I will reverse the captivity of Elam,’ says the LORD.”   
 
-## Chapter 50
+## Jeremiah Chapter 50
 1. The word that the LORD spoke concerning Babylon, concerning the land of the Chaldeans, by Jeremiah the prophet.   
 2. “Declare among the nations and publish,  
 and set up a standard;  
@@ -31758,7 +31758,7 @@ Surely he will make their habitation desolate over them.
 46. The earth trembles at the noise of the taking of Babylon.  
 The cry is heard among the nations.   
 
-## Chapter 51
+## Jeremiah Chapter 51
 1. The LORD says:  
 Behold, I will raise up against Babylon,  
 and against those who dwell in Lebkamai, a destroying wind.   
@@ -31989,7 +31989,7 @@ and they will be weary.”
 64. Then you shall say, ‘Thus will Babylon sink, and will not rise again because of the evil that I will bring on her; and they will be weary.’”  
 Thus far are the words of Jeremiah.   
 
-## Chapter 52
+## Jeremiah Chapter 52
 1. Zedekiah was twenty-one years old when he began to reign. He reigned eleven years in Jerusalem. His mother’s name was Hamutal the daughter of Jeremiah of Libnah.  
 2. He did that which was evil in the LORD’s sight, according to all that Jehoiakim had done.  
 3. For through the LORD’s anger this happened in Jerusalem and Judah, until he had cast them out from his presence.  
@@ -32031,7 +32031,7 @@ All the people numbered four thousand six hundred.
 
 # Lamentations
 
-## Chapter 1
+## Lamentations Chapter 1
 1. How the city sits solitary,  
 that was full of people!  
 She has become as a widow,  
@@ -32141,7 +32141,7 @@ Do to them as you have done to me for all my transgressions.
 For my sighs are many,  
 and my heart is faint.   
 
-## Chapter 2
+## Lamentations Chapter 2
 1. How has the Lord covered the daughter of Zion with a cloud in his anger!  
 He has cast the beauty of Israel down from heaven to the earth,  
 and hasn’t remembered his footstool in the day of his anger.   
@@ -32244,7 +32244,7 @@ You have slaughtered, and not pitied.
 There was no one that escaped or remained in the day of the LORD’s anger.  
 My enemy has consumed those whom I have cared for and brought up.   
 
-## Chapter 3
+## Lamentations Chapter 3
 1. I am the man who has seen affliction 
 by the rod of his wrath.   
 2. He has led me and caused me to walk in darkness,  
@@ -32373,7 +32373,7 @@ your curse to them.
 66. You will pursue them in anger,  
 and destroy them from under the heavens of the LORD.   
 
-## Chapter 4
+## Lamentations Chapter 4
 1. How the gold has become dim!  
 The most pure gold has changed!  
 The stones of the sanctuary are poured out 
@@ -32455,7 +32455,7 @@ He will no more carry you away into captivity.
 He will visit your iniquity, daughter of Edom.  
 He will uncover your sins.   
 
-## Chapter 5
+## Lamentations Chapter 5
 1. Remember, LORD, what has come on us.  
 Look, and see our reproach.   
 2. Our inheritance has been turned over to strangers,  
@@ -32503,7 +32503,7 @@ You are very angry against us.
 
 # Ezekiel
 
-## Chapter 1
+## Ezekiel Chapter 1
 1. Now in the thirtieth year, in the fourth month, in the fifth day of the month, as I was among the captives by the river Chebar, the heavens were opened, and I saw visions of God.  
 2. In the fifth of the month, which was the fifth year of King Jehoiachin’s captivity,  
 3. the LORD’s word came to Ezekiel the priest, the son of Buzi, in the land of the Chaldeans by the river Chebar; and the LORD’s hand was there on him.   
@@ -32534,7 +32534,7 @@ You are very angry against us.
 28. As the appearance of the rainbow that is in the cloud in the day of rain, so was the appearance of the brightness all around.  
 This was the appearance of the likeness of the LORD’s glory. When I saw it, I fell on my face, and I heard a voice of one that spoke.   
 
-## Chapter 2
+## Ezekiel Chapter 2
 1. He said to me, “Son of man, stand on your feet, and I will speak with you.”  
 2. The Spirit entered into me when he spoke to me, and set me on my feet; and I heard him who spoke to me.   
 3. He said to me, “Son of man, I send you to the children of Israel, to a nation of rebels who have rebelled against me. They and their fathers have transgressed against me even to this very day.  
@@ -32546,7 +32546,7 @@ This was the appearance of the likeness of the LORD’s glory. When I saw it, I 
 9. When I looked, behold, a hand was stretched out to me; and behold, a scroll of a book was in it.  
 10. He spread it before me. It was written within and without; and lamentations, mourning, and woe were written in it.   
 
-## Chapter 3
+## Ezekiel Chapter 3
 1. He said to me, “Son of man, eat what you find. Eat this scroll, and go, speak to the house of Israel.”   
 2. So I opened my mouth, and he caused me to eat the scroll.   
 3. He said to me, “Son of man, eat this scroll that I give you and fill your belly and your bowels with it.”  
@@ -32576,7 +32576,7 @@ Then I ate it. It was as sweet as honey in my mouth.
 26. I will make your tongue stick to the roof of your mouth so that you will be mute and will not be able to correct them, for they are a rebellious house.  
 27. But when I speak with you, I will open your mouth, and you shall tell them, ‘This is what the Lord GOD says.’ He who hears, let him hear; and he who refuses, let him refuse; for they are a rebellious house.”   
 
-## Chapter 4
+## Ezekiel Chapter 4
 1. “You also, son of man, take a tile, and lay it before yourself, and portray on it a city, even Jerusalem.  
 2. Lay siege against it, build forts against it, and cast up a mound against it. Also set camps against it and plant battering rams against it all around.  
 3. Take for yourself an iron pan and set it for a wall of iron between you and the city. Then set your face toward it. It will be besieged, and you shall lay siege against it. This shall be a sign to the house of Israel.   
@@ -32595,7 +32595,7 @@ Then I ate it. It was as sweet as honey in my mouth.
 16. Moreover he said to me, “Son of man, behold, I will break the staff of bread in Jerusalem. They will eat bread by weight, and with fearfulness. They will drink water by measure, and in dismay;  
 17. that they may lack bread and water, be dismayed one with another, and pine away in their iniquity.   
 
-## Chapter 5
+## Ezekiel Chapter 5
 1. “You, son of man, take a sharp sword. You shall take it as a barber’s razor to yourself, and shall cause it to pass over your head and over your beard. Then take balances to weigh and divide the hair.  
 2. A third part you shall burn in the fire in the middle of the city, when the days of the siege are fulfilled. You shall take a third part, and strike with the sword around it. A third part you shall scatter to the wind, and I will draw out a sword after them.  
 3. You shall take a small number of these and bind them in the folds of your robe.  
@@ -32614,7 +32614,7 @@ Then I ate it. It was as sweet as honey in my mouth.
 16. when I send on them the evil arrows of famine that are for destruction, which I will send to destroy you. I will increase the famine on you and will break your staff of bread.  
 17. I will send on you famine and evil animals, and they will bereave you. Pestilence and blood will pass through you. I will bring the sword on you. I, the LORD, have spoken it.’”   
 
-## Chapter 6
+## Ezekiel Chapter 6
 1. The LORD’s word came to me, saying,  
 2. “Son of man, set your face toward the mountains of Israel, and prophesy to them,  
 3. and say, ‘You mountains of Israel, hear the word of the Lord GOD! The Lord GOD says to the mountains and to the hills, to the watercourses and to the valleys: “Behold, I, even I, will bring a sword on you, and I will destroy your high places.  
@@ -32630,7 +32630,7 @@ Then I ate it. It was as sweet as honey in my mouth.
 13. You will know that I am the LORD when their slain men are among their idols around their altars, on every high hill, on all the tops of the mountains, under every green tree, and under every thick oak—the places where they offered pleasant aroma to all their idols.  
 14. I will stretch out my hand on them and make the land desolate and waste, from the wilderness toward Diblah, throughout all their habitations. Then they will know that I am the LORD.’”   
 
-## Chapter 7
+## Ezekiel Chapter 7
 1. Moreover the LORD’s word came to me, saying,  
 2. “You, son of man, the Lord GOD says to the land of Israel, ‘An end! The end has come on the four corners of the land.  
 3. Now the end is on you, and I will send my anger on you, and will judge you according to your ways. I will bring on you all your abominations.  
@@ -32659,7 +32659,7 @@ Then I ate it. It was as sweet as honey in my mouth.
 26. Mischief will come on mischief, and rumor will be on rumor. They will seek a vision of the prophet; but the law will perish from the priest, and counsel from the elders.  
 27. The king will mourn, and the prince will be clothed with desolation. The hands of the people of the land will be troubled. I will do to them after their way, and according to their own judgments I will judge them. Then they will know that I am the LORD.’”   
 
-## Chapter 8
+## Ezekiel Chapter 8
 1. In the sixth year, in the sixth month, in the fifth day of the month, as I sat in my house, and the elders of Judah sat before me, the Lord GOD’s hand fell on me there.  
 2. Then I saw, and behold, a likeness as the appearance of fire—from the appearance of his waist and downward, fire, and from his waist and upward, as the appearance of brightness, as it were glowing metal.  
 3. He stretched out the form of a hand, and took me by a lock of my head; and the Spirit lifted me up between earth and the sky, and brought me in the visions of God to Jerusalem, to the door of the gate of the inner court that looks toward the north, where there was the seat of the image of jealousy, which provokes to jealousy.  
@@ -32681,7 +32681,7 @@ When I had dug in the wall, I saw a door.
 17. Then he said to me, “Have you seen this, son of man? Is it a light thing to the house of Judah that they commit the abominations which they commit here? For they have filled the land with violence, and have turned again to provoke me to anger. Behold, they put the branch to their nose.  
 18. Therefore I will also deal in wrath. My eye won’t spare, neither will I have pity. Though they cry in my ears with a loud voice, yet I will not hear them.”   
 
-## Chapter 9
+## Ezekiel Chapter 9
 1. Then he cried in my ears with a loud voice, saying, “Cause those who are in charge of the city to draw near, each man with his destroying weapon in his hand.”  
 2. Behold, six men came from the way of the upper gate, which lies toward the north, every man with his slaughter weapon in his hand. One man in the middle of them was clothed in linen, with a writer’s inkhorn by his side. They went in, and stood beside the bronze altar.   
 3. The glory of the God of Israel went up from the cherub, whereupon it was, to the threshold of the house; and he called to the man clothed in linen, who had the writer’s inkhorn by his side.  
@@ -32696,7 +32696,7 @@ They went out, and struck in the city.
 10. As for me also, my eye won’t spare, neither will I have pity, but I will bring their way on their head.”   
 11. Behold, the man clothed in linen, who had the inkhorn by his side, reported the matter, saying, “I have done as you have commanded me.”   
 
-## Chapter 10
+## Ezekiel Chapter 10
 1. Then I looked, and see, in the expanse that was over the head of the cherubim there appeared above them as it were a sapphire stone, as the appearance of the likeness of a throne.  
 2. He spoke to the man clothed in linen, and said, “Go in between the whirling wheels, even under the cherub, and fill both your hands with coals of fire from between the cherubim, and scatter them over the city.”  
 He went in as I watched.  
@@ -32721,7 +32721,7 @@ He went in as I watched.
 21. Every one had four faces, and every one four wings. The likeness of the hands of a man was under their wings.  
 22. As for the likeness of their faces, they were the faces which I saw by the river Chebar, their appearances and themselves. They each went straight forward.   
 
-## Chapter 11
+## Ezekiel Chapter 11
 1. Moreover the Spirit lifted me up and brought me to the east gate of the LORD’s house, which looks eastward. Behold, twenty-five men were at the door of the gate; and I saw among them Jaazaniah the son of Azzur, and Pelatiah the son of Benaiah, princes of the people.  
 2. He said to me, “Son of man, these are the men who devise iniquity, and who give wicked counsel in this city;  
 3. who say, ‘The time is not near to build houses. This is the cauldron, and we are the meat.’  
@@ -32749,7 +32749,7 @@ He went in as I watched.
 So the vision that I had seen went up from me.  
 25. Then I spoke to the captives all the things that the LORD had shown me.   
 
-## Chapter 12
+## Ezekiel Chapter 12
 1. The LORD’s word also came to me, saying,  
 2. “Son of man, you dwell in the middle of the rebellious house, who have eyes to see, and don’t see, who have ears to hear, and don’t hear; for they are a rebellious house.   
 3. “Therefore, you son of man, prepare your baggage for moving, and move by day in their sight. You shall move from your place to another place in their sight. It may be they will consider, though they are a rebellious house.  
@@ -32779,7 +32779,7 @@ So the vision that I had seen went up from me.
 27. “Son of man, behold, they of the house of Israel say, ‘The vision that he sees is for many days to come, and he prophesies of times that are far off.’   
 28. “Therefore tell them, ‘The Lord GOD says: “None of my words will be deferred any more, but the word which I speak will be performed,” says the Lord GOD.’”   
 
-## Chapter 13
+## Ezekiel Chapter 13
 1. The LORD’s word came to me, saying,  
 2. “Son of man, prophesy against the prophets of Israel who prophesy, and say to those who prophesy out of their own heart, ‘Hear the LORD’s word:  
 3. The Lord GOD says, “Woe to the foolish prophets, who follow their own spirit, and have seen nothing!  
@@ -32804,7 +32804,7 @@ So the vision that I had seen went up from me.
 22. Because with lies you have grieved the heart of the righteous, whom I have not made sad; and strengthened the hands of the wicked, that he should not return from his wicked way, and be saved alive.  
 23. Therefore you shall no more see false visions nor practice divination. I will deliver my people out of your hand. Then you will know that I am the LORD.’”   
 
-## Chapter 14
+## Ezekiel Chapter 14
 1. Then some of the elders of Israel came to me and sat before me.  
 2. The LORD’s word came to me, saying,  
 3. “Son of man, these men have taken their idols into their heart, and put the stumbling block of their iniquity before their face. Should I be inquired of at all by them?  
@@ -32829,7 +32829,7 @@ So the vision that I had seen went up from me.
 22. Yet, behold, there will be left a remnant in it that will be carried out, both sons and daughters. Behold, they will come out to you, and you will see their way and their doings. Then you will be comforted concerning the evil that I have brought on Jerusalem, even concerning all that I have brought on it.  
 23. They will comfort you, when you see their way and their doings; then you will know that I have not done all that I have done in it without cause,” says the Lord GOD.   
 
-## Chapter 15
+## Ezekiel Chapter 15
 1. The LORD’s word came to me, saying,  
 2. “Son of man, what is the vine tree more than any tree, the vine branch which is among the trees of the forest?  
 3. Will wood be taken of it to make anything? Will men take a pin of it to hang any vessel on it?  
@@ -32839,7 +32839,7 @@ So the vision that I had seen went up from me.
 7. I will set my face against them. They will go out from the fire, but the fire will still devour them. Then you will know that I am the LORD, when I set my face against them.  
 8. I will make the land desolate, because they have acted unfaithfully,” says the Lord GOD.   
 
-## Chapter 16
+## Ezekiel Chapter 16
 1. Again the LORD’s word came to me, saying,  
 2. “Son of man, cause Jerusalem to know her abominations;  
 3. and say, ‘The Lord GOD says to Jerusalem: “Your origin and your birth is of the land of the Canaanite. An Amorite was your father, and your mother was a Hittite.  
@@ -32904,7 +32904,7 @@ So the vision that I had seen went up from me.
 62. I will establish my covenant with you. Then you will know that I am the LORD;  
 63. that you may remember, and be confounded, and never open your mouth any more because of your shame, when I have forgiven you all that you have done,” says the Lord GOD.’”   
 
-## Chapter 17
+## Ezekiel Chapter 17
 1. The LORD’s word came to me, saying,  
 2. “Son of man, tell a riddle, and speak a parable to the house of Israel;  
 3. and say, ‘The Lord GOD says: “A great eagle with great wings and long feathers, full of feathers which had various colors, came to Lebanon and took the top of the cedar.  
@@ -32931,7 +32931,7 @@ So the vision that I had seen went up from me.
 24. All the trees of the field will know that I, the LORD, have brought down the high tree, have exalted the low tree, have dried up the green tree, and have made the dry tree flourish.  
 I, the LORD, have spoken and have done it.’”   
 
-## Chapter 18
+## Ezekiel Chapter 18
 1. The LORD’s word came to me again, saying,  
 2. “What do you mean, that you use this proverb concerning the land of Israel, saying,  
 The fathers have eaten sour grapes,  
@@ -33000,7 +33000,7 @@ he shall not die for the iniquity of his father. He shall surely live.
 31. Cast away from you all your transgressions in which you have transgressed; and make yourself a new heart and a new spirit. For why will you die, house of Israel?  
 32. For I have no pleasure in the death of him who dies,” says the Lord GOD. “Therefore turn yourselves, and live!   
 
-## Chapter 19
+## Ezekiel Chapter 19
 1. “Moreover, take up a lamentation for the princes of Israel,  
 2. and say,  
 What was your mother?  
@@ -33050,7 +33050,7 @@ It has devoured its fruit,
 so that there is in it no strong branch to be a scepter to rule.’  
 This is a lamentation, and shall be for a lamentation.”   
 
-## Chapter 20
+## Ezekiel Chapter 20
 1. In the seventh year, in the fifth month, the tenth day of the month, some of the elders of Israel came to inquire of the LORD, and sat before me.   
 2. The LORD’s word came to me, saying,  
 3. “Son of man, speak to the elders of Israel, and tell them, ‘The Lord GOD says: “Is it to inquire of me that you have come? As I live,” says the Lord GOD, “I will not be inquired of by you.”’   
@@ -33101,7 +33101,7 @@ This is a lamentation, and shall be for a lamentation.”
 48. All flesh will see that I, the LORD, have kindled it. It will not be quenched.”’”   
 49. Then I said, “Ah Lord GOD! They say of me, ‘Isn’t he a speaker of parables?’”   
 
-## Chapter 21
+## Ezekiel Chapter 21
 1. The LORD’s word came to me, saying,  
 2. “Son of man, set your face toward Jerusalem, and preach toward the sanctuaries, and prophesy against the land of Israel.  
 3. Tell the land of Israel, ‘The LORD says: “Behold, I am against you, and will draw my sword out of its sheath, and will cut off from you the righteous and the wicked.  
@@ -33179,7 +33179,7 @@ Your blood will be in the middle of the land.
 You will be remembered no more;  
 for I, the LORD, have spoken it.”’”   
 
-## Chapter 22
+## Ezekiel Chapter 22
 1. Moreover the LORD’s word came to me, saying,  
 2. “You, son of man, will you judge? Will you judge the bloody city? Then cause her to know all her abominations.  
 3. You shall say, ‘The Lord GOD says: “A city that sheds blood within herself, that her time may come, and that makes idols against herself to defile her!  
@@ -33212,7 +33212,7 @@ for I, the LORD, have spoken it.”’”
 30. “I sought for a man among them who would build up the wall and stand in the gap before me for the land, that I would not destroy it; but I found no one.  
 31. Therefore I have poured out my indignation on them. I have consumed them with the fire of my wrath. I have brought their own way on their heads,” says the Lord GOD.   
 
-## Chapter 23
+## Ezekiel Chapter 23
 1. The LORD’s word came again to me, saying,  
 2. “Son of man, there were two women, the daughters of one mother.  
 3. They played the prostitute in Egypt. They played the prostitute in their youth. Their breasts were fondled there, and their youthful nipples were caressed there.  
@@ -33272,7 +33272,7 @@ for I have spoken it,’ says the Lord GOD.
 48. “‘Thus I will cause lewdness to cease out of the land, that all women may be taught not to be lewd like you.  
 49. They will recompense your lewdness on you, and you will bear the sins of your idols. Then you will know that I am the Lord GOD.’”   
 
-## Chapter 24
+## Ezekiel Chapter 24
 1. Again, in the ninth year, in the tenth month, in the tenth day of the month, the LORD’s word came to me, saying,  
 2. “Son of man, write the name of the day, this same day. The king of Babylon drew close to Jerusalem this same day.  
 3. Utter a parable to the rebellious house, and tell them, ‘The Lord GOD says,  
@@ -33332,7 +33332,7 @@ rust by fire, doesn’t leave her.
 26. that in that day he who escapes will come to you, to cause you to hear it with your ears?  
 27. In that day your mouth will be opened to him who has escaped, and you will speak and be no more mute. So you will be a sign to them. Then they will know that I am the LORD.”   
 
-## Chapter 25
+## Ezekiel Chapter 25
 1. The LORD’s word came to me, saying,  
 2. “Son of man, set your face toward the children of Ammon, and prophesy against them.  
 3. Tell the children of Ammon, ‘Hear the word of the Lord GOD! The Lord GOD says, “Because you said, ‘Aha!’ against my sanctuary when it was profaned, and against the land of Israel when it was made desolate, and against the house of Judah when they went into captivity,  
@@ -33351,7 +33351,7 @@ rust by fire, doesn’t leave her.
 16. therefore the Lord GOD says, “Behold, I will stretch out my hand on the Philistines, and I will cut off the Cherethites, and destroy the remnant of the sea coast.  
 17. I will execute great vengeance on them with wrathful rebukes. Then they will know that I am the LORD, when I lay my vengeance on them.”’”   
 
-## Chapter 26
+## Ezekiel Chapter 26
 1. In the eleventh year, in the first of the month, the LORD’s word came to me, saying,  
 2. “Son of man, because Tyre has said against Jerusalem, ‘Aha! She is broken! She who was the gateway of the peoples has been returned to me. I will be replenished, now that she is laid waste;’  
 3. therefore the Lord GOD says, ‘Behold, I am against you, Tyre, and will cause many nations to come up against you, as the sea causes its waves to come up.  
@@ -33381,7 +33381,7 @@ the islands that are in the sea will be dismayed at your departure.’
 20. then I will bring you down with those who descend into the pit, to the people of old time, and will make you dwell in the lower parts of the earth, in the places that are desolate of old, with those who go down to the pit, that you be not inhabited; and I will set glory in the land of the living.  
 21. I will make you a terror, and you will no more have any being. Though you are sought for, yet you will never be found again,’ says the Lord GOD.”   
 
-## Chapter 27
+## Ezekiel Chapter 27
 1. The LORD’s word came again to me, saying,  
 2. “You, son of man, take up a lamentation over Tyre;  
 3. and tell Tyre, ‘You who dwell at the entry of the sea, who are the merchant of the peoples to many islands, the Lord GOD says:  
@@ -33467,7 +33467,7 @@ They are troubled in their face.
 You have come to a terrible end,  
 and you will be no more.”’”   
 
-## Chapter 28
+## Ezekiel Chapter 28
 1. The LORD’s word came again to me, saying,  
 2. “Son of man, tell the prince of Tyre, ‘The Lord GOD says:  
 Because your heart is lifted up,  
@@ -33555,7 +33555,7 @@ Then they will know that I am the LORD.
 25. “‘The Lord GOD says: “When I have gathered the house of Israel from the peoples among whom they are scattered, and am shown as holy among them in the sight of the nations, then they will dwell in their own land which I gave to my servant Jacob.  
 26. They will dwell in it securely. Yes, they will build houses, plant vineyards, and will dwell securely when I have executed judgments on all those around them who have treated them with contempt. Then they will know that I am the LORD their God.”’”   
 
-## Chapter 29
+## Ezekiel Chapter 29
 1. In the tenth year, in the tenth month, on the twelfth day of the month, the LORD’s word came to me, saying,  
 2. “Son of man, set your face against Pharaoh king of Egypt, and prophesy against him and against all Egypt.  
 3. Speak and say, ‘The Lord GOD says:  
@@ -33591,7 +33591,7 @@ Because he has said, ‘The river is mine, and I have made it,’
 20. I have given him the land of Egypt as his payment for which he served, because they worked for me,’ says the Lord GOD.   
 21. “In that day I will cause a horn to sprout for the house of Israel, and I will open your mouth among them. Then they will know that I am the LORD.”   
 
-## Chapter 30
+## Ezekiel Chapter 30
 1. The LORD’s word came again to me, saying,  
 2. “Son of man, prophesy, and say, ‘The Lord GOD says:  
 Wail, ‘Alas for the day!’   
@@ -33662,7 +33662,7 @@ Then they will know that I am the LORD.”’”
 25. I will hold up the arms of the king of Babylon, but the arms of Pharaoh will fall down. Then they will know that I am the LORD when I put my sword into the hand of the king of Babylon, and he stretches it out on the land of Egypt.  
 26. I will scatter the Egyptians among the nations and disperse them through the countries. Then they will know that I am the LORD.’”   
 
-## Chapter 31
+## Ezekiel Chapter 31
 1. In the eleventh year, in the third month, in the first day of the month, the LORD’s word came to me, saying,  
 2. “Son of man, tell Pharaoh king of Egypt and his multitude:  
 Whom are you like in your greatness?   
@@ -33703,7 +33703,7 @@ that were in the garden of God, envied it.’
 18. “‘To whom are you thus like in glory and in greatness among the trees of Eden? Yet you will be brought down with the trees of Eden to the lower parts of the earth. You will lie in the middle of the uncircumcised, with those who are slain by the sword.  
 This is Pharaoh and all his multitude,’ says the Lord GOD.”   
 
-## Chapter 32
+## Ezekiel Chapter 32
 1. In the twelfth year, in the twelfth month, in the first day of the month, “the LORD’s word came to me, saying,  
 2. ‘Son of man, take up a lamentation over Pharaoh king of Egypt, and tell him,  
 You were likened to a young lion of the nations;  
@@ -33772,7 +33772,7 @@ then they will know that I am the LORD.
 31. “Pharaoh will see them and will be comforted over all his multitude, even Pharaoh and all his army, slain by the sword,” says the Lord GOD.  
 32. “For I have put his terror in the land of the living. He will be laid among the uncircumcised, with those who are slain by the sword, even Pharaoh and all his multitude,” says the Lord GOD.   
 
-## Chapter 33
+## Ezekiel Chapter 33
 1. The LORD’s word came to me, saying,  
 2. “Son of man, speak to the children of your people, and tell them, ‘When I bring the sword on a land, and the people of the land take a man from among them, and set him for their watchman,  
 3. if, when he sees the sword come on the land, he blows the trumpet and warns the people,  
@@ -33807,7 +33807,7 @@ then they will know that I am the LORD.
 32. Behold, you are to them as a very lovely song of one who has a pleasant voice, and can play well on an instrument; for they hear your words, but they don’t do them.   
 33. “When this comes to pass—behold, it comes—then they will know that a prophet has been among them.”   
 
-## Chapter 34
+## Ezekiel Chapter 34
 1. The LORD’s word came to me, saying,  
 2. “Son of man, prophesy against the shepherds of Israel. Prophesy, and tell them, even the shepherds, ‘The Lord GOD says: “Woe to the shepherds of Israel who feed themselves! Shouldn’t the shepherds feed the sheep?  
 3. You eat the fat. You clothe yourself with the wool. You kill the fatlings, but you don’t feed the sheep.  
@@ -33840,7 +33840,7 @@ then they will know that I am the LORD.
 30. They will know that I, the LORD, their God am with them, and that they, the house of Israel, are my people, says the Lord GOD.  
 31. You my sheep, the sheep of my pasture, are men, and I am your God,’ says the Lord GOD.”   
 
-## Chapter 35
+## Ezekiel Chapter 35
 1. Moreover the LORD’s word came to me, saying,  
 2. “Son of man, set your face against Mount Seir, and prophesy against it,  
 3. and tell it, ‘The Lord GOD says: “Behold, I am against you, Mount Seir, and I will stretch out my hand against you. I will make you a desolation and an astonishment.  
@@ -33857,7 +33857,7 @@ then they will know that I am the LORD.
 14. The Lord GOD says: “When the whole earth rejoices, I will make you desolate.  
 15. As you rejoiced over the inheritance of the house of Israel because it was desolate, so I will do to you. You will be desolate, Mount Seir, and all Edom, even all of it. Then they will know that I am the LORD.’”   
 
-## Chapter 36
+## Ezekiel Chapter 36
 1. You, son of man, prophesy to the mountains of Israel, and say, “You mountains of Israel, hear the LORD’s word.  
 2. The Lord GOD says: ‘Because the enemy has said against you, “Aha!” and, “The ancient high places are ours in possession!”’  
 3. therefore prophesy, and say, ‘The Lord GOD says: “Because, even because they have made you desolate, and swallowed you up on every side, that you might be a possession to the residue of the nations, and you are taken up in the lips of talkers, and the evil report of the people;”  
@@ -33897,7 +33897,7 @@ then they will know that I am the LORD.
 37. “‘The Lord GOD says: “For this, moreover, I will be inquired of by the house of Israel, to do it for them: I will increase them with men like a flock.  
 38. As the flock for sacrifice, as the flock of Jerusalem in her appointed feasts, so the waste cities will be filled with flocks of men. Then they will know that I am the LORD.’”   
 
-## Chapter 37
+## Ezekiel Chapter 37
 1. The LORD’s hand was on me, and he brought me out in the LORD’s Spirit, and set me down in the middle of the valley; and it was full of bones.  
 2. He caused me to pass by them all around; and behold, there were very many in the open valley, and behold, they were very dry.  
 3. He said to me, “Son of man, can these bones live?”  
@@ -33928,7 +33928,7 @@ I answered, “Lord GOD, you know.”
 27. My tent also will be with them. I will be their God, and they will be my people.  
 28. The nations will know that I am the LORD who sanctifies Israel, when my sanctuary is among them forever more.”’”   
 
-## Chapter 38
+## Ezekiel Chapter 38
 1. The LORD’s word came to me, saying,  
 2. “Son of man, set your face toward Gog, of the land of Magog, the prince of Rosh, Meshech, and Tubal, and prophesy against him,  
 3. and say, ‘The Lord GOD says: “Behold, I am against you, Gog, prince of Rosh, Meshech, and Tubal.  
@@ -33953,7 +33953,7 @@ I answered, “Lord GOD, you know.”
 22. I will enter into judgment with him with pestilence and with blood. I will rain on him, on his hordes, and on the many peoples who are with him, torrential rains with great hailstones, fire, and sulfur.  
 23. I will magnify myself and sanctify myself, and I will make myself known in the eyes of many nations. Then they will know that I am the LORD.”’   
 
-## Chapter 39
+## Ezekiel Chapter 39
 1. “You, son of man, prophesy against Gog, and say, ‘The Lord GOD says: “Behold, I am against you, Gog, prince of Rosh, Meshech, and Tubal.  
 2. I will turn you around, will lead you on, and will cause you to come up from the uttermost parts of the north; and I will bring you onto the mountains of Israel.  
 3. I will strike your bow out of your left hand, and will cause your arrows to fall out of your right hand.  
@@ -33984,7 +33984,7 @@ I answered, “Lord GOD, you know.”
 28. They will know that I am the LORD their God, in that I caused them to go into captivity among the nations, and have gathered them to their own land. Then I will leave none of them captive any more.  
 29. I won’t hide my face from them any more, for I have poured out my Spirit on the house of Israel,’ says the Lord GOD.”   
 
-## Chapter 40
+## Ezekiel Chapter 40
 1. In the twenty-fifth year of our captivity, in the beginning of the year, in the tenth day of the month, in the fourteenth year after the city was struck, in the same day, the LORD’s hand was on me, and he brought me there.  
 2. In the visions of God he brought me into the land of Israel, and set me down on a very high mountain, on which was something like the frame of a city to the south.  
 3. He brought me there; and, behold, there was a man whose appearance was like the appearance of bronze, with a line of flax in his hand and a measuring reed; and he stood in the gate.  
@@ -34035,7 +34035,7 @@ I answered, “Lord GOD, you know.”
 48. Then he brought me to the porch of the house, and measured each post of the porch, five cubits on this side, and five cubits on that side. The width of the gate was three cubits on this side and three cubits on that side.  
 49. The length of the porch was twenty cubits and the width eleven cubits, even by the steps by which they went up to it. There were pillars by the posts, one on this side, and another on that side.   
 
-## Chapter 41
+## Ezekiel Chapter 41
 1. He brought me to the nave and measured the posts, six cubits wide on the one side and six cubits wide on the other side, which was the width of the tent.  
 2. The width of the entrance was ten cubits, and the sides of the entrance were five cubits on the one side, and five cubits on the other side. He measured its length, forty cubits, and the width, twenty cubits.   
 3. Then he went inward and measured each post of the entrance, two cubits; and the entrance, six cubits; and the width of the entrance, seven cubits.  
@@ -34063,7 +34063,7 @@ I answered, “Lord GOD, you know.”
 25. There were made on them, on the doors of the nave, cherubim and palm trees, like those made on the walls. There was a threshold of wood on the face of the porch outside.  
 26. There were closed windows and palm trees on the one side and on the other side, on the sides of the porch. This is how the side rooms of the temple and the thresholds were arranged.   
 
-## Chapter 42
+## Ezekiel Chapter 42
 1. Then he brought me out into the outer court, the way toward the north. Then he brought me into the room that was opposite the separate place, and which was opposite the building toward the north.  
 2. Facing the length of one hundred cubits was the north door, and the width was fifty cubits.  
 3. Opposite the twenty cubits which belonged to the inner court, and opposite the pavement which belonged to the outer court, was gallery against gallery in the three stories.  
@@ -34085,7 +34085,7 @@ I answered, “Lord GOD, you know.”
 19. He turned about to the west side, and measured five hundred reeds with the measuring reed.  
 20. He measured it on the four sides. It had a wall around it, the length five hundred cubits, and the width five hundred cubits, to make a separation between that which was holy and that which was common.   
 
-## Chapter 43
+## Ezekiel Chapter 43
 1. Afterward he brought me to the gate, even the gate that looks toward the east.  
 2. Behold, the glory of the God of Israel came from the way of the east. His voice was like the sound of many waters; and the earth was illuminated with his glory.  
 3. It was like the appearance of the vision which I saw, even according to the vision that I saw when I came to destroy the city; and the visions were like the vision that I saw by the river Chebar; and I fell on my face.  
@@ -34114,7 +34114,7 @@ I answered, “Lord GOD, you know.”
 26. Seven days shall they make atonement for the altar and purify it. So shall they consecrate it.  
 27. When they have accomplished the days, it shall be that on the eighth day and onward, the priests shall make your burnt offerings on the altar and your peace offerings. Then I will accept you,’ says the Lord GOD.”   
 
-## Chapter 44
+## Ezekiel Chapter 44
 1. Then he brought me back by the way of the outer gate of the sanctuary, which looks toward the east; and it was shut.  
 2. The LORD said to me, “This gate shall be shut. It shall not be opened, no man shall enter in by it; for the LORD, the God of Israel, has entered in by it. Therefore it shall be shut.  
 3. As for the prince, he shall sit in it as prince to eat bread before the LORD. He shall enter by the way of the porch of the gate, and shall go out the same way.”   
@@ -34147,7 +34147,7 @@ I answered, “Lord GOD, you know.”
 30. The first of all the first fruits of every thing, and every offering of everything, of all your offerings, shall be for the priest. You shall also give to the priests the first of your dough, to cause a blessing to rest on your house.  
 31. The priests shall not eat of anything that dies of itself or is torn, whether it is bird or animal.   
 
-## Chapter 45
+## Ezekiel Chapter 45
 1. “‘“Moreover, when you divide by lot the land for inheritance, you shall offer an offering to the LORD, a holy portion of the land. The length shall be the length of twenty-five thousand reeds, and the width shall be ten thousand. It shall be holy in all its border all around.  
 2. Of this there shall be a five hundred by five hundred square for the holy place, and fifty cubits for its pasture lands all around.  
 3. Of this measure you shall measure a length of twenty-five thousand, and a width of ten thousand. In it shall be the sanctuary, which is most holy.  
@@ -34174,7 +34174,7 @@ I answered, “Lord GOD, you know.”
 24. He shall prepare a meal offering, an ephah for a bull, an ephah for a ram, and a hin of oil to an ephah.   
 25. “‘“In the seventh month, on the fifteenth day of the month, during the feast, he shall do like that for seven days. He shall make the same provision for sin offering, the burnt offering, the meal offering, and the oil.”   
 
-## Chapter 46
+## Ezekiel Chapter 46
 1. “‘The Lord GOD says: “The gate of the inner court that looks toward the east shall be shut the six working days; but on the Sabbath day it shall be opened, and on the day of the new moon it shall be opened.  
 2. The prince shall enter by the way of the porch of the gate outside, and shall stand by the post of the gate; and the priests shall prepare his burnt offering and his peace offerings, and he shall worship at the threshold of the gate. Then he shall go out, but the gate shall not be shut until the evening.  
 3. The people of the land shall worship at the door of that gate before the LORD on the Sabbaths and on the new moons.  
@@ -34200,7 +34200,7 @@ I answered, “Lord GOD, you know.”
 23. There was a wall around in them, around the four, and boiling places were made under the walls all around.  
 24. Then he said to me, “These are the boiling houses, where the ministers of the house shall boil the sacrifice of the people.”   
 
-## Chapter 47
+## Ezekiel Chapter 47
 1. He brought me back to the door of the temple; and behold, waters flowed out from under the threshold of the temple eastward, for the front of the temple faced toward the east. The waters came down from underneath, from the right side of the temple, on the south of the altar.  
 2. Then he brought me out by the way of the gate northward, and led me around by the way outside to the outer gate, by the way of the gate that looks toward the east. Behold, waters ran out on the right side.   
 3. When the man went out eastward with the line in his hand, he measured one thousand cubits, and he caused me to pass through the waters, waters that were to the ankles.  
@@ -34227,7 +34227,7 @@ On the north side, from the great sea, by the way of Hethlon, to the entrance of
 22. You shall divide it by lot for an inheritance to you and to the aliens who live among you, who will father children among you. Then they shall be to you as the native-born among the children of Israel. They shall have inheritance with you among the tribes of Israel.  
 23. In whatever tribe the stranger lives, there you shall give him his inheritance,” says the Lord GOD.   
 
-## Chapter 48
+## Ezekiel Chapter 48
 1. “Now these are the names of the tribes: From the north end, beside the way of Hethlon to the entrance of Hamath, Hazar Enan at the border of Damascus, northward beside Hamath (and they shall have their sides east and west), Dan, one portion.   
 2. “By the border of Dan, from the east side to the west side, Asher, one portion.   
 3. “By the border of Asher, from the east side even to the west side, Naphtali, one portion.   
@@ -34266,7 +34266,7 @@ On the north side, from the great sea, by the way of Hethlon, to the entrance of
 
 # Daniel
 
-## Chapter 1
+## Daniel Chapter 1
 1. In the third year of the reign of Jehoiakim king of Judah, Nebuchadnezzar king of Babylon came to Jerusalem and besieged it.  
 2. The Lord gave Jehoiakim king of Judah into his hand, with some of the vessels of the house of God; and he carried them into the land of Shinar to the house of his god. He brought the vessels into the treasure house of his god.   
 3. The king spoke to Ashpenaz, the master of his eunuchs, that he should bring in some of the children of Israel, even of the royal offspring and of the nobles:  
@@ -34289,7 +34289,7 @@ On the north side, from the great sea, by the way of Hethlon, to the entrance of
 20. In every matter of wisdom and understanding concerning which the king inquired of them, he found them ten times better than all the magicians and enchanters who were in all his realm.   
 21. Daniel continued even to the first year of King Cyrus.   
 
-## Chapter 2
+## Daniel Chapter 2
 1. In the second year of the reign of Nebuchadnezzar, Nebuchadnezzar dreamed dreams; and his spirit was troubled, and his sleep went from him.  
 2. Then the king commanded that the magicians, the enchanters, the sorcerers, and the Chaldeans be called to tell the king his dreams. So they came in and stood before the king.  
 3. The king said to them, “I have dreamed a dream, and my spirit is troubled to know the dream.”   
@@ -34351,7 +34351,7 @@ for you have made known to us the king’s matter.”
 48. Then the king made Daniel great and gave him many great gifts, and made him rule over the whole province of Babylon and to be chief governor over all the wise men of Babylon.  
 49. Daniel requested of the king, and he appointed Shadrach, Meshach, and Abednego over the affairs of the province of Babylon, but Daniel was in the king’s gate.   
 
-## Chapter 3
+## Daniel Chapter 3
 1. Nebuchadnezzar the king made an image of gold, whose height was sixty cubits and its width six cubits. He set it up in the plain of Dura, in the province of Babylon.  
 2. Then Nebuchadnezzar the king sent to gather together the local governors, the deputies, and the governors, the judges, the treasurers, the counselors, the sheriffs, and all the rulers of the provinces, to come to the dedication of the image which Nebuchadnezzar the king had set up.  
 3. Then the local governors, the deputies, and the governors, the judges, the treasurers, the counselors, the sheriffs, and all the rulers of the provinces were gathered together to the dedication of the image that Nebuchadnezzar the king had set up; and they stood before the image that Nebuchadnezzar had set up.   
@@ -34385,7 +34385,7 @@ Then Shadrach, Meshach, and Abednego came out of the middle of the fire.
 29. Therefore I make a decree that every people, nation, and language which speak anything evil against the God of Shadrach, Meshach, and Abednego shall be cut in pieces, and their houses shall be made a dunghill, because there is no other god who is able to deliver like this.”   
 30. Then the king promoted Shadrach, Meshach, and Abednego in the province of Babylon.   
 
-## Chapter 4
+## Daniel Chapter 4
 1. Nebuchadnezzar the king,  
 to all the peoples, nations, and languages, who dwell in all the earth:  
 be multiplied to you.   
@@ -34432,7 +34432,7 @@ and his kingdom from generation to generation.
 36. At the same time my understanding returned to me; and for the glory of my kingdom, my majesty and brightness returned to me. My counselors and my lords sought me; and I was established in my kingdom, and excellent greatness was added to me.  
 37. Now I, Nebuchadnezzar, praise and extol and honor the King of heaven; for all his works are truth, and his ways justice; and those who walk in pride he is able to abase.   
 
-## Chapter 5
+## Daniel Chapter 5
 1. Belshazzar the king made a great feast to a thousand of his lords, and drank wine before the thousand.  
 2. Belshazzar, while he tasted the wine, commanded that the golden and silver vessels which Nebuchadnezzar his father had taken out of the temple which was in Jerusalem be brought to him, that the king and his lords, his wives and his concubines, might drink from them.  
 3. Then they brought the golden vessels that were taken out of the temple of God’s house which was at Jerusalem; and the king and his lords, his wives and his concubines, drank from them.  
@@ -34466,7 +34466,7 @@ MENE: God has counted your kingdom, and brought it to an end.
 30. In that night Belshazzar the Chaldean King was slain.  
 31. Darius the Mede received the kingdom, being about sixty-two years old.   
 
-## Chapter 6
+## Daniel Chapter 6
 1. It pleased Darius to set over the kingdom one hundred twenty local governors, who should be throughout the whole kingdom;  
 2. and over them three presidents, of whom Daniel was one, that these local governors might give account to them, and that the king should suffer no loss.  
 3. Then this Daniel was distinguished above the presidents and the local governors, because an excellent spirit was in him; and the king thought to set him over the whole realm.   
@@ -34504,7 +34504,7 @@ He works signs and wonders in heaven and in earth,
 who has delivered Daniel from the power of the lions.”   
 28. So this Daniel prospered in the reign of Darius and in the reign of Cyrus the Persian.   
 
-## Chapter 7
+## Daniel Chapter 7
 1. In the first year of Belshazzar king of Babylon, Daniel had a dream and visions of his head while on his bed. Then he wrote the dream and told the sum of the matters.   
 2. Daniel spoke and said, “I saw in my vision by night, and, behold, the four winds of the sky broke out on the great sea.  
 3. Four great animals came up from the sea, different from one another.   
@@ -34544,7 +34544,7 @@ So he told me, and made me know the interpretation of the things.
 27. The kingdom and the dominion, and the greatness of the kingdoms under the whole sky, will be given to the people of the saints of the Most High. His kingdom is an everlasting kingdom, and all dominions will serve and obey him.’   
 28. “Here is the end of the matter. As for me, Daniel, my thoughts troubled me greatly, and my face was changed in me; but I kept the matter in my heart.”   
 
-## Chapter 8
+## Daniel Chapter 8
 1. In the third year of the reign of King Belshazzar, a vision appeared to me, even to me, Daniel, after that which appeared to me at the first.  
 2. I saw the vision. Now it was so, that when I saw, I was in the citadel of Susa, which is in the province of Elam. I saw in the vision, and I was by the river Ulai.  
 3. Then I lifted up my eyes and saw, and behold, a ram which had two horns stood before the river. The two horns were high, but one was higher than the other, and the higher came up last.  
@@ -34573,7 +34573,7 @@ So he told me, and made me know the interpretation of the things.
 26. “The vision of the evenings and mornings which has been told is true; but seal up the vision, for it belongs to many days to come.”   
 27. I, Daniel, fainted, and was sick for some days. Then I rose up and did the king’s business. I wondered at the vision, but no one understood it.   
 
-## Chapter 9
+## Daniel Chapter 9
 1. In the first year of Darius the son of Ahasuerus, of the offspring of the Medes, who was made king over the realm of the Chaldeans—  
 2. in the first year of his reign I, Daniel, understood by the books the number of the years about which the LORD’s word came to Jeremiah the prophet for the accomplishing of the desolations of Jerusalem, even seventy years.  
 3. I set my face to the Lord God, to seek by prayer and petitions, with fasting and sackcloth and ashes.   
@@ -34604,7 +34604,7 @@ Therefore the curse and the oath written in the law of Moses the servant of God 
 26. After the sixty-two weeks the Anointed One will be cut off, and will have nothing. The people of the prince who come will destroy the city and the sanctuary. Its end will be with a flood, and war will be even to the end. Desolations are determined.  
 27. He will make a firm covenant with many for one week. In the middle of the week he will cause the sacrifice and the offering to cease. On the wing of abominations will come one who makes desolate; and even to the decreed full end, wrath will be poured out on the desolate.”   
 
-## Chapter 10
+## Daniel Chapter 10
 1. In the third year of Cyrus king of Persia a message was revealed to Daniel, whose name was called Belteshazzar; and the message was true, even a great warfare. He understood the message, and had understanding of the vision.   
 2. In those days I, Daniel, was mourning three whole weeks.  
 3. I ate no pleasant food. No meat or wine came into my mouth. I didn’t anoint myself at all, until three whole weeks were fulfilled.   
@@ -34628,7 +34628,7 @@ When he spoke to me, I was strengthened, and said, “Let my lord speak, for you
 20. Then he said, “Do you know why I have come to you? Now I will return to fight with the prince of Persia. When I go out, behold, the prince of Greece will come.  
 21. But I will tell you that which is inscribed in the writing of truth. There is no one who holds with me against these but Michael your prince.   
 
-## Chapter 11
+## Daniel Chapter 11
 1. “As for me, in the first year of Darius the Mede, I stood up to confirm and strengthen him.   
 2. “Now I will show you the truth. Behold, three more kings will stand up in Persia. The fourth will be far richer than all of them. When he has grown strong through his riches, he will stir up all against the realm of Greece.  
 3. A mighty king will stand up, who will rule with great dominion, and do according to his will.  
@@ -34675,7 +34675,7 @@ When he spoke to me, I was strengthened, and said, “Let my lord speak, for you
 44. But news out of the east and out of the north will trouble him; and he will go out with great fury to destroy and utterly to sweep away many.  
 45. He will plant the tents of his palace between the sea and the glorious holy mountain; yet he will come to his end, and no one will help him.   
 
-## Chapter 12
+## Daniel Chapter 12
 1. “At that time Michael will stand up, the great prince who stands for the children of your people; and there will be a time of trouble, such as never was since there was a nation even to that same time. At that time your people will be delivered, everyone who is found written in the book.  
 2. Many of those who sleep in the dust of the earth will awake, some to everlasting life, and some to shame and everlasting contempt.  
 3. Those who are wise will shine as the brightness of the expanse. Those who turn many to righteousness will shine as the stars forever and ever.  
@@ -34692,7 +34692,7 @@ When he spoke to me, I was strengthened, and said, “Let my lord speak, for you
 
 # Hosea
 
-## Chapter 1
+## Hosea Chapter 1
 1. The LORD’s word that came to Hosea the son of Beeri, in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah, and in the days of Jeroboam the son of Joash, king of Israel.   
 2. When the LORD spoke at first by Hosea, the LORD said to Hosea, “Go, take for yourself a wife of prostitution and children of unfaithfulness; for the land commits great adultery, forsaking the LORD.”   
 3. So he went and took Gomer the daughter of Diblaim; and she conceived, and bore him a son.   
@@ -34706,7 +34706,7 @@ Then he said to him, “Call her name Lo-Ruhamah, for I will no longer have merc
 10. Yet the number of the children of Israel will be as the sand of the sea, which can’t be measured or counted; and it will come to pass that, in the place where it was said to them, ‘You are not my people,’ they will be called ‘sons of the living God.’  
 11. The children of Judah and the children of Israel will be gathered together, and they will appoint themselves one head, and will go up from the land; for great will be the day of Jezreel.   
 
-## Chapter 2
+## Hosea Chapter 2
 1. “Say to your brothers, ‘My people!’ 
 and to your sisters, ‘My loved one!’  
 2. Contend with your mother!  
@@ -34786,14 +34786,14 @@ and I will have mercy on her who had not obtained mercy;
 and I will tell those who were not my people, ‘You are my people;’  
 and they will say, ‘You are My God!’”   
 
-## Chapter 3
+## Hosea Chapter 3
 1. The LORD said to me, “Go again, love a woman loved by another, and an adulteress, even as the LORD loves the children of Israel, though they turn to other gods, and love cakes of raisins.”   
 2. So I bought her for myself for fifteen pieces of silver and a homer and a half of barley.  
 3. I said to her, “You shall stay with me many days. You shall not play the prostitute, and you shall not be with any other man. I will also be so toward you.”   
 4. For the children of Israel shall live many days without king, without prince, without sacrifice, without sacred stone, and without ephod or idols.  
 5. Afterward the children of Israel shall return and seek the LORD their God, and David their king, and shall come with trembling to the LORD and to his blessings in the last days.   
 
-## Chapter 4
+## Hosea Chapter 4
 1. Hear the LORD’s word, you children of Israel,  
 for the LORD has a charge against the inhabitants of the land:  
 Indeed there is no truth, nor goodness,  
@@ -34855,7 +34855,7 @@ Her rulers dearly love their shameful way.
 19. The wind has wrapped her up in its wings;  
 and they shall be disappointed because of their sacrifices.   
 
-## Chapter 5
+## Hosea Chapter 5
 1. “Listen to this, you priests!  
 Listen, house of Israel,  
 and give ear, house of the king!  
@@ -34907,7 +34907,7 @@ until they acknowledge their offense,
 and seek my face.  
 In their affliction they will seek me earnestly.”   
 
-## Chapter 6
+## Hosea Chapter 6
 1. “Come! Let’s return to the LORD;  
 for he has torn us to pieces,  
 and he will heal us;  
@@ -34944,7 +34944,7 @@ Israel is defiled.
 11. “Also, Judah, there is a harvest appointed for you,  
 when I restore the fortunes of my people.   
 
-## Chapter 7
+## Hosea Chapter 7
 1. When I would heal Israel,  
 then the iniquity of Ephraim is uncovered,  
 also the wickedness of Samaria;  
@@ -35001,7 +35001,7 @@ They are like a faulty bow.
 Their princes will fall by the sword for the rage of their tongue.  
 This will be their derision in the land of Egypt.   
 
-## Chapter 8
+## Hosea Chapter 8
 1. “Put the trumpet to your lips!  
 like an eagle is over the LORD’s house,  
 because they have broken my covenant 
@@ -35047,7 +35047,7 @@ and Judah has multiplied fortified cities;
 but I will send a fire on his cities,  
 and it will devour its fortresses.”   
 
-## Chapter 9
+## Hosea Chapter 9
 1. Don’t rejoice, Israel, to jubilation like the nations;  
 for you were unfaithful to your God.  
 You love the wages of a prostitute at every grain threshing floor.   
@@ -35107,7 +35107,7 @@ Even though they give birth, yet I will kill the beloved ones of their womb.”
 17. My God will cast them away, because they didn’t listen to him;  
 and they will be wanderers among the nations.   
 
-## Chapter 10
+## Hosea Chapter 10
 1. Israel is a luxuriant vine that produces his fruit.  
 to the abundance of his fruit he has multiplied his altars.  
 As their land has prospered, they have adorned their sacred stones.   
@@ -35158,7 +35158,7 @@ The mother was dashed in pieces with her children.
 15. So Bethel will do to you because of your great wickedness.  
 At daybreak the king of Israel will be destroyed.   
 
-## Chapter 11
+## Hosea Chapter 11
 1. “When Israel was a child, then I loved him,  
 and called my son out of Egypt.   
 2. They called to them, so they went from them.  
@@ -35197,7 +35197,7 @@ and like a dove out of the land of Assyria;
 and I will settle them in their houses,” says the LORD.   
 12. Ephraim surrounds me with falsehood,  
 
-## Chapter 12
+## Hosea Chapter 12
 1. Ephraim feeds on wind,  
 and chases the east wind.  
 He continually multiplies lies and desolation.  
@@ -35239,7 +35239,7 @@ and by a prophet he was preserved.
 Therefore his blood will be left on him,  
 and his Lord will repay his contempt.   
 
-## Chapter 13
+## Hosea Chapter 13
 1. When Ephraim spoke, there was trembling.  
 He exalted himself in Israel,  
 but when he became guilty through Baal, he died.   
@@ -35289,7 +35289,7 @@ and his fountain will be dried up.
 He will plunder the storehouse of treasure.   
 16. Samaria will bear her guilt,  
 
-## Chapter 14
+## Hosea Chapter 14
 1. Israel, return to the LORD your God;  
 for you have fallen because of your sin.   
 2. Take words with you, and return to the LORD.  
@@ -35325,7 +35325,7 @@ but the rebellious stumble in them.
 
 # Joel
 
-## Chapter 1
+## Joel Chapter 1
 1. The LORD’s word that came to Joel, the son of Pethuel.   
 2. Hear this, you elders,  
 and listen, all you inhabitants of the land!  
@@ -35389,7 +35389,7 @@ and the flame has burned all the trees of the field.
 for the water brooks have dried up,  
 and the fire has devoured the pastures of the wilderness.   
 
-## Chapter 2
+## Joel Chapter 2
 1. Blow the trumpet in Zion,  
 and sound an alarm in my holy mountain!  
 all the inhabitants of the land tremble,  
@@ -35504,7 +35504,7 @@ LORD comes.
 LORD has said,  
 LORD calls.   
 
-## Chapter 3
+## Joel Chapter 3
 1. “For, behold, in those days,  
 and in that time,  
 when I restore the fortunes of Judah and Jerusalem,   
@@ -35551,7 +35551,7 @@ LORD dwells in Zion.”
 
 # Amos
 
-## Chapter 1
+## Amos Chapter 1
 1. The words of Amos, who was among the herdsmen of Tekoa, which he saw concerning Israel in the days of Uzziah king of Judah and in the days of Jeroboam the son of Joash, king of Israel, two years before the earthquake.  
 2. He said:  
 The LORD will roar from Zion,  
@@ -35610,7 +35610,7 @@ with a storm in the day of the whirlwind;
 he and his princes together,”  
 the LORD.   
 
-## Chapter 2
+## Amos Chapter 2
 1. The LORD says:  
 For three transgressions of Moab, yes, for four,  
 I will not turn away its punishment,  
@@ -35666,7 +35666,7 @@ He who rides the horse won’t deliver himself.
 will flee away naked on that day,”  
 says the LORD.   
 
-## Chapter 3
+## Amos Chapter 3
 1. Hear this word that the LORD has spoken against you, children of Israel, against the whole family which I brought up out of the land of Egypt, saying:   
 2. “I have only chosen you of all the families of the earth.  
 Therefore I will punish you for all of your sins.”   
@@ -35716,7 +35716,7 @@ and the houses of ivory will perish,
 and the great houses will have an end,”  
 says the LORD.   
 
-## Chapter 4
+## Amos Chapter 4
 1. Listen to this word, you cows of Bashan, who are on the mountain of Samaria, who oppress the poor, who crush the needy, who tell their husbands, “Bring us drinks!”   
 2. The Lord GOD has sworn by his holiness,  
 Behold, the days shall come on you that they will take you away with hooks,  
@@ -35762,7 +35762,7 @@ prepare to meet your God, Israel.
 who makes the morning darkness, and treads on the high places of the earth:  
 The LORD, the God of Armies, is his name.”   
 
-## Chapter 5
+## Amos Chapter 5
 1. Listen to this word which I take up for a lamentation over you, O house of Israel:   
 2. “The virgin of Israel has fallen;  
 She shall rise no more.  
@@ -35840,7 +35840,7 @@ and righteousness like a mighty stream.
 26. You also carried the tent of your king and the shrine of your images, the star of your god, which you made for yourselves.  
 27. Therefore I will cause you to go into captivity beyond Damascus,” says the LORD, whose name is the God of Armies.   
 
-## Chapter 6
+## Amos Chapter 6
 1. Woe to those who are at ease in Zion,  
 and to those who are secure on the mountain of Samaria,  
 the notable men of the chief of the nations,  
@@ -35882,7 +35882,7 @@ we taken for ourselves horns by our own strength?’
 says the LORD, the God of Armies;  
 and they will afflict you from the entrance of Hamath to the brook of the Arabah.”   
 
-## Chapter 7
+## Amos Chapter 7
 1. Thus the Lord GOD showed me: behold, he formed locusts in the beginning of the shooting up of the latter growth; and behold, it was the latter growth after the king’s harvest.  
 2. When they finished eating the grass of the land, then I said, “Lord GOD, forgive, I beg you! How could Jacob stand? For he is small.”   
 3. The LORD relented concerning this. “It shall not be,” says the LORD.   
@@ -35903,7 +35903,7 @@ Then the Lord said, “Behold, I will set a plumb line in the middle of my peopl
 16. Now therefore listen to the LORD’s word: ‘You say, Don’t prophesy against Israel, and don’t preach against the house of Isaac.’  
 17. Therefore the LORD says: ‘Your wife shall be a prostitute in the city, and your sons and your daughters shall fall by the sword, and your land shall be divided by line; and you yourself shall die in a land that is unclean, and Israel shall surely be led away captive out of his land.’”   
 
-## Chapter 8
+## Amos Chapter 8
 1. Thus the Lord GOD showed me: behold, a basket of summer fruit.   
 2. He said, “Amos, what do you see?”  
 I said, “A basket of summer fruit.”  
@@ -35952,7 +35952,7 @@ and say, ‘As your god, Dan, lives,’
 and, ‘As the way of Beersheba lives,’  
 they will fall, and never rise up again.”   
 
-## Chapter 9
+## Amos Chapter 9
 1. I saw the Lord standing beside the altar, and he said, “Strike the tops of the pillars, that the thresholds may shake. Break them in pieces on the head of all of them. I will kill the last of them with the sword. Not one of them will flee away. Not one of them will escape.  
 2. Though they dig into Sheol, there my hand will take them; and though they climb up to heaven, there I will bring them down.  
 3. Though they hide themselves in the top of Carmel, I will search and take them out from there; and though they be hidden from my sight in the bottom of the sea, there I will command the serpent, and it will bite them.  
@@ -35981,7 +35981,7 @@ the LORD your God.
 
 # Obadiah
 
-## Chapter 1
+## Obadiah Chapter 1
 1. The vision of Obadiah. This is what the Lord GOD says about Edom. We have heard news from the LORD, and an ambassador is sent among the nations, saying, “Arise, and let’s rise up against her in battle.  
 2. Behold, I have made you small among the nations. You are greatly despised.  
 3. The pride of your heart has deceived you, you who dwell in the clefts of the rock, whose habitation is high, who says in his heart, ‘Who will bring me down to the ground?’  
@@ -36006,7 +36006,7 @@ the LORD your God.
 
 # Jonah
 
-## Chapter 1
+## Jonah Chapter 1
 1. Now the LORD’s word came to Jonah the son of Amittai, saying,  
 2. “Arise, go to Nineveh, that great city, and preach against it, for their wickedness has come up before me.”   
 3. But Jonah rose up to flee to Tarshish from the presence of the LORD. He went down to Joppa, and found a ship going to Tarshish; so he paid its fare, and went down into it, to go with them to Tarshish from the presence of the LORD.   
@@ -36025,7 +36025,7 @@ the LORD your God.
 16. Then the men feared the LORD exceedingly; and they offered a sacrifice to the LORD and made vows.   
 17. The LORD prepared a huge fish to swallow up Jonah, and Jonah was in the belly of the fish three days and three nights.   
 
-## Chapter 2
+## Jonah Chapter 2
 1. Then Jonah prayed to the LORD, his God, out of the fish’s belly.  
 2. He said,  
 I called because of my affliction to the LORD.  
@@ -36053,7 +36053,7 @@ will pay that which I have vowed.
 to the LORD.”   
 10. Then the LORD spoke to the fish, and it vomited out Jonah on the dry land.   
 
-## Chapter 3
+## Jonah Chapter 3
 1. The LORD’s word came to Jonah the second time, saying,  
 2. “Arise, go to Nineveh, that great city, and preach to it the message that I give you.”   
 3. So Jonah arose, and went to Nineveh, according to the LORD’s word. Now Nineveh was an exceedingly great city, three days’ journey across.  
@@ -36065,7 +36065,7 @@ to the LORD.”
 9. Who knows whether God will not turn and relent, and turn away from his fierce anger, so that we might not perish?”   
 10. God saw their works, that they turned from their evil way. God relented of the disaster which he said he would do to them, and he didn’t do it.   
 
-## Chapter 4
+## Jonah Chapter 4
 1. But it displeased Jonah exceedingly, and he was angry.  
 2. He prayed to the LORD, and said, “Please, LORD, wasn’t this what I said when I was still in my own country? Therefore I hurried to flee to Tarshish, for I knew that you are a gracious God and merciful, slow to anger, and abundant in loving kindness, and you relent of doing harm.  
 3. Therefore now, LORD, take, I beg you, my life from me, for it is better for me to die than to live.”   
@@ -36081,7 +36081,7 @@ He said, “I am right to be angry, even to death.”
 
 # Micah
 
-## Chapter 1
+## Micah Chapter 1
 1. The LORD’s word that came to Micah of Morasheth in the days of Jotham, Ahaz, and Hezekiah, kings of Judah, which he saw concerning Samaria and Jerusalem.   
 2. Hear, you peoples, all of you!  
 Listen, O earth, and all that is therein.  
@@ -36135,7 +36135,7 @@ and cut off your hair for the children of your delight.
 Enlarge your baldness like the vulture,  
 for they have gone into captivity from you!   
 
-## Chapter 2
+## Micah Chapter 2
 1. Woe to those who devise iniquity  
 and work evil on their beds!  
 When the morning is light, they practice it,  
@@ -36183,7 +36183,7 @@ They break through the gate, and go out.
 Their king passes on before them,  
 with the LORD at their head.   
 
-## Chapter 3
+## Micah Chapter 3
 1. I said,  
 Please listen, you heads of Jacob,  
 and rulers of the house of Israel:  
@@ -36230,7 +36230,7 @@ No disaster will come on us.”
 and Jerusalem will become heaps of rubble,  
 and the mountain of the temple like the high places of a forest.   
 
-## Chapter 4
+## Micah Chapter 4
 1. But in the latter days,  
 it will happen that the mountain of the LORD’s temple will be established on the top of the mountains,  
 and it will be exalted above the hills;  
@@ -36288,7 +36288,7 @@ You will beat in pieces many peoples.
 I will devote their gain to the LORD,  
 and their substance to the Lord of the whole earth.   
 
-## Chapter 5
+## Micah Chapter 5
 1. Now you shall gather yourself in troops,  
 of troops.  
 He has laid siege against us.  
@@ -36337,7 +36337,7 @@ and you shall no more worship the work of your hands.
 and I will destroy your cities.   
 15. I will execute vengeance in anger  
 
-## Chapter 6
+## Micah Chapter 6
 1. Listen now to what the LORD says:  
 Arise, plead your case before the mountains,  
 and let the hills hear what you have to say.   
@@ -36392,7 +36392,7 @@ that I may make you a ruin,
 and your inhabitants a hissing.  
 You will bear the reproach of my people.”   
 
-## Chapter 7
+## Micah Chapter 7
 1. Misery is mine!  
 Indeed, I am like one who gathers the summer fruits, as gleanings of the vineyard.  
 There is no cluster of grapes to eat.  
@@ -36469,7 +36469,7 @@ as you have sworn to our fathers from the days of old.
 
 # Nahum
 
-## Chapter 1
+## Nahum Chapter 1
 1. A revelation about Nineveh. The book of the vision of Nahum the Elkoshite.  
 2. The LORD is a jealous God and avenges. The LORD avenges and is full of wrath. The LORD takes vengeance on his adversaries, and he maintains wrath against his enemies.  
 3. The LORD is slow to anger, and great in power, and will by no means leave the guilty unpunished. The LORD has his way in the whirlwind and in the storm, and the clouds are the dust of his feet.  
@@ -36486,7 +36486,7 @@ as you have sworn to our fathers from the days of old.
 14. The LORD has commanded concerning you: “No more descendants will bear your name. Out of the house of your gods, I will cut off the engraved image and the molten image. I will make your grave, for you are vile.”   
 15. Behold,on the mountains the feet of him who brings good news, who publishes peace! Keep your feasts, Judah! Perform your vows, for the wicked one will no more pass through you. He is utterly cut off.   
 
-## Chapter 2
+## Nahum Chapter 2
 1. He who dashes in pieces has come up against you. Keep the fortress! Watch the way! Strengthen your waist! Fortify your power mightily!   
 2. For the LORD restores the excellency of Jacob as the excellency of Israel, for the destroyers have destroyed them and ruined their vine branches.   
 3. The shield of his mighty men is made red. The valiant men are in scarlet. The chariots flash with steel in the day of his preparation, and the pine spears are brandished.  
@@ -36501,7 +36501,7 @@ as you have sworn to our fathers from the days of old.
 12. The lion tore in pieces enough for his cubs, and strangled prey for his lionesses, and filled his caves with the kill and his dens with prey.  
 13. “Behold, I am against you,” says the LORD of Armies, “and I will burn her chariots in the smoke, and the sword will devour your young lions; and I will cut off your prey from the earth, and the voice of your messengers will no longer be heard.”   
 
-## Chapter 3
+## Nahum Chapter 3
 1. Woe to the bloody city! It is all full of lies and robbery—no end to the prey.  
 2. The noise of the whip, the noise of the rattling of wheels, prancing horses, and bounding chariots,  
 3. the horseman charging, and the flashing sword, the glittering spear, and a multitude of slain, and a great heap of corpses, and there is no end of the bodies. They stumble on their bodies 
@@ -36524,7 +36524,7 @@ as you have sworn to our fathers from the days of old.
 
 # Habakkuk
 
-## Chapter 1
+## Habakkuk Chapter 1
 1. The revelation which Habakkuk the prophet saw.  
 2. LORD, how long will I cry, and you will not hear? I cry out to you “Violence!” and will you not save?  
 3. Why do you show me iniquity, and look at perversity? For destruction and violence are before me. There is strife, and contention rises up.  
@@ -36543,7 +36543,7 @@ as you have sworn to our fathers from the days of old.
 16. Therefore he sacrifices to his net and burns incense to his dragnet, because by them his life is luxurious and his food is good.  
 17. Will he therefore continually empty his net, and kill the nations without mercy?   
 
-## Chapter 2
+## Habakkuk Chapter 2
 1. I will stand at my watch and set myself on the ramparts, and will look out to see what he will say to me, and what I will answer concerning my complaint.   
 2. The LORD answered me, “Write the vision, and make it plain on tablets, that he who runs may read it.  
 3. For the vision is yet for the appointed time, and it hurries toward the end, and won’t prove false. Though it takes time, wait for it, because it will surely come. It won’t delay.  
@@ -36565,7 +36565,7 @@ as you have sworn to our fathers from the days of old.
 19. Woe to him who says to the wood, ‘Awake!’ or to the mute stone, ‘Arise!’ Shall this teach? Behold, it is overlaid with gold and silver, and there is no breath at all within it.  
 20. But the LORD is in his holy temple. Let all the earth be silent before him!”   
 
-## Chapter 3
+## Habakkuk Chapter 3
 1. A prayer of Habakkuk, the prophet, set to victorious music.   
 2. LORD, I have heard of your fame.  
 I stand in awe of your deeds, LORD.  
@@ -36629,7 +36629,7 @@ For the music director, on my stringed instruments.
 
 # Zephaniah
 
-## Chapter 1
+## Zephaniah Chapter 1
 1. The LORD’s word which came to Zephaniah, the son of Cushi, the son of Gedaliah, the son of Amariah, the son of Hezekiah, in the days of Josiah, the son of Amon, king of Judah.   
 2. I will utterly sweep away everything from the surface of the earth, says the LORD.  
 3. I will sweep away man and animal. I will sweep away the birds of the sky, the fish of the sea, and the heaps of rubble with the wicked. I will cut off man from the surface of the earth, says the LORD.  
@@ -36649,7 +36649,7 @@ For the music director, on my stringed instruments.
 17. I will bring such distress on men that they will walk like blind men because they have sinned against the LORD. Their blood will be poured out like dust and their flesh like dung.  
 18. Neither their silver nor their gold will be able to deliver them in the day of the LORD’s wrath, but the whole land will be devoured by the fire of his jealousy; for he will make an end, yes, a terrible end, of all those who dwell in the land.   
 
-## Chapter 2
+## Zephaniah Chapter 2
 1. Gather yourselves together, yes, gather together, you nation that has no shame,  
 2. before the appointed time when the day passes as the chaff, before the fierce anger of the LORD comes on you, before the day of the LORD’s anger comes on you.  
 3. Seek the LORD, all you humble of the land, who have kept his ordinances. Seek righteousness. Seek humility. It may be that you will be hidden in the day of the LORD’s anger.  
@@ -36666,7 +36666,7 @@ For the music director, on my stringed instruments.
 14. Herds will lie down in the middle of her, all kinds of animals. Both the pelican and the porcupine will lodge in its capitals. Their calls will echo through the windows. Desolation will be in the thresholds, for he has laid bare the cedar beams.  
 15. This is the joyous city that lived carelessly, that said in her heart, “I am, and there is no one besides me.” How she has become a desolation, a place for animals to lie down in! Everyone who passes by her will hiss and shake their fists.   
 
-## Chapter 3
+## Zephaniah Chapter 3
 1. Woe to her who is rebellious and polluted, the oppressing city!  
 2. She didn’t obey the voice. She didn’t receive correction. She didn’t trust in the LORD. She didn’t draw near to her God.   
 3. Her princes within her are roaring lions. Her judges are evening wolves. They leave nothing until the next day.  
@@ -36690,7 +36690,7 @@ For the music director, on my stringed instruments.
 
 # Haggai
 
-## Chapter 1
+## Haggai Chapter 1
 1. In the second year of Darius the king, in the sixth month, in the first day of the month, the LORD’s word came by Haggai the prophet, to Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Jehozadak, the high priest, saying,  
 2. “This is what the LORD of Armies says: These people say, ‘The time hasn’t yet come, the time for the LORD’s house to be built.’”   
 3. Then the LORD’s word came by Haggai the prophet, saying,  
@@ -36707,7 +36707,7 @@ For the music director, on my stringed instruments.
 14. The LORD stirred up the spirit of Zerubbabel the son of Shealtiel, governor of Judah, and the spirit of Joshua the son of Jehozadak, the high priest, and the spirit of all the remnant of the people; and they came and worked on the house of the LORD of Armies, their God,  
 15. in the twenty-fourth day of the month, in the sixth month, in the second year of Darius the king.   
 
-## Chapter 2
+## Haggai Chapter 2
 1. In the seventh month, in the twenty-first day of the month, the LORD’s word came by Haggai the prophet, saying,  
 2. “Speak now to Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Jehozadak, the high priest, and to the remnant of the people, saying,  
 3. ‘Who is left among you who saw this house in its former glory? How do you see it now? Isn’t it in your eyes as nothing?  
@@ -36736,7 +36736,7 @@ The priests answered, “It will be unclean.”
 
 # Zechariah
 
-## Chapter 1
+## Zechariah Chapter 1
 1. In the eighth month, in the second year of Darius, the LORD’s word came to the prophet Zechariah the son of Berechiah, the son of Iddo, saying,  
 2. “The LORD was very displeased with your fathers.  
 3. Therefore tell them, the LORD of Armies says: ‘Return to me,’ says the LORD of Armies, ‘and I will return to you,’ says the LORD of Armies.  
@@ -36761,7 +36761,7 @@ The angel who talked with me said to me, “I will show you what these are.”
 20. The LORD showed me four craftsmen.  
 21. Then I asked, “What are these coming to do?”  
 
-## Chapter 2
+## Zechariah Chapter 2
 1. I lifted up my eyes, and saw, and behold, a man with a measuring line in his hand.  
 2. Then I asked, “Where are you going?”  
 He said to me, “To measure Jerusalem, to see what is its width and what is its length.”   
@@ -36777,7 +36777,7 @@ He said to me, “To measure Jerusalem, to see what is its width and what is its
 12. The LORD will inherit Judah as his portion in the holy land, and will again choose Jerusalem.  
 13. Be silent, all flesh, before the LORD; for he has roused himself from his holy habitation!”   
 
-## Chapter 3
+## Zechariah Chapter 3
 1. He showed me Joshua the high priest standing before the LORD’s angel, and Satan standing at his right hand to be his adversary.  
 2. The LORD said to Satan, “The LORD rebuke you, Satan! Yes, the LORD who has chosen Jerusalem rebuke you! Isn’t this a burning stick plucked out of the fire?”   
 3. Now Joshua was clothed with filthy garments, and was standing before the angel.  
@@ -36790,7 +36790,7 @@ So they set a clean turban on his head, and clothed him; and the LORD’s angel 
 9. For, behold, the stone that I have set before Joshua: on one stone are seven eyes; behold, I will engrave its inscription,’ says the LORD of Armies, ‘and I will remove the iniquity of that land in one day.  
 10. In that day,’ says the LORD of Armies, ‘you will invite every man his neighbor under the vine and under the fig tree.’”   
 
-## Chapter 4
+## Zechariah Chapter 4
 1. The angel who talked with me came again and wakened me, as a man who is wakened out of his sleep.  
 2. He said to me, “What do you see?”  
 I said, “I have seen, and behold, a lamp stand all of gold, with its bowl on the top of it, and its seven lamps on it; there are seven pipes to each of the lamps which are on the top of it;  
@@ -36809,7 +36809,7 @@ I said, “No, my lord.”
 I said, “No, my lord.”   
 14. Then he said, “These are the two anointed ones who stand by the Lord of the whole earth.”   
 
-## Chapter 5
+## Zechariah Chapter 5
 1. Then again I lifted up my eyes and saw, and behold, a flying scroll.  
 2. He said to me, “What do you see?”  
 I answered, “I see a flying scroll; its length is twenty cubits, and its width ten cubits.”   
@@ -36824,7 +36824,7 @@ He said, “This is the ephah basket that is appearing.” He said moreover, “
 10. Then I said to the angel who talked with me, “Where are these carrying the ephah basket?”   
 11. He said to me, “To build her a house in the land of Shinar. When it is prepared, she will be set there in her own place.”   
 
-## Chapter 6
+## Zechariah Chapter 6
 1. Again I lifted up my eyes, and saw, and behold, four chariots came out from between two mountains; and the mountains were mountains of bronze.  
 2. In the first chariot were red horses. In the second chariot were black horses.  
 3. In the third chariot were white horses. In the fourth chariot were dappled horses, all of them powerful.  
@@ -36841,7 +36841,7 @@ He said, “This is the ephah basket that is appearing.” He said moreover, “
 14. The crowns shall be to Helem, to Tobijah, to Jedaiah, and to Hen the son of Zephaniah, for a memorial in the LORD’s temple.   
 15. Those who are far off shall come and build in the LORD’s temple; and you shall know that the LORD of Armies has sent me to you. This will happen, if you will diligently obey the LORD your God’s voice.”’”  
 
-## Chapter 7
+## Zechariah Chapter 7
 1. In the fourth year of King Darius, the LORD’s word came to Zechariah in the fourth day of the ninth month, the month of Chislev.  
 2. The people of Bethel sent Sharezer and Regem Melech and their men to entreat the LORD’s favor,  
 3. and to speak to the priests of the house of the LORD of Armies and to the prophets, saying, “Should I weep in the fifth month, separating myself, as I have done these so many years?”   
@@ -36857,7 +36857,7 @@ He said, “This is the ephah basket that is appearing.” He said moreover, “
 13. It has come to pass that, as he called and they refused to listen, so they will call and I will not listen,” said the LORD of Armies;  
 14. “but I will scatter them with a whirlwind among all the nations which they have not known. Thus the land was desolate after them, so that no man passed through nor returned; for they made the pleasant land desolate.”   
 
-## Chapter 8
+## Zechariah Chapter 8
 1. The word of the LORD of Armies came to me.  
 2. The LORD of Armies says: “I am jealous for Zion with great jealousy, and I am jealous for her with great wrath.”   
 3. The LORD says: “I have returned to Zion, and will dwell in the middle of Jerusalem. Jerusalem shall be called ‘The City of Truth;’ and the mountain of the LORD of Armies, ‘The Holy Mountain.’”   
@@ -36882,7 +36882,7 @@ He said, “This is the ephah basket that is appearing.” He said moreover, “
 22. Yes, many peoples and strong nations will come to seek the LORD of Armies in Jerusalem and to entreat the favor of the LORD.”  
 23. The LORD of Armies says: “In those days, ten men out of all the languages of the nations will take hold of the skirt of him who is a Jew, saying, ‘We will go with you, for we have heard that God is with you.’”   
 
-## Chapter 9
+## Zechariah Chapter 9
 1. A revelation.  
 The LORD’s word is against the land of Hadrach,  
 and will rest upon Damascus—  
@@ -36951,7 +36951,7 @@ and how great is his beauty!
 Grain will make the young men flourish,  
 and new wine the virgins.   
 
-## Chapter 10
+## Zechariah Chapter 10
 1. Ask of the LORD rain in the spring time,  
 the LORD who makes storm clouds,  
 and he gives rain showers to everyone for the plants in the field.   
@@ -37001,7 +37001,7 @@ and the scepter of Egypt will depart.
 12. I will strengthen them in the LORD.  
 They will walk up and down in his name,” says the LORD.   
 
-## Chapter 11
+## Zechariah Chapter 11
 1. Open your doors, Lebanon,  
 the fire may devour your cedars.   
 2. Wail, cypress tree, for the cedar has fallen,  
@@ -37026,7 +37026,7 @@ For the pride of the Jordan is ruined.
 16. For, behold, I will raise up a shepherd in the land who will not visit those who are cut off, neither will seek those who are scattered, nor heal that which is broken, nor feed that which is sound; but he will eat the meat of the fat sheep, and will tear their hoofs in pieces.  
 17. Woe to the worthless shepherd who leaves the flock! The sword will strike his arm and his right eye. His arm will be completely withered, and his right eye will be totally blinded!”   
 
-## Chapter 12
+## Zechariah Chapter 12
 1. A revelation of the LORD’s word concerning Israel: The LORD, who stretches out the heavens and lays the foundation of the earth, and forms the spirit of man within him says:  
 2. “Behold, I will make Jerusalem a cup of reeling to all the surrounding peoples, and it will also be on Judah in the siege against Jerusalem.  
 3. It will happen in that day that I will make Jerusalem a burdensome stone for all the peoples. All who burden themselves with it will be severely wounded, and all the nations of the earth will be gathered together against it.  
@@ -37042,7 +37042,7 @@ For the pride of the Jordan is ruined.
 13. the family of the house of Levi apart, and their wives apart; the family of the Shimeites apart, and their wives apart;  
 14. all the families who remain, every family apart, and their wives apart.   
 
-## Chapter 13
+## Zechariah Chapter 13
 1. “In that day there will be a fountain opened to David’s house and to the inhabitants of Jerusalem, for sin and for uncleanness.   
 2. It will come to pass in that day, says the LORD of Armies, that I will cut off the names of the idols out of the land, and they will be remembered no more. I will also cause the prophets and the spirit of impurity to pass out of the land.  
 3. It will happen that when anyone still prophesies, then his father and his mother who bore him will tell him, ‘You must die, because you speak lies in the LORD’s name;’ and his father and his mother who bore him will stab him when he prophesies.  
@@ -37063,7 +37063,7 @@ They will call on my name, and I will hear them.
 I will say, ‘It is my people;’  
 and they will say, ‘The LORD is my God.’”   
 
-## Chapter 14
+## Zechariah Chapter 14
 1. Behold, a day of the LORD comes, when your plunder will be divided within you.  
 2. For I will gather all nations against Jerusalem to battle; and the city will be taken, the houses rifled, and the women ravished. Half of the city will go out into captivity, and the rest of the people will not be cut off from the city.  
 3. Then the LORD will go out and fight against those nations, as when he fought in the day of battle.  
@@ -37088,7 +37088,7 @@ and they will say, ‘The LORD is my God.’”
 
 # Malachi
 
-## Chapter 1
+## Malachi Chapter 1
 1. A revelation, the LORD’s word to Israel by Malachi.   
 2. “I have loved you,” says the LORD.  
 Yet you say, “How have you loved us?”  
@@ -37106,7 +37106,7 @@ Esau Jacob’s brother?” says the LORD, “Yet I loved Jacob;
 13. You say also, ‘Behold, what a weariness it is!’ And you have sniffed at it”, says the LORD of Armies; “and you have brought that which was taken by violence, the lame, and the sick; thus you bring the offering. Should I accept this at your hand?” says the LORD.   
 14. “But the deceiver is cursed who has in his flock a male, and vows and sacrifices to the Lord a defective thing; for I am a great King,” says the LORD of Armies, “and my name is awesome among the nations.”   
 
-## Chapter 2
+## Malachi Chapter 2
 1. “Now, you priests, this commandment is for you.  
 2. If you will not listen, and if you will not take it to heart, to give glory to my name,” says the LORD of Armies, “then I will send the curse on you, and I will curse your blessings. Indeed, I have cursed them already, because you do not take it to heart.  
 3. Behold, I will rebuke your offspring, and will spread dung on your faces, even the dung of your feasts; and you will be taken away with it.  
@@ -37125,7 +37125,7 @@ Esau Jacob’s brother?” says the LORD, “Yet I loved Jacob;
 16. One who hates and divorces”, says the LORD, the God of Israel, “covers his garment with violence!” says the LORD of Armies. “Therefore pay attention to your spirit, that you don’t be unfaithful.   
 17. You have wearied the LORD with your words. Yet you say, ‘How have we wearied him?’ In that you say, ‘Everyone who does evil is good in the LORD’s sight, and he delights in them;’ or ‘Where is the God of justice?’   
 
-## Chapter 3
+## Malachi Chapter 3
 1. “Behold, I send my messenger, and he will prepare the way before me! The Lord, whom you seek, will suddenly come to his temple. Behold, the messenger of the covenant, whom you desire, is coming!” says the LORD of Armies.  
 2. “But who can endure the day of his coming? And who will stand when he appears? For he is like a refiner’s fire, and like launderers’ soap;  
 3. and he will sit as a refiner and purifier of silver, and he will purify the sons of Levi, and refine them as gold and silver; and they shall offer to the LORD offerings in righteousness.  
@@ -37145,7 +37145,7 @@ Esau Jacob’s brother?” says the LORD, “Yet I loved Jacob;
 17. They shall be mine,” says the LORD of Armies, “my own possession in the day that I make. I will spare them, as a man spares his own son who serves him.  
 18. Then you shall return and discern between the righteous and the wicked, between him who serves God and him who doesn’t serve him.   
 
-## Chapter 4
+## Malachi Chapter 4
 1. “For behold, the day comes, burning like a furnace, when all the proud and all who work wickedness will be stubble. The day that comes will burn them up,” says the LORD of Armies, “so that it will leave them neither root nor branch.  
 2. But to you who fear my name shall the sun of righteousness arise with healing in its wings. You will go out and leap like calves of the stall.  
 3. You shall tread down the wicked; for they will be ashes under the soles of your feet in the day that I make,” says the LORD of Armies.   

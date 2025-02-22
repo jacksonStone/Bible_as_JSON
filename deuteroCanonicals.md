@@ -1,7 +1,7 @@
 
 # Tobit
 
-## Chapter 1
+## Tobit Chapter 1
 1. The book of the words of Tobit, the son of Tobiel, the son of Ananiel, the son of Aduel, the son of Gabael, of the seed of Asiel, of the tribe of Naphtali;  
 2. who in the days of Enemessarking of the Assyrians was carried away captive out of Thisbe, which is on the right hand of Kedesh Naphtali in Galilee above Asher.   
 3. I, Tobit walked in the ways of truth and righteousness all the days of my life, and I did many alms deeds to my kindred and my nation, who went with me into the land of the Assyrians, to Nineveh.  
@@ -25,7 +25,7 @@
 21. No more than fifty five days passed before two of his sons killed him, and they fled into the mountains of Ararat. And Sarchedonushis son reigned in his place; and he appointed Achiacharus my brother Anael’s son over all the accounts of his kingdom, and over all his affairs.  
 22. Achiacharus requested me, and I came to Nineveh. Now Achiacharus was cupbearer, keeper of the signet, steward, and overseer of the accounts. Sarchedonus appointed him next to himself, but he was my brother’s son.   
 
-## Chapter 2
+## Tobit Chapter 2
 1. Now when I had come home again, and my wife Anna was restored to me, and my son Tobias, in the feast of Pentecost, which is the holy feast of the seven weeks, there was a good dinner prepared for me, and I sat down to eat.  
 2. I saw abundance of meat, and I said to my son, “Go and bring whatever poor man you find of our kindred, who is mindful of the Lord. Behold, I wait for you.”   
 3. Then he came, and said, “Father, one of our race is strangled, and has been cast out in the marketplace.”  
@@ -43,7 +43,7 @@
 14. But she said, “It has been given to me for a gift more than the wages.”  
 ”   
 
-## Chapter 3
+## Tobit Chapter 3
 1. I was grieved and wept, and prayed in sorrow, saying,   
 2. “O Lord, you are righteous, and all your works and all your ways are mercy and truth, and you judge true and righteous judgment forever.  
 3. Remember me, and look at me. Don’t take vengeance on me for my sins and my ignorances, and the sins of my fathers who sinned before you.  
@@ -62,7 +62,7 @@
 16. The prayer of both was heard before the glory of the great God.  
 17. Raphael also was sent to heal them both, to scale away the white films from Tobit’s eyes, and to give Sarah the daughter of Raguel for a wife to Tobias the son of Tobit; and to bind Asmodaeus the evil spirit; because it belonged to Tobias that he should inherit her. At that very time, Tobit returned and entered into his house, and Sarah the daughter of Raguel came down from her upper chamber.   
 
-## Chapter 4
+## Tobit Chapter 4
 1. In that day Tobit remembered the money which he had left in trust with Gabael in Rages of Media,  
 2. and he said to himself, I have asked for death; why do I not call my son Tobias, that I may explain to him about the money before I die?  
 3. And he called him, and said,  
@@ -85,7 +85,7 @@
 20. And now I explain to you about the ten talents of silver, which I left in trust with Gabael the son of Gabrias at Rages of Media.  
 21. And fear not, my child, because we are made poor. You have much wealth, if you fear God, and depart from all sin, and do that which is pleasing in his sight.”   
 
-## Chapter 5
+## Tobit Chapter 5
 1. Then Tobias answered and said to him, “Father, I will do all things, whatever you have commanded me.  
 2. But how could I receive the money, since I don’t know him?”   
 3. He gave him the handwriting, and said to him, “Seek a man who will go with you, and I will give him wages, while I still live; and go and receive the money.”   
@@ -109,7 +109,7 @@
 21. For a good angel will go with him. His journey will be prospered, and he will return safe and sound.”   
 22. So she stopped weeping.   
 
-## Chapter 6
+## Tobit Chapter 6
 1. Now as they went on their journey, they came at evening to the river Tigris, and they lodged there.  
 2. But the young man went down to wash himself, and a fish leaped out of the river, and would have swallowed up the young man.  
 3. But the angel said to him, “Grab the fish!”  
@@ -128,7 +128,7 @@
 16. And whenyou come into the bride-chamber, you shall take the ashes of incense, and shall lay upon them some of the heart and liver of the fish, and shall make smoke with them.  
 17. The demon will smell it, and flee away, and never come again any more. But when you go near to her, both of you rise up, and cry to God who is merciful. He will save you, and have mercy on you. Don’t be afraid, for she was prepared for you from the beginning; and you will save her, and she will go with you. And I suppose that you will have children with her.”  
 
-## Chapter 7
+## Tobit Chapter 7
 1. They came to Ecbatana, and arrived at the house of Raguel. But Sarah met them; and she greeted them, and they her. Then she brought them into the house.  
 2. Raguel said to Edna his wife, “This young man really resembles Tobit my cousin!”  
 3. And Raguel asked them, “Where are you two from, kindred?”  
@@ -148,7 +148,7 @@
 17. She did as he asked her, and brought her in there. She wept, and she received the tears of her daughter, and said to her,  
 18. “Be comforted, my child. May the Lord of heaven and earth give you favorfor this your sorrow. Be comforted, my daughter.”   
 
-## Chapter 8
+## Tobit Chapter 8
 1. When they had finished their supper, they brought Tobias in to her.  
 2. But as he went, he remembered the words of Raphael, and took the ashes of the incense, and put the heart and the liver of the fish on them, and made smoke with them.  
 3. When the demon smelled that smell, it fled into the uppermost parts of Egypt, and the angel bound him.  
@@ -171,7 +171,7 @@
 20. Before the days of the wedding feast were finished, Raguel sware to him, that he should not depart till the fourteen days of the wedding feast were fulfilled;  
 21. and that then he should take half of his goods, and go in safety to his father; and the rest, said he, when my wife and I die.   
 
-## Chapter 9
+## Tobit Chapter 9
 1. And Tobias called Raphael, and said to him,  
 2. “Brother Azarias, take with you a servant and two camels, and go to Rages of Media to Gabael, and receive the money for me, and bring him to the wedding feast,  
 3. because Raguel has sworn that I must not depart.  
@@ -179,7 +179,7 @@
 5. So Raphael went on his way, and lodged with Gabael, and gave him the handwriting; so he brought forth the bags with their seals, and gave them to him.  
 6. Then they rose up early in the morning together, and came to the wedding feast. Tobias blessed his wife.   
 
-## Chapter 10
+## Tobit Chapter 10
 1. Tobit his father counted every day. When the days of the journey were expired, and they didn’t come,  
 2. he said, “Is he perchance detained?Or is Gabael perchance dead, and there is no one to give him the money?”  
 3. He was very grieved.   
@@ -193,7 +193,7 @@
 11. and he blessed them, and sent them away, saying, “The God of heaven will prosper you, my children, before I die.”  
 12. And he said to his daughter, “Honor your father-in-law and your mother-in-law. They are now your parents. Let me hear a good report of you.” Then he kissed her.  
 
-## Chapter 11
+## Tobit Chapter 11
 1. After these things Tobias also went his way, blessing God because he had prospered his journey; and he blessed Raguel and Edna his wife. Then he went on his way until they drew near to Nineveh.  
 2. Raphael said to Tobias, “Don’t you know, brother, how you left your father?  
 3. Let’s run forward before your wife, and prepare the house.  
@@ -214,7 +214,7 @@
 18. Achiacharus and Nasbas his brother’s son came.  
 19. Tobias’ wedding feast was kept seven days with great gladness.   
 
-## Chapter 12
+## Tobit Chapter 12
 1. And Tobit called his son Tobias, and said to him, “See, my child, that the man which went with you have his wages, and you must give him more.”   
 2. And he said to him, “Father, it is no harm to me to give him the half of those things which I have brought;  
 3. for he has led me for you in safety, and he cured my wife, and brought my money, and likewise cured you.”   
@@ -238,7 +238,7 @@
 21. Then they rose up, and saw him no more.  
 22. They confessed the great and wonderful works of God, and how the angel of the Lord had appeared to them.   
 
-## Chapter 13
+## Tobit Chapter 13
 1. And Tobit wrote a prayer for rejoicing, and said,  
 2. For he scourges, and shows mercy.  
 and brings up again.  
@@ -259,7 +259,7 @@ and brings up again.
 17. The streets of Jerusalem will be paved with beryl, carbuncle, and stones of Ophir.   
 18. All her streets will say, “Hallelujah!”  
 
-## Chapter 14
+## Tobit Chapter 14
 1. Then Tobit finished giving thanks.  
 2. He was fifty-eight years old when he lost his sight. After eight years, he received it again. He gave alms and he feared the Lord God more and more, and gave thanks to him.   
 3. Now he grew very old; and he called his son with the six sons of his son, and said to him, “My child, take your sons. Behold, I have grown old, and am ready to depart out of this life.  
@@ -278,7 +278,7 @@ and brings up again.
 
 # Judith
 
-## Chapter 1
+## Judith Chapter 1
 1. In the twelfth year of the reign of Nebuchadnezzar, who reigned over the Assyrians in Nineveh, the great city, in the days of Arphaxad, who reigned over the Medes in Ecbatana,  
 2. and built around Ecbatana walls of hewn stones three cubits broad and six cubits long, and made the height of the wall seventy cubits, and its breadth fifty cubits,  
 3. and set its towers at its gates one hundred cubits high, and its breadth in the foundation was sixty cubits,  
@@ -296,7 +296,7 @@ and brings up again.
 15. He took Arphaxad in the mountains of Ragau, struck him through with his darts, and utterly destroyed him to this day.  
 16. He returned with them to Nineveh, he and all his company of sundry nations—an exceedingly great multitude of men of war. There he took his ease and banqueted, he and his army, for one hundred twenty days.   
 
-## Chapter 2
+## Judith Chapter 2
 1. In the eighteenth year, the twenty-second day of the first month, there was talk in the house of Nebuchadnezzar king of the Assyrians that he should be avenged on all the land, even as he spoke.  
 2. He called together all his servants and all his great men, and communicated with them his secret counsel, and with his own mouth, recounted the wickedness of all the land.  
 3. They decreed to destroy all flesh which didn’t follow the word of his mouth.   
@@ -326,7 +326,7 @@ and brings up again.
 27. He went down into the plain of Damascus in the days of wheat harvest, and set all their fields on fire, and utterly destroyed their flocks and herds, plundered their cities, laid their plains waste, and struck all their young men with the edge of the sword.   
 28. And the fear and the dread of him fell upon those who lived on the sea coast, upon those who were in Sidon and Tyre, those who lived in Sur and Ocina, and all who lived in Jemnaan. Those who lived in Azotus and Ascalon feared him exceedingly.   
 
-## Chapter 3
+## Judith Chapter 3
 1. And they sent to him messengers with words of peace, saying,  
 2. “Behold, we the servants of Nebuchadnezzar the great king lie before you. Use us as it is pleasing in your sight.  
 3. Behold, our dwellings, and all our country, and all our fields of wheat, and our flocks and herds, and all the sheepfolds of our tents, lie before your face. Use them as it may please you.  
@@ -338,7 +338,7 @@ and brings up again.
 9. Then he came toward Esdraelon near to Dotaea, which is opposite the great ridge of Judea.  
 10. He encamped between Geba and Scythopolis. He was there a whole month, that he might gather together all the baggage of his army.   
 
-## Chapter 4
+## Judith Chapter 4
 1. The children of Israel who lived in Judea heard all that Holofernes the chief captain of Nebuchadnezzar king of the Assyrians had done to the nations, and how he had plundered all their temples and destroyed them utterly.  
 2. They were exceedingly afraid at his approach, and were troubled for Jerusalem and for the temple of the Lord their God;  
 3. because they had newly come up from the captivity, and all the people of Judea were recently gathered together; and the vessels, the altar, and the house were sanctified after being profaned.   
@@ -355,7 +355,7 @@ and brings up again.
 14. And Joakim the high priest, and all the priests who stood before the Lord, and those who ministered to the Lord, had their loins dressed in sackcloth and offered the continual burnt offering, the vows, and the free gifts of the people.  
 15. They had ashes on their turbans. They cried to the Lord with all their power, that he would look upon all the house of Israel for good.   
 
-## Chapter 5
+## Judith Chapter 5
 1. Holofernes, the chief captain of the army of Asshur, was told that the children of Israel had prepared for war, had shut up the passages of the hill country, had fortified all the tops of the high hills, and had set up barricades in the plains.  
 2. Then he was exceedingly angry, and he called all the princes of Moab, the captains of Ammon, and all the governors of the sea coast,  
 3. and he said to them, “Tell me now, you sons of Canaan, who are these people who dwell in the hill country? What are the cities that they inhabit? How large is their army? Where is their power and their strength? What king is set over them, to be the leader of their army?  
@@ -381,7 +381,7 @@ and brings up again.
 23. For, they said, “We will not be afraid of the children of Israel, because, behold, they are a people that has no power nor might to make the battle strong.  
 24. Therefore now we will go up, and they will be a prey to be devoured by all your army, Lord Holofernes.”   
 
-## Chapter 6
+## Judith Chapter 6
 1. And when the disturbance of the men that were around the council had ceased, Holofernes the chief captain of the army of Asshur said to Achior and to all the children of Moabbefore all the people of the foreigners:   
 2. “And who are you, Achior, and the mercenaries of Ephraim,that you have prophesied among us as today, and have said that we should not make war with the race of Israel, because their God will defend them? And who is God but Nebuchadnezzar?  
 3. He will send forth his might, and will destroy them from the face of the earth, and their God will not deliver them; but we his servants will strike them as one man. They will not sustain the might of our cavalry.  
@@ -404,7 +404,7 @@ and brings up again.
 20. They comforted Achior, and praised him exceedingly.  
 21. Then Ozias took him out of the assembly into his house, and made a feast for the elders. They called on the God of Israel for help all that night.   
 
-## Chapter 7
+## Judith Chapter 7
 1. The next day Holofernes commanded all his army and all the people who had come to be his allies, that they should move their camp toward Bethulia, seize the passes of the hill country, and make war against the children of Israel.  
 2. Every mighty man of them moved that day. The army of their men of war was one hundred seventy thousand footmen, plus twelve thousand horsemen, besides the baggage and the men who were on foot among them—an exceedingly great multitude.  
 3. They encamped in the valley near Bethulia, by the fountain. They spread themselves in breadth over Dothaim even to Belmaim, and in length from Bethulia to Cyamon, which is near Esdraelon.   
@@ -438,7 +438,7 @@ and brings up again.
 31. But if these days pass, and no help comes to us, I will do what you say.”  
 32. Then he dispersed the people, every man to his own camp; and they went away to the walls and towers of their city. He sent the women and children into their houses. They were brought very low in the city.   
 
-## Chapter 8
+## Judith Chapter 8
 1. In those days Judith heard about this. She was the daughter of Merari, the son of Ox, the son of Joseph, the son of Oziel, the son of Elkiah, the son of Ananias, the son of Gideon, the son of Raphaim, the son of Ahitub, the son of Elihu, the son of Eliab, the son of Nathanael, the son of Salamiel, the son of Salasadai, the son of Israel.  
 2. Her husband was Manasses, of her tribe and of her family. He died in the days of barley harvest.  
 3. For he stood over those who bound sheaves in the field, and was overcome by the burning heat, and he fell on his bed, and died in his city Bethulia. So they buried him with his fathers in the field which is between Dothaim and Balamon.  
@@ -476,7 +476,7 @@ and brings up again.
 35. Then Ozias and the rulers said to her, “Go in peace. May the Lord God be before you, to take vengeance on our enemies.”  
 36. So they returned from the tent, and went to their stations.   
 
-## Chapter 9
+## Judith Chapter 9
 1. But Judith fell upon her face, and put ashes upon her head, and uncovered the sackcloth with which she was clothed. The incense of that evening was now being offered at Jerusalem in the house of God, and Judith cried to the Lord with a loud voice, and said,  
 2. “O Lord God of my father Simeon, into whose hand you gave a sword to take vengeance on the strangers who loosened the belt of a virgin to defile her, uncovered her thigh to her shame, and profaned her womb to her reproach; for you said, ‘It shall not be so;’ and they did so.  
 3. Therefore you gave their rulers to be slain, and their bed, which was ashamed for her who was deceived,to be dyed in blood, and struck the servants with their masters, and the masters upon their thrones;  
@@ -492,7 +492,7 @@ and brings up again.
 13. Make my speech and deceit to be their wound and bruise, who intend hard things against your covenant, your holy house, the top of Zion, and the house of the possession of your children.  
 14. Make every nation and tribe of yours to know that you are God, the God of all power and might, and that there is no other who protects the race of Israel but you.”   
 
-## Chapter 10
+## Judith Chapter 10
 1. It came to pass, when she had ceased to cry to the God of Israel, and had finished saying all these words,  
 2. that she rose up where she had fallen down, called her maid, and went down into the house that she lived on the Sabbath days and on her feast days.  
 3. She pulled off the sackcloth which she had put on, took off the garments of her widowhood, washed her body all over with water, anointed herself with rich ointment, braided the hair of her head, and put a tiara upon it. She put on her garments of gladness, which she used to wear in the days of the life of Manasses her husband.  
@@ -517,7 +517,7 @@ and brings up again.
 22. And they told him about her; and he came out into the space before his tent, with silver lamps going before him.  
 23. But when Judith had come before him and his servants, they all marveled at the beauty of her countenance. She fell down upon her face and bowed down to him, but his servants raised her up.   
 
-## Chapter 11
+## Judith Chapter 11
 1. Holofernes said to her, “Woman, take courage. Don’t be afraid in your heart; for I never hurt anyone who has chosen to serve Nebuchadnezzar, the king of all the earth.  
 2. And now, if your people who dwell in the hill country had not slighted me, I would not have lifted up my spear against them; but they have done these things to themselves.  
 3. And now tell me why you fled from them and came to us; for you have come to save yourself. Take courage! You will live tonight, and hereafter;  
@@ -542,7 +542,7 @@ and brings up again.
 22. Holofernes said to her, “God did well to send you before the people, that might would be in our hands, and destruction among those who slighted my lord.  
 23. And now you are beautiful in your countenance, and wise in your words. If you will do as you have spoken, your God will be my God, and you will dwell in the palace of King Nebuchadnezzar, and will be renowned through the whole earth.”   
 
-## Chapter 12
+## Judith Chapter 12
 1. He commanded that she should be brought in where his silver vessels were set, and asked that his servants should prepare some of his own delicacies for her, and that she should drink from his own wine.   
 2. And Judith said, “I can’t eat of it, lest there be an occasion of stumbling; but provision will be made for me from the things that have come with me.”   
 3. And Holofernes said to her, “But if the things that are with you should run out, from where will we be able to give you more like it? For there is none of your race with us.”   
@@ -564,7 +564,7 @@ and brings up again.
 19. Then she took and ate and drank before him what her servant had prepared.  
 20. Holofernes took great delight in her, and drank exceedingly much wine, more than he had drunk at any time in one day since he was born.   
 
-## Chapter 13
+## Judith Chapter 13
 1. But when the evening had come, his servants hurried to depart. Bagoas shut the tent outside, and dismissed those who waited from the presence of his lord. They went away to their beds; for they were all weary, because the feast had been long.  
 2. But Judith was left alone in the tent, with Holofernes lying along upon his bed; for he was drunk with wine.  
 3. Judith had said to her servant that she should stand outside her bedchamber, and wait for her to come out, as she did daily; for she said she would go out to her prayer. She spoke to Bagoas according to the same words.  
@@ -586,7 +586,7 @@ and brings up again.
 19. For your hope will not depart from the heart of men that remember the strength of God forever.  
 20. May God turn these things to you for a perpetual praise, to visit you with good things, because you didn’t spare your life by reason of the affliction of our race, but prevented our ruin, walking a straight way before our God.”  
 
-## Chapter 14
+## Judith Chapter 14
 1. Judith said to them, “Hear me now, my kindred, and take this head, and hang it upon the battlement of your wall.  
 2. It will be, so soon as the morning appears, and the sun comes up on the earth, you shall each take up his weapons of war, and every valiant man of you go out of the city. You shall set a captain over them, as though you would go down to the plain toward the watch of the children of Asshur; but you men shall not go down.  
 3. These will take up their full armor, and shall go into their camp and rouse up the captains of the army of Asshur. They will run together to Holofernes’ tent. They won’t find him. Fear will fall upon them, and they will flee before your face.  
@@ -607,7 +607,7 @@ and brings up again.
 18. “The slaves have dealt treacherously! One woman of the Hebrews has brought shame upon the house of King Nebuchadnezzar; for, behold, Holofernes lies upon the ground, and his head is not on him!”   
 19. But when the rulers of the army of Asshur heard this, they tore their tunics, and their souls were troubled exceedingly. There were cries and an exceedingly great noise in the midst of the camp.   
 
-## Chapter 15
+## Judith Chapter 15
 1. When those who were in the tents heard, they were amazed at what happened.  
 2. Trembling and fear fell upon them, and no man dared stay any more in the sight of his neighbor, but rushing out with one accord, they fled into every way of the plain and of the hill country.  
 3. Those who had encamped in the hill country round about Bethulia fled away. And then the children of Israel, every one who was a warrior among them, rushed out upon them.  
@@ -622,7 +622,7 @@ and brings up again.
 12. And all the women of Israel ran together to see her; and they blessed her, and made a dance among them for her. She took branches in her hand, and distributed them to the women who were with her. 
 13. Then they made themselves garlands of olive, she and those who were with her, and she went before all the people in the dance, leading all the women. All the men of Israel followed in their armor with garlands, and with songs in their mouths.   
 
-## Chapter 16
+## Judith Chapter 16
 1. And Judith began to sing this song of thanksgiving in all Israel, and all the people sang with loud voices this song of praise.  
 2. Judith said,  
 3. For the Lord is the God that crushes battles.  
@@ -651,7 +651,7 @@ and brings up again.
 
 # 1 Maccabees
 
-## Chapter 1
+## 1 Maccabees Chapter 1
 1. After Alexander the Macedonian, the son of Philip, who came out of the land of Chittim, and struck Darius king of the Persians and Medes, it came to pass, after he had struck him, that he reigned in his place, in former time, overGreece.  
 2. He fought many battles, won many strongholds, killed the kings of the earth,  
 3. went through to the ends of the earth, and took spoils of a multitude of nations. The earth was quiet before him. He was exalted. His heart was lifted up.  
@@ -717,7 +717,7 @@ and brings up again.
 63. They chose to die, that they might not be defiled with the food, and that they might not profane the holy covenant; and they died.  
 64. Exceedingly great wrath came upon Israel.   
 
-## Chapter 2
+## 1 Maccabees Chapter 2
 1. In those days Mattathias the son of John, the son of Simeon, a priest of the sons of Joarib, from Jerusalem rose up; and he lived at Modin.  
 2. And he had five sons:John, who was surnamed Gaddis;  
 3. Simon, who was called Thassi;  
@@ -789,7 +789,7 @@ and brings up again.
 69. He blessed them, and was gathered to his ancestors.  
 70. He died inthe one hundred forty sixth year, and his sons buried him in the tombs of his ancestors at Modin. All Israel made great lamentation for him.   
 
-## Chapter 3
+## 1 Maccabees Chapter 3
 1. His son Judas, who was called Maccabaeus, rose up in his place.  
 2. All his kindred helped him, and so did all those who joined with his father, and they fought with gladness the battle of Israel.  
 3. He got his people great glory, and put on a breastplate like a giant, and bound his warlike harness around him, and set battles in array, protecting the army with his sword.  
@@ -851,7 +851,7 @@ and brings up again.
 59. For it is better for us to die in battle than to see the calamities of our nation and the holy place.  
 60. Nevertheless, as may be the will in heaven, so shall he do.   
 
-## Chapter 4
+## 1 Maccabees Chapter 4
 1. Gorgias took five thousand infantry, a thousand chosen cavalry, and the army moved out at night,  
 2. that it might fall upon the army of the Jews and strike them suddenly. The men of the citadel were his guides.  
 3. Judas heard of this, and he and the valiant men moved, that he might strike the king’s army which was at Emmaus  
@@ -914,7 +914,7 @@ and brings up again.
 60. At that time, they fortified mount Zion with high walls and strong towers around it, lest perhaps the Gentiles might come and trample them down, as they had done before.  
 61. Judas stationed a garrison to guard it. They fortified Bethsura to keep it, that the people might have a stronghold near Idumaea.   
 
-## Chapter 5
+## 1 Maccabees Chapter 5
 1. It came to pass, when the Gentiles all around heard that the altar had been rebuilt and the sanctuary dedicated as before, they were exceedingly angry.  
 2. They took counsel to destroy the race of Jacob that was in the midst of them, and they began to kill and destroy among the people.  
 3. Judas fought against the children of Esau in Idumaea at Akrabattine, because they besieged Israel. He struck them with a great slaughter, humbled them, and took their spoils.  
@@ -984,7 +984,7 @@ and brings up again.
 67. In that day certain priests, desiring to do exploits there, were slain in battle, when they went out to battle unadvisedly.  
 68. But Judas turned toward Azotus, to the land of thePhilistines, pulled down their altars, burned the carved images of their gods with fire, took the plunder of their cities, and returned into the land of Judah.   
 
-## Chapter 6
+## 1 Maccabees Chapter 6
 1. King Antiochus was traveling through the upper countries; and he heard that in Elymais in Persia there was a city renowned for riches, for silver and gold,  
 2. and that the temple which was in it was exceedingly rich, and that in it were golden shields, breastplates, and weapons which Alexander, son of Philip, the Macedonian king, who reigned first among the Greeks, left behind there.  
 3. So he came and tried to take the city and to pillage it; and he was not able, because his plan was known to them of the city,  
@@ -1049,7 +1049,7 @@ and brings up again.
 62. Then the king entered into mount Zion. He saw the strength of the place, and broke the oath which he had sworn, and gave orders to pull down the wall all around.  
 63. Then he left in haste and returned to Antioch, and found Philip master of the city. He fought against him, and took the city by force.   
 
-## Chapter 7
+## 1 Maccabees Chapter 7
 1. In the one hundred fifty first year,Demetrius the son of Seleucus came out of Rome, and went up with a few men to a city by the sea, and reigned there.  
 2. It came to pass, when he would go into the house of the kingdom of his fathers, that the army laid hands on Antiochus and Lysias, to bring them to him.  
 3. The thing became known to him, and he said, “Don’t show me their faces!”  
@@ -1101,7 +1101,7 @@ and brings up again.
 49. They ordained to keep this day year by year on the thirteenth day of Adar.  
 50. So the land of Judah had rest a few days.   
 
-## Chapter 8
+## 1 Maccabees Chapter 8
 1. Judas heard of the fame of the Romans, that they are valiant men, and have pleasure in all who join themselves to them, and make friends with all who come to them,  
 2. and that they are valiant men. They told him of their wars and exploits which they do among the Gauls, and how they conquered them, and forced them to pay tribute;  
 3. and what things they did in the land of Spain, that they might take control of the silver and gold mines which were there;  
@@ -1135,7 +1135,7 @@ and brings up again.
 31. Concerning the evils which King Demetrius is doing to them, we have written to him, saying, ‘Why have you made your yoke heavy on our friends and allies the Jews?  
 32. If therefore they plead any more against you, we will do them justice, and fight with you on sea and on land.’”   
 
-## Chapter 9
+## 1 Maccabees Chapter 9
 1. Demetrius heard that Nicanor had fallen with his forces in battle, and he sent Bacchides and Alcimus again into the land of Judah a second time, and the right wing of his army with them.  
 2. They went by the way that leads to Gilgal, and encamped against Mesaloth, which is in Arbela, and took possession of it, and killed many people.  
 3. The first month of the one hundred fifty-second year, they encamped against Jerusalem.  
@@ -1210,7 +1210,7 @@ and brings up again.
 72. He restored to him the captives which he had taken before out of the land of Judah, and he returned and departed into his own land, and didn’t come any more into their borders.  
 73. Thus the sword ceased from Israel. Jonathan lived at Michmash. Jonathan began to judge the people; and he destroyed the ungodly out of Israel.   
 
-## Chapter 10
+## 1 Maccabees Chapter 10
 1. In the one hundred sixtieth year,Alexander Epiphanes, the son of Antiochus, went up and took possession of Ptolemais. They received him, and he reigned there.  
 2. King Demetrius heard about this, and he gathered together exceedingly great forces, and went out to meet him in battle.   
 3. Demetrius sent a letter to Jonathan with words of peace, so as to honor him.  
@@ -1301,7 +1301,7 @@ and brings up again.
 88. It came to pass, when King Alexander heard these things, he honored Jonathan even more.  
 89. He sent him a gold buckle, as the custom is to give to the king’s kindred. He gave him Ekron and all its land for a possession.   
 
-## Chapter 11
+## 1 Maccabees Chapter 11
 1. Then the king of Egypt gathered together great forces, as the sand which is by the sea shore, and many ships, and sought to make himself master of Alexander’s kingdom by deceit, and to add it to his own kingdom.  
 2. He went out into Syria with words of peace, and the people of the cities opened their gates to him and met him; for King Alexander’s command was that they should meet him, because he was his father-in-law.  
 3. Now as he entered into the cities of Ptolemais, he set his forces for a garrison in each city.   
@@ -1377,7 +1377,7 @@ and brings up again.
 73. When the men on his side who had fled saw this, they returned to him and pursued with him to Kedesh to their camp, and they encamped there.  
 74. About three thousand men of the foreigners fell on that day. Then Jonathan returned to Jerusalem.   
 
-## Chapter 12
+## 1 Maccabees Chapter 12
 1. Jonathan saw that the time was favorable for him, so he chose men and sent them to Rome to confirm and renew the friendship that they had with them.  
 2. He also sent similar letters to the Spartans, and to other places.  
 3. They went to Rome, entered into the senate house, and said, “Jonathan the high priest and the nation of the Jews have sent us to renew for them the friendship and the alliance, as in former time.”  
@@ -1432,7 +1432,7 @@ and brings up again.
 52. They all came in peace into the land of Judah, and they mourned for Jonathan and those who were with him, and they were very afraid. All Israel mourned with a great mourning.  
 53. And all the Gentiles who were around them sought to destroy them utterly; for they said, “They have no ruler nor anyone to help them. Now therefore let’s fight against them, and take away their memory from among men.”   
 
-## Chapter 13
+## 1 Maccabees Chapter 13
 1. Simon heard that Tryphon had gathered together a mighty army to come into the land of Judah and destroy it utterly.  
 2. He saw that the people were trembling in great fear. So he went up to Jerusalem and gathered the people together.  
 3. He encouraged them, and said to them, “You yourselves know all the things that I, my kindred, and my father’s house have done for the laws and the sanctuary, and the battles and the distresses which we have seen.  
@@ -1487,7 +1487,7 @@ and brings up again.
 52. Simon ordained that they should keep that day every year with gladness. He made the hill of the temple that was by the citadel stronger than before, and he lived there with his men.  
 53. Simon saw that his son John was a man, so he made him leader of all his forces; and he lived in Gazara.   
 
-## Chapter 14
+## 1 Maccabees Chapter 14
 1. In the one hundred seventy-second year,King Demetrius gathered his forces together, and went into Media to get help, that he might fight against Tryphon.  
 2. When Arsaces, the king of Persia and Media, heard that Demetrius had come into his borders, he sent one of his princes to take him alive.  
 3. He went and struck the army of Demetrius, and seized him and brought him to Arsaces, who put him under guard.   
@@ -1539,7 +1539,7 @@ which is the third year of Simon the high priest,
 48. They commanded to put this writing on tablets of brass, and to set them up within the precinct of the sanctuary in a conspicuous place,  
 49. and moreover to put copies of them in the treasury, so that Simon and his sons might have them.   
 
-## Chapter 15
+## 1 Maccabees Chapter 15
 1. Antiochus son of Demetrius the king sent a letter from the islands of the sea to Simon the priest andgovernor of the Jews, and to all the nation.  
 2. Its contents follow:  
 governor, and to the nation of the Jews, greetings.  
@@ -1583,7 +1583,7 @@ governor, and to the nation of the Jews, greetings.
 40. So Cendebaeus came to Jamnia and began to provoke the people, and to invade Judea, and to take the people captive and kill them.  
 41. He built Kidron and stationed cavalry and infantry there, to the end that going out they might make raids on the highways of Judea, as the king had commanded him.   
 
-## Chapter 16
+## 1 Maccabees Chapter 16
 1. John went up from Gazara and told Simon his father what Cendebaeus was doing.  
 2. Simon called his two oldest sons, Judas and John, and said to them, “I and my brothers and my father’s house have fought the battles of Israel from our youth, even to this day; and things have prospered in our hands, that we have often delivered Israel.  
 3. But now I am old, and you moreover, by his mercy, are of a sufficient age. Take the place of me and my brother, and go out and fight for our nation; and let the help which is from heaven be with you.   
@@ -1611,7 +1611,7 @@ governor, and to the nation of the Jews, greetings.
 
 # 2 Maccabees
 
-## Chapter 1
+## 2 Maccabees Chapter 1
 1. The kindred, the Jews who are in Jerusalem and those who are in the country of Judea, send greetings and good peace to the kindred, the Jews who are throughout Egypt.  
 2. May God do good to you, and remember his covenant with Abraham, Isaac, and Jacob, his faithful servants,  
 3. and give you all a heart to worship him and do his will with a strong heart and a willing soul.  
@@ -1649,7 +1649,7 @@ governor, and to the nation of the Jews, greetings.
 35. When the king would show favor to any, he would exchange many presents and give them some of this liquid.  
 36. Nehemiah and those who were with him called this thing “Nephthar”, which is by interpretation, “Cleansing”; but most men call it Nephthai.   
 
-## Chapter 2
+## 2 Maccabees Chapter 2
 1. It is also found in the records that Jeremiah the prophet commanded those who were carried away to take some of the fire, as has been mentioned,  
 2. and how that the prophet charged those who were carried away, having given them the law, that they should not forget the statutes of the Lord or be led astray in their minds when they saw images of gold and silver, and their adornment.  
 3. With other such words exhorted he them, that the law should not depart from their hearts.   
@@ -1683,7 +1683,7 @@ governor, and to the nation of the Jews, greetings.
 31. but to strive after brevity of expression, and to avoid a labored fullness in the treatment, is to be granted to him who would bring a writing into a new form.  
 32. Here then let’s begin the narration, only adding this much to that which has already been said; for it is a foolish thing to make a long prologue to the history, and to abridge the history itself.   
 
-## Chapter 3
+## 2 Maccabees Chapter 3
 1. When the holy city was inhabited with unbroken peace and the laws were kept very well because of the godliness of Onias the high priest and his hatred of wickedness,  
 2. it came to pass that even the kings themselves honored the place and glorified the temple with the noblest presents,  
 3. so that even King Seleucus of Asia bore all the costs belonging to the services of the sacrifices out of his own revenues.  
@@ -1725,7 +1725,7 @@ governor, and to the nation of the Jews, greetings.
 39. For he who has his dwelling in heaven himself has his eyes on that place and helps it. Those who come to hurt it, he strikes and destroys.”   
 40. This was the history of Heliodorus and the keeping of the treasury.   
 
-## Chapter 4
+## 2 Maccabees Chapter 4
 1. The previously mentioned Simon, who had given information about the money against his country, slandered Onias, saying that it was he who had incited Heliodorus and had been the real cause of these evils.  
 2. He dared to call him a conspirator against the state who was actually the benefactor of the city, the guardian of his fellow countrymen, and a zealot for the laws.  
 3. When his hatred grew so great that even murders were perpetrated through one of Simon’s approved agents,  
@@ -1777,7 +1777,7 @@ governor, and to the nation of the Jews, greetings.
 49. Therefore even certain Tyrians, moved with hatred of the wickedness, provided magnificently for their burial.  
 50. But Menelaus, through the covetous dealings of those who were in power, remained still in his office, growing in wickedness, established as a great conspirator against his fellow-citizens.   
 
-## Chapter 5
+## 2 Maccabees Chapter 5
 1. Now about this time Antiochus made his second invasion into Egypt.  
 2. It happened that throughout all the city, for almost forty days, cavalry appeared in the midst of the sky in swift motion, wearing robes woven with gold and carrying spears, equipped with troops for battle—  
 3. drawing swords, squadrons of cavalry in array, encounters and pursuits of both armies, shaking shields, multitudes of lances, throwing of missiles, flashing of golden trappings, and putting on all sorts of armor.  
@@ -1806,7 +1806,7 @@ governor, and to the nation of the Jews, greetings.
 26. He put to the sword all those who came out to the spectacle. Running into the city with the armed men, he killed great multitudes.  
 27. But Judas, who is also called Maccabaeus, with about nine others, withdrew himself, and with his company kept himself alive in the mountains like wild animals do. They continued feeding on what grew wild, that they might not be partakers of the defilement.   
 
-## Chapter 6
+## 2 Maccabees Chapter 6
 1. Not long after this, the king sent out an old man of Athens to compel the Jews to depart from the laws of their fathers and not to live by the laws of God,  
 2. and also to pollute the sanctuary in Jerusalem and to call it by the name of Olympian Zeus, and to call the sanctuary in Gerizim by the name of Zeus the Protector of foreigners, even as the people who lived in that place did.   
 3. The visitation of this evil was harsh and utterly grievous.  
@@ -1839,7 +1839,7 @@ governor, and to the nation of the Jews, greetings.
 30. and when he was at the point to die with theblows, he groaned aloud and said, “To the Lord, who has the holy knowledge, it is manifest that, while I might have been delivered from death, I endure severe pains in my body by being scourged; but in soul I gladly suffer these things because of my fear of him.”   
 31. So this man also died like this, leaving his death for an example of nobleness and a memorial of virtue, not only to the young but also to the great body of his nation.   
 
-## Chapter 7
+## 2 Maccabees Chapter 7
 1. It came to pass that seven brothers and their mother were at the king’s command taken and shamefully handled with scourges and cords, to compel them to taste of the abominable swine’s flesh.  
 2. One of them made himself the spokesman and said, “What would you ask and learn from us? For we are ready to die rather than transgress the laws of our ancestors.”   
 3. The king fell into a rage, and commanded that pans and caldrons be heated.  
@@ -1883,7 +1883,7 @@ governor, and to the nation of the Jews, greetings.
 41. Last of all, after her sons, the mother died.   
 42. Let it then suffice to have said thus much concerning the sacrificial feasts and the extreme tortures.   
 
-## Chapter 8
+## 2 Maccabees Chapter 8
 1. But Judas, who is also called Maccabaeus, and those who were with him, making their way secretly into the villages, called to them their kindred. Taking to them those who had continued in the Jews’ religion, gathered together about six thousand.  
 2. They called upon the Lord to look at the people who were oppressed by all, and to have compassion on the sanctuary that had been profaned by the ungodly men,  
 3. and to have pity on the city that was suffering ruin and ready to be leveled to the ground, and to listen to the blood that cried out to him,  
@@ -1921,7 +1921,7 @@ governor, and to the nation of the Jews, greetings.
 35. being through the help of the Lord humbled by them who in his eyes were held to be of least account, took off his glorious apparel, and passing through the country, shunning all company like a fugitive slave, arrived at Antioch, having, as he thought, had the greatest possible good fortune, though his army was destroyed.  
 36. He who had taken upon himself to make tribute sure for the Romans by the captivity of the men of Jerusalem published abroad that the Jews had One who fought for them, and that because this was so, the Jews were invulnerable, because they followed the laws ordained by him.   
 
-## Chapter 9
+## 2 Maccabees Chapter 9
 1. Now about that time, Antiochus retreated in disorder from the region of Persia.  
 2. For he had entered into the city called Persepolis, and he attempted to rob a temple and to control the city. Therefore the multitudes rushed in and the people of the country turned to defend themselves with weapons; and it came to pass that Antiochus was put to flight by the people of the country and broke his camp with disgrace.  
 3. While he was at Ecbatana, news was brought to him about what had happened to Nicanor and the forces of Timotheus.  
@@ -1952,7 +1952,7 @@ governor, and to the nation of the Jews, greetings.
 28. So the murderer and blasphemer, having endured the most intense sufferings, even as he had dealt with other men, ended his life among the mountains by a most piteous fate in a strange land.  
 29. Philip his foster brother took the body home and then, fearing the son of Antiochus, he withdrew himself to Ptolemy Philometor in Egypt.   
 
-## Chapter 10
+## 2 Maccabees Chapter 10
 1. Then Maccabaeus and those who were with him, the Lord leading them on, recovered the temple and the city.  
 2. They pulled down the altars that had been built in the marketplace by the foreigners, and also the sacred enclosures.  
 3. Having cleansed the sanctuary, they made another altar of sacrifice. Striking flint and starting a fire, they offered sacrifices after they had ceased for two years, burned incense, lit lamps, and set out the show bread.  
@@ -1992,7 +1992,7 @@ governor, and to the nation of the Jews, greetings.
 37. They killed Timotheus, who was hidden in a cistern, and his brother Chaereas, and Apollophanes.  
 38. When they had accomplished these things, they blessed the Lord with hymns and thanksgiving, blessing him who provides great benefits to Israel and gives them the victory.   
 
-## Chapter 11
+## 2 Maccabees Chapter 11
 1. Now after a very little time, Lysias, the king’s guardian, kinsman, and chancellor, being very displeased about the things that had happened,  
 2. collected about eighty thousand infantry and all his cavalry and came against the Jews, planing to make the city a home for Greeks,  
 3. and to levy tribute on the temple, as on the other sacred places of the nations, and to put up the high priesthood for sale every year.  
@@ -2033,7 +2033,7 @@ people of the Jews, greetings.
 37. Therefore send someone with speed, that we also may learn what is your mind.  
 38. Farewell. Written in the one hundred forty-eighth year, on the fifteenth day of Xanthicus.   
 
-## Chapter 12
+## 2 Maccabees Chapter 12
 1. So when this agreement had been made, Lysias departed to the king, and the Jews went about their farming.   
 2. But some of the governors of districts, Timotheus and Apollonius the son of Gennaeus, and also Hieronymus and Demophon, and beside them Nicanor the governor of Cyprus, would not allow them to enjoy tranquillity and live in peace.  
 3. Men of Joppa perpetrated this great impiety: they invited the Jews who lived among them to go with their wives and children into the boats which they had provided, as though they had no ill will toward them.  
@@ -2080,7 +2080,7 @@ people of the Jews, greetings.
 44. For if he wasn’t expecting that those who had fallen would rise again, it would be superfluous and idle to pray for the dead.  
 45. But if he was looking forward to an honorable memorial of gratitude laid up for those who die in godliness, then the thought was holy and godly. Therefore he made the atoning sacrifice for those who had died, that they might be released from their sin.   
 
-## Chapter 13
+## 2 Maccabees Chapter 13
 1. In the one hundred forty-ninth year, news was brought to Judas and his company that Antiochus Eupator was coming with multitudes against Judea,  
 2. and with him Lysias his guardian and chancellor, each having a Greek force of one hundred ten thousand infantry, five thousand three hundred cavalry, twenty-two elephants, and three hundred chariots armed with scythes.   
 3. And Menelaus also joined himself with them, and with great hypocrisy encouraged Antiochus, not for the saving of his country, but because he thought that he would be set over the government.  
@@ -2108,7 +2108,7 @@ people of the Jews, greetings.
 25. and came to Ptolemais. The men of Ptolemais were displeased at the treaty, for they had exceedingly great indignation against the Jews. They desired to annul the articles of the agreement.  
 26. Lysias came forward to speak, made the best defense that was possible, persuaded, pacified, gained their good will, and departed to Antioch. This was the issue of the attack and departure of the king.   
 
-## Chapter 14
+## 2 Maccabees Chapter 14
 1. Three years later, news was brought to Judas and his company that Demetrius the son of Seleucus, having sailed into the harbor of Tripolis with a mighty army and a fleet,  
 2. had taken possession of the country, having made away with Antiochus and his guardian Lysias.   
 3. But one Alcimus, who had formerly been high priest, and had willfully polluted himself in the times when there was no mingling with the Gentiles, considering that there was no deliverance for him in any way, nor any more access to the holy altar,  
@@ -2156,7 +2156,7 @@ people of the Jews, greetings.
 45. Still having breath within him, and being inflamed with anger, he rose up, and though his blood gushed out in streams and his wounds were grievous, he ran through the crowds, and standing upon a steep rock,  
 46. when as his blood was now well near spent, he drew forth his bowels through the wound, and taking them in both his hands he shook them at the crowds. Calling upon him who is Lord of life and spirit to restore him these again, he died like this.   
 
-## Chapter 15
+## 2 Maccabees Chapter 15
 1. But Nicanor, hearing that Judas and his company were in the region of Samaria, resolved to attack them with complete safety on the day of rest.  
 2. When the Jews who were compelled to follow him said, “Don’t destroy so savagely and barbarously, but give due glory to the day which he who sees all things has honored and hallowed above other days.”   
 3. Then the thrice-accursed wretch asked if there were a Sovereign in heaven who had commanded to keep the Sabbath day.   
@@ -2200,7 +2200,7 @@ people of the Jews, greetings.
 
 # 3 Maccabees
 
-## Chapter 1
+## 3 Maccabees Chapter 1
 1. Now Philopater, on learning from those who came back that Antiochus had made himself master of the places which belonged to himself, sent orders to all his infantry and cavalry, took with him his sister Arsinoe, and marched out as far as the parts of Raphia, where Antiochus and his forces encamped.  
 2. And one Theodotus, intending to carry out his design, took with him the bravest of the armed men who had been before committed to his trust by Ptolemy, and got through at night to the tent of Ptolemy, to kill him on his own responsibility, and so to end the war.  
 3. But Dositheus, called the son of Drimulus, by birth a Jew, afterward a renegade from the laws and observances of his country, conveyed Ptolemy away, and made an obscure person lie down in his stead in the tent. It turned out that this man received the fate which was meant for the other.  
@@ -2231,7 +2231,7 @@ people of the Jews, greetings.
 28. Such was the frequency and the vehemence of the cry of the assembled crowd, that an indescribable noise ensued.  
 29. Not the men only, but the very walls and floor seemed to sound out, all things preferring death rather than to see the place defiled.   
 
-## Chapter 2
+## 3 Maccabees Chapter 2
 1. Now it was that the high priest Simon bowed his knees near the holy place, spread out his hands in reverent form, and uttered the following prayer:  
 2. “O Lord, Lord, King of the heavens, and Ruler of the whole creation, Holy among the holy, sole Governor, Almighty, give ear to us who are oppressed by a wicked and profane one, who celebrates in his confidence and strength.  
 3. It is you, the Creator of all, the Lord of the universe, who are a righteous Governor, and judge all who act with pride and insolence.  
@@ -2266,7 +2266,7 @@ people of the Jews, greetings.
 32. A nobler spirit, however, prompted the majority to cling to their religious observances, and by paying money that they might live unmolested, these sought to escape the registration,  
 33. cheerfully looking forward to future aid, they abhorred their own apostates, considering them to be national foes, and depriving them of common fellowship and mutual help.   
 
-## Chapter 3
+## 3 Maccabees Chapter 3
 1. On discovering this, so incensed was the wicked king, that he no longer confined his rage to the Jews in Alexandria. Laying his hand more heavily upon those who lived in the country, he gave orders that they should be quickly collected into one place, and most cruelly deprived of their lives.  
 2. While this was going on, a hostile rumor was uttered abroad by men who had banded together to injure the Jewish race. The pretext of their charge was that the Jews kept them away from the ordinances of the law.  
 3. Now the Jews always maintained a feeling of unwavering loyalty toward the kings,  
@@ -2298,7 +2298,7 @@ people of the Jews, greetings.
 29. Whatever place shelters a Jew shall be made unapproachable and shall be put under the ban of fire, and be forever rendered useless to every living being for all time to come.”  
 30. The king’s letter was written in the above form.   
 
-## Chapter 4
+## 3 Maccabees Chapter 4
 1. Wherever this decree was received, the people kept up a revelry of joy and shouting, as if their long-pent-up, hardened hatred would now show itself openly.  
 2. The Jews suffered great throes of sorrow and wept much, while their hearts, all things around being lamentable, were set on fire as they bewailed the sudden destruction which was decreed against them.  
 3. What home, or city, or any inhabited place, or what streets were there, which their condition didn’t fill with wailing and lamentation?  
@@ -2321,7 +2321,7 @@ people of the Jews, greetings.
 20. They said, and proved, that paper and pens had failed them for the carrying out of their purpose.  
 21. Now this was an active interference of the unconquerable Providence which assisted the Jews from heaven.   
 
-## Chapter 5
+## 3 Maccabees Chapter 5
 1. Then he called Hermon, who had charge of the elephants. Full of rage, altogether fixed in his furious design,  
 2. he commanded him, with a quantity of unmixed wine with handfuls of incense infused, to drug the elephants early on the following day. These five hundred elephants were, when infuriated by the copious drinks of frankincense, to be led up to the execution of death upon the Jews.  
 3. The king, after issuing these orders, went to his feasting, and gathered together all those of his friends and of the army who hated the Jews the most.  
@@ -2374,7 +2374,7 @@ people of the Jews, greetings.
 50. Nevertheless, when they reflected upon the help previously granted them from heaven, they prostrated themselves with one accord, removed even the sucking children from the breasts, and  
 51. sent up an exceedingly great cry asking the Lord of all power to reveal himself, and have mercy upon those who now lay at the gates of hades.   
 
-## Chapter 6
+## 3 Maccabees Chapter 6
 1. Then Eleazar, an illustrious priest of the country, who had attained to length of days, and whose life had been adorned with virtue, caused the elders who were around him to cease to cry out to the holy God, and prayed this:  
 2. “O king, mighty in power, most high, Almighty God, who regulates the whole creation with your tender mercy,  
 3. look at the seed of Abraham, at the children of the sanctified Jacob, your sanctified inheritance, O Father, now being wrongfully destroyed as foreigners in a foreign land.  
@@ -2417,7 +2417,7 @@ people of the Jews, greetings.
 40. They feasted upon the king’s provision up to the fourteenth day, then asked to be sent away.  
 41. The king commended them, and wrote the following letter, of magnanimous import for them, to the commanders of every city:   
 
-## Chapter 7
+## 3 Maccabees Chapter 7
 1. “King Ptolemy Philopator to the commanders throughout Egypt, and to all who are set over affairs, joy and strength.  
 2. We, too, and our children are well. God has directed our affairs as we wish.  
 3. Certain of our friends out of malice vehemently urged us to punish the Jews of our realm in a body, with the infliction of a monstrous punishment.  
@@ -2444,7 +2444,7 @@ people of the Jews, greetings.
 
 # 4 Maccabees
 
-## Chapter 1
+## 4 Maccabees Chapter 1
 1. As I am going to demonstrate a most philosophical proposition, namely, that religious reasoning is absolute master of the emotions. I would willingly advise you to give the utmost heed to philosophy.  
 2. For reason is necessary to everyone as a step to science. In addition, it embraces the praise of self-control, the highest virtue.  
 3. If, then, reasoning appears to hold the mastery over the emotions which stand in the way of temperance, such as gluttony and lust,  
@@ -2481,7 +2481,7 @@ people of the Jews, greetings.
 34. Hence it is, then, that when craving seafood, birds, four-footed animals, and all kinds of food which are forbidden to us by the law, we withhold ourselves through the mastery of reasoning.  
 35. For the affections of our appetites are resisted by the temperate understanding, and bent back again, and all the impulses of the body are reined in by reasoning.   
 
-## Chapter 2
+## 4 Maccabees Chapter 2
 1. Is it any wonder? If the lusts of the soul, after participation with what is beautiful, are frustrated,  
 2. on this ground, therefore, the temperate Joseph is praised in that by reasoning, he subdued, on reflection, the indulgence of the senses.  
 3. For, although young, and ripe for sexual intercourse, he nullified by reasoning the stimulus of his emotions.  
@@ -2507,7 +2507,7 @@ people of the Jews, greetings.
 23. He gave a law to this mind, by living according to which it will maintain a temperate, just, good, and courageous reign.  
 24. How, then, a man may say, if reasoning is master of the emotions, has it no control over forgetfulness and ignorance?   
 
-## Chapter 3
+## 4 Maccabees Chapter 3
 1. The argument is exceedingly ridiculous, for reasoning doesn’t appear to rule over its own affections, but over those of the body,  
 2. in such a way as that any one of you may not be able to root out desire, but reasoning will enable you to avoid being enslaved to it.  
 3. One may not be able to root out anger from the soul, but it is possible to withstand anger.  
@@ -2530,7 +2530,7 @@ people of the Jews, greetings.
 20. For at a time when our fathers were in possession of undisturbed peace through obedience to the law and were prosperous, so that Seleucus Nicanor, the king of Asia, both assigned them money for divine service, and accepted their form of government,  
 21. then certain people, bringing in new things contrary to the public harmony, in various ways fell into calamities.   
 
-## Chapter 4
+## 4 Maccabees Chapter 4
 1. For a certain man named Simon, who was in opposition to an honorable and good man who once held the high priesthood for life, named Onias. After slandering Onias in every way, Simon couldn’t injure him with the people, so he went away as an exile, with the intention of betraying his country.  
 2. When coming to Apollonius, the military governor of Syria, Phoenicia, and Cilicia, he said,  
 3. “Having good will to the king’s affairs, I have come to inform you that tens of thousands in private wealth is laid up in the treasuries of Jerusalem which do not belong to the temple, but belong to King Seleucus.”  
@@ -2558,7 +2558,7 @@ people of the Jews, greetings.
 25. for even women, because they continued to circumcise their children, were flung down a precipice along with them, knowing beforehand of the punishment.  
 26. When, therefore, his decrees were disregarded by the people, he himself compelled by means of tortures every one of this race, by tasting forbidden meats, to renounce the Jewish religion.   
 
-## Chapter 5
+## 4 Maccabees Chapter 5
 1. The tyrant Antiochus, therefore, sitting in public state with his assessors upon a certain lofty place, with his armed troops standing in a circle around him,  
 2. commanded his spearbearers to seize every one of the Hebrews, and to compel them to taste swine’s flesh and things offered to idols.  
 3. Should any of them be unwilling to eat the accursed food, they were to be tortured on the wheel and so killed.  
@@ -2598,7 +2598,7 @@ people of the Jews, greetings.
 37. My ancestors will receive me as pure, not having feared your compulsion, even to death.  
 38. For you will rule like a tyrant over the ungodly, but you will not lord it over my thoughts about religion, either by your arguments, or through deeds.”   
 
-## Chapter 6
+## 4 Maccabees Chapter 6
 1. When Eleazar had in this manner answered the exhortations of the tyrant, the spearbearers came up, and rudely dragged Eleazar to the instruments of torture.  
 2. First, they stripped the old man, adorned as he was with the beauty of piety.  
 3. Then tying back his arms and hands, they disdainfully flogged him.  
@@ -2635,7 +2635,7 @@ people of the Jews, greetings.
 34. It is only fair that we should allow that the power belongs to reasoning, since it masters external miseries.  
 35. It would be ridiculous if it weren’t so. I prove that reasoning has not only mastered pains, but that it is also superior to the pleasures, and withstands them.   
 
-## Chapter 7
+## 4 Maccabees Chapter 7
 1. The reasoning of our father Eleazar, like a first-rate pilot, steering the vessel of piety in the sea of emotions,  
 2. and flouted by the threats of the tyrant, and overwhelmed with the breakers of torture,  
 3. in no way shifted the rudder of piety until it sailed into the harbor of victory over death.  
@@ -2662,7 +2662,7 @@ people of the Jews, greetings.
 24. This is why even boys, trained with the philosophy of religious reasoning, have conquered still more bitter tortures;  
 25. for when the tyrant was manifestly vanquished in his first attempt, in being unable to force the old man to eat the unclean thing,   
 
-## Chapter 8
+## 4 Maccabees Chapter 8
 1. then, indeed, vehemently swayed with emotion, he commanded to bring others of the adult Hebrews, and if they would eat of the unclean thing, to let them go when they had eaten; but if they objected, to torment them more grievously.  
 2. The tyrant having given this charge, seven kindred were brought into his presence, along with their aged mother. They were handsome, modest, well-born, and altogether comely.  
 3. When the tyrant saw them encircling their mother as in a dance, he was pleased with them. Being struck with their becoming and innocent manner, smiled at them, and calling them near, said,  
@@ -2691,7 +2691,7 @@ people of the Jews, greetings.
 26. But the young men didn’t say or think anything of this kind when about to be tortured.  
 27. For they were well aware of the sufferings, and masters of the pains.  
 
-## Chapter 9
+## 4 Maccabees Chapter 9
 1. “Why do you delay, O tyrant? For we are more ready to die than to transgress the injunctions of our fathers.  
 2. We would be disgracing our fathers if we didn’t obey the law, and take knowledge for our guide.  
 3. O tyrant, counselor of law-breaking, do not, hating us as you do, pity us more than we pity ourselves.  
@@ -2725,7 +2725,7 @@ people of the Jews, greetings.
 31. For I lighten my suffering by the pleasures which are connected with virtue.  
 32. But you are tortured with threatenings for impiety. You won’t escape, most corrupt tyrant, the vengeance of Divine wrath.”   
 
-## Chapter 10
+## 4 Maccabees Chapter 10
 1. Now this one endured this praiseworthy death. The third was brought along, and exhorted by many to taste and save his life.  
 2. But he cried out and said, “Don’t you know that the father of those who are dead is my father also, and that the same mother bore me, and that I was brought up in the same way?  
 3. I don’t renounce the noble relationship of my kindred.  
@@ -2748,7 +2748,7 @@ people of the Jews, greetings.
 20. We gladly lose our limbs on behalf of God.  
 21. But God will speedily find you, since you cut off the tongue, the instrument of divine melody.”   
 
-## Chapter 11
+## 4 Maccabees Chapter 11
 1. When he had died, disfigured in his torments, the fifth leaped forward, and said,  
 2. “I don’t intend, O tyrant, to get excused from the torment which is on behalf of virtue.  
 3. But I have come of my own accord, that by my death you may owe heavenly vengeance and punishment for more crimes.  
@@ -2777,7 +2777,7 @@ people of the Jews, greetings.
 26. Your fire is cold to us. Your racks are painless, and your violence harmless.  
 27. For the guards not of a tyrant but of a divine law are our defenders. Through this we keep our reasoning unconquered.”   
 
-## Chapter 12
+## 4 Maccabees Chapter 12
 1. When he, too, had undergone blessed martyrdom, and died in the cauldron into which he had been thrown, the seventh, the youngest of all, came forward,  
 2. whom the tyrant pitying, though he had been dreadfully reproached by his kindred,  
 3. seeing him already encompassed with chains, had him brought nearer, and endeavored to counsel him, saying,  
@@ -2799,7 +2799,7 @@ people of the Jews, greetings.
 19. But you, both living and dead, he will punish.”  
 20. Thus having prayed, he hurled himself into the pans; and so expired.   
 
-## Chapter 13
+## 4 Maccabees Chapter 13
 1. If then, the seven kindred despised troubles even to death, it is admitted on all sides that righteous reasoning is absolute master over the emotions.  
 2. For just as if they had eaten of the unholy as slaves to the emotions, we would have said that they had been conquered by them.  
 3. Now it is not so. But by means of the reasoning which is praised by God, they mastered their emotions.  
@@ -2828,7 +2828,7 @@ people of the Jews, greetings.
 26. For it acting along with religion, made their brotherly feeling more desirable to them.  
 27. And yet, although nature, companionship, and virtuous morals increased their brotherly love, those who were left endured to see their kindred, who were mistreated for their religion, tortured even to death.   
 
-## Chapter 14
+## 4 Maccabees Chapter 14
 1. More that this, they even urged them on to this mistreatment; so that they not only despised pains themselves, but they even got the better of their affections of brotherly love.  
 2. Reasoning is more royal than a king, and freer than freemen!  
 3. What a sacred and harmonious concert of the seven kindred as concerning piety!  
@@ -2850,7 +2850,7 @@ people of the Jews, greetings.
 19. Even bees, at the season of honey-making, attack all who approach, and pierce with their sting, as with a sword, those who draw near their hive, and repel them even to death.  
 20. But sympathy with her children didn’t turn away the mother of the young men, who had a spirit kindred with that of Abraham.   
 
-## Chapter 15
+## 4 Maccabees Chapter 15
 1. O reasoning of the sons, lord over the emotions, and religion more desirable to a mother than children!  
 2. The mother, when two things were set before her, religion and the safety of her seven sons for a time, on the conditional promise of a tyrant,  
 3. rather elected the religion which according to God preserves to eternal life.  
@@ -2884,7 +2884,7 @@ people of the Jews, greetings.
 31. For like Noah’s ship, bearing the world in the world-filling flood, bore up against the waves,  
 32. so you, the guardian of the law, when surrounded on every side by the flood of emotions, and assaulted by violent storms which were the torments of your children, bore up nobly against the storms against religion.   
 
-## Chapter 16
+## 4 Maccabees Chapter 16
 1. If, then, even a woman, and that an aged one, and the mother of seven children, endured to see her children’s torments even to death, it must be admitted that religious reasoning is master even of the emotions.  
 2. I have proved, then, that not only men have obtained the mastery of their emotions, but also that a woman despised the greatest torments.  
 3. The lions around Daniel were not so fierce, nor the furnace of Misael burning with most vehement fires as that natural love of children burned within her, when she saw her seven sons tortured.  
@@ -2911,7 +2911,7 @@ people of the Jews, greetings.
 24. With these arguments, the mother of seven, exhorting each of her sons, encouraged and persuaded them not to transgress God’s commandment.  
 25. They saw this, too, that those who die for God, live to God, like Abraham, Isaac, Jacob, and all the patriarchs.   
 
-## Chapter 17
+## 4 Maccabees Chapter 17
 1. Some of the spearbearers said that when she herself was about to be seized for the purpose of being put to death, she threw herself on the pile, rather than let them touch her body.  
 2. O you mother, who together with seven children destroyed the violence of the tyrant, and rendered void his wicked intentions, and exhibited the nobleness of faith!  
 3. For you, like a house bravely built on the pillar of your children, bore the shock of tortures without swaying.  
@@ -2937,7 +2937,7 @@ people of the Jews, greetings.
 23. For the tyrant Antiochus, looking to their courageous virtue and to their endurance in torture, proclaimed that endurance as an example to his soldiers.  
 24. They proved to be to him noble and brave for land battles and for sieges; and he conquered and stormed the towns of all his enemies.   
 
-## Chapter 18
+## 4 Maccabees Chapter 18
 1. O Israelite children, descendants of the seed of Abraham, obey this law and in every way be religious,  
 2. knowing that religious reasoning is lord of the emotions, and those not only inward but outward.   
 3. Therefore those people who gave up their bodies to pains for the sake of religion were not only admired by men, but were deemed worthy of a divine portion.  
@@ -2965,7 +2965,7 @@ people of the Jews, greetings.
 
 # 1 Esdras
 
-## Chapter 1
+## 1 Esdras Chapter 1
 1. Josias held the Passover in Jerusalem to his Lord, and offered the Passover the fourteenth day of the first month,  
 2. having set the priests according to their daily courses, being arrayed in their vestments, in the Lord’s temple.  
 3. He spoke to the Levites, the temple servants of Israel, that they should make themselves holy to the Lord, to set the holy ark of the Lord in the house that King Solomon the son of David had built.  
@@ -3025,7 +3025,7 @@ people of the Jews, greetings.
 57. They were servants to him and to his children until the Persians reigned, to fulfill the word of the Lord by the mouth of Jeremy:  
 58. “Until the land has enjoyed its Sabbaths, the whole time of her desolation shall she keep Sabbath, to fulfill seventy years.   
 
-## Chapter 2
+## 1 Esdras Chapter 2
 1. In the first year of King Cyrus of the Persians, that the word of the Lord by the mouth of Jeremy might be accomplished,  
 2. the Lord stirred up the spirit of King Cyrus of the Persians, and he made a proclamation throughout all his kingdom, and also by writing,  
 3. saying, “Cyrus king of the Persians says: The Lord of Israel, the Most High Lord, has made me king of the whole world,  
@@ -3057,7 +3057,7 @@ people of the Jews, greetings.
 29. and that those wicked doings proceed no further to the annoyance of kings.”  
 30. Then King Artaxerxes, his letters being read, Rathumus, and Samellius the scribe, and the rest of their associates, went in haste to Jerusalem with cavalry and a multitude of people in battle array, and began to hinder the builders. So the building of the temple in Jerusalem ceased until the second year of the reign of King Darius of the Persians.   
 
-## Chapter 3
+## 1 Esdras Chapter 3
 1. Now King Darius made a great feast for all his subjects, for all who were born in his house, for all the princes of Media and of Persia,  
 2. and for all the local governors and captains and governors who were under him, from India to Ethiopia, in the one hundred twenty seven provinces.  
 3. They ate and drank, and when they were satisfied went home. Then King Darius went into his bedchamber slept, but awakened out of his sleep.   
@@ -3083,7 +3083,7 @@ people of the Jews, greetings.
 23. But when they awake from their wine, they don’t remember what they have done.  
 24. O sirs, isn’t wine the strongest, seeing that it forces people to do this?” And when he had said this, he stopped speaking.   
 
-## Chapter 4
+## 1 Esdras Chapter 4
 1. Then the second, who had spoken of the strength of the king, began to say,  
 2. “O sirs, don’t men excel in strength who rule over the sea and land, and all things in them?  
 3. But yet the king is stronger. He is their lord and has dominion over them. In whatever he commands them, they obey him.  
@@ -3148,7 +3148,7 @@ people of the Jews, greetings.
 62. They praised the God of their ancestors, because he had given them freedom and liberty  
 63. to go up and to build Jerusalem and the temple which is called by his name. They feasted with instruments of music and gladness seven days.   
 
-## Chapter 5
+## 1 Esdras Chapter 5
 1. After this, the chiefs of fathers’ houses were chosen to go up according to their tribes, with their wives, sons, and daughters, with their menservants and maidservants, and their livestock.  
 2. Darius sent with them one thousand cavalry to bring them back to Jerusalem with peace, with musical instruments, drums, and flutes.  
 3. All their kindred were making merry, and he made them go up together with them.   
@@ -3223,7 +3223,7 @@ people of the Jews, greetings.
 72. But the heathen of the land pressed hard upon the inhabitants of Judea, cut off their supplies, and hindered their building.  
 73. By their secret plots, and popular persuasions and commotions, they hindered the finishing of the building all the time that King Cyrus lived. So they were hindered from building for two years, until the reign of Darius.   
 
-## Chapter 6
+## 1 Esdras Chapter 6
 1. Now in the second year of the reign of Darius, Aggaeus and Zacharius the son ofAddo, the prophets, prophesied to the Jews in Judea and Jerusalem in the name of the Lord, the God of Israel.  
 2. Then Zorobabel the son of Salathiel and Jesus the son of Josedek stood up and began to build the house of the Lord at Jerusalem, the prophets of the Lord being with them and helping them.   
 3. At the same time Sisinnes the governor of Syria and Phoenicia came to them, with Sathrabuzanes and his companions, and said to them,  
@@ -3259,7 +3259,7 @@ people of the Jews, greetings.
 33. “Therefore may the Lord, whose name is called upon there, utterly destroy every king and nation that stretches out his hand to hinder or damage that house of the Lord in Jerusalem.  
 34. I, King Darius have ordained that these things be done with diligence.”   
 
-## Chapter 7
+## 1 Esdras Chapter 7
 1. Then Sisinnes the governor of Coelesyria and Phoenicia, and Sathrabuzanes, with their companions, following the commandments of King Darius,  
 2. very carefully supervised the holy work, assisting the elders of the Jews and rulers of the temple.  
 3. So the holy work prospered, while Aggaeus and Zacharias the prophets prophesied.  
@@ -3276,7 +3276,7 @@ people of the Jews, greetings.
 14. They kept the feast of unleavened bread seven days, rejoicing before the Lord,  
 15. because he had turned the counsel of the king of Assyria toward them, to strengthen their hands in the works of the Lord, the God of Israel.   
 
-## Chapter 8
+## 1 Esdras Chapter 8
 1. After these things, when Artaxerxes the king of the Persians reigned, Esdras came, who was the son of Azaraias, the son of Zechrias, the son of Helkias, the son of Salem,  
 2. the son of Sadduk, the son of Ahitob, the son of Amarias, the son of Ozias,the son of Memeroth, the son of Zaraias, the son of Savias, the son of Boccas, the son of Abisne, the son of Phinees, the son of Eleazar, the son of Aaron, the chief priest.  
 3. This Esdras went up from Babylon as a skilled scribe in the law of Moses, which was given by the God of Israel.  
@@ -3374,7 +3374,7 @@ people of the Jews, greetings.
 95. Arise, and take action, for this is your task, and we will be with you to do valiantly.”  
 96. So Esdras arose, and took an oath from the chief of the priests and Levites of all Israel to do these things; and they swore to it.   
 
-## Chapter 9
+## 1 Esdras Chapter 9
 1. Then Esdras rose up from the court of the temple and went to the chamber of Jonas the son of Eliasib,  
 2. and lodged there, and ate no bread and drank no water, mourning for the great iniquities of the multitude.  
 3. A proclamation was made in all Judea and Jerusalem to all those who returned from captivity, that they should be gathered together at Jerusalem,  
@@ -3433,7 +3433,7 @@ people of the Jews, greetings.
 
 # 2 Esdras
 
-## Chapter 1
+## 2 Esdras Chapter 1
 1. The second book of the prophet Esdras, the son of Saraias, the son of Azaraias, the son of Helkias, the son of Salemas, the son of Sadoc, the son of Ahitob,  
 2. the son of Achias, the son of Phinees, the son of Heli, the son of Amarias, the son of Aziei, the son of Marimoth, the son of Arna, the son of Ozias, the son of Borith, the son of Abissei, the son of Phinees, the son of Eleazar,  
 3. the son of Aaron, of the tribe of Levi, who was captive in the land of the Medes, in the reign of Artaxerxes king of the Persians.   
@@ -3475,7 +3475,7 @@ people of the Jews, greetings.
 39. to whom I will give for leaders, Abraham, Isaac, and Jacob, Oseas, Amos, and Micheas, Joel, Abdias, and Jonas,  
 40. Nahum, and Abacuc, Sophonias, Aggaeus, Zachary, and Malachy, who is also called the Lord’s messenger.   
 
-## Chapter 2
+## 2 Esdras Chapter 2
 1. The Lord says, “I brought this people out of bondage. I gave them my commandments by my servants the prophets, whom they would not listen to, but made my counsels void.  
 2. The mother who bore them says to them, ‘Go your way, my children, for I am a widow and forsaken.  
 3. I brought you up with gladness, and I have lost you with sorrow and heaviness, for you have sinned before the Lord God, and done that which is evil before me.  
@@ -3525,7 +3525,7 @@ people of the Jews, greetings.
 47. So he answered and said to me, “He is the Son of God, whom they have confessed in the world.”  
 48. Then the angel said to me, “Go your way, and tell my people what kind of things, and how great wonders of the Lord God you have seen.”   
 
-## Chapter 3
+## 2 Esdras Chapter 3
 1. In the thirtieth year after the ruin of the city, I Salathiel, also called Esdras, was in Babylon, and lay troubled upon my bed, and my thoughts came up over my heart,  
 2. for I saw the desolation of Zion and the wealth of those who lived at Babylon.  
 3. My spirit was very agitated, so that I began to speak words full of fear to the Most High, and said,  
@@ -3563,7 +3563,7 @@ people of the Jews, greetings.
 35. Or when was it that they who dwell on the earth have not sinned in your sight? Or what nation has kept your commandments so well?  
 36. You will find some men by name who have kept your precepts, but you won’t find nations.”   
 
-## Chapter 4
+## 2 Esdras Chapter 4
 1. The angel who was sent to me, whose name was Uriel, gave me an answer,  
 2. and said to me, “Your understanding has utterly failed you regarding this world. Do you think you can comprehend the way of the Most High?”   
 3. Then I said, “Yes, my Lord.”  
@@ -3618,7 +3618,7 @@ When I heard these things, I fell on my face
 51. Then I prayed, and said, “Do you think that I will live until that time? Or who will be alive in those days?”   
 52. He answered me, “As for the signs you asked me about, I may tell you of them in part; but I wasn’t sent to tell you about your life, for I don’t know.   
 
-## Chapter 5
+## 2 Esdras Chapter 5
 1. “Nevertheless, concerning the signs, behold, the days will come when those who dwell on earth will be taken with great amazement, and the way of truth will be hidden, and the land will be barren of faith.  
 2. Iniquity will be increased above what now you see, and beyond what you have heard long ago.  
 3. The land that you now see ruling will be a trackless waste, and men will see it desolate.  
@@ -3676,7 +3676,7 @@ When I heard these things, I fell on my face
 55. So are those who come after you smaller than you, as born of the creature which now begins to be old, and is past the strength of youth.”   
 56. Then I said, “Lord, I implore you, if I have found favor in your sight, show your servant by whom you visit your creation.”   
 
-## Chapter 6
+## 2 Esdras Chapter 6
 1. He said to me, “In the beginning, when the earth was made, before the portals of the world were fixed and before the gatherings of the winds blew,  
 2. before the voices of the thunder sounded and before the flashes of the lightning shone, before the foundations of paradise were laid,  
 3. before the fair flowers were seen, before the powers of the earthquake were established, before the innumerable army of angels were gathered together,  
@@ -3737,7 +3737,7 @@ When I heard these things, I fell on my face
 58. But we your people, whom you have called your firstborn, your only children, and your fervent lover, are given into their hands.  
 59. Now if the world is made for our sakes, why don’t we possess our world for an inheritance? How long will this endure?”   
 
-## Chapter 7
+## 2 Esdras Chapter 7
 1. When I had finished speaking these words, the angel which had been sent to me the nights before was sent to me.  
 2. He said to me, “Rise, Esdras, and hear the words that I have come to tell you.”   
 3. I said, “Speak on, my Lord.”  
@@ -3880,7 +3880,7 @@ broad and vast,
 139. and a judge, for if he didn’t pardon those who were created by his word, and blot out the multitude of sins,  
 140. there would perhaps be very few left of an innumerable multitude.”   
 
-## Chapter 8
+## 2 Esdras Chapter 8
 1. He answered me, “The Most High has made this world for many, but the world to come for few.  
 2. Now I will tell you a parable, Esdras. Just as when you ask the earth, it will say to you that it gives very much clay from which earthen vessels are made, but little dust that gold comes from. Even so is the course of the present world.  
 3. Many have been created, but few will be saved.”   
@@ -3945,7 +3945,7 @@ broad and vast,
 62. which I have not shown to all men, but to you, and a few like you.”  
 63. “Behold, O Lord, now you have shown me the multitude of the wonders which you will do in the last times, but you haven’t shown me when.”   
 
-## Chapter 9
+## 2 Esdras Chapter 9
 1. He answered me, “Measure diligently within yourself. When you see that a certain part of the signs are past, which have been told you beforehand,  
 2. then will you understand that it is the very time in which the Most High will visit the world which was made by him.  
 3. When earthquakes, tumult of peoples, plans of nations, wavering of leaders, and confusion of princes are seen in the world,  
@@ -3994,7 +3994,7 @@ broad and vast,
 46. I nourished him with great care.  
 47. So when he grew up, and I came to take him a wife, I made him a feast day.   
 
-## Chapter 10
+## 2 Esdras Chapter 10
 1. “So it came to pass that when my son was entered into his wedding chamber, he fell down and died.  
 2. Then we all put out the lamps, and all my neighbors rose up to comfort me. I remained quiet until the second day at night.  
 3. It came to pass, when they had all stopped consoling me, encouraging me to be quiet, then rose I up by night, and fled, and came here into this field, as you see.  
@@ -4055,7 +4055,7 @@ broad and vast,
 58. But tomorrow at night you shall remain here,  
 59. and so the Most High will show you those visions in dreams of what the Most High will do to those who live on the earth in the last days.”  
 
-## Chapter 11
+## 2 Esdras Chapter 11
 1. It came to pass the second night that I saw a dream, and behold, an eagle which had twelve feathered wings and three heads came up from the sea.  
 2. I saw, and behold, she spread her wings over all the earth, and all the winds of heaven blew on her, and the clouds were gathered together against her.  
 3. I saw, and out of her wings there grew other wings near them; and they became little, tiny wings.  
@@ -4103,7 +4103,7 @@ broad and vast,
 45. Therefore appear no more, you eagle, nor your horrible wings, nor your evil little wings, nor your cruel heads, nor your hurtful talons, nor all your worthless body,  
 46. that all the earth may be refreshed and relieved, being delivered from your violence, and that she may hope for the judgment and mercy of him who made her.’”   
 
-## Chapter 12
+## 2 Esdras Chapter 12
 1. It came to pass, while the lion spoke these words to the eagle, I saw,  
 2. and behold, the head that remained disappeared, and the two wings which went over to it arose and set themselves up to reign; and their kingdom was brief and full of uproar.  
 3. I saw, and behold, they disappeared, and the whole body of the eagle was burned, so that the earth was in great fear.  
@@ -4156,7 +4156,7 @@ broad and vast,
 50. So the people went their way into the city, as I told them to do.  
 51. But I sat in the field seven days, as the angel commanded me. In those days, I ate only of the flowers of the field, and my food was from plants.   
 
-## Chapter 13
+## 2 Esdras Chapter 13
 1. It came to pass after seven days, I dreamed a dream by night.  
 2. Behold, a wind arose from the sea that moved all its waves.  
 3. I saw, and behold, [this wind caused to come up from the midst of the sea something like the appearance of a man. I saw, and behold,] that man flew with the clouds of heaven. When he turned his face to look, everything that he saw trembled.  
@@ -4216,7 +4216,7 @@ broad and vast,
 57. Then I went out and passed into the field, giving praise and thanks greatly to the Most High because of his wonders, which he did from time to time,  
 58. and because he governs the time, and such things as happen in their seasons. So I sat there three days.   
 
-## Chapter 14
+## 2 Esdras Chapter 14
 1. It came to pass upon the third day, I sat under an oak, and, behold, a voice came out of a bush near me, and said, “Esdras, Esdras!”   
 2. I said, “Here I am, Lord,” and I stood up on my feet.   
 3. Then he said to me, “I revealed myself in a bush and talked with Moses when my people were in bondage in Egypt.  
@@ -4266,7 +4266,7 @@ broad and vast,
 47. for in them is the spring of understanding, the fountain of wisdom, and the stream of knowledge.”   
 48. I did so.   
 
-## Chapter 15
+## 2 Esdras Chapter 15
 1. “Behold, speak in the ears of my people the words of prophecy which I will put in your mouth,” says the Lord.  
 2. “Cause them to be written on paper, for they are faithful and true.  
 3. Don’t be afraid of their plots against you. Don’t let the unbelief of those who speak against you trouble you.  
@@ -4331,7 +4331,7 @@ broad and vast,
 62. They will devour you, your cities, your land, and your mountains. They will burn all your forests and your fruitful trees with fire.  
 63. They will carry your children away captive, and will plunder your wealth, and mar the glory of your face.”   
 
-## Chapter 16
+## 2 Esdras Chapter 16
 1. Woe to you, Babylon, and Asia! Woe to you, Egypt and Syria!  
 2. Put on sackcloth and garments of goats’ hair, wail for your children and lament; for your destruction is at hand.  
 3. A sword has been sent upon you, and who is there to turn it back?  
@@ -4413,7 +4413,7 @@ broad and vast,
 
 # Prayer of Manasseh
 
-## Chapter 1
+## Prayer of Manasseh Chapter 1
 1. O LORD Almighty in heaven, God of our fathers Abraham, Isaac, and Jacob, and of their righteous offspring,  
 2. you who have made heaven and earth, with all their order,  
 3. who have bound the sea by the word of your commandment, who have shut up the deep, and sealed it by your terrible and glorious name,  
@@ -4432,7 +4432,7 @@ broad and vast,
 
 # Psalm 151
 
-## Chapter 1
+## Psalm 151 Chapter 1
 1. I was small among my brothers,  
 2. My hands formed a musical instrument,  
 3. Who shall tell my Lord?  
@@ -4444,7 +4444,7 @@ broad and vast,
 
 # Wisdom
 
-## Chapter 1
+## Wisdom Chapter 1
 1. Love righteousness, all you who are judges of the earth.  
 with a good mind.  
 2. because he is found by those who don’t put him to the test,  
@@ -4466,7 +4466,7 @@ royal dominion upon earth;
 16. but ungodly men by their hands and their words summon death;  
 pined away.  
 
-## Chapter 2
+## Wisdom Chapter 2
 1. For they saidwithin themselves, with unsound reasoning,  
 was released from Hades.   
 2. Because we were born by mere chance,  
@@ -4495,7 +4495,7 @@ turns it back.
 23. Because God created man for incorruption,  
 24. but death entered into the world by the envy of the devil,  
 
-## Chapter 3
+## Wisdom Chapter 3
 1. But the souls of the righteous are in the hand of God,  
 2. In the eyes of the foolish they seemed to have died.  
 3. and their travel away from us ruin,  
@@ -4516,7 +4516,7 @@ turns it back.
 18. If they die young, they will have no hope,  
 19. For the end of an unrighteous generation is always grievous.   
 
-## Chapter 4
+## Wisdom Chapter 4
 1. It is better to be childless with virtue,  
 2. When it is present, people imitate it.  
 3. But the multiplying brood of the ungodly will be of no profit,  
@@ -4538,7 +4538,7 @@ turns it back.
 19. because he will dash them speechless to the ground,  
 20. They will come with coward fear when their sins are counted.  
 
-## Chapter 5
+## Wisdom Chapter 5
 1. Then the righteous man will stand in great boldness  
 2. When they see him, they will be troubled with terrible fear,  
 3. They will speak among themselves repenting,  
@@ -4564,7 +4564,7 @@ turns it back.
 22. Hailstones full of wrath will be hurled as from a catapult.  
 23. A mighty wind will encounter them.  
 
-## Chapter 6
+## Wisdom Chapter 6
 1. Hear therefore, you kings, and understand.  
 2. Give ear, you rulers who have dominion over many people,  
 in multitudes of nations,   
@@ -4592,7 +4592,7 @@ in multitudes of nations,
 24. But a multitude of wise men is salvation to the world,  
 25. Therefore be instructed by my words, and you will profit.   
 
-## Chapter 7
+## Wisdom Chapter 7
 1. I myself am alsomortal, like everyone else,  
 2. I molded into flesh in the time of ten months in my mother’s womb,  
 3. I also, when I was born, drew in the common air,  
@@ -4625,7 +4625,7 @@ winds and the thoughts of men;
 29. For she is fairer than the sun,  
 30. For daylight yields to night,  
 
-## Chapter 8
+## Wisdom Chapter 8
 1. But she reaches from one end to the other with full strength,  
 2. I loved her and sought her from my youth.  
 3. She glorifies her noble birth by living with God.  
@@ -4650,7 +4650,7 @@ are virtues,
 20. Or rather, being good, I came into an undefiled body.   
 21. But perceiving that I could not otherwise possess wisdom unless God gave her to me—  
 
-## Chapter 9
+## Wisdom Chapter 9
 1. “O God of my ancestors and Lord of mercy,  
 2. and by your wisdom you formed man,  
 3. and rule the world in holiness and righteousness,  
@@ -4673,7 +4673,7 @@ throne.
 17. Who gained knowledge of your counsel, unless you gave wisdom,  
 18. It was thus that the ways of those who are on earth were corrected,  
 
-## Chapter 10
+## Wisdom Chapter 10
 1. Wisdomguarded to the end the first formed father of the world, who was created alone,  
 2. and gave him strength to rule over all things.   
 3. But when an unrighteous man fell away from her in his anger,  
@@ -4697,7 +4697,7 @@ knew the righteous man, and preserved him blameless to God,
 20. Therefore the righteous plundered the ungodly,  
 21. because wisdom opened the mouth of the mute,  
 
-## Chapter 11
+## Wisdom Chapter 11
 1. Wisdom prospered their works in the hand of a holy prophet.   
 2. They traveled through a desert without inhabitant,  
 3. They withstood enemies and repelled foes.   
@@ -4726,7 +4726,7 @@ flinty rock,
 25. How would anything have endured unless you had willed it?  
 26. But you spare all things, because they are yours,  
 
-## Chapter 12
+## Wisdom Chapter 12
 1. For your incorruptible spirit is in all things.   
 2. Therefore you convict little by little those who fall from the right way,  
 3. For truly the old inhabitants of your holy land,   
@@ -4758,7 +4758,7 @@ which even among their enemies were held in dishonor,
 26. But those who would not be admonished by mild correction  
 27. For through the sufferings they were indignant of,  
 
-## Chapter 13
+## Wisdom Chapter 13
 1. For truly all men who had no perception of God were foolish by nature,  
 2. But they thought that either fire, or wind, or swift air,  
 3. If it was through delight in their beauty that they took them to be gods,  
@@ -4780,7 +4780,7 @@ which even among their enemies were held in dishonor,
 18. Yes, for health, he calls upon that which is weak.  
 19. And for profit in business and good success of his hands,  
 
-## Chapter 14
+## Wisdom Chapter 14
 1. Again, one preparing to sail, and about to journey over raging waves,  
 2. For the hunger for profit planned it,  
 3. Your providence, O Father, guides it along,  
@@ -4813,7 +4813,7 @@ which even among their enemies were held in dishonor,
 30. But on both counts, the just doom will pursue them,  
 31. For it is not the power of things by which men swear,  
 
-## Chapter 15
+## Wisdom Chapter 15
 1. But you, our God, are gracious and true,  
 2. For even if we sin, we are yours, knowing your dominion;  
 3. For to be acquainted with you isperfect righteousness,  
@@ -4838,7 +4838,7 @@ lifetime a festival for profit;
 18. Yes, and they worship the creatures that are most hateful,  
 19. Neither, as seen beside other creatures, are they beautiful, so that one should desire them,  
 
-## Chapter 16
+## Wisdom Chapter 16
 1. For this cause, they were deservedly punished through creatures like those which they worship,  
 2. Instead of this punishment, you, giving benefits to your people,  
 3. to the end that your enemies, desiring food,  
@@ -4869,7 +4869,7 @@ lifetime a festival for profit;
 28. that it might be known that we must rise before the sun to give you thanks,  
 29. for the hope of the unthankful will melt as the winter’s hoar frost,  
 
-## Chapter 17
+## Wisdom Chapter 17
 1. For your judgments are great, and hard to interpret;  
 2. For when lawless men had supposed that they held a holy nation in their power,  
 3. For while they thought that they were unseen in their secret sins,  
@@ -4892,7 +4892,7 @@ lifetime a festival for profit;
 20. For the whole world was illuminated with clear light,  
 21. while over them alone was spread a heavy night,  
 
-## Chapter 18
+## Wisdom Chapter 18
 1. But for your holy ones there was great light.  
 2. yet for that they do not hurt them, though wronged by them before, they are thankful;  
 3. Therefore you provided a burning pillar of fire,  
@@ -4919,7 +4919,7 @@ lifetime a festival for profit;
 24. For the whole world was pictured on his long robe,  
 25. The destroyer yielded to these, and they feared;  
 
-## Chapter 19
+## Wisdom Chapter 19
 1. But indignation without mercy came upon the ungodly to the end;  
 2. how, having changed their minds to let your people go,  
 3. For while they were yet in the midst of their mourning,  
@@ -4946,7 +4946,7 @@ lifetime a festival for profit;
 
 # Sirach
 
-## Chapter 1
+## Sirach Chapter 1
 1. All wisdom comes from the Lord,  
 2. Who can count the sand of the seas,  
 3. Who will search out the height of the sky,  
@@ -4979,7 +4979,7 @@ lifetime a festival for profit;
 29. Don’t be a hypocrite in men’s sight.  
 30. Don’t exalt yourself,  
 
-## Chapter 2
+## Sirach Chapter 2
 1. My son, if you come to serve the Lord,  
 2. Set your heart aright, constantly endure,  
 3. Cling to him, and don’t depart,  
@@ -4999,7 +4999,7 @@ lifetime a festival for profit;
 17. Those who fear the Lord will prepare their hearts,  
 18. We will fall into the hands of the Lord,  
 
-## Chapter 3
+## Sirach Chapter 3
 1. Hear me, your father, O my children,  
 2. For the Lord honors the father over the children,  
 3. He who honors his father will make atonement for sins.   
@@ -5032,7 +5032,7 @@ lifetime a festival for profit;
 30. Water will quench a flaming fire;  
 31. He who repays good turns is mindful of that which comes afterward.  
 
-## Chapter 4
+## Sirach Chapter 4
 1. My son, don’t deprive the poor of his living.  
 2. Don’t make a hungry soul sorrowful,  
 3. Don’t add more trouble to a heart that is provoked.  
@@ -5067,7 +5067,7 @@ Don’t hide your wisdom for the sake of seeming fair.
 30. Don’t be like a lion in your house,  
 31. Don’t let your hand be stretched out to receive,  
 
-## Chapter 5
+## Sirach Chapter 5
 1. Don’t set your heart upon your goods.  
 2. Don’t follow your own mind and your strength  
 3. Don’t say, “Who will have dominion over me?”  
@@ -5084,7 +5084,7 @@ Don’t hide your wisdom for the sake of seeming fair.
 14. Don’t be called a whisperer.  
 15. Don’t be ignorant in a great or small matter.   
 
-## Chapter 6
+## Sirach Chapter 6
 1. Don’t become an enemy instead of a friend;  
 2. Don’t exalt yourself in the counsel of your soul,  
 3. You will eat up your leaves, destroy your fruit,  
@@ -5124,7 +5124,7 @@ a purple cord.
 36. If you see a man of understanding, get to him early.  
 37. Let your mind dwell on the ordinances of the Lord  
 
-## Chapter 7
+## Sirach Chapter 7
 1. Do no evil,  
 2. Depart from wrong,  
 3. My son, don’t sow upon the furrows of unrighteousness,  
@@ -5163,7 +5163,7 @@ But don’t trust yourself to one who is hateful.
 35. Don’t be slow to visit a sick man,  
 36. In all your words, remember eternity,  
 
-## Chapter 8
+## Sirach Chapter 8
 1. Don’t contend with a mighty man,  
 2. Don’t strive with a rich man, lest perhaps he overpower you;  
 3. Don’t argue with a loudmouthed man.  
@@ -5184,7 +5184,7 @@ But don’t trust yourself to one who is hateful.
 18. Do no secret thing before a stranger,  
 19. Don’t open your heart to every man.  
 
-## Chapter 9
+## Sirach Chapter 9
 1. Don’t be jealous over the wife of your bosom,  
 2. Don’t give your soul to a woman  
 3. Don’t go to meet a woman who plays the prostitute,  
@@ -5206,7 +5206,7 @@ the grave.
 17. A work is commended because of the skill of the artisan;  
 18. A loudmouthed man is dangerous in his city.  
 
-## Chapter 10
+## Sirach Chapter 10
 1. A wise judge will instruct his people.  
 2. As is the judge of his people, so are his officials.  
 3. An undisciplined king will destroy his people.  
@@ -5239,7 +5239,7 @@ the grave.
 30. A poor man is honored for his knowledge.  
 31. But he who is honored in poverty, how much more in riches?  
 
-## Chapter 11
+## Sirach Chapter 11
 1. The wisdom of the lowly will lift up his head,  
 2. Don’t commend a man for his good looks.  
 3. The bee is little among flying creatures,  
@@ -5273,7 +5273,7 @@ the grave.
 31. Take heed of an evil-doer, for he plans wicked things,  
 32. Receive a stranger into your house, and he will distract you with arguments  
 
-## Chapter 12
+## Sirach Chapter 12
 1. If you do good, know to whom you do it,  
 2. Do good to a godly man, and you will find a reward—  
 3. No good will come to him who continues to do evil,  
@@ -5294,7 +5294,7 @@ the grave.
 17. If adversity meets you, you will find him there before you.  
 18. He will shake his head, clap his hands,  
 
-## Chapter 13
+## Sirach Chapter 13
 1. He who touches pitch will be defiled.  
 2. Don’t take up a burden above your strength.  
 3. The rich man does a wrong and threatens.  
@@ -5324,7 +5324,7 @@ in danger of falling.
   
 26. A cheerful countenance is a sign of a prosperous heart.  
 
-## Chapter 14
+## Sirach Chapter 14
 1. Blessed is the man who has not slipped with his mouth,  
 2. Blessed is he whose soul does not condemn him,  
 3. Riches are not appropriate for a stingy person.  
@@ -5353,7 +5353,7 @@ in danger of falling.
 26. He will set his children under her shelter,  
 27. By her he will be covered from heat,  
 
-## Chapter 15
+## Sirach Chapter 15
 1. He who fears the Lord will do this.  
 2. She will meet him like a mother,  
 3. She will feed him with bread of understanding  
@@ -5375,7 +5375,7 @@ in danger of falling.
 19. His eyes are upon those who fear him.  
 20. He has not commanded any man to be ungodly.  
 
-## Chapter 16
+## Sirach Chapter 16
 1. Don’t desire a multitude of unprofitable children,  
 2. If they multiply, don’t delight in them  
 3. Don’t trust in their life.  
@@ -5407,7 +5407,7 @@ hidden.
 27. After this also the Lord looked at the earth  
 28. All manner of living things covered its surface,  
 
-## Chapter 17
+## Sirach Chapter 17
 1. The Lord created mankind out of earth,  
 2. He gave them days by number, and a set time,  
 3. He endowed them with strength proper to them,  
@@ -5443,7 +5443,7 @@ that they may declare the majesty of his works.
 31. What is brighter than the sun? Yet even this can be eclipsed.  
 32. He looks upon the power of the height of heaven,  
 
-## Chapter 18
+## Sirach Chapter 18
 1. He who lives forever created the whole universe.   
 2. The Lord alone is just.  
 3.   
@@ -5481,7 +5481,7 @@ the laughing stock of your enemies.
 33. Don’t be made a beggar by banqueting with borrowed money  
   
 
-## Chapter 19
+## Sirach Chapter 19
 1. A worker who is a drunkard will not become rich.  
 2. Wine and women will make men of understanding go astray.  
 3. Decay and worms will have him as their heritage.  
@@ -5512,7 +5512,7 @@ the laughing stock of your enemies.
 27. A man will be known by his appearance.  
 28. A man’s attire, grinning laughter,  
 
-## Chapter 20
+## Sirach Chapter 20
 1. There is a reproof that is not timely;  
 2. How good is it to reprove, rather than to be angry.  
 3.   
@@ -5546,7 +5546,7 @@ the laughing stock of your enemies.
 31. Better is a man who hides his folly  
 32.   
 
-## Chapter 21
+## Sirach Chapter 21
 1. My son, have you sinned?  
 2. Flee from sin as from the face of a snake;  
 3. All iniquity is as a two-edged sword.  
@@ -5577,7 +5577,7 @@ the laughing stock of your enemies.
 27. When the ungodly curses an adversary,  
 28. A whisperer defiles his own soul,  
 
-## Chapter 22
+## Sirach Chapter 22
 1. A slothful man is compared to a stone that is defiled.  
 2. A slothful man is compared to the filth of a dunghill.  
 3. An undisciplined child is a disgrace to his father,  
@@ -5605,7 +5605,7 @@ the laughing stock of your enemies.
 24. If any evil happens to me because of him,  
 25. Who will set a watch over my mouth,  
 
-## Chapter 23
+## Sirach Chapter 23
 1. O Lord, Father and Master of my life,  
 2. Who will set scourges over my thought,  
 3. Otherwise my errors might be multiplied,  
@@ -5637,7 +5637,7 @@ the laughing stock of your enemies.
 27. And those who are left behind will know that there is nothing better than the fear of the Lord,  
 28.   
 
-## Chapter 24
+## Sirach Chapter 24
 1. Wisdom will praise her own soul,  
 2. She will open her mouth in the congregation of the Most High,  
 3. “I came out of the mouth of the Most High,  
@@ -5674,7 +5674,7 @@ galbanum, onycha, stacte,
 33. I will continue to pour out teaching like prophecy,  
 34. See that I have not labored for myself only,  
 
-## Chapter 25
+## Sirach Chapter 25
 1. I enjoy three things,  
 2. But my soul hates three sorts of people,  
 3. If you gathered nothing in your youth,  
@@ -5703,7 +5703,7 @@ galbanum, onycha, stacte,
 26. If she doesn’t go as you direct,  
   
 
-## Chapter 26
+## Sirach Chapter 26
 1. Happy is the husband of a good wife.  
 2. A faithful wife gives joy to her husband.  
 3. A good wife is a great gift.  
@@ -5727,7 +5727,7 @@ his bones.
 19. For two things my heart is grieved,  
 20. It is difficult for a merchant to keep himself from wrong doing,  
 
-## Chapter 27
+## Sirach Chapter 27
 1. Many have sinned for profit.  
 2. As a nail will stick fast between the joinings of stones,  
 3. Unless a person holds on diligently to the fear of the Lord,  
@@ -5759,7 +5759,7 @@ his bones.
 29. Those who rejoice at the fall of the godly will be caught in a snare.  
 30. Wrath and anger, these also are abominations.  
 
-## Chapter 28
+## Sirach Chapter 28
 1. He who takes vengeance will find vengeance from the Lord,  
 2. Forgive your neighbor the hurt that he has done,  
 3. Does anyone harbor anger against another  
@@ -5787,7 +5787,7 @@ his bones.
 25. so make a balance and a weight for your words,  
 26. Take heed lest you slip with it,  
 
-## Chapter 29
+## Sirach Chapter 29
 1. He who shows mercy will lend to his neighbor.  
 2. Lend to your neighbor in time of his need.  
 3. Confirm your word, and keep faith with him;  
@@ -5817,7 +5817,7 @@ his bones.
 27. “Leave, you sojourner, for an honored guest is here.  
 28. These things are grievous to a man of understanding:  
 
-## Chapter 30
+## Sirach Chapter 30
 1. He who loves his son will continue to lay stripes upon him,  
 2. He who chastises his son will have profit from him,  
 3. He who teaches his son will provoke his enemy to jealousy.  
@@ -5846,7 +5846,7 @@ his bones.
 24. Envy and wrath shorten life.  
 25. Those who are cheerful and merry  
 
-## Chapter 31
+## Sirach Chapter 31
 1. Wakefulness that comes from riches consumes the flesh,  
 2. Wakeful anxiety will crave slumber.  
 3. A rich man toils in gathering money together.  
@@ -5879,7 +5879,7 @@ his bones.
 30. Drunkenness increases the rage of a fool to his hurt.  
 31. Don’t rebuke your neighbor at a banquet of wine.  
 
-## Chapter 32
+## Sirach Chapter 32
 1. Have they made you ruler of a feast?  
 2. And when you have done all your duties, take your place,  
 3. Speak, you who are older, for it’s your right, but with sound knowledge;  
@@ -5905,7 +5905,7 @@ his bones.
 23. In every work guard your own soul,  
 24. He who believes the law gives heed to the commandment.  
 
-## Chapter 33
+## Sirach Chapter 33
 1. No evil will happen to him who fears the Lord,  
 2. A wise man will not hate the law,  
 3. A man of understanding will put his trust in the law.  
@@ -5941,7 +5941,7 @@ the sinner is the opposite of the godly.
 32. If you have a slave, treat him like yourself.  
 33. which way will you go to seek him?   
 
-## Chapter 34
+## Sirach Chapter 34
 1. Vain and false hopes are for a man void of understanding.  
 2. As one who grasps at a shadow and follows after the wind,  
 3. The vision of dreams is a reflection,  
@@ -5969,7 +5969,7 @@ the sinner is the opposite of the godly.
 25. He who washes himself after touching a dead body, and touches it again,  
 26. Even so a man fasting for his sins,  
 
-## Chapter 35
+## Sirach Chapter 35
 1. He who keeps the law multiplies offerings.  
 2. He who returns a kindness offers fine flour.  
 3. To depart from wickedness pleases the Lord.  
@@ -5991,7 +5991,7 @@ the sinner is the opposite of the godly.
 19. until he has rendered to every man according to his deeds,  
 20. Mercy is as welcome in the time of his affliction,  
 
-## Chapter 36
+## Sirach Chapter 36
 1. Have mercy upon us, O Lord the God of all, and look at us with favor;   
 2. and send your fear upon all the nations.  
 3. Lift up your hand against the foreign nations  
@@ -6022,7 +6022,7 @@ eternal God.
 25. Where no hedge is, the property will be plundered.  
 26. For who would trust a nimble robber who skips from city to city?  
 
-## Chapter 37
+## Sirach Chapter 37
 1. Every friend will say, “I also am his friend”;  
 2. Isn’t there a grief in it even to death  
 3. O wicked imagination, why were you formed  
@@ -6055,7 +6055,7 @@ eternal God.
 30. For overeating brings disease,  
 31. Because of gluttony, many have perished,  
 
-## Chapter 38
+## Sirach Chapter 38
 1. Honor a physician according to your need with the honors due to him,  
 2. For healing comes from the Most High,  
 3. The skill of the physician will lift up his head.  
@@ -6091,7 +6091,7 @@ eternal God.
 33. They won’t be sought for in the council of the people.  
 34. But they will maintain the fabric of the age.  
 
-## Chapter 39
+## Sirach Chapter 39
 1. Not so he who has applied his soul  
 2. He will keep the sayings of the men of renown  
 3. He will seek out the hidden meaning of proverbs  
@@ -6128,7 +6128,7 @@ eternal God.
 34. No one can say, “This is worse than that,”  
 35. Now with all your hearts and voices, sing praises  
 
-## Chapter 40
+## Sirach Chapter 40
 1. Great travail is created for every man.  
 2. The expectation of things to come, and the day of death,  
 3. From him who sits on a throne of glory,  
@@ -6160,7 +6160,7 @@ eternal God.
 29. A man who looks to the table of another,  
 30. Begging will be sweet in the mouth of the shameless,  
 
-## Chapter 41
+## Sirach Chapter 41
 1. O death, how bitter is the memory of you to a man who is at peace in his possessions,  
 2. O death, your sentence is acceptable to a man who is needy and who fails in strength,  
 3. Don’t be afraid of the sentence of death.  
@@ -6188,7 +6188,7 @@ eternal God.
 23. of repeating and speaking what you have heard,  
 24. So you will be ashamed of the right things  
 
-## Chapter 42
+## Sirach Chapter 42
 1. Don’t be ashamed of these things,  
 2. of the law of the Most High and his covenant,  
 3. of reckoning with a partner and with travellers,  
@@ -6215,7 +6215,7 @@ eternal God.
 24. All things are in pairs, one opposite the other.  
 25. One thing establishes the good things of another.  
 
-## Chapter 43
+## Sirach Chapter 43
 1. The pride of the heavenly heights is the clear sky,  
 2. The sun, when it appears, bringing tidings as it rises,  
 3. At noon, it dries up the land.  
@@ -6250,7 +6250,7 @@ eternal God.
 32. Many things greater than these are hidden,  
 33. For the Lord made all things.  
 
-## Chapter 44
+## Sirach Chapter 44
 1. Let us now praise famous men,  
 2. The Lord created great glory in them—  
 3. Some ruled in their kingdoms  
@@ -6275,7 +6275,7 @@ eternal God.
 22. In Isaac also, he established the same assurance for Abraham his father’s sake,  
 23. He made it rest upon the head of Jacob.  
 
-## Chapter 45
+## Sirach Chapter 45
 1. He brought out of him a man of mercy,  
 2. He made him equal to the glory of the saints,  
 3. By his words he caused the wonders to cease.  
@@ -6303,7 +6303,7 @@ eternal God.
 25. Also he made a covenant with David the son of Jesse, of the tribe of Judah.  
 26. May God give you wisdom in your heart  
 
-## Chapter 46
+## Sirach Chapter 46
 1. Joshua the son of Nun was valiant in war,  
 God’s elect,  
 2. How was he glorified in the lifting up his hands,  
@@ -6327,7 +6327,7 @@ on the slope he destroyed those who resisted,
 19. Before the time of his age-long sleep,  
 20. Even after he fell asleep, he prophesied,  
 
-## Chapter 47
+## Sirach Chapter 47
 1. After him, Nathan rose up  
 2. As is the fat when it is separated from the peace offering,  
 3. He played with lions as with kids,  
@@ -6355,7 +6355,7 @@ on the slope he destroyed those who resisted,
 24. Their sins were multiplied exceedingly,  
 25. For they sought out all manner of wickedness,  
 
-## Chapter 48
+## Sirach Chapter 48
 1. Then Elijah arose, the prophet like fire.  
 2. He brought a famine upon them,  
 3. By the word of the Lord he shut up the heavens.  
@@ -6382,7 +6382,7 @@ on the slope he destroyed those who resisted,
 24. He saw by an excellent spirit what would come to pass in the future;  
 25. He showed the things that would happen through the end of time,  
 
-## Chapter 49
+## Sirach Chapter 49
 1. The memory of Josiah is like the composition of incense  
 2. He did what was right in the reforming of the people,  
 3. He set his heart right toward the Lord.  
@@ -6401,7 +6401,7 @@ people holy to the Lord,
 15. Nor was there a man born like Joseph,  
 16. Shem and Seth were honored among men,  
 
-## Chapter 50
+## Sirach Chapter 50
 1. It was Simon, the son of Onias, the high priest,  
 2. The foundation was built by him to the height of the double walls,  
 3. In his days, a water cistern was dug,  
@@ -6433,7 +6433,7 @@ people holy to the Lord,
 29. For if he does them, he will be strong in all things,  
   
 
-## Chapter 51
+## Sirach Chapter 51
 1. I will give thanks to you, O Lord, O King,  
 2. for you have been my protector and helper,  
 3. and delivered me, according to the abundance of your mercy and of your name,  
@@ -6468,7 +6468,7 @@ people holy to the Lord,
 
 # Baruch
 
-## Chapter 1
+## Baruch Chapter 1
 1. These are the words of the book which Baruch the son of Nerias, the son of Maaseas, the son of Sedekias, the son of Asadias, the son of Helkias, wrote in Babylon,  
 2. in the fifth year, in the seventh day of the month, at the time when the Chaldeans took Jerusalem and burned it with fire.  
 3. Baruch read the words of this book in the hearing of Jechonias the son of Joakim king of Judah, and in the hearing of all the people who came to hear the book,  
@@ -6492,7 +6492,7 @@ people holy to the Lord,
 21. Nevertheless we didn’t listen to the voice of the Lord our God, according to all the words of the prophets whom he sent to us,  
 22. but we each walked in the imagination of his own wicked heart, to serve strange gods and to do what is evil in the sight of the Lord our God.   
 
-## Chapter 2
+## Baruch Chapter 2
 1. Therefore the Lord has made good his word which he pronounced against us, and against our judges who judged Israel, and against our kings, and against our princes, and against the men of Israel and Judah,  
 2. to bring upon us great plagues such as never happened before under the whole heaven,as it came to pass in Jerusalem, according to the things that are written in the law of Moses,  
 3. that we should each eat the flesh of our own son, and each eat the flesh of our own daughter.  
@@ -6529,7 +6529,7 @@ people holy to the Lord,
 34. I will bring them again into the land which I promised to their fathers, to Abraham, to Isaac, and to Jacob, and they will rule over it. I will increase them, and they won’t be diminished.  
 35. And I will make an everlasting covenant with them to be their God, and they will be my people. I will no more remove my people Israel out of the land that I have given them.”   
 
-## Chapter 3
+## Baruch Chapter 3
 1. O Lord Almighty, you God of Israel, the soul in anguish and the troubled spirit cries to you.  
 2. Hear, O Lord, and have mercy; for you are a merciful God. Yes, have mercy upon us, because we have sinned before you.  
 3. For you are enthroned forever, and we keep perishing.  
@@ -6568,7 +6568,7 @@ people holy to the Lord,
 36. He has found out all the way of knowledge, and has given it to Jacob his servant and to Israel who is loved by him.  
 37. Afterward she appeared upon earth, and lived with men.   
 
-## Chapter 4
+## Baruch Chapter 4
 1. This is the book of God’s commandments and the law that endures forever. All those who hold it fast will live, but those who leave it will die.  
 2. Turn, O Jacob, and take hold of it. Walk toward the shining of its light.  
 3. Don’t give your glory to another, nor the things that are to your advantage to a foreign nation.  
@@ -6607,7 +6607,7 @@ people holy to the Lord,
 36. O Jerusalem, look around you toward the east, and behold the joy that comes to you from God.  
 37. Behold, your sons come, whom you sent away. They come gathered together from the east to the west at the word of the Holy One, rejoicing in the glory of God.   
 
-## Chapter 5
+## Baruch Chapter 5
 1. Take off the garment of your mourning and affliction, O Jerusalem, and put on forever the beauty of the glory from God.  
 2. Put on the robe of the righteousness from God. Set on your head a diadem of the glory of the Everlasting.  
 3. For God will show your splendor everywhere under heaven.  
@@ -6618,7 +6618,7 @@ people holy to the Lord,
 8. Moreover the woods and every sweet smelling tree have shaded Israel by the commandment of God.  
 9. For God will lead Israel with joy in the light of his glory with the mercy and righteousness that come from him.   
 
-## Chapter 6
+## Baruch Chapter 6
 1. A copy of a letter that Jeremy sent to those who were to be led captives into Babylon by the king of the Babylonians, to give them the message that God commanded him.   
 2. Because of the sins which you have committed before God, you will be led away captives to Babylon by Nabuchodonosor king of the Babylonians.  
 3. So when you come to Babylon, you will remain there many years, and for a long season, even for seven generations. After that, I will bring you out peacefully from there.  
@@ -6695,7 +6695,7 @@ people holy to the Lord,
 
 # Daniel (Greek)
 
-## Chapter 1
+## Daniel (Greek) Chapter 1
 1. In the third year of the reign of Jehoiakim king of Judah, Nebuchadnezzar king of Babylon came to Jerusalem and besieged it.  
 2. The Lord gave Jehoiakim king of Judah into his hand, with part of the vessels of the house of God;and he carried them into the land of Shinar to the house of his god. He brought the vessels into the treasure house of his god.   
 3. The king spoke to Ashpenaz the master of his eunuchs, that he should bring in some of the children of Israel, even of the royal offspringand of the nobles—  
@@ -6718,7 +6718,7 @@ people holy to the Lord,
 20. In every matter of wisdom and understanding concerning which the king inquired of them, he found them ten times better than all the magicians and enchanters who were in all his realm.   
 21. Daniel continued serving even to the first year of King Cyrus.   
 
-## Chapter 2
+## Daniel (Greek) Chapter 2
 1. In the second year of the reign of Nebuchadnezzar, Nebuchadnezzar dreamed dreams; and his spirit was troubled, and his sleep went from him.  
 2. Then the king commanded that the magicians, the enchanters, the sorcerers, and the Chaldeans be called to tell the king his dreams. So they came in and stood before the king.  
 3. The king said to them, “I have dreamed a dream, and my spirit is troubled to know the dream.”   
@@ -6769,7 +6769,7 @@ people holy to the Lord,
 48. Then the king made Daniel great, and gave him many great gifts, and made him rule over the whole province of Babylon, and to be chief governor over all the wise men of Babylon.  
 49. Daniel requested of the king, and he appointed Shadrach, Meshach, and Abednego over the affairs of the province of Babylon; but Daniel was in the king’s gate.   
 
-## Chapter 3
+## Daniel (Greek) Chapter 3
 1. Nebuchadnezzar the king made an image of gold, whose height was sixty cubits,and its width six cubits. He set it up in the plain of Dura, in the province of Babylon.  
 2. Then Nebuchadnezzar the king sent to gather together the local governors, the deputies, and the governors, the judges, the treasurers, the counselors, the sheriffs, and all the rulers of the provinces, to come to the dedication of the image which Nebuchadnezzar the king had set up.  
 3. Then the local governors, the deputies, and the governors, the judges, the treasurers, the counselors, the sheriffs, and all the rulers of the provinces, were gathered together to the dedication of the image that Nebuchadnezzar the king had set up; and they stood before the image that Nebuchadnezzar had set up.   
@@ -6869,7 +6869,7 @@ people holy to the Lord,
 96. Therefore I make a decree, that every people, nation, and language, who speak anything evil against the God of Shadrach, Meshach, and Abednego, shall be cut in pieces, and their houses shall be made a dunghill, because there is no other god who is able to deliver like this.”   
 97. Then the king promoted Shadrach, Meshach, and Abednego in the province of Babylon.   
 
-## Chapter 4
+## Daniel (Greek) Chapter 4
 1. Nebuchadnezzar the king,  
 2. It has seemed good to me to show the signs and wonders that the Most High God has worked toward me.   
 3. How great are his signs!  
@@ -6908,7 +6908,7 @@ people holy to the Lord,
 36. At the same time my understanding returned to me; and for the glory of my kingdom, my majesty and brightness returned to me. My counselors and my lords sought me; and I was established in my kingdom, and excellent greatness was added to me.  
 37. Now I, Nebuchadnezzar, praise and extol and honor the King of heaven; for all his works are right and his ways just; and those who walk in pride he is able to humble.   
 
-## Chapter 5
+## Daniel (Greek) Chapter 5
 1. Belshazzar the king made a great feast to a thousand of his lords, and drank wine before the thousand.  
 2. Belshazzar, while he tasted the wine, commanded that the golden and silver vessels which Nebuchadnezzar his father had taken out of the temple which was in Jerusalem be brought to him, that the king and his lords, his wives and his concubines, might drink from them.  
 3. Then they brought the golden vessels that were taken out of the temple of God’s house which was at Jerusalem; and the king and his lords, his wives and his concubines, drank from them.  
@@ -6941,7 +6941,7 @@ people holy to the Lord,
 30. In that night Belshazzar the Chaldean King was slain.  
 31. Darius the Mede received the kingdom, being about sixty-two years old.   
 
-## Chapter 6
+## Daniel (Greek) Chapter 6
 1. It pleased Darius to set over the kingdom one hundred twenty local governors, who should be throughout the whole kingdom;  
 2. and over them three presidents, of whom Daniel was one; that these local governors might give account to them, and that the king should suffer no loss.  
 3. Then this Daniel was distinguished above the presidents and the local governors, because an excellent spirit was in him; and the king thought to set him over the whole realm.   
@@ -6971,7 +6971,7 @@ people holy to the Lord,
 27. He delivers and rescues.  
 28. So this Daniel prospered in the reign of Darius, and in the reign of Cyrus the Persian.   
 
-## Chapter 7
+## Daniel (Greek) Chapter 7
 1. In the first year of Belshazzar king of Babylon, Daniel had a dream and visions of his head on his bed. Then he wrote the dream and told the sum of the matters.   
 2. Daniel spoke and said, “I saw in my vision by night and behold, the four winds of the sky broke out on the great sea.  
 3. Four great animals came up from the sea, different from one another.   
@@ -7001,7 +7001,7 @@ people holy to the Lord,
 27. The kingdom and the dominion, and the greatness of the kingdoms under the whole sky, will be given to the people of the saints of the Most High. His kingdom is an everlasting kingdom, and all dominions will serve and obey him.’   
 28. “Here is the end of the matter. As for me, Daniel, my thoughts troubled me greatly, and my face was changed in me; but I kept the matter in my heart.”   
 
-## Chapter 8
+## Daniel (Greek) Chapter 8
 1. In the third year of the reign of King Belshazzar, a vision appeared to me, even to me, Daniel, after that which appeared to me at the first.  
 2. I saw the vision. Now it was so, that when I saw, I was in the citadel of Susa, which is in the province of Elam. I saw in the vision, and I was by the river Ulai.  
 3. Then I lifted up my eyes, and saw, and behold, a ram which had two horns stood before the river. The two horns were high; but one was higher than the other, and the higher came up last.  
@@ -7030,7 +7030,7 @@ people holy to the Lord,
 26. “The vision of the evenings and mornings which has been told is true; but seal up the vision, for it belongs to many days to come.”   
 27. I, Daniel, fainted, and was sick for some days. Then I rose up, and did the king’s business. I wondered at the vision, but no one understood it.   
 
-## Chapter 9
+## Daniel (Greek) Chapter 9
 1. In the first year of Darius the son of Ahasuerus, of the offspring of the Medes, who was made king over the realm of the Chaldeans,  
 2. in the first year of his reign I, Daniel, understood by the books the number of the years about which the LORD’sword came to Jeremiah the prophet, for the accomplishing of the desolations of Jerusalem, even seventy years.  
 3. I set my face to the Lord God, to seek by prayer and petitions, with fasting in sackcloth and ashes.   
@@ -7059,7 +7059,7 @@ people holy to the Lord,
 26. After the sixty-two weeks the Anointed Onewill be cut off and will have nothing. The people of the prince who come will destroy the city and the sanctuary. Its end will be with a flood, and war will be even to the end. Desolations are determined.  
 27. He will make a firm covenant with many for one week. In the middle of the week he will cause the sacrifice and the offering to cease. On the wing of abominations will come one who makes desolate. Even to the full end that is decreed, wrath will be poured out on the desolate.”   
 
-## Chapter 10
+## Daniel (Greek) Chapter 10
 1. In the third year of Cyrus king of Persia a revelation was revealed to Daniel, whose name was called Belteshazzar. The revelation was true, even a great warfare. He understood the revelation, and had understanding of the vision.   
 2. In those days I, Daniel, was mourning three whole weeks.  
 3. I ate no pleasant bread. No meat or wine came into my mouth. I didn’t anoint myself at all, until three whole weeks were fulfilled.   
@@ -7082,7 +7082,7 @@ people holy to the Lord,
 20. Then he said, “Do you know why I have come to you? Now I will return to fight with the prince of Persia. When I go out, behold, the prince of Greece will come.  
 21. But I will tell you what is inscribed in the writing of truth. There is no one who supports me against these except Michael, your prince.   
 
-## Chapter 11
+## Daniel (Greek) Chapter 11
 1. “As for me, in the first year of Darius the Mede, I stood up to confirm and strengthen him.   
 2. “Now I will show you the truth. Behold, three more kings will stand up in Persia. The fourth will be far richer than all of them. When he has grown strong through his riches, he will stir up all against the realm of Greece.  
 3. A mighty king will stand up who will rule with great dominion, and do according to his will.  
@@ -7129,7 +7129,7 @@ people holy to the Lord,
 44. But news out of the east and out of the north will trouble him; and he will go out with great fury to destroy and utterly to sweep away many.  
 45. He will plant the tents of his palace between the sea and the glorious holy mountain; yet he will come to his end, and no one will help him.   
 
-## Chapter 12
+## Daniel (Greek) Chapter 12
 1. “At that time Michael will stand up, the great prince who stands for the children of your people. There will be a time of trouble, such as never was since there was a nation even to that same time. At that time, your people will be delivered—everyone who is found written in the book.  
 2. Many of those who sleep in the dust of the earth will awake, some to everlasting life, and some to shame and everlasting contempt.  
 3. Those who are wise will shine as the brightness of the expanse. Those who turn many to righteousness will shine like the stars forever and ever.  
@@ -7144,7 +7144,7 @@ people holy to the Lord,
 12. Blessed is he who waits and comes to the one thousand three hundred thirty-five days.   
 13. “But go your way until the end; for you will rest and will stand in your inheritance at the end of the days.”   
 
-## Chapter 13
+## Daniel (Greek) Chapter 13
 1. A man lived in Babylon, and his name was Joakim.  
 2. He took a wife, whose name was Susanna, the daughter of Helkias, a very fair woman, and one who feared the Lord.  
 3. Her parents were also righteous, and taught their daughter according to the law of Moses.  
@@ -7210,7 +7210,7 @@ people holy to the Lord,
 63. Therefore Helkias and his wife praised God for their daughter Susanna, with Joakim her husband, and all the kindred, because there was no dishonesty found in her.  
 64. And from that day forth, Daniel had a great reputation in the sight of the people.   
 
-## Chapter 14
+## Daniel (Greek) Chapter 14
 1. King Astyages was gathered to his fathers, and Cyrus the Persian received his kingdom.  
 2. Daniel lived with the king, and was honored above all his friends.   
 3. Now the Babylonians had an idol called Bel, and every day twelve great measures of fine flour, forty sheep, and six firkinsof wine were spent on it.  
@@ -7256,7 +7256,7 @@ people holy to the Lord,
 
 # Esther (Greek)
 
-## Chapter 1
+## Esther (Greek) Chapter 1
 1. [In the second year of the reign of Ahasuerus the great king, on the first day of Nisan, Mordecai the son of Jair, the son of Shimei, the son of Kish, of the tribe of Benjamin, a Jew dwelling in the city Susa, a great man, serving in the king’s palace, saw a vision. Now he was one of the captives whom Nebuchadnezzar king of Babylon had carried captive from Jerusalem with Jeconiah the king of Judea. This was his dream: Behold, voices and a noise, thunders and earthquake, tumult upon the earth. And, behold, two great serpents came out, both ready for conflict. A great voice came from them. Every nation was prepared for battle by their voice, even to fight against the nation of the just. Behold, a day of darkness and blackness, suffering and anguish, affection and tumult upon the earth. And all the righteous nation was troubled, fearing their own afflictions. They prepared to die, and cried to God. Something like a great river from a little spring with much water, came from their cry. Light and the sun arose, and the lowly were exalted, and devoured the honorable.  
  And it came to pass after these thingsin the days of Ahasuerus, —(this Ahasuerus ruled over one hundred twenty-seven provinces from India)—  
 2. in those days, when King Ahasuerus was on the throne in the city of Susa,  
@@ -7281,7 +7281,7 @@ people holy to the Lord,
 21. This advice pleased the king and the princes; and the king did as Memucan had said,  
 22. and sent into all his kingdom through the several provinces, according to their language, so that men might be feared in their own houses.   
 
-## Chapter 2
+## Esther (Greek) Chapter 2
 1. After this, the king’s anger was pacified, and he no more mentioned Vashti, bearing in mind what she had said, and how he had condemned her.  
 2. Then the servants of the king said, “Let chaste, beautiful young virgins be sought for the king.  
 3. Let the king appoint local governors in all the provinces of his kingdom, and let them select beautiful, chaste young ladies and bring them to the city Susa, into the women’s apartment. Let them be consigned to the king’s chamberlain, the keeper of the women. Then let things for purification and other needs be given to them.  
@@ -7306,7 +7306,7 @@ people holy to the Lord,
 22. And the matter was discovered by Mordecai, and he made it known to Esther, and she declared to the king the matter of the conspiracy.  
 23. And the king examined the two chamberlains and hanged them. Then the king gave orders to make a note for a memorial in the royal library of the goodwill shown by Mordecai, as a commendation.   
 
-## Chapter 3
+## Esther (Greek) Chapter 3
 1. After this, King Ahasuerus highly honored Haman the son of Hammedatha, the Bugaean. He exalted him and set his seat above all his friends.  
 2. All in the palace bowed down to him, for so the king had given orders to do; but Mordecai didn’t bow down to him.  
 3. And they in the king’s palace said to Mordecai, “Mordecai, why do you transgress the commands of the king?”  
@@ -7323,7 +7323,7 @@ people holy to the Lord,
 14. Copies of the letters were published in every province; and an order was given to all the nations to be ready for that day.  
 15. This business was hastened also in Susa. The king and Haman began to drink, but the city was confused.   
 
-## Chapter 4
+## Esther (Greek) Chapter 4
 1. But Mordecai, having perceived what was done, tore his garments, put on sackcloth, and sprinkled dust upon himself. Having rushed forth through the open street of the city, he cried with a loud voice, “A nation that has done no wrong is going to be destroyed!”  
 2. He came to the king’s gate, and stood; for it was not lawful for him to enter into the palace wearing sackcloth and ashes.  
 3. And in every province where the letters were published, there was crying, lamentation, and great mourning on the part of the Jews. They wore sackcloth and ashes.  
@@ -7371,7 +7371,7 @@ people holy to the Lord,
 45. Neither has your handmaid rejoiced since the day of my promotion until now, except in you, O Lord God of Abraham.  
 46. O god, who has power over all, listen to the voice of the desperate, and deliver us from the hand of those who devise mischief. Deliver me from my fear.]   
 
-## Chapter 5
+## Esther (Greek) Chapter 5
 1. It came to pass on the third day, when she had ceased praying, that she took off her servant’s dress and put on her glorious apparel. Being splendidly dressed and having called upon God the Overseer and Preserver of all things, she took her two maids, and she leaned upon one, as a delicate female, and the other followed bearing her train. She was blooming in the perfection of her beauty. Her face was cheerful and looked lovely, but her heart was filled with fear. Having passed through all the doors, she stood before the king. He was sitting on his royal throne. He had put on all his glorious apparel, covered all over with gold and precious stones, and was very terrifying. And having raised his face resplendent with glory, he looked with intense anger. The queen fell, and changed her color as she fainted. She bowed herself upon the head of the maid who went before her. But God changed the spirit of the king to gentleness, and in intense feeling, he sprang from off his throne, and took her into his arms, until she recovered. He comforted her with peaceful words, and said to her, “What is the matter, Esther? I am your relative. Cheer up! You shall not die, for our command is openly declared to you: ‘Draw near.’”   
 2. And having raised the golden sceptre, he laid it upon her neck, and embraced her. He said, “Speak to me.”  
 3. The king said, “What do you desire, Esther? What is your request? Ask even to the half of my kingdom, and it shall be yours.”   
@@ -7387,7 +7387,7 @@ people holy to the Lord,
 13. But these things don’t please me while I see Mordecai the Jew in the court.   
 14. Then Zeresh his wife and his friends said to him, “Let a fifty cubit tallgallows be made for you. In the morning you speak to the king, and let Mordecai be hanged on the gallows; but you go in to the feast with the king, and be merry.”  
 
-## Chapter 6
+## Esther (Greek) Chapter 6
 1. The Lord removed sleep from the king that night; so he told his servant to bring in thebooks, the registers of daily events, to read to him.  
 2. And he found therecords written concerning Mordecai, how he had told the king about the king’s two chamberlains, when they were keeping guard, and sought to lay hands on Ahasuerus.  
 3. The king said, “What honor or favor have we done for Mordecai?”  
@@ -7403,7 +7403,7 @@ people holy to the Lord,
 13. Haman related the events that had happened to him to Zeresh his wife and to his friends. His friends and his wife said to him, “If Mordecai is of the race of the Jews, and you have begun to be humbled before him, you will assuredly fall; and you will not be able to withstand him, for the living God is with him.”  
 14. While they were still speaking, the chamberlains arrived to rush Haman to the banquet which Esther had prepared.   
 
-## Chapter 7
+## Esther (Greek) Chapter 7
 1. So the king and Haman went in to drink with the queen.  
 2. The king said to Esther at the banquet on the second day, “What is it, queen Esther? What is your request? What is your petition? It shall be done for you, up to half of my kingdom.”   
 3. She answered and said, “If I have found favor in the sight of the king, let my life be granted as my petition, and my people as my request.  
@@ -7416,7 +7416,7 @@ people holy to the Lord,
 hanged on it!”  
 10. So Haman was hanged on the gallows that had been prepared for Mordecai. Then the king’s wrath was abated.   
 
-## Chapter 8
+## Esther (Greek) Chapter 8
 1. On that day, King Ahasuerus gave to Esther all that belonged to Haman the slanderer. The king called Mordecai, for Esther had told that he was related to her.  
 2. The king took the ring which he had taken away from Haman and gave it to Mordecai. Esther appointed Mordecai over all that had been Haman’s.  
 3. She spoke yet again to the king, and fell at his feet, and implored him to undo Haman’s mischief and all that he had done against the Jews.  
@@ -7436,7 +7436,7 @@ hanged on it!”
 16. The Jews had light and gladness  
 17. in every city and province where the ordinance was published. Wherever the proclamation took place, the Jews had joy and gladness, feasting and mirth. Many of the Gentiles were circumcised and became Jews for fear of the Jews.   
 
-## Chapter 9
+## Esther (Greek) Chapter 9
 1. Now in the twelfth month, on the thirteenth day of the month, which is Adar, the letters written by the king arrived.  
 2. In that day, the adversaries of the Jews perished; for no one resisted, through fear of them.  
 3. For the chiefs of the local governors, and the princes and the royal scribes, honored the Jews; for the fear of Mordecai was upon them.  
@@ -7468,7 +7468,7 @@ hanged on it!”
 29. Mordecai and Esther the queen established this decision on their own, pledging their own well-being to their plan.  
 30. And Esther established it by a command forever, and it was written for a memorial.   
 
-## Chapter 10
+## Esther (Greek) Chapter 10
 1. The king levied a tax upon his kingdom both by land and sea.  
 2. As for his strength and valour, and the wealth and glory of his kingdom, behold, they are written in the book of the Persians and Medes for a memorial.   
 3. Mordecai was viceroy to King Ahasuerus, and was a great man in the kingdom, honored by the Jews, and lived his life loved by all his nation. 

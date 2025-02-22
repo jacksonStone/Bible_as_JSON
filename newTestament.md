@@ -1,7 +1,7 @@
 
 # Matthew
 
-## Chapter 1
+## Matthew Chapter 1
 1. The book of the genealogy of Jesus Christ, the son of David, the son of Abraham.   
 2. Abraham became the father of Isaac. Isaac became the father of Jacob. Jacob became the father of Judah and his brothers.  
 3. Judah became the father of Perez and Zerah by Tamar. Perez became the father of Hezron. Hezron became the father of Ram.  
@@ -31,7 +31,7 @@ which is, being interpreted, “God with us.”
 24. Joseph arose from his sleep, and did as the angel of the Lord commanded him, and took his wife to himself;  
 25. and didn’t know her sexually until she had given birth to her firstborn son. He named him Jesus.   
 
-## Chapter 2
+## Matthew Chapter 2
 1. Now when Jesus was born in Bethlehem of Judea in the days of King Herod, behold, wise men from the east came to Jerusalem, saying,  
 2. “Where is he who is born King of the Jews? For we saw his star in the east, and have come to worship him.”  
 3. When King Herod heard it, he was troubled, and all Jerusalem with him.  
@@ -63,7 +63,7 @@ because they are no more.”
 22. But when he heard that Archelaus was reigning over Judea in the place of his father, Herod, he was afraid to go there. Being warned in a dream, he withdrew into the region of Galilee,  
 23. and came and lived in a city called Nazareth; that it might be fulfilled which was spoken through the prophets that he will be called a Nazarene.   
 
-## Chapter 3
+## Matthew Chapter 3
 1. In those days, John the Baptizer came, preaching in the wilderness of Judea, saying,  
 2. “Repent, for the Kingdom of Heaven is at hand!”  
 3. For this is he who was spoken of by Isaiah the prophet, saying,  
@@ -85,7 +85,7 @@ Make his paths straight!”
 16. Jesus, when he was baptized, went up directly from the water: and behold, the heavens were opened to him. He saw the Spirit of God descending as a dove, and coming on him.  
 17. Behold, a voice out of the heavens said, “This is my beloved Son, with whom I am well pleased.”   
 
-## Chapter 4
+## Matthew Chapter 4
 1. Then Jesus was led up by the Spirit into the wilderness to be tempted by the devil.  
 2. When he had fasted forty days and forty nights, he was hungry afterward.  
 3. The tempter came and said to him, “If you are the Son of God, command that these stones become bread.”   
@@ -119,7 +119,7 @@ to them light has dawned.”
 24. The report about him went out into all Syria. They brought to him all who were sick, afflicted with various diseases and torments, possessed with demons, epileptics, and paralytics; and he healed them.  
 25. Great multitudes from Galilee, Decapolis, Jerusalem, Judea, and from beyond the Jordan followed him.   
 
-## Chapter 5
+## Matthew Chapter 5
 1. Seeing the multitudes, he went up onto the mountain. When he had sat down, his disciples came to him.  
 2. He opened his mouth and taught them, saying,   
 3. “Blessed are the poor in spirit,  
@@ -177,7 +177,7 @@ to them light has dawned.”
 47.  If you only greet your friends, what more do you do than others? Don’t even the tax collectors  do the same?   
 48.  Therefore you shall be perfect, just as your Father in heaven is perfect.   
 
-## Chapter 6
+## Matthew Chapter 6
 1. “Be careful that you don’t do your charitable giving  before men, to be seen by them, or else you have no reward from your Father who is in heaven.   
 2.  Therefore, when you do merciful deeds, don’t sound a trumpet before yourself, as the hypocrites do in the synagogues and in the streets, that they may get glory from men. Most certainly I tell you, they have received their reward.   
 3.  But when you do merciful deeds, don’t let your left hand know what your right hand does,   
@@ -218,7 +218,7 @@ to them light has dawned.”
 33.  But seek first God’s Kingdom and his righteousness; and all these things will be given to you as well.   
 34.  Therefore don’t be anxious for tomorrow, for tomorrow will be anxious for itself. Each day’s own evil is sufficient.   
 
-## Chapter 7
+## Matthew Chapter 7
 1. “Don’t judge, so that you won’t be judged.   
 2.  For with whatever judgment you judge, you will be judged; and with whatever measure you measure, it will be measured to you.   
 3.  Why do you see the speck that is in your brother’s eye, but don’t consider the beam that is in your own eye?   
@@ -249,7 +249,7 @@ to them light has dawned.”
 28. When Jesus had finished saying these things, the multitudes were astonished at his teaching,  
 29. for he taught them with authority, and not like the scribes.   
 
-## Chapter 8
+## Matthew Chapter 8
 1. When he came down from the mountain, great multitudes followed him.  
 2. Behold, a leper came to him and worshiped him, saying, “Lord, if you want to, you can make me clean.”   
 3. Jesus stretched out his hand and touched him, saying, “I want to. Be made clean.” Immediately his leprosy was cleansed.  
@@ -286,7 +286,7 @@ They came out and went into the herd of pigs; and behold, the whole herd of pigs
 33. Those who fed them fled and went away into the city and told everything, including what happened to those who were possessed with demons.  
 34. Behold, all the city came out to meet Jesus. When they saw him, they begged that he would depart from their borders.   
 
-## Chapter 9
+## Matthew Chapter 9
 1. He entered into a boat and crossed over, and came into his own city.  
 2. Behold, they brought to him a man who was paralyzed, lying on a bed. Jesus, seeing their faith, said to the paralytic, “Son, cheer up! Your sins are forgiven you.”   
 3. Behold, some of the scribes said to themselves, “This man blasphemes.”   
@@ -328,7 +328,7 @@ They told him, “Yes, Lord.”
 37. Then he said to his disciples, “The harvest indeed is plentiful, but the laborers are few.   
 38.  Pray therefore that the Lord of the harvest will send out laborers into his harvest.”   
 
-## Chapter 10
+## Matthew Chapter 10
 1. He called to himself his twelve disciples, and gave them authority over unclean spirits, to cast them out, and to heal every disease and every sickness.  
 2. Now the names of the twelve apostles are these. The first, Simon, who is called Peter; Andrew, his brother; James the son of Zebedee; John, his brother;  
 3. Philip; Bartholomew; Thomas; Matthew the tax collector; James the son of Alphaeus; Lebbaeus, who was also called Thaddaeus;  
@@ -372,7 +372,7 @@ They told him, “Yes, Lord.”
 41.  He who receives a prophet in the name of a prophet will receive a prophet’s reward. He who receives a righteous man in the name of a righteous man will receive a righteous man’s reward.   
 42.  Whoever gives one of these little ones just a cup of cold water to drink in the name of a disciple, most certainly I tell you, he will in no way lose his reward.”   
 
-## Chapter 11
+## Matthew Chapter 11
 1. When Jesus had finished directing his twelve disciples, he departed from there to teach and preach in their cities.   
 2. Now when John heard in the prison the works of Christ, he sent two of his disciples 
 3. and said to him, “Are you he who comes, or should we look for another?”   
@@ -404,7 +404,7 @@ They told him, “Yes, Lord.”
 29.  Take my yoke upon you and learn from me, for I am gentle and humble in heart; and you will find rest for your souls.   
 30.  For my yoke is easy, and my burden is light.”   
 
-## Chapter 12
+## Matthew Chapter 12
 1. At that time, Jesus went on the Sabbath day through the grain fields. His disciples were hungry and began to pluck heads of grain and to eat.  
 2. But the Pharisees, when they saw it, said to him, “Behold, your disciples do what is not lawful to do on the Sabbath.”   
 3. But he said to them, “Haven’t you read what David did when he was hungry, and those who were with him:   
@@ -462,7 +462,7 @@ until he leads justice to victory.
 49. He stretched out his hand toward his disciples, and said, “Behold, my mother and my brothers!   
 50.  For whoever does the will of my Father who is in heaven, he is my brother, and sister, and mother.”   
 
-## Chapter 13
+## Matthew Chapter 13
 1. On that day Jesus went out of the house and sat by the seaside.  
 2. Great multitudes gathered to him, so that he entered into a boat and sat; and all the multitude stood on the beach.  
 3. He spoke to them many things in parables, saying, “Behold, a farmer went out to sow.   
@@ -538,7 +538,7 @@ They answered him, “Yes, Lord.”
 But Jesus said to them, “A prophet is not without honor, except in his own country and in his own house.”  
 58. He didn’t do many mighty works there because of their unbelief.   
 
-## Chapter 14
+## Matthew Chapter 14
 1. At that time, Herod the tetrarch heard the report concerning Jesus,  
 2. and said to his servants, “This is John the Baptizer. He is risen from the dead. That is why these powers work in him.”  
 3. For Herod had arrested John, bound him, and put him in prison for the sake of Herodias, his brother Philip’s wife.  
@@ -577,7 +577,7 @@ Peter stepped down from the boat and walked on the waters to come to Jesus.
 35. When the people of that place recognized him, they sent into all that surrounding region and brought to him all who were sick;  
 36. and they begged him that they might just touch the fringe of his garment. As many as touched it were made whole.   
 
-## Chapter 15
+## Matthew Chapter 15
 1. Then Pharisees and scribes came to Jesus from Jerusalem, saying,  
 2. “Why do your disciples disobey the tradition of the elders? For they don’t wash their hands when they eat bread.”   
 3. He answered them, “Why do you also disobey the commandment of God because of your tradition?   
@@ -623,7 +623,7 @@ They said, “Seven, and a few small fish.”
 38. Those who ate were four thousand men, in addition to women and children.  
 39. Then he sent away the multitudes, got into the boat, and came into the borders of Magdala.   
 
-## Chapter 16
+## Matthew Chapter 16
 1. The Pharisees and Sadducees came, and testing him, asked him to show them a sign from heaven.  
 2. But he answered them, “When it is evening, you say, ‘It will be fair weather, for the sky is red.’   
 3.  In the morning, ‘It will be foul weather today, for the sky is red and threatening.’ Hypocrites! You know how to discern the appearance of the sky, but you can’t discern the signs of the times!   
@@ -654,7 +654,7 @@ He left them and departed.
 27.  For the Son of Man will come in the glory of his Father with his angels, and then he will render to everyone according to his deeds.   
 28. Most certainly I tell you, there are some standing here who will in no way taste of death until they see the Son of Man coming in his Kingdom.”    
 
-## Chapter 17
+## Matthew Chapter 17
 1. After six days, Jesus took with him Peter, James, and John his brother, and brought them up into a high mountain by themselves.  
 2. He was changed before them. His face shone like the sun, and his garments became as white as the light.  
 3. Behold, Moses and Elijah appeared to them talking with him.   
@@ -686,7 +686,7 @@ When he came into the house, Jesus anticipated him, saying, “What do you think
 Jesus said to him, “Therefore the children are exempt.   
 27.  But, lest we cause them to stumble, go to the sea, cast a hook, and take up the first fish that comes up. When you have opened its mouth, you will find a stater coin.  Take that, and give it to them for me and you.”   
 
-## Chapter 18
+## Matthew Chapter 18
 1. In that hour the disciples came to Jesus, saying, “Who then is greatest in the Kingdom of Heaven?”   
 2. Jesus called a little child to himself, and set him in the middle of them 
 3. and said, “Most certainly I tell you, unless you turn and become as little children, you will in no way enter into the Kingdom of Heaven.   
@@ -723,7 +723,7 @@ Jesus said to him, “Therefore the children are exempt.
 34.  His lord was angry, and delivered him to the tormentors until he should pay all that was due to him.   
 35.  So my heavenly Father will also do to you, if you don’t each forgive your brother from your hearts for his misdeeds.”   
 
-## Chapter 19
+## Matthew Chapter 19
 1. When Jesus had finished these words, he departed from Galilee and came into the borders of Judea beyond the Jordan.  
 2. Great multitudes followed him, and he healed them there.   
 3. Pharisees came to him, testing him and saying, “Is it lawful for a man to divorce his wife for any reason?”   
@@ -756,7 +756,7 @@ Jesus said, “‘You shall not murder.’ ‘You shall not commit adultery.’ 
 29.  Everyone who has left houses, or brothers, or sisters, or father, or mother, or wife, or children, or lands, for my name’s sake, will receive one hundred times, and will inherit eternal life.   
 30.  But many will be last who are first, and first who are last.    
 
-## Chapter 20
+## Matthew Chapter 20
 1. “For the Kingdom of Heaven is like a man who was the master of a household, who went out early in the morning to hire laborers for his vineyard.   
 2.  When he had agreed with the laborers for a denarius  a day, he sent them into his vineyard.   
 3.  He went out about the third hour,  and saw others standing idle in the marketplace.   
@@ -795,7 +795,7 @@ They said to him, “We are able.”
 33. They told him, “Lord, that our eyes may be opened.”   
 34. Jesus, being moved with compassion, touched their eyes; and immediately their eyes received their sight, and they followed him.   
 
-## Chapter 21
+## Matthew Chapter 21
 1. When they came near to Jerusalem and came to Bethsphage, to the Mount of Olives, then Jesus sent two disciples,  
 2. saying to them, “Go into the village that is opposite you, and immediately you will find a donkey tied, and a colt with her. Untie them and bring them to me.   
 3.  If anyone says anything to you, you shall say, ‘The Lord needs them,’ and immediately he will send them.”   
@@ -856,7 +856,7 @@ Jesus said to them, “Most certainly I tell you that the tax collectors and the
 45. When the chief priests and the Pharisees heard his parables, they perceived that he spoke about them.  
 46. When they sought to seize him, they feared the multitudes, because they considered him to be a prophet.   
 
-## Chapter 22
+## Matthew Chapter 22
 1. Jesus answered and spoke to them again in parables, saying,  
 2. “The Kingdom of Heaven is like a certain king, who made a wedding feast for his son,   
 3.  and sent out his servants to call those who were invited to the wedding feast, but they would not come.   
@@ -909,7 +909,7 @@ They said to him, “Of David.”
 45. “If then David calls him Lord, how is he his son?”   
 46. No one was able to answer him a word, neither did any man dare ask him any more questions from that day forward.   
 
-## Chapter 23
+## Matthew Chapter 23
 1. Then Jesus spoke to the multitudes and to his disciples,  
 2. saying, “The scribes and the Pharisees sit on Moses’ seat.   
 3.  All things therefore whatever they tell you to observe, observe and do, but don’t do their works; for they say, and don’t do.   
@@ -950,7 +950,7 @@ They said to him, “Of David.”
 38.  Behold, your house is left to you desolate.   
 39.  For I tell you, you will not see me from now on, until you say, ‘Blessed is he who comes in the name of the Lord!’”  
 
-## Chapter 24
+## Matthew Chapter 24
 1. Jesus went out from the temple, and was going on his way. His disciples came to him to show him the buildings of the temple.  
 2. But he answered them, “You see all of these things, don’t you? Most certainly I tell you, there will not be left here one stone on another, that will not be thrown down.”   
 3. As he sat on the Mount of Olives, the disciples came to him privately, saying, “Tell us, when will these things be? What is the sign of your coming, and of the end of the age?”   
@@ -1003,7 +1003,7 @@ They said to him, “Of David.”
 50.  the lord of that servant will come in a day when he doesn’t expect it and in an hour when he doesn’t know it,   
 51.  and will cut him in pieces and appoint his portion with the hypocrites. That is where the weeping and grinding of teeth will be.    
 
-## Chapter 25
+## Matthew Chapter 25
 1. “Then the Kingdom of Heaven will be like ten virgins who took their lamps and went out to meet the bridegroom.   
 2.  Five of them were foolish, and five were wise.   
 3.  Those who were foolish, when they took their lamps, took no oil with them,   
@@ -1051,7 +1051,7 @@ They said to him, “Of David.”
 45. “Then he will answer them, saying, ‘Most certainly I tell you, because you didn’t do it to one of the least of these, you didn’t do it to me.’   
 46.  These will go away into eternal punishment, but the righteous into eternal life.”   
 
-## Chapter 26
+## Matthew Chapter 26
 1. When Jesus had finished all these words, he said to his disciples,  
 2. “You know that after two days the Passover is coming, and the Son of Man will be delivered up to be crucified.”   
 3. Then the chief priests, the scribes, and the elders of the people were gathered together in the court of the high priest, who was called Caiaphas.  
@@ -1133,7 +1133,7 @@ They answered, “He is worthy of death!”
 Immediately the rooster crowed.  
 75. Peter remembered the word which Jesus had said to him, “Before the rooster crows, you will deny me three times.” Then he went out and wept bitterly.   
 
-## Chapter 27
+## Matthew Chapter 27
 1. Now when morning had come, all the chief priests and the elders of the people took counsel against Jesus to put him to death.  
 2. They bound him, led him away, and delivered him up to Pontius Pilate, the governor.   
 3. Then Judas, who betrayed him, when he saw that Jesus was condemned, felt remorse, and brought back the thirty pieces of silver to the chief priests and elders,  
@@ -1210,7 +1210,7 @@ But they cried out exceedingly, saying, “Let him be crucified!”
 65. Pilate said to them, “You have a guard. Go, make it as secure as you can.”  
 66. So they went with the guard and made the tomb secure, sealing the stone.   
 
-## Chapter 28
+## Matthew Chapter 28
 1. Now after the Sabbath, as it began to dawn on the first day of the week, Mary Magdalene and the other Mary came to see the tomb.  
 2. Behold, there was a great earthquake, for an angel of the Lord descended from the sky and came and rolled away the stone from the door and sat on it.  
 3. His appearance was like lightning, and his clothing white as snow.  
@@ -1235,7 +1235,7 @@ They came and took hold of his feet, and worshiped him.
 
 # Mark
 
-## Chapter 1
+## Mark Chapter 1
 1. The beginning of the Good News of Jesus Christ, the Son of God.   
 2. As it is written in the prophets,  
 Behold, I send my messenger before your face,  
@@ -1286,7 +1286,7 @@ Make his paths straight!’”
 44. and said to him, “See that you say nothing to anybody, but go show yourself to the priest and offer for your cleansing the things which Moses commanded, for a testimony to them.”   
 45. But he went out, and began to proclaim it much, and to spread about the matter, so that Jesus could no more openly enter into a city, but was outside in desert places. People came to him from everywhere.   
 
-## Chapter 2
+## Mark Chapter 2
 1. When he entered again into Capernaum after some days, it was heard that he was at home.  
 2. Immediately many were gathered together, so that there was no more room, not even around the door; and he spoke the word to them.  
 3. Four people came, carrying a paralytic to him.  
@@ -1316,7 +1316,7 @@ Make his paths straight!’”
 27. He said to them, “The Sabbath was made for man, not man for the Sabbath.   
 28.  Therefore the Son of Man is lord even of the Sabbath.”   
 
-## Chapter 3
+## Mark Chapter 3
 1. He entered again into the synagogue, and there was a man there whose hand was withered.  
 2. They watched him, whether he would heal him on the Sabbath day, that they might accuse him.  
 3. He said to the man whose hand was withered, “Stand up.”  
@@ -1354,7 +1354,7 @@ Then he came into a house.
 34. Looking around at those who sat around him, he said, “Behold, my mother and my brothers!   
 35.  For whoever does the will of God is my brother, my sister, and mother.”   
 
-## Chapter 4
+## Mark Chapter 4
 1. Again he began to teach by the seaside. A great multitude was gathered to him, so that he entered into a boat in the sea and sat down. All the multitude were on the land by the sea.  
 2. He taught them many things in parables, and told them in his teaching,  
 3. “Listen! Behold, the farmer went out to sow.   
@@ -1397,7 +1397,7 @@ Then he came into a house.
 40. He said to them, “Why are you so afraid? How is it that you have no faith?”   
 41. They were greatly afraid and said to one another, “Who then is this, that even the wind and the sea obey him?”   
 
-## Chapter 5
+## Mark Chapter 5
 1. They came to the other side of the sea, into the country of the Gadarenes.  
 2. When he had come out of the boat, immediately a man with an unclean spirit met him out of the tombs.  
 3. He lived in the tombs. Nobody could bind him any more, not even with chains,  
@@ -1444,7 +1444,7 @@ The people came to see what it was that had happened.
 42. Immediately the girl rose up and walked, for she was twelve years old. They were amazed with great amazement.  
 43. He strictly ordered them that no one should know this, and commanded that something should be given to her to eat.   
 
-## Chapter 6
+## Mark Chapter 6
 1. He went out from there. He came into his own country, and his disciples followed him.  
 2. When the Sabbath had come, he began to teach in the synagogue, and many hearing him were astonished, saying, “Where did this man get these things?” and, “What is the wisdom that is given to this man, that such mighty works come about by his hands?  
 3. Isn’t this the carpenter, the son of Mary and brother of James, Joses, Judah, and Simon? Aren’t his sisters here with us?” So they were offended at him.   
@@ -1506,7 +1506,7 @@ When they knew, they said, “Five, and two fish.”
 55. and ran around that whole region, and began to bring those who were sick on their mats to where they heard he was.  
 56. Wherever he entered—into villages, or into cities, or into the country—they laid the sick in the marketplaces and begged him that they might just touch the fringe of his garment; and as many as touched him were made well.   
 
-## Chapter 7
+## Mark Chapter 7
 1. Then the Pharisees and some of the scribes gathered together to him, having come from Jerusalem.  
 2. Now when they saw some of his disciples eating bread with defiled, that is unwashed, hands, they found fault.  
 3. (For the Pharisees and all the Jews don’t eat unless they wash their hands and forearms, holding to the tradition of the elders.  
@@ -1548,7 +1548,7 @@ When they knew, they said, “Five, and two fish.”
 36. He commanded them that they should tell no one, but the more he commanded them, so much the more widely they proclaimed it.  
 37. They were astonished beyond measure, saying, “He has done all things well. He makes even the deaf hear and the mute speak!”   
 
-## Chapter 8
+## Mark Chapter 8
 1. In those days, when there was a very great multitude, and they had nothing to eat, Jesus called his disciples to himself and said to them,  
 2. “I have compassion on the multitude, because they have stayed with me now three days and have nothing to eat.   
 3.  If I send them away fasting to their home, they will faint on the way, for some of them have come a long way.”   
@@ -1592,7 +1592,7 @@ Peter answered, “You are the Christ.”
 37.  For what will a man give in exchange for his life?   
 38.  For whoever will be ashamed of me and of my words in this adulterous and sinful generation, the Son of Man also will be ashamed of him when he comes in his Father’s glory with the holy angels.”   
 
-## Chapter 9
+## Mark Chapter 9
 1. He said to them, “Most certainly I tell you, there are some standing here who will in no way taste death until they see God’s Kingdom come with power.”   
 2. After six days Jesus took with him Peter, James, and John, and brought them up onto a high mountain privately by themselves, and he was changed into another form in front of them.  
 3. His clothing became glistening, exceedingly white, like snow, such as no launderer on earth can whiten them.  
@@ -1645,7 +1645,7 @@ He said, “From childhood.
 49.  For everyone will be salted with fire, and every sacrifice will be seasoned with salt.   
 50. Salt is good, but if the salt has lost its saltiness, with what will you season it? Have salt in yourselves, and be at peace with one another.”    
 
-## Chapter 10
+## Mark Chapter 10
 1. He arose from there and came into the borders of Judea and beyond the Jordan. Multitudes came together to him again. As he usually did, he was again teaching them.   
 2. Pharisees came to him testing him, and asked him, “Is it lawful for a man to divorce his wife?”   
 3. He answered, “What did Moses command you?”   
@@ -1702,7 +1702,7 @@ They called the blind man, saying to him, “Cheer up! Get up. He is calling you
 The blind man said to him, “Rabboni, that I may see again.”   
 52. Jesus said to him, “Go your way. Your faith has made you well.”  Immediately he received his sight and followed Jesus on the way.   
 
-## Chapter 11
+## Mark Chapter 11
 1. When they came near to Jerusalem, to Bethsphage and Bethany, at the Mount of Olives, he sent two of his disciples 
 2. and said to them, “Go your way into the village that is opposite you. Immediately as you enter into it, you will find a young donkey tied, on which no one has sat. Untie him and bring him.   
 3.  If anyone asks you, ‘Why are you doing this?’ say, ‘The Lord needs him;’ and immediately he will send him back here.”   
@@ -1738,7 +1738,7 @@ The blind man said to him, “Rabboni, that I may see again.”
 33. They answered Jesus, “We don’t know.”  
 Jesus said to them, “Neither will I tell you by what authority I do these things.”   
 
-## Chapter 12
+## Mark Chapter 12
 1. He began to speak to them in parables. “A man planted a vineyard, put a hedge around it, dug a pit for the wine press, built a tower, rented it out to a farmer, and went into another country.   
 2.  When it was time, he sent a servant to the farmer to get from the farmer his share of the fruit of the vineyard.   
 3.  They took him, beat him, and sent him away empty.   
@@ -1796,7 +1796,7 @@ The common people heard him gladly.
 43. He called his disciples to himself and said to them, “Most certainly I tell you, this poor widow gave more than all those who are giving into the treasury,   
 44.  for they all gave out of their abundance, but she, out of her poverty, gave all that she had to live on.”   
 
-## Chapter 13
+## Mark Chapter 13
 1. As he went out of the temple, one of his disciples said to him, “Teacher, see what kind of stones and what kind of buildings!”   
 2. Jesus said to him, “Do you see these great buildings? There will not be left here one stone on another, which will not be thrown down.”   
 3. As he sat on the Mount of Olives opposite the temple, Peter, James, John, and Andrew asked him privately,  
@@ -1836,7 +1836,7 @@ The common people heard him gladly.
 36.  lest, coming suddenly, he might find you sleeping.   
 37.  What I tell you, I tell all: Watch!”   
 
-## Chapter 14
+## Mark Chapter 14
 1. It was now two days before the Passover and the Feast of Unleavened Bread, and the chief priests and the scribes sought how they might seize him by deception and kill him.  
 2. For they said, “Not during the feast, because there might be a riot among the people.”   
 3. While he was at Bethany, in the house of Simon the leper, as he sat at the table, a woman came having an alabaster jar of ointment of pure nard—very costly. She broke the jar and poured it over his head.  
@@ -1910,7 +1910,7 @@ The common people heard him gladly.
 71. But he began to curse and to swear, “I don’t know this man of whom you speak!”   
 72. The rooster crowed the second time. Peter remembered the words that Jesus said to him, “Before the rooster crows twice, you will deny me three times.” When he thought about that, he wept.   
 
-## Chapter 15
+## Mark Chapter 15
 1. Immediately in the morning the chief priests, with the elders, scribes, and the whole council, held a consultation, bound Jesus, carried him away, and delivered him up to Pilate.  
 2. Pilate asked him, “Are you the King of the Jews?”  
 He answered, “So you say.”   
@@ -1961,7 +1961,7 @@ But they cried out exceedingly, “Crucify him!”
 46. He bought a linen cloth, and taking him down, wound him in the linen cloth and laid him in a tomb which had been cut out of a rock. He rolled a stone against the door of the tomb.  
 47. Mary Magdalene and Mary the mother of Joses, saw where he was laid.   
 
-## Chapter 16
+## Mark Chapter 16
 1. When the Sabbath was past, Mary Magdalene, and Mary the mother of James, and Salome bought spices, that they might come and anoint him.  
 2. Very early on the first day of the week, they came to the tomb when the sun had risen.  
 3. They were saying among themselves, “Who will roll away the stone from the door of the tomb for us?”  
@@ -1985,7 +1985,7 @@ But they cried out exceedingly, “Crucify him!”
 
 # Luke
 
-## Chapter 1
+## Luke Chapter 1
 1. Since many have undertaken to set in order a narrative concerning those matters which have been fulfilled among us,  
 2. even as those who from the beginning were eyewitnesses and servants of the word delivered them to us,  
 3. it seemed good to me also, having traced the course of all things accurately from the first, to write to you in order, most excellent Theophilus;  
@@ -2082,7 +2082,7 @@ by which the dawn from on high will visit us,
 to guide our feet into the way of peace.”   
 80. The child was growing and becoming strong in spirit, and was in the desert until the day of his public appearance to Israel.   
 
-## Chapter 2
+## Luke Chapter 2
 1. Now in those days, a decree went out from Caesar Augustus that all the world should be enrolled.  
 2. This was the first enrollment made when Quirinius was governor of Syria.  
 3. All went to enroll themselves, everyone to his own city.  
@@ -2139,7 +2139,7 @@ and the glory of your people Israel.”
 51. And he went down with them and came to Nazareth. He was subject to them, and his mother kept all these sayings in her heart.  
 52. And Jesus increased in wisdom and stature, and in favor with God and men.   
 
-## Chapter 3
+## Luke Chapter 3
 1. Now in the fifteenth year of the reign of Tiberius Caesar, Pontius Pilate being governor of Judea, and Herod being tetrarch of Galilee, and his brother Philip tetrarch of the region of Ituraea and Trachonitis, and Lysanias tetrarch of Abilene,  
 2. during the high priesthood of Annas and Caiaphas, the word of God came to John, the son of Zacharias, in the wilderness.  
 3. He came into all the region around the Jordan, preaching the baptism of repentance for remission of sins.  
@@ -2186,7 +2186,7 @@ He said to them, “Extort from no one by violence, neither accuse anyone wrongf
 37. the son of Methuselah, the son of Enoch, the son of Jared, the son of Mahalaleel, the son of Cainan,  
 38. the son of Enos, the son of Seth, the son of Adam, the son of God.   
 
-## Chapter 4
+## Luke Chapter 4
 1. Jesus, full of the Holy Spirit, returned from the Jordan and was led by the Spirit into the wilderness 
 2. for forty days, being tempted by the devil. He ate nothing in those days. Afterward, when they were completed, he was hungry.   
 3. The devil said to him, “If you are the Son of God, command this stone to become bread.”   
@@ -2240,7 +2240,7 @@ recovering of sight to the blind,
 43. But he said to them, “I must preach the good news of God’s Kingdom to the other cities also. For this reason I have been sent.”  
 44. He was preaching in the synagogues of Galilee.   
 
-## Chapter 5
+## Luke Chapter 5
 1. Now while the multitude pressed on him and heard the word of God, he was standing by the lake of Gennesaret.  
 2. He saw two boats standing by the lake, but the fishermen had gone out of them and were washing their nets.  
 3. He entered into one of the boats, which was Simon’s, and asked him to put out a little from the land. He sat down and taught the multitudes from the boat.   
@@ -2283,7 +2283,7 @@ Immediately the leprosy left him.
 38. But new wine must be put into fresh wineskins, and both are preserved.   
 39.  No man having drunk old wine immediately desires new, for he says, ‘The old is better.’”   
 
-## Chapter 6
+## Luke Chapter 6
 1. Now on the second Sabbath after the first, he was going through the grain fields. His disciples plucked the heads of grain and ate, rubbing them in their hands.  
 2. But some of the Pharisees said to them, “Why do you do that which is not lawful to do on the Sabbath day?”   
 3. Jesus, answering them, said, “Haven’t you read what David did when he was hungry, he and those who were with him,   
@@ -2350,7 +2350,7 @@ Don’t condemn,
 48.  He is like a man building a house, who dug and went deep and laid a foundation on the rock. When a flood arose, the stream broke against that house, and could not shake it, because it was founded on the rock.   
 49.  But he who hears and doesn’t do, is like a man who built a house on the earth without a foundation, against which the stream broke, and immediately it fell; and the ruin of that house was great.”   
 
-## Chapter 7
+## Luke Chapter 7
 1. After he had finished speaking in the hearing of the people, he entered into Capernaum.  
 2. A certain centurion’s servant, who was dear to him, was sick and at the point of death.  
 3. When he heard about Jesus, he sent to him elders of the Jews, asking him to come and save his servant.  
@@ -2406,7 +2406,7 @@ He said to him, “You have judged correctly.”
 49. Those who sat at the table with him began to say to themselves, “Who is this who even forgives sins?”   
 50. He said to the woman, “Your faith has saved you. Go in peace.”    
 
-## Chapter 8
+## Luke Chapter 8
 1. Soon afterwards, he went about through cities and villages, preaching and bringing the good news of God’s Kingdom. With him were the twelve,  
 2. and certain women who had been healed of evil spirits and infirmities: Mary who was called Magdalene, from whom seven demons had gone out;  
 3. and Joanna, the wife of Chuzas, Herod’s steward; Susanna; and many others who served them from their possessions.  
@@ -2466,7 +2466,7 @@ When all denied it, Peter and those with him said, “Master, the multitudes pre
 55. Her spirit returned, and she rose up immediately. He commanded that something be given to her to eat.  
 56. Her parents were amazed, but he commanded them to tell no one what had been done.   
 
-## Chapter 9
+## Luke Chapter 9
 1. He called the twelve together and gave them power and authority over all demons, and to cure diseases.  
 2. He sent them out to preach God’s Kingdom and to heal the sick.  
 3. He said to them, “Take nothing for your journey—no staffs, nor wallet, nor bread, nor money. Don’t have two tunics each.   
@@ -2537,7 +2537,7 @@ But he said, “Lord, allow me first to go and bury my father.”
 61. Another also said, “I want to follow you, Lord, but first allow me to say good-bye to those who are at my house.”   
 62. But Jesus said to him, “No one, having put his hand to the plow and looking back, is fit for God’s Kingdom.”   
 
-## Chapter 10
+## Luke Chapter 10
 1. Now after these things, the Lord also appointed seventy others, and sent them two by two ahead of him into every city and place where he was about to come.  
 2. Then he said to them, “The harvest is indeed plentiful, but the laborers are few. Pray therefore to the Lord of the harvest, that he may send out laborers into his harvest.   
 3.  Go your ways. Behold, I send you out as lambs among wolves.   
@@ -2582,7 +2582,7 @@ Then Jesus said to him, “Go and do likewise.”
 41. Jesus answered her, “Martha, Martha, you are anxious and troubled about many things,   
 42.  but one thing is needed. Mary has chosen the good part, which will not be taken away from her.”   
 
-## Chapter 11
+## Luke Chapter 11
 1. When he finished praying in a certain place, one of his disciples said to him, “Lord, teach us to pray, just as John also taught his disciples.”   
 2. He said to them, “When you pray, say,  
 ‘Our Father in heaven,  
@@ -2645,7 +2645,7 @@ Then Jesus said to him, “Go and do likewise.”
 53. As he said these things to them, the scribes and the Pharisees began to be terribly angry, and to draw many things out of him,  
 54. lying in wait for him, and seeking to catch him in something he might say, that they might accuse him.   
 
-## Chapter 12
+## Luke Chapter 12
 1. Meanwhile, when a multitude of many thousands had gathered together, so much so that they trampled on each other, he began to tell his disciples first of all, “Beware of the yeast of the Pharisees, which is hypocrisy.   
 2.  But there is nothing covered up that will not be revealed, nor hidden that will not be known.   
 3.  Therefore whatever you have said in the darkness will be heard in the light. What you have spoken in the ear in the inner rooms will be proclaimed on the housetops.   
@@ -2706,7 +2706,7 @@ Then Jesus said to him, “Go and do likewise.”
 58.  For when you are going with your adversary before the magistrate, try diligently on the way to be released from him, lest perhaps he drag you to the judge, and the judge deliver you to the officer, and the officer throw you into prison.   
 59.  I tell you, you will by no means get out of there until you have paid the very last penny.”   
 
-## Chapter 13
+## Luke Chapter 13
 1. Now there were some present at the same time who told him about the Galileans whose blood Pilate had mixed with their sacrifices.  
 2. Jesus answered them, “Do you think that these Galileans were worse sinners than all the other Galileans, because they suffered such things?   
 3.  I tell you, no, but unless you repent, you will all perish in the same way.   
@@ -2744,7 +2744,7 @@ He said to them,
 34. “Jerusalem, Jerusalem, you who kills the prophets and stones those who are sent to her! How often I wanted to gather your children together, like a hen gathers her own brood under her wings, and you refused!   
 35.  Behold, your house is left to you desolate. I tell you, you will not see me until you say, ‘Blessed is he who comes in the name of the Lord!’”   
 
-## Chapter 14
+## Luke Chapter 14
 1. When he went into the house of one of the rulers of the Pharisees on a Sabbath to eat bread, they were watching him.  
 2. Behold, a certain man who had dropsy was in front of him.  
 3. Jesus, answering, spoke to the lawyers and Pharisees, saying, “Is it lawful to heal on the Sabbath?”   
@@ -2783,7 +2783,7 @@ He took him, and healed him, and let him go.
 34. “Salt is good, but if the salt becomes flat and tasteless, with what do you season it?   
 35.  It is fit neither for the soil nor for the manure pile. It is thrown out. He who has ears to hear, let him hear.”   
 
-## Chapter 15
+## Luke Chapter 15
 1. Now all the tax collectors and sinners were coming close to him to hear him.  
 2. The Pharisees and the scribes murmured, saying, “This man welcomes sinners, and eats with them.”   
 3. He told them this parable:  
@@ -2817,7 +2817,7 @@ He took him, and healed him, and let him go.
 31. “He said to him, ‘Son, you are always with me, and all that is mine is yours.   
 32.  But it was appropriate to celebrate and be glad, for this, your brother, was dead, and is alive again. He was lost, and is found.’”   
 
-## Chapter 16
+## Luke Chapter 16
 1. He also said to his disciples, “There was a certain rich man who had a manager. An accusation was made to him that this man was wasting his possessions.   
 2.  He called him, and said to him, ‘What is this that I hear about you? Give an accounting of your management, for you can no longer be manager.’    
 3. “The manager said within himself, ‘What will I do, seeing that my lord is taking away the management position from me? I don’t have strength to dig. I am ashamed to beg.   
@@ -2850,7 +2850,7 @@ He took him, and healed him, and let him go.
 30. “He said, ‘No, father Abraham, but if one goes to them from the dead, they will repent.’   
 31. “He said to him, ‘If they don’t listen to Moses and the prophets, neither will they be persuaded if one rises from the dead.’”   
 
-## Chapter 17
+## Luke Chapter 17
 1. He said to the disciples, “It is impossible that no occasions of stumbling should come, but woe to him through whom they come!   
 2.  It would be better for him if a millstone were hung around his neck, and he were thrown into the sea, rather than that he should cause one of these little ones to stumble.   
 3.  Be careful. If your brother sins against you, rebuke him. If he repents, forgive him.   
@@ -2890,7 +2890,7 @@ He took him, and healed him, and let him go.
 37. They, answering, asked him, “Where, Lord?”  
 He said to them, “Where the body is, there the vultures will also be gathered together.”   
 
-## Chapter 18
+## Luke Chapter 18
 1. He also spoke a parable to them that they must always pray and not give up,  
 2. saying, “There was a judge in a certain city who didn’t fear God and didn’t respect man.   
 3.  A widow was in that city, and she often came to him, saying, ‘Defend me from my adversary!’   
@@ -2936,7 +2936,7 @@ He said, “Lord, that I may see again.”
 42. Jesus said to him, “Receive your sight. Your faith has healed you.”    
 43. Immediately he received his sight and followed him, glorifying God. All the people, when they saw it, praised God.   
 
-## Chapter 19
+## Luke Chapter 19
 1. He entered and was passing through Jericho.  
 2. There was a man named Zacchaeus. He was a chief tax collector, and he was rich.  
 3. He was trying to see who Jesus was, and couldn’t because of the crowd, because he was short.  
@@ -2986,7 +2986,7 @@ He said, “Lord, that I may see again.”
 47. He was teaching daily in the temple, but the chief priests, the scribes, and the leading men among the people sought to destroy him.  
 48. They couldn’t find what they might do, for all the people hung on to every word that he said.   
 
-## Chapter 20
+## Luke Chapter 20
 1. On one of those days, as he was teaching the people in the temple and preaching the Good News, the priests and scribes came to him with the elders.  
 2. They asked him, “Tell us: by what authority do you do these things? Or who is giving you this authority?”   
 3. He answered them, “I also will ask you one question. Tell me:   
@@ -3042,7 +3042,7 @@ They answered, “Caesar’s.”
 46. “Beware of those scribes who like to walk in long robes, and love greetings in the marketplaces, the best seats in the synagogues, and the best places at feasts;   
 47.  who devour widows’ houses, and for a pretense make long prayers. These will receive greater condemnation.”   
 
-## Chapter 21
+## Luke Chapter 21
 1. He looked up and saw the rich people who were putting their gifts into the treasury.  
 2. He saw a certain poor widow casting in two small brass coins. 
 3. He said, “Truly I tell you, this poor widow put in more than all of them,   
@@ -3082,7 +3082,7 @@ They answered, “Caesar’s.”
 37. Every day Jesus was teaching in the temple, and every night he would go out and spend the night on the mountain that is called Olivet.  
 38. All the people came early in the morning to him in the temple to hear him.   
 
-## Chapter 22
+## Luke Chapter 22
 1. Now the feast of unleavened bread, which is called the Passover, was approaching.  
 2. The chief priests and the scribes sought how they might put him to death, for they feared the people.   
 3. Satan entered into Judas, who was also called Iscariot, who was counted with the twelve.  
@@ -3160,7 +3160,7 @@ But he said to them, “If I tell you, you won’t believe,
 He said to them, “You say it, because I am.”   
 71. They said, “Why do we need any more witness? For we ourselves have heard from his own mouth!”   
 
-## Chapter 23
+## Luke Chapter 23
 1. The whole company of them rose up and brought him before Pilate.  
 2. They began to accuse him, saying, “We found this man perverting the nation, forbidding paying taxes to Caesar, and saying that he himself is Christ, a king.”   
 3. Pilate asked him, “Are you the King of the Jews?”  
@@ -3220,7 +3220,7 @@ Dividing his garments among them, they cast lots.
 55. The women who had come with him out of Galilee followed after, and saw the tomb and how his body was laid.  
 56. They returned and prepared spices and ointments. On the Sabbath they rested according to the commandment.   
 
-## Chapter 24
+## Luke Chapter 24
 1. But on the first day of the week, at early dawn, they and some others came to the tomb, bringing the spices which they had prepared.  
 2. They found the stone rolled away from the tomb.  
 3. They entered in, and didn’t find the Lord Jesus’ body.  
@@ -3280,7 +3280,7 @@ He went in to stay with them.
 
 # John
 
-## Chapter 1
+## John Chapter 1
 1. In the beginning was the Word, and the Word was with God, and the Word was God.  
 2. The same was in the beginning with God.  
 3. All things were made through him. Without him, nothing was made that has been made.  
@@ -3340,7 +3340,7 @@ Jesus answered him, “Before Philip called you, when you were under the fig tre
 50. Jesus answered him, “Because I told you, ‘I saw you underneath the fig tree,’ do you believe? You will see greater things than these!”  
 51. He said to him, “Most certainly, I tell you all, hereafter you will see heaven opened, and the angels of God ascending and descending on the Son of Man.”   
 
-## Chapter 2
+## John Chapter 2
 1. The third day, there was a wedding in Cana of Galilee. Jesus’ mother was there.  
 2. Jesus also was invited, with his disciples, to the wedding.  
 3. When the wine ran out, Jesus’ mother said to him, “They have no wine.”   
@@ -3367,7 +3367,7 @@ Jesus answered him, “Before Philip called you, when you were under the fig tre
 24. But Jesus didn’t entrust himself to them, because he knew everyone,  
 25. and because he didn’t need for anyone to testify concerning man; for he himself knew what was in man.   
 
-## Chapter 3
+## John Chapter 3
 1. Now there was a man of the Pharisees named Nicodemus, a ruler of the Jews.  
 2. He came to Jesus by night and said to him, “Rabbi, we know that you are a teacher come from God, for no one can do these signs that you do, unless God is with him.”   
 3. Jesus answered him, “Most certainly I tell you, unless one is born anew,   he can’t see God’s Kingdom.”   
@@ -3405,7 +3405,7 @@ Jesus answered him, “Before Philip called you, when you were under the fig tre
 35. The Father loves the Son, and has given all things into his hand.  
 36. One who believes in the Son has eternal life, but one who disobeys the Son won’t see life, but the wrath of God remains on him.”   
 
-## Chapter 4
+## John Chapter 4
 1. Therefore when the Lord knew that the Pharisees had heard that Jesus was making and baptizing more disciples than John 
 2. (although Jesus himself didn’t baptize, but his disciples),  
 3. he left Judea and departed into Galilee.  
@@ -3462,7 +3462,7 @@ Jesus said to her, “You said well, ‘I have no husband,’
 53. So the father knew that it was at that hour in which Jesus said to him, “Your son lives.” He believed, as did his whole house.  
 54. This is again the second sign that Jesus did, having come out of Judea into Galilee.   
 
-## Chapter 5
+## John Chapter 5
 1. After these things, there was a feast of the Jews, and Jesus went up to Jerusalem.  
 2. Now in Jerusalem by the sheep gate, there is a pool, which is called in Hebrew, “Bethesda”, having five porches.  
 3. In these lay a great multitude of those who were sick, blind, lame, or paralyzed, waiting for the moving of the water;  
@@ -3512,7 +3512,7 @@ Now that day was a Sabbath.
 46.  For if you believed Moses, you would believe me; for he wrote about me.   
 47.  But if you don’t believe his writings, how will you believe my words?”   
 
-## Chapter 6
+## John Chapter 6
 1. After these things, Jesus went away to the other side of the sea of Galilee, which is also called the Sea of Tiberias.  
 2. A great multitude followed him, because they saw his signs which he did on those who were sick.  
 3. Jesus went up into the mountain, and he sat there with his disciples.  
@@ -3585,7 +3585,7 @@ Now that day was a Sabbath.
 70. Jesus answered them, “Didn’t I choose you, the twelve, and one of you is a devil?”  
 71. Now he spoke of Judas, the son of Simon Iscariot, for it was he who would betray him, being one of the twelve.   
 
-## Chapter 7
+## John Chapter 7
 1. After these things, Jesus was walking in Galilee, for he wouldn’t walk in Judea, because the Jews sought to kill him.  
 2. Now the feast of the Jews, the Feast of Booths, was at hand.  
 3. His brothers therefore said to him, “Depart from here and go into Judea, that your disciples also may see your works which you do.  
@@ -3640,7 +3640,7 @@ Now that day was a Sabbath.
 52. They answered him, “Are you also from Galilee? Search and see that no prophet has arisen out of Galilee.”  
 53. Everyone went to his own house,   
 
-## Chapter 8
+## John Chapter 8
 1. but Jesus went to the Mount of Olives.   
 2. Now very early in the morning, he came again into the temple, and all the people came to him. He sat down and taught them.  
 3. The scribes and the Pharisees brought a woman taken in adultery. Having set her in the middle,  
@@ -3707,7 +3707,7 @@ They said to him, “We were not born of sexual immorality. We have one Father, 
 58. Jesus said to them, “Most certainly, I tell you, before Abraham came into existence, I AM.”   
 59. Therefore they took up stones to throw at him, but Jesus hid himself and went out of the temple, having gone through the middle of them, and so passed by.   
 
-## Chapter 9
+## John Chapter 9
 1. As he passed by, he saw a man blind from birth.  
 2. His disciples asked him, “Rabbi, who sinned, this man or his parents, that he was born blind?”   
 3. Jesus answered, “This man didn’t sin, nor did his parents, but that the works of God might be revealed in him.   
@@ -3754,7 +3754,7 @@ He said, “He is a prophet.”
 40. Those of the Pharisees who were with him heard these things, and said to him, “Are we also blind?”   
 41. Jesus said to them, “If you were blind, you would have no sin; but now you say, ‘We see.’ Therefore your sin remains.   
 
-## Chapter 10
+## John Chapter 10
 1. “Most certainly, I tell you, one who doesn’t enter by the door into the sheep fold, but climbs up some other way, is a thief and a robber.   
 2.  But one who enters in by the door is the shepherd of the sheep.   
 3.  The gatekeeper opens the gate for him, and the sheep listen to his voice. He calls his own sheep by name and leads them out.   
@@ -3798,7 +3798,7 @@ He said, “He is a prophet.”
 41. Many came to him. They said, “John indeed did no sign, but everything that John said about this man is true.”  
 42. Many believed in him there.   
 
-## Chapter 11
+## John Chapter 11
 1. Now a certain man was sick, Lazarus from Bethany, of the village of Mary and her sister, Martha.  
 2. It was that Mary who had anointed the Lord with ointment and wiped his feet with her hair, whose brother Lazarus was sick.  
 3. The sisters therefore sent to him, saying, “Lord, behold, he for whom you have great affection is sick.”   
@@ -3860,7 +3860,7 @@ Jesus said to them, “Free him, and let him go.”
 56. Then they sought for Jesus and spoke with one another as they stood in the temple, “What do you think—that he isn’t coming to the feast at all?”  
 57. Now the chief priests and the Pharisees had commanded that if anyone knew where he was, he should report it, that they might seize him.   
 
-## Chapter 12
+## John Chapter 12
 1. Then, six days before the Passover, Jesus came to Bethany, where Lazarus was, who had been dead, whom he raised from the dead.  
 2. So they made him a supper there. Martha served, but Lazarus was one of those who sat at the table with him.  
 3. Therefore Mary took a pound of ointment of pure nard, very precious, and anointed Jesus’ feet and wiped his feet with her hair. The house was filled with the fragrance of the ointment.   
@@ -3919,7 +3919,7 @@ and I would heal them.”
 49.  For I spoke not from myself, but the Father who sent me gave me a commandment, what I should say and what I should speak.   
 50.  I know that his commandment is eternal life. The things therefore which I speak, even as the Father has said to me, so I speak.”   
 
-## Chapter 13
+## John Chapter 13
 1. Now before the feast of the Passover, Jesus, knowing that his time had come that he would depart from this world to the Father, having loved his own who were in the world, he loved them to the end.  
 2. During supper, the devil having already put into the heart of Judas Iscariot, Simon’s son, to betray him,  
 3. Jesus, knowing that the Father had given all things into his hands, and that he came from God and was going to God,  
@@ -3962,7 +3962,7 @@ Jesus answered, “Where I am going, you can’t follow now, but you will follow
 37. Peter said to him, “Lord, why can’t I follow you now? I will lay down my life for you.”   
 38. Jesus answered him, “Will you lay down your life for me? Most certainly I tell you, the rooster won’t crow until you have denied me three times.   
 
-## Chapter 14
+## John Chapter 14
 1. “Don’t let your heart be troubled. Believe in God. Believe also in me.   
 2.  In my Father’s house are many homes. If it weren’t so, I would have told you. I am going to prepare a place for you.   
 3.  If I go and prepare a place for you, I will come again and will receive you to myself; that where I am, you may be there also.   
@@ -3995,7 +3995,7 @@ Jesus answered, “Where I am going, you can’t follow now, but you will follow
 30.  I will no more speak much with you, for the prince of the world comes, and he has nothing in me.   
 31.  But that the world may know that I love the Father, and as the Father commanded me, even so I do. Arise, let’s go from here.   
 
-## Chapter 15
+## John Chapter 15
 1. “I am the true vine, and my Father is the farmer.   
 2.  Every branch in me that doesn’t bear fruit, he takes away. Every branch that bears fruit, he prunes, that it may bear more fruit.   
 3.  You are already pruned clean because of the word which I have spoken to you.   
@@ -4024,7 +4024,7 @@ Jesus answered, “Where I am going, you can’t follow now, but you will follow
 26. “When the Counselor  has come, whom I will send to you from the Father, the Spirit of truth, who proceeds from the Father, he will testify about me.   
 27.  You will also testify, because you have been with me from the beginning.   
 
-## Chapter 16
+## John Chapter 16
 1. “I have said these things to you so that you wouldn’t be caused to stumble.   
 2.  They will put you out of the synagogues. Yes, the time is coming that whoever kills you will think that he offers service to God.   
 3.  They will do these things  because they have not known the Father nor me.   
@@ -4059,7 +4059,7 @@ Jesus answered, “Where I am going, you can’t follow now, but you will follow
 32.  Behold, the time is coming, yes, and has now come, that you will be scattered, everyone to his own place, and you will leave me alone. Yet I am not alone, because the Father is with me.   
 33.  I have told you these things, that in me you may have peace. In the world you have trouble; but cheer up! I have overcome the world.”    
 
-## Chapter 17
+## John Chapter 17
 1. Jesus said these things, then lifting up his eyes to heaven, he said, “Father, the time has come. Glorify your Son, that your Son may also glorify you;   
 2.  even as you gave him authority over all flesh, so he will give eternal life to all whom you have given him.   
 3.  This is eternal life, that they should know you, the only true God, and him whom you sent, Jesus Christ.   
@@ -4087,7 +4087,7 @@ Jesus answered, “Where I am going, you can’t follow now, but you will follow
 25.  Righteous Father, the world hasn’t known you, but I knew you; and these knew that you sent me.   
 26.  I made known to them your name, and will make it known; that the love with which you loved me may be in them, and I in them.”   
 
-## Chapter 18
+## John Chapter 18
 1. When Jesus had spoken these words, he went out with his disciples over the brook Kidron, where there was a garden, into which he and his disciples entered.  
 2. Now Judas, who betrayed him, also knew the place, for Jesus often met there with his disciples.  
 3. Judas then, having taken a detachment of soldiers and officers from the chief priests and the Pharisees, came there with lanterns, torches, and weapons.  
@@ -4137,7 +4137,7 @@ When he had said this, he went out again to the Jews, and said to them, “I fin
 39. But you have a custom that I should release someone to you at the Passover. Therefore, do you want me to release to you the King of the Jews?”   
 40. Then they all shouted again, saying, “Not this man, but Barabbas!” Now Barabbas was a robber.   
 
-## Chapter 19
+## John Chapter 19
 1. So Pilate then took Jesus and flogged him.  
 2. The soldiers twisted thorns into a crown and put it on his head, and dressed him in a purple garment.  
 3. They kept saying, “Hail, King of the Jews!” and they kept slapping him.   
@@ -4187,7 +4187,7 @@ Therefore the soldiers did these things.
 41. Now in the place where he was crucified there was a garden. In the garden was a new tomb in which no man had ever yet been laid.  
 42. Then, because of the Jews’ Preparation Day (for the tomb was near at hand), they laid Jesus there.   
 
-## Chapter 20
+## John Chapter 20
 1. Now on the first day of the week, Mary Magdalene went early, while it was still dark, to the tomb, and saw that the stone had been taken away from the tomb.  
 2. Therefore she ran and came to Simon Peter and to the other disciple whom Jesus loved, and said to them, “They have taken away the Lord out of the tomb, and we don’t know where they have laid him!”   
 3. Therefore Peter and the other disciple went out, and they went toward the tomb.  
@@ -4224,7 +4224,7 @@ But he said to them, “Unless I see in his hands the print of the nails, put my
 30. Therefore Jesus did many other signs in the presence of his disciples, which are not written in this book;  
 31. but these are written that you may believe that Jesus is the Christ, the Son of God, and that believing you may have life in his name.   
 
-## Chapter 21
+## John Chapter 21
 1. After these things, Jesus revealed himself again to the disciples at the sea of Tiberias. He revealed himself this way.  
 2. Simon Peter, Thomas called Didymus, Nathanael of Cana in Galilee, and the sons of Zebedee, and two others of his disciples were together.  
 3. Simon Peter said to them, “I’m going fishing.”  
@@ -4264,7 +4264,7 @@ Jesus said to him, “Feed my sheep.
 
 # Acts
 
-## Chapter 1
+## Acts Chapter 1
 1. The first book I wrote, Theophilus, concerned all that Jesus began both to do and to teach,  
 2. until the day in which he was received up, after he had given commandment through the Holy Spirit to the apostles whom he had chosen.  
 3. To these he also showed himself alive after he suffered, by many proofs, appearing to them over a period of forty days and speaking about God’s Kingdom.  
@@ -4296,7 +4296,7 @@ Let another take his office.’
 25. to take part in this ministry and apostleship from which Judas fell away, that he might go to his own place.”  
 26. They drew lots for them, and the lot fell on Matthias; and he was counted with the eleven apostles.   
 
-## Chapter 2
+## Acts Chapter 2
 1. Now when the day of Pentecost had come, they were all with one accord in one place.  
 2. Suddenly there came from the sky a sound like the rushing of a mighty wind, and it filled all the house where they were sitting.  
 3. Tongues like fire appeared and were distributed to them, and one sat on each of them.  
@@ -4360,7 +4360,7 @@ The Lord said to my Lord, “Sit by my right hand
 46. Day by day, continuing steadfastly with one accord in the temple, and breaking bread at home, they took their food with gladness and singleness of heart,  
 47. praising God and having favor with all the people. The Lord added to the assembly day by day those who were being saved.   
 
-## Chapter 3
+## Acts Chapter 3
 1. Peter and John were going up into the temple at the hour of prayer, the ninth hour. 
 2. A certain man who was lame from his mother’s womb was being carried, whom they laid daily at the door of the temple which is called Beautiful, to ask gifts for the needy of those who entered into the temple.  
 3. Seeing Peter and John about to go into the temple, he asked to receive gifts for the needy.  
@@ -4388,7 +4388,7 @@ The Lord said to my Lord, “Sit by my right hand
 25. You are the children of the prophets, and of the covenant which God made with our fathers, saying to Abraham, ‘All the families of the earth will be blessed through your offspring.’ 
 26. God, having raised up his servant Jesus, sent him to you first to bless you, in turning away every one of you from your wickedness.”   
 
-## Chapter 4
+## Acts Chapter 4
 1. As they spoke to the people, the priests and the captain of the temple and the Sadducees came to them,  
 2. being upset because they taught the people and proclaimed in Jesus the resurrection from the dead.  
 3. They laid hands on them, and put them in custody until the next day, for it was now evening.  
@@ -4431,7 +4431,7 @@ against the Lord, and against his Christ.’
 36. Joses, who by the apostles was also called Barnabas (which is, being interpreted, Son of Encouragement), a Levite, a man of Cyprus by race,  
 37. having a field, sold it and brought the money and laid it at the apostles’ feet.   
 
-## Chapter 5
+## Acts Chapter 5
 1. But a certain man named Ananias, with Sapphira his wife, sold a possession,  
 2. and kept back part of the price, his wife also being aware of it, then brought a certain part and laid it at the apostles’ feet.  
 3. But Peter said, “Ananias, why has Satan filled your heart to lie to the Holy Spirit and to keep back part of the price of the land?  
@@ -4476,7 +4476,7 @@ She said, “Yes, for so much.”
 41. They therefore departed from the presence of the council, rejoicing that they were counted worthy to suffer dishonor for Jesus’ name.   
 42. Every day, in the temple and at home, they never stopped teaching and preaching Jesus, the Christ.   
 
-## Chapter 6
+## Acts Chapter 6
 1. Now in those days, when the number of the disciples was multiplying, a complaint arose from the Hellenists against the Hebrews, because their widows were neglected in the daily service.  
 2. The twelve summoned the multitude of the disciples and said, “It is not appropriate for us to forsake the word of God and serve tables.  
 3. Therefore, select from among you, brothers, seven men of good report, full of the Holy Spirit and of wisdom, whom we may appoint over this business.  
@@ -4493,7 +4493,7 @@ She said, “Yes, for so much.”
 14. For we have heard him say that this Jesus of Nazareth will destroy this place, and will change the customs which Moses delivered to us.”  
 15. All who sat in the council, fastening their eyes on him, saw his face like it was the face of an angel.   
 
-## Chapter 7
+## Acts Chapter 7
 1. The high priest said, “Are these things so?”   
 2. He said, “Brothers and fathers, listen. The God of glory appeared to our father Abraham when he was in Mesopotamia, before he lived in Haran,  
 3. and said to him, ‘Get out of your land and away from your relatives, and come into a land which I will show you.’ 
@@ -4563,7 +4563,7 @@ Or what is the place of my rest?
 59. They stoned Stephen as he called out, saying, “Lord Jesus, receive my spirit!”  
 60. He kneeled down and cried with a loud voice, “Lord, don’t hold this sin against them!” When he had said this, he fell asleep.   
 
-## Chapter 8
+## Acts Chapter 8
 1. Saul was consenting to his death. A great persecution arose against the assembly which was in Jerusalem in that day. They were all scattered abroad throughout the regions of Judea and Samaria, except for the apostles.  
 2. Devout men buried Stephen and lamented greatly over him.  
 3. But Saul ravaged the assembly, entering into every house and dragged both men and women off to prison.  
@@ -4610,7 +4610,7 @@ For his life is taken from the earth.”
 39. When they came up out of the water, the Spirit of the Lord caught Philip away, and the eunuch didn’t see him any more, for he went on his way rejoicing.  
 40. But Philip was found at Azotus. Passing through, he preached the Good News to all the cities until he came to Caesarea.   
 
-## Chapter 9
+## Acts Chapter 9
 1. But Saul, still breathing threats and slaughter against the disciples of the Lord, went to the high priest  
 2. and asked for letters from him to the synagogues of Damascus, that if he found any who were of the Way, whether men or women, he might bring them bound to Jerusalem.  
 3. As he traveled, he got close to Damascus, and suddenly a light from the sky shone around him.  
@@ -4658,7 +4658,7 @@ several days with the disciples who were at Damascus.
 42. This became known throughout all Joppa, and many believed in the Lord.  
 43. He stayed many days in Joppa with a tanner named Simon.   
 
-## Chapter 10
+## Acts Chapter 10
 1. Now there was a certain man in Caesarea, Cornelius by name, a centurion of what was called the Italian Regiment,  
 2. a devout man, and one who feared God with all his house, who gave gifts for the needy generously to the people, and always prayed to God.  
 3. At about the ninth hour of the day, he clearly saw in a vision an angel of God coming to him and saying to him, “Cornelius!”   
@@ -4711,7 +4711,7 @@ Then Peter answered,
 47. “Can anyone forbid these people from being baptized with water? They have received the Holy Spirit just like us.”  
 48. He commanded them to be baptized in the name of Jesus Christ. Then they asked him to stay some days.   
 
-## Chapter 11
+## Acts Chapter 11
 1. Now the apostles and the brothers who were in Judea heard that the Gentiles had also received the word of God.  
 2. When Peter had come up to Jerusalem, those who were of the circumcision contended with him,  
 3. saying, “You went in to uncircumcised men and ate with them!”   
@@ -4743,7 +4743,7 @@ Then Peter answered,
 29. As any of the disciples had plenty, each determined to send relief to the brothers who lived in Judea;  
 30. which they also did, sending it to the elders by the hands of Barnabas and Saul.   
 
-## Chapter 12
+## Acts Chapter 12
 1. Now about that time, King Herod stretched out his hands to oppress some of the assembly.  
 2. He killed James, the brother of John, with the sword.  
 3. When he saw that it pleased the Jews, he proceeded to seize Peter also. This was during the days of unleavened bread.  
@@ -4770,7 +4770,7 @@ Then Peter answered,
 24. But the word of God grew and multiplied.  
 25. Barnabas and Saul returned to Jerusalem when they had fulfilled their service, also taking with them John who was called Mark.   
 
-## Chapter 13
+## Acts Chapter 13
 1. Now in the assembly that was at Antioch there were some prophets and teachers: Barnabas, Simeon who was called Niger, Lucius of Cyrene, Manaen the foster brother of Herod the tetrarch, and Saul.  
 2. As they served the Lord and fasted, the Holy Spirit said, “Separate Barnabas and Saul for me, for the work to which I have called them.”   
 3. Then, when they had fasted and prayed and laid their hands on them, they sent them away.  
@@ -4832,7 +4832,7 @@ that you should bring salvation to the uttermost parts of the earth.’”
 51. But they shook off the dust of their feet against them, and came to Iconium.  
 52. The disciples were filled with joy and with the Holy Spirit.   
 
-## Chapter 14
+## Acts Chapter 14
 1. In Iconium, they entered together into the synagogue of the Jews, and so spoke that a great multitude both of Jews and of Greeks believed.  
 2. But the disbelieving Jews stirred up and embittered the souls of the Gentiles against the brothers.  
 3. Therefore they stayed there a long time, speaking boldly in the Lord, who testified to the word of his grace, granting signs and wonders to be done by their hands.  
@@ -4862,7 +4862,7 @@ that you should bring salvation to the uttermost parts of the earth.’”
 27. When they had arrived and had gathered the assembly together, they reported all the things that God had done with them, and that he had opened a door of faith to the nations.  
 28. They stayed there with the disciples for a long time.   
 
-## Chapter 15
+## Acts Chapter 15
 1. Some men came down from Judea and taught the brothers, “Unless you are circumcised after the custom of Moses, you can’t be saved.”  
 2. Therefore when Paul and Barnabas had no small discord and discussion with them, they appointed Paul, Barnabas, and some others of them to go up to Jerusalem to the apostles and elders about this question.  
 3. They, being sent on their way by the assembly, passed through both Phoenicia and Samaria, declaring the conversion of the Gentiles. They caused great joy to all the brothers.  
@@ -4911,7 +4911,7 @@ The apostles, the elders, and the brothers, to the brothers who are of the Genti
 40. but Paul chose Silas and went out, being commended by the brothers to the grace of God.  
 41. He went through Syria and Cilicia, strengthening the assemblies.   
 
-## Chapter 16
+## Acts Chapter 16
 1. He came to Derbe and Lystra; and behold, a certain disciple was there, named Timothy, the son of a Jewess who believed, but his father was a Greek.  
 2. The brothers who were at Lystra and Iconium gave a good testimony about him.  
 3. Paul wanted to have him go out with him, and he took and circumcised him because of the Jews who were in those parts, for they all knew that his father was a Greek.  
@@ -4954,7 +4954,7 @@ But Paul, becoming greatly annoyed, turned and said to the spirit, “I command 
 39. and they came and begged them. When they had brought them out, they asked them to depart from the city.  
 40. They went out of the prison and entered into Lydia’s house. When they had seen the brothers, they encouraged them, then departed.   
 
-## Chapter 17
+## Acts Chapter 17
 1. Now when they had passed through Amphipolis and Apollonia, they came to Thessalonica, where there was a Jewish synagogue.  
 2. Paul, as was his custom, went in to them; and for three Sabbath days reasoned with them from the Scriptures,  
 3. explaining and demonstrating that the Christ had to suffer and rise again from the dead, and saying, “This Jesus, whom I proclaim to you, is the Christ.”   
@@ -4991,7 +4991,7 @@ Others said, “He seems to be advocating foreign deities,” because he preache
 33. Thus Paul went out from among them.  
 34. But certain men joined with him and believed, including Dionysius the Areopagite, and a woman named Damaris, and others with them.   
 
-## Chapter 18
+## Acts Chapter 18
 1. After these things Paul departed from Athens and came to Corinth.  
 2. He found a certain Jew named Aquila, a man of Pontus by race, who had recently come from Italy with his wife Priscilla, because Claudius had commanded all the Jews to depart from Rome. He came to them,  
 3. and because he practiced the same trade, he lived with them and worked, for by trade they were tent makers.  
@@ -5021,7 +5021,7 @@ Others said, “He seems to be advocating foreign deities,” because he preache
 27. When he had determined to pass over into Achaia, the brothers encouraged him; and wrote to the disciples to receive him. When he had come, he greatly helped those who had believed through grace;  
 28. for he powerfully refuted the Jews, publicly showing by the Scriptures that Jesus was the Christ.   
 
-## Chapter 19
+## Acts Chapter 19
 1. While Apollos was at Corinth, Paul, having passed through the upper country, came to Ephesus and found certain disciples.  
 2. He said to them, “Did you receive the Holy Spirit when you believed?”  
 They said to him, “No, we haven’t even heard that there is a Holy Spirit.”   
@@ -5066,7 +5066,7 @@ They said, “Into John’s baptism.”
 40. For indeed we are in danger of being accused concerning today’s riot, there being no cause. Concerning it, we wouldn’t be able to give an account of this commotion.”  
 41. When he had thus spoken, he dismissed the assembly.   
 
-## Chapter 20
+## Acts Chapter 20
 1. After the uproar had ceased, Paul sent for the disciples, took leave of them, and departed to go into Macedonia.  
 2. When he had gone through those parts and had encouraged them with many words, he came into Greece.  
 3. When he had spent three months there, and a plot was made against him by Jews as he was about to set sail for Syria, he determined to return through Macedonia.  
@@ -5106,7 +5106,7 @@ They said, “Into John’s baptism.”
 37. They all wept freely, and fell on Paul’s neck and kissed him,  
 38. sorrowing most of all because of the word which he had spoken, that they should see his face no more. Then they accompanied him to the ship.   
 
-## Chapter 21
+## Acts Chapter 21
 1. When we had departed from them and had set sail, we came with a straight course to Cos, and the next day to Rhodes, and from there to Patara.  
 2. Having found a ship crossing over to Phoenicia, we went aboard and set sail.  
 3. When we had come in sight of Cyprus, leaving it on the left hand, we sailed to Syria and landed at Tyre, for the ship was there to unload her cargo.  
@@ -5150,7 +5150,7 @@ He said, “Do you know Greek?
 39. But Paul said, “I am a Jew from Tarsus in Cilicia, a citizen of no insignificant city. I beg you, allow me to speak to the people.”   
 40. When he had given him permission, Paul, standing on the stairs, beckoned with his hand to the people. When there was a great silence, he spoke to them in the Hebrew language, saying,   
 
-## Chapter 22
+## Acts Chapter 22
 1. “Brothers and fathers, listen to the defense which I now make to you.”   
 2. When they heard that he spoke to them in the Hebrew language, they were even more quiet.  
 He said,  
@@ -5185,7 +5185,7 @@ Paul said, “But I was born a Roman.”
 29. Immediately those who were about to examine him departed from him, and the commanding officer also was afraid when he realized that he was a Roman, because he had bound him.  
 30. But on the next day, desiring to know the truth about why he was accused by the Jews, he freed him from the bonds and commanded the chief priests and all the council to come together, and brought Paul down and set him before them.   
 
-## Chapter 23
+## Acts Chapter 23
 1. Paul, looking steadfastly at the council, said, “Brothers, I have lived before God in all good conscience until today.”   
 2. The high priest, Ananias, commanded those who stood by him to strike him on the mouth.   
 3. Then Paul said to him, “God will strike you, you whitewashed wall! Do you sit to judge me according to the law, and command me to be struck contrary to the law?”   
@@ -5222,7 +5222,7 @@ Paul said, “But I was born a Roman.”
 34. When the governor had read it, he asked what province he was from. When he understood that he was from Cilicia, he said,  
 35. “I will hear you fully when your accusers also arrive.” He commanded that he be kept in Herod’s palace.   
 
-## Chapter 24
+## Acts Chapter 24
 1. After five days, the high priest, Ananias, came down with certain elders and an orator, one Tertullus. They informed the governor against Paul.  
 2. When he was called, Tertullus began to accuse him, saying, “Seeing that by you we enjoy much peace, and that prosperity is coming to this nation by your foresight,  
 3. we accept it in all ways and in all places, most excellent Felix, with all thankfulness.  
@@ -5251,7 +5251,7 @@ Paul said, “But I was born a Roman.”
 26. Meanwhile, he also hoped that money would be given to him by Paul, that he might release him. Therefore also he sent for him more often and talked with him.   
 27. But when two years were fulfilled, Felix was succeeded by Porcius Festus, and desiring to gain favor with the Jews, Felix left Paul in bonds.   
 
-## Chapter 25
+## Acts Chapter 25
 1. Festus therefore, having come into the province, after three days went up to Jerusalem from Caesarea.  
 2. Then the high priest and the principal men of the Jews informed him against Paul, and they begged him,  
 3. asking a favor against him, that he would summon him to Jerusalem, plotting to kill him on the way.  
@@ -5281,7 +5281,7 @@ he said, “you shall hear him.”
 26. of whom I have no certain thing to write to my lord. Therefore I have brought him out before you, and especially before you, King Agrippa, that, after examination I may have something to write.  
 27. For it seems to me unreasonable, in sending a prisoner, not to also specify the charges against him.”   
 
-## Chapter 26
+## Acts Chapter 26
 1. Agrippa said to Paul, “You may speak for yourself.”  
 Then Paul stretched out his hand, and made his defense.  
 2. “I think myself happy, King Agrippa, that I am to make my defense before you today concerning all the things that I am accused by the Jews,  
@@ -5317,7 +5317,7 @@ He said, ‘I am Jesus, whom you are persecuting.
 31. When they had withdrawn, they spoke to one another, saying, “This man does nothing worthy of death or of bonds.”  
 32. Agrippa said to Festus, “This man might have been set free if he had not appealed to Caesar.”   
 
-## Chapter 27
+## Acts Chapter 27
 1. When it was determined that we should sail for Italy, they delivered Paul and certain other prisoners to a centurion named Julius, of the Augustan band.  
 2. Embarking in a ship of Adramyttium, which was about to sail to places on the coast of Asia, we put to sea, Aristarchus, a Macedonian of Thessalonica being with us.  
 3. The next day, we touched at Sidon. Julius treated Paul kindly and gave him permission to go to his friends and refresh himself.  
@@ -5363,7 +5363,7 @@ He said, ‘I am Jesus, whom you are persecuting.
 43. But the centurion, desiring to save Paul, stopped them from their purpose, and commanded that those who could swim should throw themselves overboard first to go toward the land;  
 44. and the rest should follow, some on planks and some on other things from the ship. So they all escaped safely to the land.   
 
-## Chapter 28
+## Acts Chapter 28
 1. When we had escaped, then they learned that the island was called Malta.  
 2. The natives showed us uncommon kindness; for they kindled a fire and received us all, because of the present rain and because of the cold.  
 3. But when Paul had gathered a bundle of sticks and laid them on the fire, a viper came out because of the heat and fastened on his hand.  
@@ -5410,7 +5410,7 @@ then I would heal them.’
 
 # Romans
 
-## Chapter 1
+## Romans Chapter 1
 1. Paul, a servant of Jesus Christ, called to be an apostle, set apart for the Good News of God,  
 2. which he promised before through his prophets in the holy Scriptures,  
 3. concerning his Son, who was born of the offspring of David according to the flesh,  
@@ -5444,7 +5444,7 @@ then I would heal them.’
 31. without understanding, covenant breakers, without natural affection, unforgiving, unmerciful;  
 32. who, knowing the ordinance of God, that those who practice such things are worthy of death, not only do the same, but also approve of those who practice them.   
 
-## Chapter 2
+## Romans Chapter 2
 1. Therefore you are without excuse, O man, whoever you are who judge. For in that which you judge another, you condemn yourself. For you who judge practice the same things.  
 2. We know that the judgment of God is according to truth against those who practice such things.  
 3. Do you think this, O man who judges those who practice such things, and do the same, that you will escape the judgment of God?  
@@ -5475,7 +5475,7 @@ then I would heal them.’
 28. For he is not a Jew who is one outwardly, neither is that circumcision which is outward in the flesh;  
 29. but he is a Jew who is one inwardly, and circumcision is that of the heart, in the spirit, not in the letter; whose praise is not from men, but from God.   
 
-## Chapter 3
+## Romans Chapter 3
 1. Then what advantage does the Jew have? Or what is the profit of circumcision?  
 2. Much in every way! Because first of all, they were entrusted with the revelations of God.  
 3. For what if some were without faith? Will their lack of faith nullify the faithfulness of God?  
@@ -5518,7 +5518,7 @@ The poison of vipers is under their lips.”
 30. since indeed there is one God who will justify the circumcised by faith and the uncircumcised through faith.   
 31. Do we then nullify the law through faith? May it never be! No, we establish the law.   
 
-## Chapter 4
+## Romans Chapter 4
 1. What then will we say that Abraham, our forefather, has found according to the flesh?  
 2. For if Abraham was justified by works, he has something to boast about, but not toward God.  
 3. For what does the Scripture say? “Abraham believed God, and it was accounted to him for righteousness.” 
@@ -5546,7 +5546,7 @@ whose sins are covered.
 24. but for our sake also, to whom it will be accounted, who believe in him who raised Jesus our Lord from the dead,  
 25. who was delivered up for our trespasses, and was raised for our justification.   
 
-## Chapter 5
+## Romans Chapter 5
 1. Being therefore justified by faith, we have peace with God through our Lord Jesus Christ;  
 2. through whom we also have our access by faith into this grace in which we stand. We rejoice in hope of the glory of God.  
 3. Not only this, but we also rejoice in our sufferings, knowing that suffering produces perseverance;  
@@ -5569,7 +5569,7 @@ whose sins are covered.
 20. The law came in that the trespass might abound; but where sin abounded, grace abounded more exceedingly,  
 21. that as sin reigned in death, even so grace might reign through righteousness to eternal life through Jesus Christ our Lord.   
 
-## Chapter 6
+## Romans Chapter 6
 1. What shall we say then? Shall we continue in sin, that grace may abound?  
 2. May it never be! We who died to sin, how could we live in it any longer?  
 3. Or don’t you know that all of us who were baptized into Christ Jesus were baptized into his death?  
@@ -5594,7 +5594,7 @@ whose sins are covered.
 22. But now, being made free from sin and having become servants of God, you have your fruit of sanctification and the result of eternal life.  
 23. For the wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord.   
 
-## Chapter 7
+## Romans Chapter 7
 1. Or don’t you know, brothers (for I speak to men who know the law), that the law has dominion over a man for as long as he lives?  
 2. For the woman that has a husband is bound by law to the husband while he lives, but if the husband dies, she is discharged from the law of the husband.  
 3. So then if, while the husband lives, she is joined to another man, she would be called an adulteress. But if the husband dies, she is free from the law, so that she is no adulteress, though she is joined to another man.  
@@ -5621,7 +5621,7 @@ whose sins are covered.
 24. What a wretched man I am! Who will deliver me out of the body of this death?  
 25. I thank God through Jesus Christ, our Lord! So then with the mind, I myself serve God’s law, but with the flesh, sin’s law.   
 
-## Chapter 8
+## Romans Chapter 8
 1. There is therefore now no condemnation to those who are in Christ Jesus, who don’t walk according to the flesh, but according to the Spirit. 
 2. For the law of the Spirit of life in Christ Jesus made me free from the law of sin and of death.  
 3. For what the law couldn’t do, in that it was weak through the flesh, God did, sending his own Son in the likeness of sinful flesh and for sin, he condemned sin in the flesh,  
@@ -5664,7 +5664,7 @@ We were accounted as sheep for the slaughter.”
 38. For I am persuaded that neither death, nor life, nor angels, nor principalities, nor things present, nor things to come, nor powers,  
 39. nor height, nor depth, nor any other created thing will be able to separate us from God’s love which is in Christ Jesus our Lord.   
 
-## Chapter 9
+## Romans Chapter 9
 1. I tell the truth in Christ. I am not lying, my conscience testifying with me in the Holy Spirit 
 2. that I have great sorrow and unceasing pain in my heart.  
 3. For I could wish that I myself were accursed from Christ for my brothers’ sake, my relatives according to the flesh 
@@ -5710,7 +5710,7 @@ and would have been made like Gomorrah.”
 Behold, I lay in Zion a stumbling stone and a rock of offense;  
 and no one who believes in him will be disappointed.”  
 
-## Chapter 10
+## Romans Chapter 10
 1. Brothers, my heart’s desire and my prayer to God is for Israel, that they may be saved.  
 2. For I testify about them that they have a zeal for God, but not according to knowledge.  
 3. For being ignorant of God’s righteousness, and seeking to establish their own righteousness, they didn’t subject themselves to the righteousness of God.  
@@ -5741,7 +5741,7 @@ I was found by those who didn’t seek me.
 I was revealed to those who didn’t ask for me.”  
 21. But about Israel he says, “All day long I stretched out my hands to a disobedient and contrary people.”  
 
-## Chapter 11
+## Romans Chapter 11
 1. I ask then, did God reject his people? May it never be! For I also am an Israelite, a descendant of Abraham, of the tribe of Benjamin.  
 2. God didn’t reject his people, whom he foreknew. Or don’t you know what the Scripture says about Elijah? How he pleads with God against Israel:  
 3. “Lord, they have killed your prophets. They have broken down your altars. I am left alone, and they seek my life.” 
@@ -5787,7 +5787,7 @@ Or who has been his counselor?”
 and it will be repaid to him again?”  
 36. For of him and through him and to him are all things. To him be the glory for ever! Amen.   
 
-## Chapter 12
+## Romans Chapter 12
 1. Therefore I urge you, brothers, by the mercies of God, to present your bodies a living sacrifice, holy, acceptable to God, which is your spiritual service.  
 2. Don’t be conformed to this world, but be transformed by the renewing of your mind, so that you may prove what is the good, well-pleasing, and perfect will of God.   
 3. For I say through the grace that was given me, to everyone who is among you, not to think of yourself more highly than you ought to think; but to think reasonably, as God has apportioned to each person a measure of faith.  
@@ -5813,7 +5813,7 @@ If he is thirsty, give him a drink;
 for in doing so, you will heap coals of fire on his head.”  
 21. Don’t be overcome by evil, but overcome evil with good.   
 
-## Chapter 13
+## Romans Chapter 13
 1. Let every soul be in subjection to the higher authorities, for there is no authority except from God, and those who exist are ordained by God.  
 2. Therefore he who resists the authority withstands the ordinance of God; and those who withstand will receive to themselves judgment.  
 3. For rulers are not a terror to the good work, but to the evil. Do you desire to have no fear of the authority? Do that which is good, and you will have praise from the authority,  
@@ -5829,7 +5829,7 @@ for in doing so, you will heap coals of fire on his head.”
 13. Let’s walk properly, as in the day; not in reveling and drunkenness, not in sexual promiscuity and lustful acts, and not in strife and jealousy.  
 14. But put on the Lord Jesus Christ, and make no provision for the flesh, for its lusts.   
 
-## Chapter 14
+## Romans Chapter 14
 1. Now accept one who is weak in faith, but not for disputes over opinions.  
 2. One man has faith to eat all things, but he who is weak eats only vegetables.  
 3. Don’t let him who eats despise him who doesn’t eat. Don’t let him who doesn’t eat judge him who eats, for God has accepted him.  
@@ -5859,7 +5859,7 @@ Every tongue will confess to God.’”
 25. but now is revealed, and by the Scriptures of the prophets, according to the commandment of the eternal God, is made known for obedience of faith to all the nations;  
 26. to the only wise God, through Jesus Christ, to whom be the glory forever! Amen.  
 
-## Chapter 15
+## Romans Chapter 15
 1. Now we who are strong ought to bear the weaknesses of the weak, and not to please ourselves.  
 2. Let each one of us please his neighbor for that which is good, to be building him up.  
 3. For even Christ didn’t please himself. But, as it is written, “The reproaches of those who reproached you fell on me.” 
@@ -5904,7 +5904,7 @@ They who haven’t heard will understand.”
 32. that I may come to you in joy through the will of God, and together with you, find rest.  
 33. Now the God of peace be with you all. Amen.   
 
-## Chapter 16
+## Romans Chapter 16
 1. I commend to you Phoebe, our sister, who is a servant of the assembly that is at Cenchreae,  
 2. that you receive her in the Lord in a way worthy of the saints, and that you assist her in whatever matter she may need from you, for she herself also has been a helper of many, and of my own self.   
 3. Greet Prisca and Aquila, my fellow workers in Christ Jesus,  
@@ -5934,7 +5934,7 @@ The grace of our Lord Jesus Christ be with you.
 
 # 1 Corinthians
 
-## Chapter 1
+## 1 Corinthians Chapter 1
 1. Paul, called to be an apostle of Jesus Christ through the will of God, and our brother Sosthenes,  
 2. to the assembly of God which is at Corinth—those who are sanctified in Christ Jesus, called saints, with all who call on the name of our Lord Jesus Christ in every place, both theirs and ours:  
 3. Grace to you and peace from God our Father and the Lord Jesus Christ.   
@@ -5969,7 +5969,7 @@ I will bring the discernment of the discerning to nothing.”
 30. Because of him, you are in Christ Jesus, who was made to us wisdom from God, and righteousness and sanctification, and redemption,  
 31. that, as it is written, “He who boasts, let him boast in the Lord.”  
 
-## Chapter 2
+## 1 Corinthians Chapter 2
 1. When I came to you, brothers, I didn’t come with excellence of speech or of wisdom, proclaiming to you the testimony of God.  
 2. For I determined not to know anything among you except Jesus Christ and him crucified.  
 3. I was with you in weakness, in fear, and in much trembling.  
@@ -5990,7 +5990,7 @@ these God has prepared for those who love him.”
 15. But he who is spiritual discerns all things, and he himself is to be judged by no one.  
 16. “For who has known the mind of the Lord that he should instruct him?”  But we have Christ’s mind.   
 
-## Chapter 3
+## 1 Corinthians Chapter 3
 1. Brothers, I couldn’t speak to you as to spiritual, but as to fleshly, as to babies in Christ.  
 2. I fed you with milk, not with solid food, for you weren’t yet ready. Indeed, you aren’t ready even now,  
 3. for you are still fleshly. For insofar as there is jealousy, strife, and factions among you, aren’t you fleshly, and don’t you walk in the ways of men?  
@@ -6015,7 +6015,7 @@ these God has prepared for those who love him.”
 22. whether Paul, or Apollos, or Cephas, or the world, or life, or death, or things present, or things to come. All are yours,  
 23. and you are Christ’s, and Christ is God’s.   
 
-## Chapter 4
+## 1 Corinthians Chapter 4
 1. So let a man think of us as Christ’s servants and stewards of God’s mysteries.  
 2. Here, moreover, it is required of stewards that they be found faithful.  
 3. But with me it is a very small thing that I should be judged by you, or by a human court. Yes, I don’t even judge my own self.  
@@ -6038,7 +6038,7 @@ these God has prepared for those who love him.”
 20. For God’s Kingdom is not in word, but in power.  
 21. What do you want? Shall I come to you with a rod, or in love and a spirit of gentleness?   
 
-## Chapter 5
+## 1 Corinthians Chapter 5
 1. It is actually reported that there is sexual immorality among you, and such sexual immorality as is not even named among the Gentiles, that one has his father’s wife.  
 2. You are arrogant, and didn’t mourn instead, that he who had done this deed might be removed from among you.  
 3. For I most certainly, as being absent in body but present in spirit, have already, as though I were present, judged him who has done this thing.  
@@ -6053,7 +6053,7 @@ these God has prepared for those who love him.”
 12. For what do I have to do with also judging those who are outside? Don’t you judge those who are within?  
 13. But those who are outside, God judges. “Put away the wicked man from among yourselves.”  
 
-## Chapter 6
+## 1 Corinthians Chapter 6
 1. Dare any of you, having a matter against his neighbor, go to law before the unrighteous, and not before the saints?  
 2. Don’t you know that the saints will judge the world? And if the world is judged by you, are you unworthy to judge the smallest matters?  
 3. Don’t you know that we will judge angels? How much more, things that pertain to this life?  
@@ -6075,7 +6075,7 @@ these God has prepared for those who love him.”
 19. Or don’t you know that your body is a temple of the Holy Spirit who is in you, whom you have from God? You are not your own,  
 20. for you were bought with a price. Therefore glorify God in your body and in your spirit, which are God’s.   
 
-## Chapter 7
+## 1 Corinthians Chapter 7
 1. Now concerning the things about which you wrote to me: it is good for a man not to touch a woman.  
 2. But, because of sexual immoralities, let each man have his own wife, and let each woman have her own husband.  
 3. Let the husband give his wife the affection owed her, and likewise also the wife her husband.  
@@ -6117,7 +6117,7 @@ these God has prepared for those who love him.”
 39. A wife is bound by law for as long as her husband lives; but if the husband is dead, she is free to be married to whomever she desires, only in the Lord.  
 40. But she is happier if she stays as she is, in my judgment, and I think that I also have God’s Spirit.   
 
-## Chapter 8
+## 1 Corinthians Chapter 8
 1. Now concerning things sacrificed to idols: We know that we all have knowledge. Knowledge puffs up, but love builds up.  
 2. But if anyone thinks that he knows anything, he doesn’t yet know as he ought to know.  
 3. But anyone who loves God is known by him.   
@@ -6132,7 +6132,7 @@ these God has prepared for those who love him.”
 12. Thus, sinning against the brothers, and wounding their conscience when it is weak, you sin against Christ.  
 13. Therefore, if food causes my brother to stumble, I will eat no meat forever more, that I don’t cause my brother to stumble.   
 
-## Chapter 9
+## 1 Corinthians Chapter 9
 1. Am I not free? Am I not an apostle? Haven’t I seen Jesus Christ, our Lord? Aren’t you my work in the Lord?  
 2. If to others I am not an apostle, yet at least I am to you; for you are the seal of my apostleship in the Lord.   
 3. My defense to those who examine me is this:  
@@ -6162,7 +6162,7 @@ Nevertheless we didn’t use this right, but we bear all things, that we may cau
 26. I therefore run like that, not aimlessly. I fight like that, not beating the air,  
 27. but I beat my body and bring it into submission, lest by any means, after I have preached to others, I myself should be disqualified.   
 
-## Chapter 10
+## 1 Corinthians Chapter 10
 1. Now I would not have you ignorant, brothers, that our fathers were all under the cloud, and all passed through the sea;  
 2. and were all baptized into Moses in the cloud and in the sea;  
 3. and all ate the same spiritual food;  
@@ -6197,7 +6197,7 @@ Nevertheless we didn’t use this right, but we bear all things, that we may cau
 32. Give no occasion for stumbling, whether to Jews, to Greeks, or to the assembly of God;  
 33. even as I also please all men in all things, not seeking my own profit, but the profit of the many, that they may be saved.   
 
-## Chapter 11
+## 1 Corinthians Chapter 11
 1. Be imitators of me, even as I also am of Christ.   
 2. Now I praise you, brothers, that you remember me in all things, and hold firm the traditions, even as I delivered them to you.  
 3. But I would have you know that the head of every man is Christ, and the head of the woman is man, and the head of Christ is God.  
@@ -6233,7 +6233,7 @@ Nevertheless we didn’t use this right, but we bear all things, that we may cau
 33. Therefore, my brothers, when you come together to eat, wait for one another.  
 34. But if anyone is hungry, let him eat at home, lest your coming together be for judgment. The rest I will set in order whenever I come.   
 
-## Chapter 12
+## 1 Corinthians Chapter 12
 1. Now concerning spiritual things, brothers, I don’t want you to be ignorant.  
 2. You know that when you were heathen, you were led away to those mute idols, however you might be led.  
 3. Therefore I make known to you that no man speaking by God’s Spirit says, “Jesus is accursed.” No one can say, “Jesus is Lord,” but by the Holy Spirit.   
@@ -6266,7 +6266,7 @@ Nevertheless we didn’t use this right, but we bear all things, that we may cau
 30. Do all have gifts of healings? Do all speak with various languages? Do all interpret?  
 31. But earnestly desire the best gifts. Moreover, I show a most excellent way to you.   
 
-## Chapter 13
+## 1 Corinthians Chapter 13
 1. If I speak with the languages of men and of angels, but don’t have love, I have become sounding brass or a clanging cymbal.  
 2. If I have the gift of prophecy, and know all mysteries and all knowledge, and if I have all faith, so as to remove mountains, but don’t have love, I am nothing.  
 3. If I give away all my goods to feed the poor, and if I give my body to be burned, but don’t have love, it profits me nothing.   
@@ -6281,7 +6281,7 @@ Nevertheless we didn’t use this right, but we bear all things, that we may cau
 12. For now we see in a mirror, dimly, but then face to face. Now I know in part, but then I will know fully, even as I was also fully known.  
 13. But now faith, hope, and love remain—these three. The greatest of these is love.   
 
-## Chapter 14
+## 1 Corinthians Chapter 14
 1. Follow after love and earnestly desire spiritual gifts, but especially that you may prophesy.  
 2. For he who speaks in another language speaks not to men, but to God, for no one understands, but in the Spirit he speaks mysteries.  
 3. But he who prophesies speaks to men for their edification, exhortation, and consolation.  
@@ -6323,7 +6323,7 @@ Nevertheless we didn’t use this right, but we bear all things, that we may cau
 39. Therefore, brothers, desire earnestly to prophesy, and don’t forbid speaking with other languages.  
 40. Let all things be done decently and in order.   
 
-## Chapter 15
+## 1 Corinthians Chapter 15
 1. Now I declare to you, brothers, the Good News which I preached to you, which also you received, in which you also stand,  
 2. by which also you are saved, if you hold firmly the word which I preached to you—unless you believed in vain.   
 3. For I delivered to you first of all that which I also received: that Christ died for our sins according to the Scriptures,  
@@ -6384,7 +6384,7 @@ Nevertheless we didn’t use this right, but we bear all things, that we may cau
 57. But thanks be to God, who gives us the victory through our Lord Jesus Christ.  
 58. Therefore, my beloved brothers, be steadfast, immovable, always abounding in the Lord’s work, because you know that your labor is not in vain in the Lord.   
 
-## Chapter 16
+## 1 Corinthians Chapter 16
 1. Now concerning the collection for the saints: as I commanded the assemblies of Galatia, you do likewise.  
 2. On the first day of every week, let each one of you save as he may prosper, that no collections are made when I come.  
 3. When I arrive, I will send whoever you approve with letters to carry your gracious gift to Jerusalem.  
@@ -6412,7 +6412,7 @@ Nevertheless we didn’t use this right, but we bear all things, that we may cau
 
 # 2 Corinthians
 
-## Chapter 1
+## 2 Corinthians Chapter 1
 1. Paul, an apostle of Christ Jesus through the will of God, and Timothy our brother, to the assembly of God which is at Corinth, with all the saints who are in the whole of Achaia:  
 2. Grace to you and peace from God our Father and the Lord Jesus Christ.   
 3. Blessed be the God and Father of our Lord Jesus Christ, the Father of mercies and God of all comfort,  
@@ -6438,7 +6438,7 @@ Nevertheless we didn’t use this right, but we bear all things, that we may cau
 23. But I call God for a witness to my soul, that to spare you, I didn’t come to Corinth.  
 24. We don’t control your faith, but are fellow workers with you for your joy. For you stand firm in faith.   
 
-## Chapter 2
+## 2 Corinthians Chapter 2
 1. But I determined this for myself, that I would not come to you again in sorrow.  
 2. For if I make you grieve, then who will make me glad but he who is made to grieve by me?  
 3. And I wrote this very thing to you, so that when I came, I wouldn’t have sorrow from them of whom I ought to rejoice; having confidence in you all that my joy would be shared by all of you.  
@@ -6457,7 +6457,7 @@ Nevertheless we didn’t use this right, but we bear all things, that we may cau
 16. to the one a stench from death to death, to the other a sweet aroma from life to life. Who is sufficient for these things?  
 17. For we are not as so many, peddling the word of God. But as of sincerity, but as of God, in the sight of God, we speak in Christ.   
 
-## Chapter 3
+## 2 Corinthians Chapter 3
 1. Are we beginning again to commend ourselves? Or do we need, as do some, letters of commendation to you or from you?  
 2. You are our letter, written in our hearts, known and read by all men,  
 3. being revealed that you are a letter of Christ, served by us, written not with ink, but with the Spirit of the living God; not in tablets of stone, but in tablets that are hearts of flesh.   
@@ -6477,7 +6477,7 @@ Nevertheless we didn’t use this right, but we bear all things, that we may cau
 17. Now the Lord is the Spirit; and where the Spirit of the Lord is, there is liberty.  
 18. But we all, with unveiled face seeing the glory of the Lord as in a mirror, are transformed into the same image from glory to glory, even as from the Lord, the Spirit.   
 
-## Chapter 4
+## 2 Corinthians Chapter 4
 1. Therefore, seeing we have this ministry, even as we obtained mercy, we don’t faint.  
 2. But we have renounced the hidden things of shame, not walking in craftiness nor handling the word of God deceitfully, but by the manifestation of the truth commending ourselves to every man’s conscience in the sight of God.  
 3. Even if our Good News is veiled, it is veiled in those who are dying,  
@@ -6497,7 +6497,7 @@ Nevertheless we didn’t use this right, but we bear all things, that we may cau
 17. For our light affliction, which is for the moment, works for us more and more exceedingly an eternal weight of glory,  
 18. while we don’t look at the things which are seen, but at the things which are not seen. For the things which are seen are temporal, but the things which are not seen are eternal.   
 
-## Chapter 5
+## 2 Corinthians Chapter 5
 1. For we know that if the earthly house of our tent is dissolved, we have a building from God, a house not made with hands, eternal, in the heavens.  
 2. For most certainly in this we groan, longing to be clothed with our habitation which is from heaven,  
 3. if indeed being clothed, we will not be found naked.  
@@ -6520,7 +6520,7 @@ Nevertheless we didn’t use this right, but we bear all things, that we may cau
 20. We are therefore ambassadors on behalf of Christ, as though God were entreating by us: we beg you on behalf of Christ, be reconciled to God.  
 21. For him who knew no sin he made to be sin on our behalf, so that in him we might become the righteousness of God.   
 
-## Chapter 6
+## 2 Corinthians Chapter 6
 1. Working together, we entreat also that you do not receive the grace of God in vain.  
 2. For he says,  
 At an acceptable time I listened to you.  
@@ -6549,7 +6549,7 @@ I will receive you.
 You will be to me sons and daughters,’  
 says the Lord Almighty.”  
 
-## Chapter 7
+## 2 Corinthians Chapter 7
 1. Having therefore these promises, beloved, let’s cleanse ourselves from all defilement of flesh and spirit, perfecting holiness in the fear of God.   
 2. Open your hearts to us. We wronged no one. We corrupted no one. We took advantage of no one.  
 3. I say this not to condemn you, for I have said before that you are in our hearts to die together and live together.  
@@ -6567,7 +6567,7 @@ says the Lord Almighty.”
 15. His affection is more abundantly toward you, while he remembers all of your obedience, how with fear and trembling you received him.  
 16. I rejoice that in everything I am confident concerning you.   
 
-## Chapter 8
+## 2 Corinthians Chapter 8
 1. Moreover, brothers, we make known to you the grace of God which has been given in the assemblies of Macedonia,  
 2. how in a severe ordeal of affliction, the abundance of their joy and their deep poverty abounded to the riches of their generosity.  
 3. For according to their power, I testify, yes and beyond their power, they gave of their own accord,  
@@ -6593,7 +6593,7 @@ says the Lord Almighty.”
 23. As for Titus, he is my partner and fellow worker for you. As for our brothers, they are the apostles of the assemblies, the glory of Christ.  
 24. Therefore show the proof of your love to them before the assemblies, and of our boasting on your behalf.   
 
-## Chapter 9
+## 2 Corinthians Chapter 9
 1. It is indeed unnecessary for me to write to you concerning the service to the saints,  
 2. for I know your readiness, of which I boast on your behalf to those of Macedonia, that Achaia has been prepared for the past year. Your zeal has stirred up very many of them.  
 3. But I have sent the brothers so that our boasting on your behalf may not be in vain in this respect, that, just as I said, you may be prepared,  
@@ -6612,7 +6612,7 @@ His righteousness remains forever.”
 14. while they themselves also, with supplication on your behalf, yearn for you by reason of the exceeding grace of God in you.  
 15. Now thanks be to God for his unspeakable gift!   
 
-## Chapter 10
+## 2 Corinthians Chapter 10
 1. Now I Paul, myself, entreat you by the humility and gentleness of Christ, I who in your presence am lowly among you, but being absent am bold toward you.  
 2. Yes, I beg you that I may not, when present, show courage with the confidence with which I intend to be bold against some, who consider us to be walking according to the flesh.  
 3. For though we walk in the flesh, we don’t wage war according to the flesh;  
@@ -6632,7 +6632,7 @@ His righteousness remains forever.”
 17. But “he who boasts, let him boast in the Lord.” 
 18. For it isn’t he who commends himself who is approved, but whom the Lord commends.   
 
-## Chapter 11
+## 2 Corinthians Chapter 11
 1. I wish that you would bear with me in a little foolishness, but indeed you do bear with me.  
 2. For I am jealous over you with a godly jealousy. For I promised you in marriage to one husband, that I might present you as a pure virgin to Christ.  
 3. But I am afraid that somehow, as the serpent deceived Eve in his craftiness, so your minds might be corrupted from the simplicity that is in Christ.  
@@ -6667,7 +6667,7 @@ His righteousness remains forever.”
 32. In Damascus the governor under King Aretas guarded the Damascenes’ city, desiring to arrest me.  
 33. I was let down in a basket through a window by the wall, and escaped his hands.   
 
-## Chapter 12
+## 2 Corinthians Chapter 12
 1. It is doubtless not profitable for me to boast, but I will come to visions and revelations of the Lord.  
 2. I know a man in Christ who was caught up into the third heaven fourteen years ago—whether in the body, I don’t know, or whether out of the body, I don’t know; God knows.  
 3. I know such a man (whether in the body, or outside of the body, I don’t know; God knows),  
@@ -6690,7 +6690,7 @@ His righteousness remains forever.”
 20. For I am afraid that perhaps when I come, I might find you not the way I want to, and that I might be found by you as you don’t desire, that perhaps there would be strife, jealousy, outbursts of anger, factions, slander, whisperings, proud thoughts, or riots,  
 21. that again when I come my God would humble me before you, and I would mourn for many of those who have sinned before now, and not repented of the uncleanness, sexual immorality, and lustfulness which they committed.   
 
-## Chapter 13
+## 2 Corinthians Chapter 13
 1. This is the third time I am coming to you. “At the mouth of two or three witnesses shall every word be established.” 
 2. I have warned previously, and I warn again, as when I was present the second time, so now, being absent, I write to those who have sinned before now and to all the rest that if I come again, I will not spare,  
 3. seeing that you seek a proof of Christ who speaks in me who is not weak, but is powerful in you.  
@@ -6708,7 +6708,7 @@ His righteousness remains forever.”
 
 # Galatians
 
-## Chapter 1
+## Galatians Chapter 1
 1. Paul, an apostle—not from men, nor through man, but through Jesus Christ, and God the Father, who raised him from the dead—  
 2. and all the brothers who are with me, to the assemblies of Galatia:  
 3. Grace to you and peace from God the Father and our Lord Jesus Christ,  
@@ -6734,7 +6734,7 @@ His righteousness remains forever.”
 23. but they only heard, “He who once persecuted us now preaches the faith that he once tried to destroy.”  
 24. So they glorified God in me.   
 
-## Chapter 2
+## Galatians Chapter 2
 1. Then after a period of fourteen years I went up again to Jerusalem with Barnabas, taking Titus also with me.  
 2. I went up by revelation, and I laid before them the Good News which I preach among the Gentiles, but privately before those who were respected, for fear that I might be running, or had run, in vain.  
 3. But not even Titus, who was with me, being a Greek, was compelled to be circumcised.  
@@ -6757,7 +6757,7 @@ His righteousness remains forever.”
 20. I have been crucified with Christ, and it is no longer I who live, but Christ lives in me. That life which I now live in the flesh, I live by faith in the Son of God, who loved me and gave himself up for me.  
 21. I don’t reject the grace of God. For if righteousness is through the law, then Christ died for nothing!”   
 
-## Chapter 3
+## Galatians Chapter 3
 1. Foolish Galatians, who has bewitched you not to obey the truth, before whose eyes Jesus Christ was openly portrayed among you as crucified?  
 2. I just want to learn this from you: Did you receive the Spirit by the works of the law, or by hearing of faith?  
 3. Are you so foolish? Having begun in the Spirit, are you now completed in the flesh?  
@@ -6788,7 +6788,7 @@ His righteousness remains forever.”
 28. There is neither Jew nor Greek, there is neither slave nor free man, there is neither male nor female; for you are all one in Christ Jesus.  
 29. If you are Christ’s, then you are Abraham’s offspring and heirs according to promise.   
 
-## Chapter 4
+## Galatians Chapter 4
 1. But I say that so long as the heir is a child, he is no different from a bondservant, though he is lord of all,  
 2. but is under guardians and stewards until the day appointed by the father.  
 3. So we also, when we were children, were held in bondage under the elemental principles of the world.  
@@ -6824,7 +6824,7 @@ For the desolate women have more children than her who has a husband.”
 30. However, what does the Scripture say? “Throw out the servant and her son, for the son of the servant will not inherit with the son of the free woman.” 
 31. So then, brothers, we are not children of a servant, but of the free woman.   
 
-## Chapter 5
+## Galatians Chapter 5
 1. Stand firm therefore in the liberty by which Christ has made us free, and don’t be entangled again with a yoke of bondage.   
 2. Behold, I, Paul, tell you that if you receive circumcision, Christ will profit you nothing.  
 3. Yes, I testify again to every man who receives circumcision that he is a debtor to do the whole law.  
@@ -6852,7 +6852,7 @@ For the desolate women have more children than her who has a husband.”
 25. If we live by the Spirit, let’s also walk by the Spirit.  
 26. Let’s not become conceited, provoking one another, and envying one another.   
 
-## Chapter 6
+## Galatians Chapter 6
 1. Brothers, even if a man is caught in some fault, you who are spiritual must restore such a one in a spirit of gentleness, looking to yourself so that you also aren’t tempted.  
 2. Bear one another’s burdens, and so fulfill the law of Christ.  
 3. For if a man thinks himself to be something when he is nothing, he deceives himself.  
@@ -6874,7 +6874,7 @@ For the desolate women have more children than her who has a husband.”
 
 # Ephesians
 
-## Chapter 1
+## Ephesians Chapter 1
 1. Paul, an apostle of Christ Jesus through the will of God, to the saints who are at Ephesus, and the faithful in Christ Jesus:  
 2. Grace to you and peace from God our Father and the Lord Jesus Christ.   
 3. Blessed be the God and Father of our Lord Jesus Christ, who has blessed us with every spiritual blessing in the heavenly places in Christ,  
@@ -6899,7 +6899,7 @@ For the desolate women have more children than her who has a husband.”
 22. He put all things in subjection under his feet, and gave him to be head over all things for the assembly,  
 23. which is his body, the fullness of him who fills all in all.   
 
-## Chapter 2
+## Ephesians Chapter 2
 1. You were made alive when you were dead in transgressions and sins,  
 2. in which you once walked according to the course of this world, according to the prince of the power of the air, the spirit who now works in the children of disobedience.  
 3. We also all once lived among them in the lusts of our flesh, doing the desires of the flesh and of the mind, and were by nature children of wrath, even as the rest.  
@@ -6923,7 +6923,7 @@ For the desolate women have more children than her who has a husband.”
 21. in whom the whole building, fitted together, grows into a holy temple in the Lord;  
 22. in whom you also are built together for a habitation of God in the Spirit.   
 
-## Chapter 3
+## Ephesians Chapter 3
 1. For this cause I, Paul, am the prisoner of Christ Jesus on behalf of you Gentiles,  
 2. if it is so that you have heard of the administration of that grace of God which was given me toward you,  
 3. how that by revelation the mystery was made known to me, as I wrote before in few words,  
@@ -6946,7 +6946,7 @@ For the desolate women have more children than her who has a husband.”
 20. Now to him who is able to do exceedingly abundantly above all that we ask or think, according to the power that works in us,  
 21. to him be the glory in the assembly and in Christ Jesus to all generations, forever and ever. Amen.   
 
-## Chapter 4
+## Ephesians Chapter 4
 1. I therefore, the prisoner in the Lord, beg you to walk worthily of the calling with which you were called,  
 2. with all lowliness and humility, with patience, bearing with one another in love,  
 3. being eager to keep the unity of the Spirit in the bond of peace.  
@@ -6983,7 +6983,7 @@ and gave gifts to people.”
 31. Let all bitterness, wrath, anger, outcry, and slander be put away from you, with all malice.  
 32. And be kind to one another, tender hearted, forgiving each other, just as God also in Christ forgave you.   
 
-## Chapter 5
+## Ephesians Chapter 5
 1. Be therefore imitators of God, as beloved children.  
 2. Walk in love, even as Christ also loved us and gave himself up for us, an offering and a sacrifice to God for a sweet-smelling fragrance.   
 3. But sexual immorality, and all uncleanness or covetousness, let it not even be mentioned among you, as becomes saints;  
@@ -7018,7 +7018,7 @@ and gave gifts to people.”
 32. This mystery is great, but I speak concerning Christ and the assembly.  
 33. Nevertheless each of you must also love his own wife even as himself; and let the wife see that she respects her husband.   
 
-## Chapter 6
+## Ephesians Chapter 6
 1. Children, obey your parents in the Lord, for this is right.  
 2. “Honor your father and mother,” which is the first commandment with a promise:  
 3. “that it may be well with you, and you may live long on the earth.”   
@@ -7046,7 +7046,7 @@ and gave gifts to people.”
 
 # Philippians
 
-## Chapter 1
+## Philippians Chapter 1
 1. Paul and Timothy, servants of Jesus Christ, to all the saints in Christ Jesus who are at Philippi, with the overseers and servants: 
 2. Grace to you and peace from God our Father and the Lord Jesus Christ.   
 3. I thank my God whenever I remember you,  
@@ -7078,7 +7078,7 @@ and gave gifts to people.”
 29. Because it has been granted to you on behalf of Christ, not only to believe in him, but also to suffer on his behalf,  
 30. having the same conflict which you saw in me and now hear is in me.   
 
-## Chapter 2
+## Philippians Chapter 2
 1. If therefore there is any exhortation in Christ, if any consolation of love, if any fellowship of the Spirit, if any tender mercies and compassion,  
 2. make my joy full by being like-minded, having the same love, being of one accord, of one mind;  
 3. doing nothing through rivalry or through conceit, but in humility, each counting others better than himself;  
@@ -7110,7 +7110,7 @@ and gave gifts to people.”
 29. Receive him therefore in the Lord with all joy, and hold such people in honor,  
 30. because for the work of Christ he came near to death, risking his life to supply that which was lacking in your service toward me.   
 
-## Chapter 3
+## Philippians Chapter 3
 1. Finally, my brothers, rejoice in the Lord! To write the same things to you, to me indeed is not tiresome, but for you it is safe.   
 2. Beware of the dogs; beware of the evil workers; beware of the false circumcision.  
 3. For we are the circumcision, who worship God in the Spirit, and rejoice in Christ Jesus, and have no confidence in the flesh;  
@@ -7133,7 +7133,7 @@ and gave gifts to people.”
 20. For our citizenship is in heaven, from where we also wait for a Savior, the Lord Jesus Christ,  
 21. who will change the body of our humiliation to be conformed to the body of his glory, according to the working by which he is able even to subject all things to himself.   
 
-## Chapter 4
+## Philippians Chapter 4
 1. Therefore, my brothers, beloved and longed for, my joy and crown, stand firm in the Lord in this way, my beloved.   
 2. I exhort Euodia, and I exhort Syntyche, to think the same way in the Lord.  
 3. Yes, I beg you also, true partner, help these women, for they labored with me in the Good News with Clement also, and the rest of my fellow workers, whose names are in the book of life.   
@@ -7160,7 +7160,7 @@ and gave gifts to people.”
 
 # Colossians
 
-## Chapter 1
+## Colossians Chapter 1
 1. Paul, an apostle of Christ Jesus through the will of God, and Timothy our brother,  
 2. to the saints and faithful brothers in Christ at Colossae: Grace to you and peace from God our Father and the Lord Jesus Christ.   
 3. We give thanks to God the Father of our Lord Jesus Christ, praying always for you,  
@@ -7191,7 +7191,7 @@ and gave gifts to people.”
 28. We proclaim him, admonishing every man and teaching every man in all wisdom, that we may present every man perfect in Christ Jesus;  
 29. for which I also labor, striving according to his working, which works in me mightily.   
 
-## Chapter 2
+## Colossians Chapter 2
 1. For I desire to have you know how greatly I struggle for you and for those at Laodicea, and for as many as have not seen my face in the flesh;  
 2. that their hearts may be comforted, they being knit together in love, and gaining all riches of the full assurance of understanding, that they may know the mystery of God, both of the Father and of Christ,  
 3. in whom all the treasures of wisdom and knowledge are hidden.  
@@ -7216,7 +7216,7 @@ and gave gifts to people.”
 22. (all of which perish with use), according to the precepts and doctrines of men?  
 23. These things indeed appear like wisdom in self-imposed worship, humility, and severity to the body, but aren’t of any value against the indulgence of the flesh.   
 
-## Chapter 3
+## Colossians Chapter 3
 1. If then you were raised together with Christ, seek the things that are above, where Christ is, seated on the right hand of God.  
 2. Set your mind on the things that are above, not on the things that are on the earth.  
 3. For you died, and your life is hidden with Christ in God.  
@@ -7243,7 +7243,7 @@ and gave gifts to people.”
 24. knowing that from the Lord you will receive the reward of the inheritance; for you serve the Lord Christ.  
 25. But he who does wrong will receive again for the wrong that he has done, and there is no partiality.   
 
-## Chapter 4
+## Colossians Chapter 4
 1. Masters, give to your servants that which is just and equal, knowing that you also have a Master in heaven.   
 2. Continue steadfastly in prayer, watching in it with thanksgiving,  
 3. praying together for us also, that God may open to us a door for the word, to speak the mystery of Christ, for which I am also in bonds,  
@@ -7265,7 +7265,7 @@ and gave gifts to people.”
 
 # 1 Thessalonians
 
-## Chapter 1
+## 1 Thessalonians Chapter 1
 1. Paul, Silvanus, and Timothy, to the assembly of the Thessalonians in God the Father and the Lord Jesus Christ: Grace to you and peace from God our Father and the Lord Jesus Christ.   
 2. We always give thanks to God for all of you, mentioning you in our prayers,  
 3. remembering without ceasing your work of faith and labor of love and perseverance of hope in our Lord Jesus Christ, before our God and Father.  
@@ -7277,7 +7277,7 @@ and gave gifts to people.”
 9. For they themselves report concerning us what kind of a reception we had from you, and how you turned to God from idols to serve a living and true God,  
 10. and to wait for his Son from heaven, whom he raised from the dead: Jesus, who delivers us from the wrath to come.   
 
-## Chapter 2
+## 1 Thessalonians Chapter 2
 1. For you yourselves know, brothers, our visit to you wasn’t in vain,  
 2. but having suffered before and been shamefully treated, as you know, at Philippi, we grew bold in our God to tell you the Good News of God in much conflict.  
 3. For our exhortation is not of error, nor of uncleanness, nor in deception.  
@@ -7299,7 +7299,7 @@ and gave gifts to people.”
 19. For what is our hope, or joy, or crown of rejoicing? Isn’t it even you, before our Lord Jesus at his coming?  
 20. For you are our glory and our joy.   
 
-## Chapter 3
+## 1 Thessalonians Chapter 3
 1. Therefore when we couldn’t stand it any longer, we thought it good to be left behind at Athens alone,  
 2. and sent Timothy, our brother and God’s servant in the Good News of Christ, to establish you and to comfort you concerning your faith,  
 3. that no one would be moved by these afflictions. For you know that we are appointed to this task.  
@@ -7314,7 +7314,7 @@ and gave gifts to people.”
 12. May the Lord make you to increase and abound in love toward one another and toward all men, even as we also do toward you,  
 13. to the end he may establish your hearts blameless in holiness before our God and Father at the coming of our Lord Jesus with all his saints.   
 
-## Chapter 4
+## 1 Thessalonians Chapter 4
 1. Finally then, brothers, we beg and exhort you in the Lord Jesus, that as you received from us how you ought to walk and to please God, that you abound more and more.  
 2. For you know what instructions we gave you through the Lord Jesus.  
 3. For this is the will of God: your sanctification, that you abstain from sexual immorality,  
@@ -7334,7 +7334,7 @@ and gave gifts to people.”
 17. then we who are alive, who are left, will be caught up together with them in the clouds to meet the Lord in the air. So we will be with the Lord forever.  
 18. Therefore comfort one another with these words.   
 
-## Chapter 5
+## 1 Thessalonians Chapter 5
 1. But concerning the times and the seasons, brothers, you have no need that anything be written to you.  
 2. For you yourselves know well that the day of the Lord comes like a thief in the night.  
 3. For when they are saying, “Peace and safety,” then sudden destruction will come on them, like birth pains on a pregnant woman. Then they will in no way escape.  
@@ -7367,7 +7367,7 @@ Be at peace among yourselves.
 
 # 2 Thessalonians
 
-## Chapter 1
+## 2 Thessalonians Chapter 1
 1. Paul, Silvanus, and Timothy, to the assembly of the Thessalonians in God our Father and the Lord Jesus Christ:  
 2. Grace to you and peace from God our Father and the Lord Jesus Christ.   
 3. We are bound to always give thanks to God for you, brothers, even as it is appropriate, because your faith grows exceedingly, and the love of each and every one of you toward one another abounds,  
@@ -7381,7 +7381,7 @@ Be at peace among yourselves.
 11. To this end we also pray always for you that our God may count you worthy of your calling, and fulfill every desire of goodness and work of faith with power,  
 12. that the name of our Lord Jesus may be glorified in you, and you in him, according to the grace of our God and the Lord Jesus Christ.   
 
-## Chapter 2
+## 2 Thessalonians Chapter 2
 1. Now, brothers, concerning the coming of our Lord Jesus Christ and our gathering together to him, we ask you 
 2. not to be quickly shaken in your mind or troubled, either by spirit or by word or by letter as if from us, saying that the day of Christ has already come.  
 3. Let no one deceive you in any way. For it will not be unless the rebellion comes first, and the man of sin is revealed, the son of destruction.  
@@ -7400,7 +7400,7 @@ Be at peace among yourselves.
 16. Now our Lord Jesus Christ himself, and God our Father, who loved us and gave us eternal comfort and good hope through grace,  
 17. comfort your hearts and establish you in every good work and word.   
 
-## Chapter 3
+## 2 Thessalonians Chapter 3
 1. Finally, brothers, pray for us, that the word of the Lord may spread rapidly and be glorified, even as also with you,  
 2. and that we may be delivered from unreasonable and evil men; for not all have faith.  
 3. But the Lord is faithful, who will establish you and guard you from the evil one.  
@@ -7422,7 +7422,7 @@ Be at peace among yourselves.
 
 # 1 Timothy
 
-## Chapter 1
+## 1 Timothy Chapter 1
 1. Paul, an apostle of Jesus Christ according to the commandment of God our Savior and the Lord Jesus Christ our hope,  
 2. to Timothy, my true child in faith: Grace, mercy, and peace from God our Father and Christ Jesus our Lord.   
 3. As I urged you when I was going into Macedonia, stay at Ephesus that you might command certain men not to teach a different doctrine,  
@@ -7444,7 +7444,7 @@ Be at peace among yourselves.
 19. holding faith and a good conscience, which some having thrust away made a shipwreck concerning the faith,  
 20. of whom are Hymenaeus and Alexander, whom I delivered to Satan that they might be taught not to blaspheme.   
 
-## Chapter 2
+## 1 Timothy Chapter 2
 1. I exhort therefore, first of all, that petitions, prayers, intercessions, and givings of thanks be made for all men,  
 2. for kings and all who are in high places, that we may lead a tranquil and quiet life in all godliness and reverence.  
 3. For this is good and acceptable in the sight of God our Savior,  
@@ -7461,7 +7461,7 @@ Be at peace among yourselves.
 14. Adam wasn’t deceived, but the woman, being deceived, has fallen into disobedience;  
 15. but she will be saved through her childbearing, if they continue in faith, love, and holiness with sobriety.   
 
-## Chapter 3
+## 1 Timothy Chapter 3
 1. This is a faithful saying: someone who seeks to be an overseer desires a good work.  
 2. The overseer therefore must be without reproach, the husband of one wife, temperate, sensible, modest, hospitable, good at teaching;  
 3. not a drinker, not violent, not greedy for money, but gentle, not quarrelsome, not covetous;  
@@ -7485,7 +7485,7 @@ preached among the nations,
 believed on in the world,  
 and received up in glory.   
 
-## Chapter 4
+## 1 Timothy Chapter 4
 1. But the Spirit says expressly that in later times some will fall away from the faith, paying attention to seducing spirits and doctrines of demons,  
 2. through the hypocrisy of men who speak lies, branded in their own conscience as with a hot iron,  
 3. forbidding marriage and commanding to abstain from foods which God created to be received with thanksgiving by those who believe and know the truth.  
@@ -7503,7 +7503,7 @@ and received up in glory.
 15. Be diligent in these things. Give yourself wholly to them, that your progress may be revealed to all.  
 16. Pay attention to yourself and to your teaching. Continue in these things, for in doing this you will save both yourself and those who hear you.   
 
-## Chapter 5
+## 1 Timothy Chapter 5
 1. Don’t rebuke an older man, but exhort him as a father; the younger men as brothers;  
 2. the elder women as mothers; the younger as sisters, in all purity.   
 3. Honor widows who are widows indeed.  
@@ -7530,7 +7530,7 @@ and received up in glory.
 24. Some men’s sins are evident, preceding them to judgment, and some also follow later.  
 25. In the same way also there are good works that are obvious, and those that are otherwise can’t be hidden.   
 
-## Chapter 6
+## 1 Timothy Chapter 6
 1. Let as many as are bondservants under the yoke count their own masters worthy of all honor, that the name of God and the doctrine not be blasphemed.  
 2. Those who have believing masters, let them not despise them because they are brothers, but rather let them serve them, because those who partake of the benefit are believing and beloved. Teach and exhort these things.   
 3. If anyone teaches a different doctrine and doesn’t consent to sound words, the words of our Lord Jesus Christ, and to the doctrine which is according to godliness,  
@@ -7556,7 +7556,7 @@ Grace be with you. Amen.
 
 # 2 Timothy
 
-## Chapter 1
+## 2 Timothy Chapter 1
 1. Paul, an apostle of Jesus Christ through the will of God, according to the promise of the life which is in Christ Jesus,  
 2. to Timothy, my beloved child: Grace, mercy, and peace, from God the Father and Christ Jesus our Lord.   
 3. I thank God, whom I serve as my forefathers did, with a pure conscience. How unceasing is my memory of you in my petitions, night and day 
@@ -7577,7 +7577,7 @@ Yet I am not ashamed, for I know him whom I have believed, and I am persuaded th
 17. but when he was in Rome, he sought me diligently and found me 
 18. (the Lord grant to him to find the Lord’s mercy in that day); and in how many things he served at Ephesus, you know very well.   
 
-## Chapter 2
+## 2 Timothy Chapter 2
 1. You therefore, my child, be strengthened in the grace that is in Christ Jesus.  
 2. The things which you have heard from me among many witnesses, commit the same things to faithful men who will be able to teach others also.  
 3. You therefore must endure hardship as a good soldier of Christ Jesus.  
@@ -7612,7 +7612,7 @@ for he can’t deny himself.”
 25. in gentleness correcting those who oppose him. Perhaps God may give them repentance leading to a full knowledge of the truth,  
 26. and they may recover themselves out of the devil’s snare, having been taken captive by him to do his will.   
 
-## Chapter 3
+## 2 Timothy Chapter 3
 1. But know this: that in the last days, grievous times will come.  
 2. For men will be lovers of self, lovers of money, boastful, arrogant, blasphemers, disobedient to parents, unthankful, unholy,  
 3. without natural affection, unforgiving, slanderers, without self-control, fierce, not lovers of good,  
@@ -7631,7 +7631,7 @@ for he can’t deny himself.”
 16. Every Scripture is God-breathed and profitable for teaching, for reproof, for correction, and for instruction in righteousness,  
 17. that each person who belongs to God may be complete, thoroughly equipped for every good work.   
 
-## Chapter 4
+## 2 Timothy Chapter 4
 1. I command you therefore before God and the Lord Jesus Christ, who will judge the living and the dead at his appearing and his Kingdom:  
 2. preach the word; be urgent in season and out of season; reprove, rebuke, and exhort with all patience and teaching.  
 3. For the time will come when they will not listen to the sound doctrine, but having itching ears, will heap up for themselves teachers after their own lusts,  
@@ -7657,7 +7657,7 @@ for he can’t deny himself.”
 
 # Titus
 
-## Chapter 1
+## Titus Chapter 1
 1. Paul, a servant of God and an apostle of Jesus Christ, according to the faith of God’s chosen ones and the knowledge of the truth which is according to godliness,  
 2. in hope of eternal life, which God, who can’t lie, promised before time began;  
 3. but in his own time revealed his word in the message with which I was entrusted according to the commandment of God our Savior,  
@@ -7675,7 +7675,7 @@ for he can’t deny himself.”
 15. To the pure, all things are pure, but to those who are defiled and unbelieving, nothing is pure; but both their mind and their conscience are defiled.  
 16. They profess that they know God, but by their deeds they deny him, being abominable, disobedient, and unfit for any good work.   
 
-## Chapter 2
+## Titus Chapter 2
 1. But say the things which fit sound doctrine,  
 2. that older men should be temperate, sensible, sober minded, sound in faith, in love, and in perseverance,  
 3. and that older women likewise be reverent in behavior, not slanderers nor enslaved to much wine, teachers of that which is good,  
@@ -7692,7 +7692,7 @@ for he can’t deny himself.”
 14. who gave himself for us, that he might redeem us from all iniquity and purify for himself a people for his own possession, zealous for good works.   
 15. Say these things and exhort and reprove with all authority. Let no one despise you.   
 
-## Chapter 3
+## Titus Chapter 3
 1. Remind them to be in subjection to rulers and to authorities, to be obedient, to be ready for every good work,  
 2. to speak evil of no one, not to be contentious, to be gentle, showing all humility toward all men.  
 3. For we were also once foolish, disobedient, deceived, serving various lusts and pleasures, living in malice and envy, hateful, and hating one another.  
@@ -7712,7 +7712,7 @@ Grace be with you all. Amen.
 
 # Philemon
 
-## Chapter 1
+## Philemon Chapter 1
 1. Paul, a prisoner of Christ Jesus, and Timothy our brother, to Philemon, our beloved fellow worker,  
 2. to the beloved Apphia, to Archippus our fellow soldier, and to the assembly in your house:  
 3. Grace to you and peace from God our Father and the Lord Jesus Christ.   
@@ -7741,7 +7741,7 @@ Grace be with you all. Amen.
 
 # Hebrews
 
-## Chapter 1
+## Hebrews Chapter 1
 1. God, having in the past spoken to the fathers through the prophets at many times and in various ways,  
 2. has at the end of these days spoken to us by his Son, whom he appointed heir of all things, through whom also he made the worlds.  
 3. His Son is the radiance of his glory, the very image of his substance, and upholding all things by the word of his power, who, when he had by himself purified us of our sins, sat down on the right hand of the Majesty on high,  
@@ -7775,7 +7775,7 @@ Sit at my right hand,
 until I make your enemies the footstool of your feet?”  
 14. Aren’t they all serving spirits, sent out to do service for the sake of those who will inherit salvation?   
 
-## Chapter 2
+## Hebrews Chapter 2
 1. Therefore we ought to pay greater attention to the things that were heard, lest perhaps we drift away.  
 2. For if the word spoken through angels proved steadfast, and every transgression and disobedience received a just penalty,  
 3. how will we escape if we neglect so great a salvation—which at the first having been spoken through the Lord, was confirmed to us by those who heard,  
@@ -7801,7 +7801,7 @@ Among the congregation I will sing your praise.”
 17. Therefore he was obligated in all things to be made like his brothers, that he might become a merciful and faithful high priest in things pertaining to God, to make atonement for the sins of the people.  
 18. For in that he himself has suffered being tempted, he is able to help those who are tempted.   
 
-## Chapter 3
+## Hebrews Chapter 3
 1. Therefore, holy brothers, partakers of a heavenly calling, consider the Apostle and High Priest of our confession: Jesus,  
 2. who was faithful to him who appointed him, as also Moses was in all his house.  
 3. For he has been counted worthy of more glory than Moses, because he who built the house has more honor than the house.  
@@ -7830,7 +7830,7 @@ t harden your hearts, as in the rebellion.”
 18. To whom did he swear that they wouldn’t enter into his rest, but to those who were disobedient?  
 19. We see that they weren’t able to enter in because of unbelief.   
 
-## Chapter 4
+## Hebrews Chapter 4
 1. Let’s fear therefore, lest perhaps anyone of you should seem to have come short of a promise of entering into his rest.  
 2. For indeed we have had good news preached to us, even as they also did, but the word they heard didn’t profit them, because it wasn’t mixed with faith by those who heard.  
 3. For we who have believed do enter into that rest, even as he has said, “As I swore in my wrath, they will not enter into my rest;” although the works were finished from the foundation of the world.  
@@ -7850,7 +7850,7 @@ t harden your hearts.”
 15. For we don’t have a high priest who can’t be touched with the feeling of our infirmities, but one who has been in all points tempted like we are, yet without sin.  
 16. Let’s therefore draw near with boldness to the throne of grace, that we may receive mercy and may find grace for help in time of need.   
 
-## Chapter 5
+## Hebrews Chapter 5
 1. For every high priest, being taken from among men, is appointed for men in things pertaining to God, that he may offer both gifts and sacrifices for sins.  
 2. The high priest can deal gently with those who are ignorant and going astray, because he himself is also surrounded with weakness.  
 3. Because of this, he must offer sacrifices for sins for the people, as well as for himself.  
@@ -7870,7 +7870,7 @@ after the order of Melchizedek.”
 13. For everyone who lives on milk is not experienced in the word of righteousness, for he is a baby.  
 14. But solid food is for those who are full grown, who by reason of use have their senses exercised to discern good and evil.   
 
-## Chapter 6
+## Hebrews Chapter 6
 1. Therefore leaving the teaching of the first principles of Christ, let’s press on to perfection—not laying again a foundation of repentance from dead works, of faith toward God,  
 2. of the teaching of baptisms, of laying on of hands, of resurrection of the dead, and of eternal judgment.  
 3. This will we do, if God permits.  
@@ -7892,7 +7892,7 @@ after the order of Melchizedek.”
 19. This hope we have as an anchor of the soul, a hope both sure and steadfast and entering into that which is within the veil,  
 20. where as a forerunner Jesus entered for us, having become a high priest forever after the order of Melchizedek.   
 
-## Chapter 7
+## Hebrews Chapter 7
 1. For this Melchizedek, king of Salem, priest of God Most High, who met Abraham returning from the slaughter of the kings and blessed him,  
 2. to whom also Abraham divided a tenth part of all (being first, by interpretation, “king of righteousness”, and then also “king of Salem”, which means “king of peace”,  
 3. without father, without mother, without genealogy, having neither beginning of days nor end of life, but made like the Son of God), remains a priest continually.   
@@ -7927,7 +7927,7 @@ according to the order of Melchizedek.’”
 27. who doesn’t need, like those high priests, to offer up sacrifices daily, first for his own sins, and then for the sins of the people. For he did this once for all, when he offered up himself.  
 28. For the law appoints men as high priests who have weakness, but the word of the oath, which came after the law, appoints a Son forever who has been perfected.   
 
-## Chapter 8
+## Hebrews Chapter 8
 1. Now in the things which we are saying, the main point is this: we have such a high priest, who sat down on the right hand of the throne of the Majesty in the heavens,  
 2. a servant of the sanctuary and of the true tabernacle which the Lord pitched, not man.  
 3. For every high priest is appointed to offer both gifts and sacrifices. Therefore it is necessary that this high priest also have something to offer.  
@@ -7956,7 +7956,7 @@ from their least to their greatest.
 I will remember their sins and lawless deeds no more.”  
 13. In that he says, “A new covenant”, he has made the first obsolete. But that which is becoming obsolete and grows aged is near to vanishing away.   
 
-## Chapter 9
+## Hebrews Chapter 9
 1. Now indeed even the first covenant had ordinances of divine service and an earthly sanctuary.  
 2. For a tabernacle was prepared. In the first part were the lamp stand, the table, and the show bread, which is called the Holy Place.  
 3. After the second veil was the tabernacle which is called the Holy of Holies,  
@@ -7986,7 +7986,7 @@ I will remember their sins and lawless deeds no more.”
 27. Inasmuch as it is appointed for men to die once, and after this, judgment,  
 28. so Christ also, having been offered once to bear the sins of many, will appear a second time, not to deal with sin, but to save those who are eagerly waiting for him.   
 
-## Chapter 10
+## Hebrews Chapter 10
 1. For the law, having a shadow of the good to come, not the very image of the things, can never with the same sacrifices year by year, which they offer continually, make perfect those who draw near.  
 2. Or else wouldn’t they have ceased to be offered, because the worshipers, having been once cleansed, would have had no more consciousness of sins?  
 3. But in those sacrifices there is a yearly reminder of sins.  
@@ -8036,7 +8036,7 @@ he who comes will come and will not wait.
 If he shrinks back, my soul has no pleasure in him.”  
 39. But we are not of those who shrink back to destruction, but of those who have faith to the saving of the soul.   
 
-## Chapter 11
+## Hebrews Chapter 11
 1. Now faith is assurance of things hoped for, proof of things not seen.  
 2. For by this, the elders obtained approval.  
 3. By faith we understand that the universe has been framed by the word of God, so that what is seen has not been made out of things which are visible.   
@@ -8078,7 +8078,7 @@ If he shrinks back, my soul has no pleasure in him.”
 39. These all, having been commended for their faith, didn’t receive the promise,  
 40. God having provided some better thing concerning us, so that apart from us they should not be made perfect.   
 
-## Chapter 12
+## Hebrews Chapter 12
 1. Therefore let’s also, seeing we are surrounded by so great a cloud of witnesses, lay aside every weight and the sin which so easily entangles us, and let’s run with perseverance the race that is set before us,  
 2. looking to Jesus, the author and perfecter of faith, who for the joy that was set before him endured the cross, despising its shame, and has sat down at the right hand of the throne of God.   
 3. For consider him who has endured such contradiction of sinners against himself, that you don’t grow weary, fainting in your souls.  
@@ -8112,7 +8112,7 @@ and chastises every son whom he receives.”
 28. Therefore, receiving a Kingdom that can’t be shaken, let’s have grace, through which we serve God acceptably, with reverence and awe,  
 29. for our God is a consuming fire.  
 
-## Chapter 13
+## Hebrews Chapter 13
 1. Let brotherly love continue.  
 2. Don’t forget to show hospitality to strangers, for in doing so, some have entertained angels without knowing it.  
 3. Remember those who are in bonds, as bound with them, and those who are ill-treated, since you are also in the body.  
@@ -8143,7 +8143,7 @@ What can man do to me?”
 
 # James
 
-## Chapter 1
+## James Chapter 1
 1. James, a servant of God and of the Lord Jesus Christ, to the twelve tribes which are in the Dispersion: Greetings.   
 2. Count it all joy, my brothers, when you fall into various temptations,  
 3. knowing that the testing of your faith produces endurance.  
@@ -8172,7 +8172,7 @@ What can man do to me?”
 26. If anyone among you thinks himself to be religious while he doesn’t bridle his tongue, but deceives his heart, this man’s religion is worthless.  
 27. Pure religion and undefiled before our God and Father is this: to visit the fatherless and widows in their affliction, and to keep oneself unstained by the world.   
 
-## Chapter 2
+## James Chapter 2
 1. My brothers, don’t hold the faith of our glorious Lord Jesus Christ with partiality.  
 2. For if a man with a gold ring, in fine clothing, comes into your synagogue, and a poor man in filthy clothing also comes in,  
 3. and you pay special attention to him who wears the fine clothing and say, “Sit here in a good place;” and you tell the poor man, “Stand there,” or “Sit by my footstool”  
@@ -8200,7 +8200,7 @@ What can man do to me?”
 25. In the same way, wasn’t Rahab the prostitute also justified by works when she received the messengers and sent them out another way?  
 26. For as the body apart from the spirit is dead, even so faith apart from works is dead.   
 
-## Chapter 3
+## James Chapter 3
 1. Let not many of you be teachers, my brothers, knowing that we will receive heavier judgment.  
 2. For we all stumble in many things. Anyone who doesn’t stumble in word is a perfect person, able to bridle the whole body also.  
 3. Indeed, we put bits into the horses’ mouths so that they may obey us, and we guide their whole body.  
@@ -8220,7 +8220,7 @@ What can man do to me?”
 17. But the wisdom that is from above is first pure, then peaceful, gentle, reasonable, full of mercy and good fruits, without partiality, and without hypocrisy.  
 18. Now the fruit of righteousness is sown in peace by those who make peace.   
 
-## Chapter 4
+## James Chapter 4
 1. Where do wars and fightings among you come from? Don’t they come from your pleasures that war in your members?  
 2. You lust, and don’t have. You murder and covet, and can’t obtain. You fight and make war. You don’t have, because you don’t ask.  
 3. You ask, and don’t receive, because you ask with wrong motives, so that you may spend it on your pleasures.  
@@ -8239,7 +8239,7 @@ What can man do to me?”
 16. But now you glory in your boasting. All such boasting is evil.  
 17. To him therefore who knows to do good and doesn’t do it, to him it is sin.   
 
-## Chapter 5
+## James Chapter 5
 1. Come now, you rich, weep and howl for your miseries that are coming on you.  
 2. Your riches are corrupted and your garments are moth-eaten.  
 3. Your gold and your silver are corroded, and their corrosion will be for a testimony against you and will eat your flesh like fire. You have laid up your treasure in the last days.  
@@ -8263,7 +8263,7 @@ What can man do to me?”
 
 # 1 Peter
 
-## Chapter 1
+## 1 Peter Chapter 1
 1. Peter, an apostle of Jesus Christ, to the chosen ones who are living as foreigners in the Dispersion in Pontus, Galatia, Cappadocia, Asia, and Bithynia,  
 2. according to the foreknowledge of God the Father, in sanctification of the Spirit, that you may obey Jesus Christ and be sprinkled with his blood: Grace to you and peace be multiplied.   
 3. Blessed be the God and Father of our Lord Jesus Christ, who according to his great mercy caused us to be born again to a living hope through the resurrection of Jesus Christ from the dead,  
@@ -8294,7 +8294,7 @@ The grass withers, and its flower falls;
 25. but the Lord’s word endures forever.” 
 This is the word of Good News which was preached to you.   
 
-## Chapter 2
+## 1 Peter Chapter 2
 1. Putting away therefore all wickedness, all deceit, hypocrisies, envies, and all evil speaking,  
 2. as newborn babies, long for the pure spiritual milk, that with it you may grow,  
 3. if indeed you have tasted that the Lord is gracious.  
@@ -8327,7 +8327,7 @@ For they stumble at the word, being disobedient, to which also they were appoint
 24. He himself bore our sins in his body on the tree, that we, having died to sins, might live to righteousness. You were healed by his wounds. 
 25. For you were going astray like sheep; but now you have returned to the Shepherd and Overseer of your souls.   
 
-## Chapter 3
+## 1 Peter Chapter 3
 1. In the same way, wives, be in subjection to your own husbands, so that, even if any don’t obey the Word, they may be won by the behavior of their wives without a word,  
 2. seeing your pure behavior in fear.  
 3. Let your beauty come not from the outward adorning of braiding your hair, and of wearing gold ornaments or of putting on fine clothing,  
@@ -8358,7 +8358,7 @@ but the face of the Lord is against those who do evil.”
 21. This is a symbol of baptism, which now saves you—not the putting away of the filth of the flesh, but the answer of a good conscience toward God—through the resurrection of Jesus Christ,  
 22. who is at the right hand of God, having gone into heaven, angels and authorities and powers being made subject to him.   
 
-## Chapter 4
+## 1 Peter Chapter 4
 1. Therefore, since Christ suffered for us in the flesh, arm yourselves also with the same mind; for he who has suffered in the flesh has ceased from sin,  
 2. that you no longer should live the rest of your time in the flesh for the lusts of men, but for the will of God.  
 3. For we have spent enough of our past time doing the desire of the Gentiles, and having walked in lewdness, lusts, drunken binges, orgies, carousings, and abominable idolatries.  
@@ -8379,7 +8379,7 @@ but the face of the Lord is against those who do evil.”
 18. “If it is hard for the righteous to be saved, what will happen to the ungodly and the sinner?” 
 19. Therefore let them also who suffer according to the will of God in doing good entrust their souls to him, as to a faithful Creator.   
 
-## Chapter 5
+## 1 Peter Chapter 5
 1. Therefore I exhort the elders among you, as a fellow elder and a witness of the sufferings of Christ, and who will also share in the glory that will be revealed:  
 2. shepherd the flock of God which is among you, exercising the oversight, not under compulsion, but voluntarily; not for dishonest gain, but willingly;  
 3. not as lording it over those entrusted to you, but making yourselves examples to the flock.  
@@ -8398,7 +8398,7 @@ Peace be to all of you who are in Christ Jesus. Amen.
 
 # 2 Peter
 
-## Chapter 1
+## 2 Peter Chapter 1
 1. Simon Peter, a servant and apostle of Jesus Christ, to those who have obtained a like precious faith with us in the righteousness of our God and Savior, Jesus Christ:  
 2. Grace to you and peace be multiplied in the knowledge of God and of Jesus our Lord,  
 3. seeing that his divine power has granted to us all things that pertain to life and godliness, through the knowledge of him who called us by his own glory and virtue,  
@@ -8421,7 +8421,7 @@ Peace be to all of you who are in Christ Jesus. Amen.
 20. knowing this first, that no prophecy of Scripture is of private interpretation.  
 21. For no prophecy ever came by the will of man, but holy men of God spoke, being moved by the Holy Spirit.   
 
-## Chapter 2
+## 2 Peter Chapter 2
 1. But false prophets also arose among the people, as false teachers will also be among you, who will secretly bring in destructive heresies, denying even the Master who bought them, bringing on themselves swift destruction.  
 2. Many will follow their immoral ways, and as a result, the way of the truth will be maligned.  
 3. In covetousness they will exploit you with deceptive words: whose sentence now from of old doesn’t linger, and their destruction will not slumber.   
@@ -8445,7 +8445,7 @@ Peace be to all of you who are in Christ Jesus. Amen.
 21. For it would be better for them not to have known the way of righteousness, than after knowing it, to turn back from the holy commandment delivered to them.  
 22. But it has happened to them according to the true proverb, “The dog turns to his own vomit again,” and “the sow that has washed to wallowing in the mire.”   
 
-## Chapter 3
+## 2 Peter Chapter 3
 1. This is now, beloved, the second letter that I have written to you; and in both of them I stir up your sincere mind by reminding you 
 2. that you should remember the words which were spoken before by the holy prophets and the commandment of us, the apostles of the Lord and Savior,  
 3. knowing this first, that in the last days mockers will come, walking after their own lusts 
@@ -8467,7 +8467,7 @@ Peace be to all of you who are in Christ Jesus. Amen.
 
 # 1 John
 
-## Chapter 1
+## 1 John Chapter 1
 1. That which was from the beginning, that which we have heard, that which we have seen with our eyes, that which we saw, and our hands touched, concerning the Word of life 
 2. (and the life was revealed, and we have seen, and testify, and declare to you the life, the eternal life, which was with the Father, and was revealed to us);  
 3. that which we have seen and heard we declare to you, that you also may have fellowship with us. Yes, and our fellowship is with the Father and with his Son, Jesus Christ. 
@@ -8479,7 +8479,7 @@ Peace be to all of you who are in Christ Jesus. Amen.
 9. If we confess our sins, he is faithful and righteous to forgive us the sins and to cleanse us from all unrighteousness.  
 10. If we say that we haven’t sinned, we make him a liar, and his word is not in us.   
 
-## Chapter 2
+## 1 John Chapter 2
 1. My little children, I write these things to you so that you may not sin. If anyone sins, we have a Counselor with the Father, Jesus Christ, the righteous.  
 2. And he is the atoning sacrifice for our sins, and not for ours only, but also for the whole world.  
 3. This is how we know that we know him: if we keep his commandments.  
@@ -8513,7 +8513,7 @@ I have written to you, young men, because you are strong, and the word of God re
 28. Now, little children, remain in him, that when he appears, we may have boldness and not be ashamed before him at his coming.  
 29. If you know that he is righteous, you know that everyone who practices righteousness has been born of him.   
 
-## Chapter 3
+## 1 John Chapter 3
 1. See how great a love the Father has given to us, that we should be called children of God! For this cause the world doesn’t know us, because it didn’t know him.  
 2. Beloved, now we are children of God. It is not yet revealed what we will be; but we know that when he is revealed, we will be like him, for we will see him just as he is.  
 3. Everyone who has this hope set on him purifies himself, even as he is pure.   
@@ -8539,7 +8539,7 @@ I have written to you, young men, because you are strong, and the word of God re
 23. This is his commandment, that we should believe in the name of his Son, Jesus Christ, and love one another, even as he commanded.  
 24. He who keeps his commandments remains in him, and he in him. By this we know that he remains in us, by the Spirit which he gave us.   
 
-## Chapter 4
+## 1 John Chapter 4
 1. Beloved, don’t believe every spirit, but test the spirits, whether they are of God, because many false prophets have gone out into the world.  
 2. By this you know the Spirit of God: every spirit who confesses that Jesus Christ has come in the flesh is of God,  
 3. and every spirit who doesn’t confess that Jesus Christ has come in the flesh is not of God; and this is the spirit of the Antichrist, of whom you have heard that it comes. Now it is in the world already.  
@@ -8562,7 +8562,7 @@ I have written to you, young men, because you are strong, and the word of God re
 20. If a man says, “I love God,” and hates his brother, he is a liar; for he who doesn’t love his brother whom he has seen, how can he love God whom he has not seen?  
 21. This commandment we have from him, that he who loves God should also love his brother.   
 
-## Chapter 5
+## 1 John Chapter 5
 1. Whoever believes that Jesus is the Christ has been born of God. Whoever loves the Father also loves the child who is born of him.  
 2. By this we know that we love the children of God, when we love God and keep his commandments.  
 3. For this is loving God, that we keep his commandments. His commandments are not grievous.  
@@ -8587,7 +8587,7 @@ I have written to you, young men, because you are strong, and the word of God re
 
 # 2 John
 
-## Chapter 1
+## 2 John Chapter 1
 1. The elder, to the chosen lady and her children, whom I love in truth, and not I only, but also all those who know the truth,  
 2. for the truth’s sake, which remains in us, and it will be with us forever:  
 3. Grace, mercy, and peace will be with us, from God the Father and from the Lord Jesus Christ, the Son of the Father, in truth and love.   
@@ -8604,7 +8604,7 @@ I have written to you, young men, because you are strong, and the word of God re
 
 # 3 John
 
-## Chapter 1
+## 3 John Chapter 1
 1. The elder to Gaius the beloved, whom I love in truth.   
 2. Beloved, I pray that you may prosper in all things and be healthy, even as your soul prospers.  
 3. For I rejoiced greatly when brothers came and testified about your truth, even as you walk in truth.  
@@ -8623,7 +8623,7 @@ be to you. The friends greet you. Greet the friends by name.
 
 # Jude
 
-## Chapter 1
+## Jude Chapter 1
 1. Jude, a servant of Jesus Christ, and brother of James, to those who are called, sanctified by God the Father, and kept for Jesus Christ:  
 2. May mercy, peace, and love be multiplied to you.   
 3. Beloved, while I was very eager to write to you about our common salvation, I was constrained to write to you exhorting you to contend earnestly for the faith which was once for all delivered to the saints.  
@@ -8652,7 +8652,7 @@ be to you. The friends greet you. Greet the friends by name.
 
 # Revelation
 
-## Chapter 1
+## Revelation Chapter 1
 1. This is the Revelation of Jesus Christ, which God gave him to show to his servants the things which must happen soon, which he sent and made known by his angel to his servant, John,  
 2. who testified to God’s word and of the testimony of Jesus Christ, about everything that he saw.   
 3. Blessed is he who reads and those who hear the words of the prophecy, and keep the things that are written in it, for the time is near.   
@@ -8675,7 +8675,7 @@ He laid his right hand on me, saying, “Don’t be afraid. I am the first and t
 19.  Write therefore the things which you have seen, and the things which are, and the things which will happen hereafter.   
 20.  The mystery of the seven stars which you saw in my right hand, and the seven golden lamp stands is this: The seven stars are the angels  of the seven assemblies. The seven lamp stands are seven assemblies.   
 
-## Chapter 2
+## Revelation Chapter 2
 1. “To the angel of the assembly in Ephesus write:  
 “He who holds the seven stars in his right hand, he who walks among the seven golden lamp stands says these things:   
 2. “I know your works, and your toil and perseverance, and that you can’t tolerate evil men, and have tested those who call themselves apostles, and they are not, and found them false.   
@@ -8710,7 +8710,7 @@ He laid his right hand on me, saying, “Don’t be afraid. I am the first and t
 28.  and I will give him the morning star.   
 29.  He who has an ear, let him hear what the Spirit says to the assemblies.   
 
-## Chapter 3
+## Revelation Chapter 3
 1. “And to the angel of the assembly in Sardis write:  
 “He who has the seven Spirits of God and the seven stars says these things:  
 “I know your works, that you have a reputation of being alive, but you are dead.   
@@ -8738,7 +8738,7 @@ He laid his right hand on me, saying, “Don’t be afraid. I am the first and t
 21.  He who overcomes, I will give to him to sit down with me on my throne, as I also overcame and sat down with my Father on his throne.   
 22.  He who has an ear, let him hear what the Spirit says to the assemblies.”   
 
-## Chapter 4
+## Revelation Chapter 4
 1. After these things I looked and saw a door opened in heaven; and the first voice that I heard, like a trumpet speaking with me, was one saying, “Come up here, and I will show you the things which must happen after this.”   
 2. Immediately I was in the Spirit. Behold, there was a throne set in heaven, and one sitting on the throne 
 3. that looked like a jasper stone and a sardius. There was a rainbow around the throne, like an emerald to look at.  
@@ -8751,7 +8751,7 @@ He laid his right hand on me, saying, “Don’t be afraid. I am the first and t
 10. the twenty-four elders fall down before him who sits on the throne and worship him who lives forever and ever, and throw their crowns before the throne, saying,  
 11. “Worthy are you, our Lord and God, the Holy One, to receive the glory, the honor, and the power, for you created all things, and because of your desire they existed and were created!”   
 
-## Chapter 5
+## Revelation Chapter 5
 1. I saw, in the right hand of him who sat on the throne, a book written inside and outside, sealed shut with seven seals.  
 2. I saw a mighty angel proclaiming with a loud voice, “Who is worthy to open the book, and to break its seals?”  
 3. No one in heaven above, or on the earth, or under the earth, was able to open the book or to look in it.  
@@ -8773,7 +8773,7 @@ and we will reign on the earth.”
 13. I heard every created thing which is in heaven, on the earth, under the earth, on the sea, and everything in them, saying, “To him who sits on the throne and to the Lamb be the blessing, the honor, the glory, and the dominion, forever and ever! Amen!”  
 14. The four living creatures said, “Amen!” Then the elders fell down and worshiped.  
 
-## Chapter 6
+## Revelation Chapter 6
 1. I saw that the Lamb opened one of the seven seals, and I heard one of the four living creatures saying, as with a voice of thunder, “Come and see!”  
 2. Then a white horse appeared, and he who sat on it had a bow. A crown was given to him, and he came out conquering, and to conquer.   
 3. When he opened the second seal, I heard the second living creature saying, “Come!”  
@@ -8792,7 +8792,7 @@ and we will reign on the earth.”
 16. They told the mountains and the rocks, “Fall on us, and hide us from the face of him who sits on the throne, and from the wrath of the Lamb,  
 17. for the great day of his wrath has come, and who is able to stand?”   
 
-## Chapter 7
+## Revelation Chapter 7
 1. After this, I saw four angels standing at the four corners of the earth, holding the four winds of the earth, so that no wind would blow on the earth, or on the sea, or on any tree.  
 2. I saw another angel ascend from the sunrise, having the seal of the living God. He cried with a loud voice to the four angels to whom it was given to harm the earth and the sea,  
 3. saying, “Don’t harm the earth, the sea, or the trees, until we have sealed the bondservants of our God on their foreheads!”  
@@ -8820,7 +8820,7 @@ He said to me, “These are those who came out of the great suffering. They wash
 16. They will never be hungry or thirsty any more. The sun won’t beat on them, nor any heat;  
 17. for the Lamb who is in the middle of the throne shepherds them and leads them to springs of life-giving waters. And God will wipe away every tear from their eyes.”   
 
-## Chapter 8
+## Revelation Chapter 8
 1. When he opened the seventh seal, there was silence in heaven for about half an hour.  
 2. I saw the seven angels who stand before God, and seven trumpets were given to them.   
 3. Another angel came and stood over the altar, having a golden censer. Much incense was given to him, that he should add it to the prayers of all the saints on the golden altar which was before the throne.  
@@ -8835,7 +8835,7 @@ He said to me, “These are those who came out of the great suffering. They wash
 12. The fourth angel sounded, and one third of the sun was struck, and one third of the moon, and one third of the stars, so that one third of them would be darkened; and the day wouldn’t shine for one third of it, and the night in the same way.  
 13. I saw, and I heard an eagle, flying in mid heaven, saying with a loud voice, “Woe! Woe! Woe to those who dwell on the earth, because of the other blasts of the trumpets of the three angels, who are yet to sound!”   
 
-## Chapter 9
+## Revelation Chapter 9
 1. The fifth angel sounded, and I saw a star from the sky which had fallen to the earth. The key to the pit of the abyss was given to him.  
 2. He opened the pit of the abyss, and smoke went up out of the pit, like the smoke from a burning furnace. The sun and the air were darkened because of the smoke from the pit.  
 3. Then out of the smoke came locusts on the earth, and power was given to them, as the scorpions of the earth have power.  
@@ -8858,7 +8858,7 @@ He said to me, “These are those who came out of the great suffering. They wash
 20. The rest of mankind, who were not killed with these plagues, didn’t repent of the works of their hands, that they wouldn’t worship demons, and the idols of gold, and of silver, and of brass, and of stone, and of wood, which can’t see, hear, or walk.  
 21. They didn’t repent of their murders, their sorceries, their sexual immorality, or their thefts.   
 
-## Chapter 10
+## Revelation Chapter 10
 1. I saw a mighty angel coming down out of the sky, clothed with a cloud. A rainbow was on his head. His face was like the sun, and his feet like pillars of fire.  
 2. He had in his hand a little open book. He set his right foot on the sea, and his left on the land.  
 3. He cried with a loud voice, as a lion roars. When he cried, the seven thunders uttered their voices.  
@@ -8872,7 +8872,7 @@ He said to me, “Take it and eat it. It will make your stomach bitter, but in y
 10. I took the little book out of the angel’s hand, and ate it. It was as sweet as honey in my mouth. When I had eaten it, my stomach was made bitter.  
 11. They told me, “You must prophesy again over many peoples, nations, languages, and kings.”   
 
-## Chapter 11
+## Revelation Chapter 11
 1. A reed like a rod was given to me. Someone said, “Rise and measure God’s temple, and the altar, and those who worship in it.  
 2. Leave out the court which is outside of the temple, and don’t measure it, for it has been given to the nations. They will tread the holy city under foot for forty-two months.  
 3. I will give power to my two witnesses, and they will prophesy one thousand two hundred sixty days, clothed in sackcloth.”   
@@ -8893,7 +8893,7 @@ He said to me, “Take it and eat it. It will make your stomach bitter, but in y
 18. The nations were angry, and your wrath came, as did the time for the dead to be judged, and to give your bondservants the prophets, their reward, as well as to the saints and those who fear your name, to the small and the great, and to destroy those who destroy the earth.”   
 19. God’s temple that is in heaven was opened, and the ark of the Lord’s covenant was seen in his temple. Lightnings, sounds, thunders, an earthquake, and great hail followed.   
 
-## Chapter 12
+## Revelation Chapter 12
 1. A great sign was seen in heaven: a woman clothed with the sun, and the moon under her feet, and on her head a crown of twelve stars.  
 2. She was with child. She cried out in pain, laboring to give birth.   
 3. Another sign was seen in heaven. Behold, a great red dragon, having seven heads and ten horns, and on his heads seven crowns.  
@@ -8912,7 +8912,7 @@ He said to me, “Take it and eat it. It will make your stomach bitter, but in y
 16. The earth helped the woman, and the earth opened its mouth and swallowed up the river which the dragon spewed out of his mouth.  
 17. The dragon grew angry with the woman, and went away to make war with the rest of her offspring, who keep God’s commandments and hold Jesus’ testimony.   
 
-## Chapter 13
+## Revelation Chapter 13
 1. Then I stood on the sand of the sea. I saw a beast coming up out of the sea, having ten horns and seven heads. On his horns were ten crowns, and on his heads, blasphemous names.  
 2. The beast which I saw was like a leopard, and his feet were like those of a bear, and his mouth like the mouth of a lion. The dragon gave him his power, his throne, and great authority.  
 3. One of his heads looked like it had been wounded fatally. His fatal wound was healed, and the whole earth marveled at the beast.  
@@ -8932,7 +8932,7 @@ He said to me, “Take it and eat it. It will make your stomach bitter, but in y
 17. and that no one would be able to buy or to sell unless he has that mark, which is the name of the beast or the number of his name.  
 18. Here is wisdom. He who has understanding, let him calculate the number of the beast, for it is the number of a man. His number is six hundred sixty-six.   
 
-## Chapter 14
+## Revelation Chapter 14
 1. I saw, and behold, the Lamb standing on Mount Zion, and with him a number, one hundred forty-four thousand, having his name and the name of his Father written on their foreheads.  
 2. I heard a sound from heaven like the sound of many waters and like the sound of a great thunder. The sound which I heard was like that of harpists playing on their harps.  
 3. They sing a new song before the throne and before the four living creatures and the elders. No one could learn the song except the one hundred forty-four thousand, those who had been redeemed out of the earth.  
@@ -8955,7 +8955,7 @@ Yes,” says the Spirit, “that they may rest from their labors, for their work
 19. The angel thrust his sickle into the earth, and gathered the vintage of the earth and threw it into the great wine press of the wrath of God.  
 20. The wine press was trodden outside of the city, and blood came out of the wine press, up to the bridles of the horses, as far as one thousand six hundred stadia.  
 
-## Chapter 15
+## Revelation Chapter 15
 1. I saw another great and marvelous sign in the sky: seven angels having the seven last plagues, for in them God’s wrath is finished.   
 2. I saw something like a sea of glass mixed with fire, and those who overcame the beast, his image, and the number of his name, standing on the sea of glass, having harps of God.  
 3. They sang the song of Moses, the servant of God, and the song of the Lamb, saying,  
@@ -8971,7 +8971,7 @@ For your righteous acts have been revealed.”
 7. One of the four living creatures gave to the seven angels seven golden bowls full of the wrath of God, who lives forever and ever.  
 8. The temple was filled with smoke from the glory of God and from his power. No one was able to enter into the temple until the seven plagues of the seven angels would be finished.   
 
-## Chapter 16
+## Revelation Chapter 16
 1. I heard a loud voice out of the temple, saying to the seven angels, “Go and pour out the seven bowls of the wrath of God on the earth!”   
 2. The first went, and poured out his bowl into the earth, and it became a harmful and painful sore on the people who had the mark of the beast, and who worshiped his image.   
 3. The second angel poured out his bowl into the sea, and it became blood as of a dead man. Every living thing in the sea died.   
@@ -8994,7 +8994,7 @@ For your righteous acts have been revealed.”
 20. Every island fled away, and the mountains were not found.  
 21. Great hailstones, about the weight of a talent, came down out of the sky on people. People blasphemed God because of the plague of the hail, for this plague was exceedingly severe.   
 
-## Chapter 17
+## Revelation Chapter 17
 1. One of the seven angels who had the seven bowls came and spoke with me, saying, “Come here. I will show you the judgment of the great prostitute who sits on many waters,  
 2. with whom the kings of the earth committed sexual immorality. Those who dwell in the earth were made drunken with the wine of her sexual immorality.”  
 3. He carried me away in the Spirit into a wilderness. I saw a woman sitting on a scarlet-colored beast, full of blasphemous names, having seven heads and ten horns.  
@@ -9014,7 +9014,7 @@ For your righteous acts have been revealed.”
 17. For God has put in their hearts to do what he has in mind, to be of one mind, and to give their kingdom to the beast, until the words of God should be accomplished.  
 18. The woman whom you saw is the great city which reigns over the kings of the earth.”   
 
-## Chapter 18
+## Revelation Chapter 18
 1. After these things, I saw another angel coming down out of the sky, having great authority. The earth was illuminated with his glory.  
 2. He cried with a mighty voice, saying, “Fallen, fallen is Babylon the great, and she has become a habitation of demons, a prison of every unclean spirit, and a prison of every unclean and hated bird!  
 3. For all the nations have drunk of the wine of the wrath of her sexual immorality, the kings of the earth committed sexual immorality with her, and the merchants of the earth grew rich from the abundance of her luxury.”   
@@ -9040,7 +9040,7 @@ For your righteous acts have been revealed.”
 23. The light of a lamp will shine no more at all in you. The voice of the bridegroom and of the bride will be heard no more at all in you, for your merchants were the princes of the earth; for with your sorcery all the nations were deceived.  
 24. In her was found the blood of prophets and of saints, and of all who have been slain on the earth.”   
 
-## Chapter 19
+## Revelation Chapter 19
 1. After these things I heard something like a loud voice of a great multitude in heaven, saying, “Hallelujah! Salvation, power, and glory belong to our God;  
 2. for his judgments are true and righteous. For he has judged the great prostitute who corrupted the earth with her sexual immorality, and he has avenged the blood of his servants at her hand.”   
 3. A second said, “Hallelujah! Her smoke goes up forever and ever.”  
@@ -9063,7 +9063,7 @@ For your righteous acts have been revealed.”
 20. The beast was taken, and with him the false prophet who worked the signs in his sight, with which he deceived those who had received the mark of the beast and those who worshiped his image. These two were thrown alive into the lake of fire that burns with sulfur.  
 21. The rest were killed with the sword of him who sat on the horse, the sword which came out of his mouth. So all the birds were filled with their flesh.   
 
-## Chapter 20
+## Revelation Chapter 20
 1. I saw an angel coming down out of heaven, having the key of the abyss and a great chain in his hand.  
 2. He seized the dragon, the old serpent, who is the devil and Satan, who deceives the whole inhabited earth, and bound him for a thousand years,  
 3. and cast him into the abyss, and shut it and sealed it over him, that he should deceive the nations no more until the thousand years were finished. After this, he must be freed for a short time.   
@@ -9080,7 +9080,7 @@ For your righteous acts have been revealed.”
 14. Death and Hades were thrown into the lake of fire. This is the second death, the lake of fire.  
 15. If anyone was not found written in the book of life, he was cast into the lake of fire.   
 
-## Chapter 21
+## Revelation Chapter 21
 1. I saw a new heaven and a new earth, for the first heaven and the first earth have passed away, and the sea is no more.  
 2. I saw the holy city, New Jerusalem, coming down out of heaven from God, prepared like a bride adorned for her husband.  
 3. I heard a loud voice out of heaven saying, “Behold, God’s dwelling is with people; and he will dwell with them, and they will be his people, and God himself will be with them as their God.  
@@ -9109,7 +9109,7 @@ For your righteous acts have been revealed.”
 26. and they shall bring the glory and the honor of the nations into it so that they may enter.  
 27. There will in no way enter into it anything profane, or one who causes an abomination or a lie, but only those who are written in the Lamb’s book of life.   
 
-## Chapter 22
+## Revelation Chapter 22
 1. He showed me a river of water of life, clear as crystal, proceeding out of the throne of God and of the Lamb,  
 2. in the middle of its street. On this side of the river and on that was the tree of life, bearing twelve kinds of fruits, yielding its fruit every month. The leaves of the tree were for the healing of the nations.  
 3. There will be no curse any more. The throne of God and of the Lamb will be in it, and his servants will serve him.  

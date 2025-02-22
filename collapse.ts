@@ -90,7 +90,7 @@ function collapse() {
         }
         book.chapters.forEach((chapter: any, index: number) => {
             let chapterNumber = index + 1;
-            text.content += `## Chapter ${chapterNumber}\n`;
+            text.content += `## ${bookName} Chapter ${chapterNumber}\n`;
             let verses = chapter.verses;
             verses.forEach((verse: any) => {
                 text.content += `${verse.verse}. ${verse.text}`;
