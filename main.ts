@@ -176,6 +176,99 @@ const canonicalOrder: { [key: string]: number } = {
   'Front Matter': 82,
   'Glossary': 83
 };
+
+const bookCategories: { [key: string]: string } = {
+  // Old Testament
+  'Genesis': 'OT',
+  'Exodus': 'OT',
+  'Leviticus': 'OT',
+  'Numbers': 'OT',
+  'Deuteronomy': 'OT',
+  'Joshua': 'OT',
+  'Judges': 'OT',
+  'Ruth': 'OT',
+  '1 Samuel': 'OT',
+  '2 Samuel': 'OT',
+  '1 Kings': 'OT',
+  '2 Kings': 'OT',
+  '1 Chronicles': 'OT',
+  '2 Chronicles': 'OT',
+  'Ezra': 'OT',
+  'Nehemiah': 'OT',
+  'Esther': 'OT',
+  'Job': 'OT',
+  'Psalms': 'OT',
+  'Proverbs': 'OT',
+  'Ecclesiastes': 'OT',
+  'Song of Songs': 'OT',
+  'Isaiah': 'OT',
+  'Jeremiah': 'OT',
+  'Lamentations': 'OT',
+  'Ezekiel': 'OT',
+  'Daniel': 'OT',
+  'Hosea': 'OT',
+  'Joel': 'OT',
+  'Amos': 'OT',
+  'Obadiah': 'OT',
+  'Jonah': 'OT',
+  'Micah': 'OT',
+  'Nahum': 'OT',
+  'Habakkuk': 'OT',
+  'Zephaniah': 'OT',
+  'Haggai': 'OT',
+  'Zechariah': 'OT',
+  'Malachi': 'OT',
+
+  // New Testament
+  'Matthew': 'NT',
+  'Mark': 'NT',
+  'Luke': 'NT',
+  'John': 'NT',
+  'Acts': 'NT',
+  'Romans': 'NT',
+  '1 Corinthians': 'NT',
+  '2 Corinthians': 'NT',
+  'Galatians': 'NT',
+  'Ephesians': 'NT',
+  'Philippians': 'NT',
+  'Colossians': 'NT',
+  '1 Thessalonians': 'NT',
+  '2 Thessalonians': 'NT',
+  '1 Timothy': 'NT',
+  '2 Timothy': 'NT',
+  'Titus': 'NT',
+  'Philemon': 'NT',
+  'Hebrews': 'NT',
+  'James': 'NT',
+  '1 Peter': 'NT',
+  '2 Peter': 'NT',
+  '1 John': 'NT',
+  '2 John': 'NT',
+  '3 John': 'NT',
+  'Jude': 'NT',
+  'Revelation': 'NT',
+
+  // Deuterocanonical
+  '1 Esdras': 'DC',
+  '2 Esdras': 'DC',
+  'Tobit': 'DC',
+  'Judith': 'DC',
+  'Esther (Greek)': 'DC',
+  'Wisdom': 'DC',
+  'Sirach': 'DC',
+  'Baruch': 'DC',
+  'Daniel (Greek)': 'DC',
+  'Prayer of Manasseh': 'DC',
+  '1 Maccabees': 'DC',
+  '2 Maccabees': 'DC',
+  '3 Maccabees': 'DC',
+  '4 Maccabees': 'DC',
+  'Psalm 151': 'DC',
+
+  // Other
+  'Glossary': 'Other',
+  'Front Matter': 'Other'
+};
 export function convert(usfmPath: string): any {
   const usfm = readFileSync(usfmPath, 'utf8');
   const json = usfmToJSON(usfm);
@@ -204,16 +297,17 @@ files.forEach(file => {
 
 // After processing all individual files, combine them into one JSON object
 const jsonFiles = readdirSync('./artifacts/json').filter(file => file.endsWith('.json'));
-const booksArray: Array<{ book: string; content: any }> = [];
+const booksArray: Array<{ book: string; category: string; content: any }> = [];
 
 jsonFiles.forEach(file => {
   const bookAbbr = file.replace('.json', '');
   const fullBookName = bookNames[bookAbbr] || bookAbbr;
   const fileContent = readFileSync('./artifacts/json/' + file, 'utf8');
   const jsonContent = JSON.parse(fileContent);
-  
+  console.log(fullBookName, bookCategories[fullBookName]);
   booksArray.push({
     book: fullBookName,
+    category: bookCategories[fullBookName],
     content: jsonContent
   });
 });

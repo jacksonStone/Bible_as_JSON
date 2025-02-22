@@ -21,7 +21,6 @@ function collapse() {
 
     const usfmPath = './artifacts/combined.json';
     const bibleJson = JSON.parse(fs.readFileSync(usfmPath, 'utf8'));
-    console.log(bibleJson[0].book);
     let betterFormat: any[] = [];
     bibleJson.forEach((book: any) => {
         let bookName = book.book;
@@ -32,32 +31,64 @@ function collapse() {
                 verses: chapterVersesToPlainText(bookName, chapter, index)
             }
         });
-        betterFormat.push({ book: bookName, chapters: bookChapters });
+        console.log(bookName, book.category);
+        betterFormat.push({ book: bookName, chapters: bookChapters, category: book.category });
     });
     let outputPath = './bible.json';
     fs.writeFileSync(outputPath, JSON.stringify(betterFormat, null, 2));
 
     // Also produce a version that is just the text of the bible
-    let textPath = './bible.md';
-    let text = '';
+    let ntText = {content: '', category: 'NT'};
+    let otText = {content: '', category: 'OT'};
+    let dcText = {content: '', category: 'DC'};
+    let otherText = {content: '', category: 'Other'};
     betterFormat.forEach((book: any, index: number) => {
         let bookName = book.book;
-        text += `# ${bookName}\n\n`;
+        let category = book.category;
+        let text = {content: '', category: category};
+        console.log(bookName, index, category);
+
+        if (category === 'OT') {
+            text = otText;
+        } else if (category === 'NT') {
+            text = ntText;
+        } else if (category === 'DC') {
+            text = dcText;
+        } else {
+            text = otherText;
+        }
+        text.content += `\n# ${bookName}\n\n`;
         if (!book.chapters) {
             console.log(bookName, index);
             return;
         }
         book.chapters.forEach((chapter: any, index: number) => {
             let chapterNumber = index + 1;
-            text += `## Chapter ${chapterNumber}\n`;
+            text.content += `## Chapter ${chapterNumber}\n`;
             let verses = chapter.verses;
             verses.forEach((verse: any) => {
-                text += `${verse.verse}. ${verse.text}`;
+                text.content += `${verse.verse}. ${verse.text}`;
             });
-            text += '\n';
+            text.content += '\n';
         });
     });
-    fs.writeFileSync(textPath, text);
+    fs.writeFileSync("newTestament.md", ntText.content);
+    fs.writeFileSync("oldTestament.md", otText.content);
+    fs.writeFileSync("deuteroCanonicals.md", dcText.content);
+    fs.writeFileSync("other.md", otherText.content);
+    fs.writeFileSync("bible.md", `
+        # Old Testament
+
+        ${otText.content}
+
+        # Deuterocanonical
+
+        ${dcText.content}
+
+        # New Testament
+
+        ${ntText.content}
+    `);
 }
 
 
