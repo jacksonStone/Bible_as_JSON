@@ -4928,7 +4928,7 @@ Your brother Israel says: You know all the travail that has happened to us;
 11. They traveled from Oboth, and encamped at Iyeabarim, in the wilderness which is before Moab, toward the sunrise.  
 12. From there they traveled, and encamped in the valley of Zered.  
 13. From there they traveled, and encamped on the other side of the Arnon, which is in the wilderness that comes out of the border of the Amorites; for the Arnon is the border of Moab, between Moab and the Amorites.  
-14. Therefore it is said in in Suphah, the valleys of the Arnon,  
+14. Therefore it is said in  The Book of the Wars of the LORDin Suphah, the valleys of the Arnon,  
 15. the slope of the valleys that incline toward the dwelling of Ar, leans on the border of Moab.”   
 16. From there they traveled to Beer; that is the well of which the LORD said to Moses, “Gather the people together, and I will give them water.”   
 17. Then Israel sang this song:  
@@ -17928,7 +17928,7 @@ and has not sworn deceitfully.
 5. He shall receive a blessing from the LORD,  
 righteousness from the God of his salvation.   
 6. This is the generation of those who seek Him,  
-who seek your face—even Jacob. 7. Lift up your heads, you gates!  
+who seek your face—even Jacob.  Selah.7. Lift up your heads, you gates!  
 Be lifted up, you everlasting doors,  
 and the King of glory will come in.   
 8. Who is the King of glory?  
@@ -17938,7 +17938,7 @@ the LORD mighty in battle.
 lift them up, you everlasting doors,  
 and the King of glory will come in.   
 10. Who is this King of glory?  
-The LORD of Armies is the King of glory! 
+The LORD of Armies is the King of glory!  Selah.
 ## Chapter 25
 1. To you, LORD, I lift up my soul.   
 2. My God, I have trusted in you.  
@@ -18207,14 +18207,14 @@ sin is covered.
 in whose spirit there is no deceit.   
 3. When I kept silence, my bones wasted away through my groaning all day long.   
 4. For day and night your hand was heavy on me.  
-My strength was sapped in the heat of summer. 5. I acknowledged my sin to you.  
+My strength was sapped in the heat of summer.  Selah.5. I acknowledged my sin to you.  
 I didn’t hide my iniquity.  
 I said, I will confess my transgressions to the LORD,  
-and you forgave the iniquity of my sin. 6. For this, let everyone who is godly pray to you in a time when you may be found.  
+and you forgave the iniquity of my sin.  Selah.6. For this, let everyone who is godly pray to you in a time when you may be found.  
 Surely when the great waters overflow, they shall not reach to him.   
 7. You are my hiding place.  
 will preserve me from trouble.  
-will surround me with songs of deliverance. 8. I will instruct you and teach you in the way which you shall go.  
+will surround me with songs of deliverance.  Selah.8. I will instruct you and teach you in the way which you shall go.  
 I will counsel you with my eye on you.   
 9. Don’t be like the horse, or like the mule, which have no understanding,  
 are controlled by bit and bridle, or else they will not come near to you.   
@@ -18946,7 +18946,7 @@ to the earth, that he may judge his people:
 5. “Gather my saints together to me,  
 those who have made a covenant with me by sacrifice.”   
 6. The heavens shall declare his righteousness,  
-for God himself is judge. 7. “Hear, my people, and I will speak.  
+for God himself is judge.  Selah.7. “Hear, my people, and I will speak.  
 Israel, I will testify against you.  
 I am God, your God.   
 8. I don’t rebuke you for your sacrifices.  
@@ -19037,7 +19037,7 @@ than speaking the truth.
 you deceitful tongue.   
 5. God will likewise destroy you forever.  
 He will take you up, and pluck you out of your tent,  
-and root you out of the land of the living. 6. The righteous also will see it, and fear,  
+and root you out of the land of the living.  Selah.6. The righteous also will see it, and fear,  
 and laugh at him, saying,   
 7. “Behold, this is the man who didn’t make God his strength,  
 but trusted in the abundance of his riches,  
@@ -19464,14 +19464,14 @@ glory and praise!
 the greatness of your power, your enemies submit themselves to you.   
 4. All the earth will worship you,  
 and will sing to you;  
-they will sing to your name.” 5. Come, and see God’s deeds—  
+they will sing to your name.”  Selah.5. Come, and see God’s deeds—  
 awesome work on behalf of the children of men.   
 6. He turned the sea into dry land.  
 They went through the river on foot.  
 There, we rejoiced in him.   
 7. He rules by his might forever.  
 His eyes watch the nations.  
-the rebellious rise up against him. 8. Praise our God, you peoples!  
+the rebellious rise up against him.  Selah.8. Praise our God, you peoples!  
 Make the sound of his praise heard,   
 9. who preserves our life among the living,  
 and doesn’t allow our feet to be moved.   
@@ -19488,7 +19488,7 @@ I will pay my vows to you,
 and my mouth spoke, when I was in distress.   
 15. I will offer to you burnt offerings of fat animals,  
 with the offering of rams,  
-I will offer bulls with goats. 16. Come and hear, all you who fear God.  
+I will offer bulls with goats.  Selah.16. Come and hear, all you who fear God.  
 I will declare what he has done for my soul.   
 17. I cried to him with my mouth.  
 He was extolled with my tongue.   
@@ -20288,7 +20288,7 @@ I will satisfy you with honey out of the rock.”
 1. God presides in the great assembly.  
 He judges among the gods.   
 2. “How long will you judge unjustly,  
-and show partiality to the wicked?” 3. “Defend the weak, the poor, and the fatherless.  
+and show partiality to the wicked?”  Selah.3. “Defend the weak, the poor, and the fatherless.  
 the rights of the poor and oppressed.   
 4. Rescue the weak and needy.  
 Deliver them out of the hand of the wicked.”   
@@ -20439,13 +20439,13 @@ because you, LORD, have helped me, and comforted me.
 ## Chapter 87
 1. His foundation is in the holy mountains.   
 2. The LORD loves the gates of Zion more than all the dwellings of Jacob.   
-3. Glorious things are spoken about you, city of God. 4. I will record Rahab and Babylon among those who acknowledge me.  
+3. Glorious things are spoken about you, city of God.  Selah.4. I will record Rahab and Babylon among those who acknowledge me.  
 Behold, Philistia, Tyre, and also Ethiopia:  
 This one was born there.”   
 5. Yes, of Zion it will be said, “This one and that one was born in her;”  
 the Most High himself will establish her.   
 6. The LORD will count, when he writes up the peoples,  
-This one was born there.” 7. Those who sing as well as those who dance say,  
+This one was born there.”  Selah.7. Those who sing as well as those who dance say,  
 All my springs are in you.”   
 
 ## Chapter 88
@@ -22684,7 +22684,7 @@ My heart within me is desolate.
 I meditate on all your doings.  
 I contemplate the work of your hands.   
 6. I spread out my hands to you.  
-My soul thirsts for you, like a parched land. 7. Hurry to answer me, LORD.  
+My soul thirsts for you, like a parched land.  Selah.7. Hurry to answer me, LORD.  
 My spirit fails.  
 hide your face from me,  
 so that I don’t become like those who go down into the pit.   
@@ -36573,7 +36573,7 @@ your work in the middle of the years.
 In the middle of the years make it known.  
 In wrath, you remember mercy.   
 3. God came from Teman,  
-the Holy One from Mount Paran. His glory covered the heavens,  
+the Holy One from Mount Paran.  Selah.His glory covered the heavens,  
 and his praise filled the earth.   
 4. His splendor is like the sunrise.  
 Rays shine from his hand, where his power is hidden.   
@@ -36592,7 +36592,7 @@ or your wrath against the sea,
 that you rode on your horses,  
 on your chariots of salvation?   
 9. You uncovered your bow.  
-your sworn arrows. split the earth with rivers.   
+your sworn arrows.  Selah.split the earth with rivers.   
 10. The mountains saw you, and were afraid.  
 The storm of waters passed by.  
 The deep roared and lifted up its hands on high.   
@@ -36604,7 +36604,7 @@ You threshed the nations in anger.
 13. You went out for the salvation of your people,  
 for the salvation of your anointed.  
 You crushed the head of the land of wickedness.  
-You stripped them head to foot. 14. You pierced the heads of his warriors with their own spears.  
+You stripped them head to foot.  Selah.14. You pierced the heads of his warriors with their own spears.  
 They came as a whirlwind to scatter me,  
 as if to devour the wretched in secret.   
 15. You trampled the sea with your horses,  

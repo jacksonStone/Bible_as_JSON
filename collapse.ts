@@ -8,8 +8,34 @@ function convertContentToArray(content: any) {
 }
 function verseToPlainText(verse: any) {
     return verse.verseObjects
-        .filter((verseObject: any) => { return verseObject.type === "word" || verseObject.type === "text" })
-        .map((verseObject: any) => { return verseObject.text })
+        .filter((verseObject: any) => { 
+            return verseObject.type === "word" 
+            || verseObject.type === "text" 
+            || verseObject.tag === "wj"
+            || verseObject.tag === "wj*"
+            || verseObject.tag === "+w*"
+            || verseObject.tag === "+w"
+            || verseObject.children
+        })
+        .map((verseObject: any) => { 
+            let verseText = '';
+            if(verseObject.endMarkerChar) {
+                verseText = verseObject.endMarkerChar;
+            }
+            if(verseObject.content) {
+                verseText += verseObject.content.split('|')[0];
+            } else if(verseObject.text) {
+                verseText += verseObject.text;
+            } else if(verseObject.word) {
+                verseText += verseObject.word;
+            } else if(verseObject.nextChar) {
+                verseText += verseObject.nextChar;
+            }
+            if(verseObject.children) {
+                verseText += verseToPlainText({verseObjects: verseObject.children});
+            }
+            return verseText;
+        })
         .join('');
 }
 function chapterVersesToPlainText(bookName: string, chapter: any, index: number) {
