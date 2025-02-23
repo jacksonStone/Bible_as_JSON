@@ -8,31 +8,31 @@ function convertContentToArray(content: any) {
 }
 function verseToPlainText(verse: any) {
     return verse.verseObjects
-        .filter((verseObject: any) => { 
-            return verseObject.type === "word" 
-            || verseObject.type === "text" 
-            || verseObject.tag === "wj"
-            || verseObject.tag === "wj*"
-            || verseObject.tag === "+w*"
-            || verseObject.tag === "+w"
-            || verseObject.children
+        .filter((verseObject: any) => {
+            return verseObject.type === "word"
+                || verseObject.type === "text"
+                || verseObject.tag === "wj"
+                || verseObject.tag === "wj*"
+                || verseObject.tag === "+w*"
+                || verseObject.tag === "+w"
+                || verseObject.children
         })
-        .map((verseObject: any) => { 
+        .map((verseObject: any) => {
             let verseText = '';
-            if(verseObject.endMarkerChar) {
+            if (verseObject.endMarkerChar) {
                 verseText = verseObject.endMarkerChar;
             }
-            if(verseObject.content) {
+            if (verseObject.content) {
                 verseText += verseObject.content.split('|')[0];
-            } else if(verseObject.text) {
+            } else if (verseObject.text) {
                 verseText += verseObject.text;
-            } else if(verseObject.word) {
+            } else if (verseObject.word) {
                 verseText += verseObject.word;
-            } else if(verseObject.nextChar) {
+            } else if (verseObject.nextChar) {
                 verseText += verseObject.nextChar;
             }
-            if(verseObject.children) {
-                verseText += verseToPlainText({verseObjects: verseObject.children});
+            if (verseObject.children) {
+                verseText += verseToPlainText({ verseObjects: verseObject.children });
             }
             return verseText;
         })
@@ -64,14 +64,14 @@ function collapse() {
     fs.writeFileSync(outputPath, JSON.stringify(betterFormat, null, 2));
 
     // Also produce a version that is just the text of the bible
-    let ntText = {content: '', category: 'NT'};
-    let otText = {content: '', category: 'OT'};
-    let dcText = {content: '', category: 'DC'};
-    let otherText = {content: '', category: 'Other'};
+    let ntText = { content: '', category: 'NT' };
+    let otText = { content: '', category: 'OT' };
+    let dcText = { content: '', category: 'DC' };
+    let otherText = { content: '', category: 'Other' };
     betterFormat.forEach((book: any, index: number) => {
         let bookName = book.book;
         let category = book.category;
-        let text = {content: '', category: category};
+        let text = { content: '', category: category };
         console.log(bookName, index, category);
 
         if (category === 'OT') {
@@ -116,6 +116,68 @@ function collapse() {
         ${ntText.content}
     `);
 }
+// Keeps token count low enough to use with a 1mil context limit model.
+function collapseLLMOptimized() {
+
+    const usfmPath = './artifacts/combined.json';
+    const bibleJson = JSON.parse(fs.readFileSync(usfmPath, 'utf8'));
+    let betterFormat: any[] = [];
+    bibleJson.forEach((book: any) => {
+        let bookName = book.book;
+        let bookChapters = convertContentToArray(book.content.chapters).map((chapter: any, index: number) => {
+            return {
+                chapter: index + 1,
+                book: bookName,
+                verses: chapterVersesToPlainText(bookName, chapter, index)
+            }
+        });
+        console.log(bookName, book.category);
+        betterFormat.push({ book: bookName, chapters: bookChapters, category: book.category });
+    });
+    let outputPath = './bible.json';
+    fs.writeFileSync(outputPath, JSON.stringify(betterFormat, null, 2));
+
+    // Also produce a version that is just the text of the bible
+    let ntText = { content: '', category: 'NT' };
+    let otText = { content: '', category: 'OT' };
+    betterFormat.forEach((book: any, index: number) => {
+        let bookName = book.book;
+        let category = book.category;
+        let text = { content: '', category: category };
+        console.log(bookName, index, category);
+        if (category === 'OT') {
+            text = otText;
+        } else if (category === 'NT') {
+            text = ntText;
+        } else {
+            return;
+        }
+        text.content += `\n# ${bookName}\n`;
+        if (!book.chapters) {
+            console.log(bookName, index);
+            return;
+        }
+        book.chapters.forEach((chapter: any, index: number) => {
+            let chapterNumber = index + 1;
+            text.content += `## ${chapterNumber}\n`;
+            let verses = chapter.verses;
+            verses.forEach((verse: any) => {
+                text.content += `${verse.text}`;
+            });
+            text.content += '\n';
+        });
+    });
+    fs.writeFileSync("bible_no_dc_or_verse_numbers_llm_optimized.md", `
+        # Old Testament
+
+        ${otText.content}
+
+        # New Testament
+
+        ${ntText.content}
+    `);
+}
 
 
 collapse();
+collapseLLMOptimized();
